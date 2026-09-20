@@ -1,1 +1,144 @@
-questions.push({"id":21,"cat":"evil","tag":"Problem of Evil","title":"If God is good and powerful, why is there so much evil and suffering?","teaser":"Suffering can be an argument against God, but it can also be a cry of pain. Christians should know the difference.","lesson":{"heading":"Start by hearing the question behind the question","body":"When someone asks, “Why would God allow this?” they may be asking a philosophical question, or they may simply be hurting. Those are not the same conversation. At a funeral or hospital bed, a quick argument can sound cold even if the argument is true.\n\nAs an argument, the problem of evil comes in two main forms. The first says God and evil cannot both exist. But that only works if a good and powerful God could never have a good reason for allowing any suffering. If God could have such reasons, the strict contradiction disappears.\n\nThe harder question is why there is so much suffering, including suffering that looks pointless to us. Christians can point to real human freedom, a stable world with regular cause and effect, the possibility of courage and compassion, and the simple fact that our view is limited. None of those lets us explain every tragedy.\n\nChristianity also gives a larger answer. It says evil is truly evil, the world is not as it should be, God entered suffering in Christ, death was defeated in the resurrection, evil will be judged, and suffering will not have the last word.","facts":["The logical problem asks whether God and evil can exist together at all.","The evidential problem asks whether the amount and kinds of suffering make God less likely.","Free will helps explain some human wrongdoing, but it does not explain every disease, disaster, or tragedy.","Not knowing why God allowed one event is different from proving that no good reason could exist.","Christianity does not call evil good. It promises judgment, resurrection, and final restoration."],"further":[["Stanford Encyclopedia of Philosophy | The Problem of Evil","https://plato.stanford.edu/entries/evil/"],["Internet Encyclopedia of Philosophy | Logical Problem of Evil","https://iep.utm.edu/evil-log/"],["Romans 8:18–25","https://www.biblegateway.com/passage/?search=Romans%208%3A18-25&version=ESV"],["Revelation 21:1–5","https://www.biblegateway.com/passage/?search=Revelation%2021%3A1-5&version=ESV"]]},"why":"The problem of evil is one of the deepest objections to belief in God. It deserves a real answer, but hurting people also deserve compassion rather than a debate speech.","core":["Evil is not a simple logical disproof of God unless we already know that God could have no good reason for allowing it.","The amount and severity of suffering still raise a serious question, and Christians should not pretend every case has an easy explanation.","Calling something truly evil also assumes that good and evil are more than personal taste. That connects this objection back to the moral argument, even though it does not make the suffering itself less painful.","Christianity’s final answer is larger than a defense: God enters suffering in Christ, defeats death, judges evil, and promises to restore what is broken."],"pressure":[["“If God is good and all-powerful, suffering should not exist.”","That would follow only if a good God could never have a good reason to allow suffering for a time. We may not know God’s reason in a particular case, but our not seeing one is not the same as proving there could be none."],["“Free will does not explain cancer, earthquakes, or children suffering.”","Agreed. Free will mainly helps with evil caused by people. Natural suffering is a different question. Christians also point to a stable world with regular natural processes, our limited knowledge, and the biblical teaching that creation itself is broken and awaiting restoration. None of that gives us permission to guess why one person suffered."],["“Saying God has reasons we cannot see is just an escape.”","It could become an escape if that were the only thing Christians ever said. But limited human knowledge is still relevant. We often know that a person may have reasons we cannot see. The question is whether the positive case for God gives us reason to trust that God can have good purposes even when we do not know them."],["“The existence of terrible evil is evidence against God.”","It can be presented that way, and it should be taken seriously. But it has to be weighed with the positive evidence for God already covered in the course. Christianity also has to explain why we recognize some things as really evil, not merely unpleasant or unpopular."],["“Why would a loving God not stop every evil act?”","Stopping every harmful choice immediately would mean a very different kind of world and a very different kind of human freedom. Christianity says God permits evil for a time, limits it, can bring good through it, and will finally judge it. That is not the same as saying evil itself is good."]],"limits":"Do not tell a grieving person that you know exactly why God allowed their tragedy. In personal suffering, listening, prayer, presence, and practical help may come before philosophical argument.","practice":"A friend who has just suffered a terrible loss says, “If God loved us, why would he let this happen?” What should you say first?","model":"I would not start with a list of reasons. I would listen and say something like, “I do not know why God allowed this particular thing, and I am not going to pretend I do.” If they want to keep talking, I can explain that Christianity does not call suffering good. It says God entered our suffering in Christ, death will be defeated, evil will be judged, and this broken world is not the end of the story.","sources":[["Stanford Encyclopedia of Philosophy | The Problem of Evil","https://plato.stanford.edu/entries/evil/"],["Internet Encyclopedia of Philosophy | Logical Problem of Evil","https://iep.utm.edu/evil-log/"],["Bible reference | Romans 8:18–25","https://www.biblegateway.com/passage/?search=Romans%208%3A18-25&version=ESV"],["Bible reference | Revelation 21:1–5","https://www.biblegateway.com/passage/?search=Revelation%2021%3A1-5&version=ESV"]],"evidence":{"claim":"The existence of suffering raises a serious challenge, but it is not a simple logical contradiction of a good and powerful God.","establishes":"Philosophers distinguish between the claim that God and evil are logically incompatible and the broader claim that the amount of suffering counts as evidence against God. The first requires showing that God could have no good reason for allowing suffering. The second remains a real debate and must be weighed with the rest of the case for and against God.","caution":"A philosophical answer does not tell us why God allowed a particular tragedy. The Christian claims about the fall, the cross, resurrection, judgment, and restoration are theological claims that give the suffering question a larger setting.","resources":[{"type":"Scholarship","title":"Stanford Encyclopedia of Philosophy | The Problem of Evil","why":"Explains the logical and evidential forms of the problem and the major responses.","url":"https://plato.stanford.edu/entries/evil/"},{"type":"Scholarship","title":"Internet Encyclopedia of Philosophy | Logical Problem of Evil","why":"A readable overview of the alleged contradiction between God and evil.","url":"https://iep.utm.edu/evil-log/"},{"type":"Primary Christian source","title":"Romans 8:18–25","why":"Describes creation as groaning now while waiting for future restoration.","url":"https://www.biblegateway.com/passage/?search=Romans%208%3A18-25&version=ESV"},{"type":"Primary Christian source","title":"Revelation 21:1–5","why":"Describes the Christian hope of the end of death, mourning, and pain.","url":"https://www.biblegateway.com/passage/?search=Revelation%2021%3A1-5&version=ESV"}]},"thoughts":["What is the difference between saying God and evil cannot coexist and saying suffering makes God less likely?","Why does free will explain only part of the problem?","Why is “I cannot see a reason” weaker than “there can be no reason”?","How should your response change when the person asking is grieving rather than debating?"],"terms":[["Logical problem of evil","The claim that God and evil cannot both exist."],["Evidential problem of evil","The claim that the amount or kinds of suffering count as evidence against God."],["Moral evil","Evil caused by human choices, such as murder, abuse, or cruelty."],["Natural suffering","Suffering from things such as disease, disasters, and other natural events."]],"conclusion":"Remember this: evil is a serious question, not a simple disproof of God. Christianity says evil is real, God entered our suffering, death was defeated, and evil will not have the final word.","thread":"The core course has now reached Scripture. This bonus study asks whether the reality of suffering overturns the earlier case for a good and powerful God, and how Christians should answer without losing sight of the person who is hurting.","bigIdea":"Suffering is both an argument to think through and a wound to care for. Christianity answers it with reasons, but ultimately with the cross, resurrection, judgment, and restoration."});
+questions.push({
+  "id": 21,
+  "cat": "evil",
+  "tag": "Problem of Evil",
+  "title": "If God is good and powerful, why is there so much evil and suffering?",
+  "teaser": "Suffering can be an argument against God, but it can also be a cry of pain. Christians should know the difference.",
+  "lesson": {
+    "heading": "Start by hearing the question behind the question",
+    "body": "When someone asks, “Why would God allow this?” they may be asking a philosophical question, or they may simply be hurting. Those are not the same conversation. At a funeral or hospital bed, a quick argument can sound cold even if the argument is true.\n\nAs an argument, the problem of evil comes in two main forms. The first says God and evil cannot both exist. But that only works if a good and powerful God could never have a good reason for allowing any suffering. If God could have such reasons, the strict contradiction disappears.\n\nThe harder question is why there is so much suffering, including suffering that looks pointless to us. Christians can point to real human freedom, a stable world with regular cause and effect, the possibility of courage and compassion, and the simple fact that our view is limited. None of those lets us explain every tragedy.\n\nChristianity also gives a larger answer. It says evil is truly evil, the world is not as it should be, God entered suffering in Christ, death was defeated in the resurrection, evil will be judged, and suffering will not have the last word.",
+    "facts": [
+      "The logical problem asks whether God and evil can exist together at all.",
+      "The evidential problem asks whether the amount and kinds of suffering make God less likely.",
+      "Free will helps explain some human wrongdoing, but it does not explain every disease, disaster, or tragedy.",
+      "Not knowing why God allowed one event is different from proving that no good reason could exist.",
+      "Christianity does not call evil good. It promises judgment, resurrection, and final restoration."
+    ],
+    "further": [
+      [
+        "Stanford Encyclopedia of Philosophy | The Problem of Evil",
+        "https://plato.stanford.edu/entries/evil/"
+      ],
+      [
+        "Internet Encyclopedia of Philosophy | Logical Problem of Evil",
+        "https://iep.utm.edu/evil-log/"
+      ],
+      [
+        "Romans 8:18–25",
+        "https://www.biblegateway.com/passage/?search=Romans%208%3A18-25&version=ESV"
+      ],
+      [
+        "Revelation 21:1–5",
+        "https://www.biblegateway.com/passage/?search=Revelation%2021%3A1-5&version=ESV"
+      ]
+    ]
+  },
+  "why": "The problem of evil is one of the deepest objections to belief in God. It deserves a real answer, but hurting people also deserve compassion rather than a debate speech.",
+  "core": [
+    "Evil is not a simple logical disproof of God unless we already know that God could have no good reason for allowing it.",
+    "The amount and severity of suffering still raise a serious question, and Christians should not pretend every case has an easy explanation.",
+    "Calling something truly evil also assumes that good and evil are more than personal taste. That connects this objection back to the moral argument, even though it does not make the suffering itself less painful.",
+    "Christianity’s final answer is larger than a defense: God enters suffering in Christ, defeats death, judges evil, and promises to restore what is broken."
+  ],
+  "pressure": [
+    [
+      "“If God is good and all-powerful, suffering should not exist.”",
+      "That would follow only if a good God could never have a good reason to allow suffering for a time. We may not know God’s reason in a particular case, but our not seeing one is not the same as proving there could be none."
+    ],
+    [
+      "“Free will does not explain cancer, earthquakes, or children suffering.”",
+      "Agreed. Free will mainly helps with evil caused by people. Natural suffering is a different question. Christians also point to a stable world with regular natural processes, our limited knowledge, and the biblical teaching that creation itself is broken and awaiting restoration. None of that gives us permission to guess why one person suffered."
+    ],
+    [
+      "“Saying God has reasons we cannot see is just an escape.”",
+      "It could become an escape if that were the only thing Christians ever said. But limited human knowledge is still relevant. We often know that a person may have reasons we cannot see. The question is whether the positive case for God gives us reason to trust that God can have good purposes even when we do not know them."
+    ],
+    [
+      "“The existence of terrible evil is evidence against God.”",
+      "It can be presented that way, and it should be taken seriously. But it has to be weighed with the positive evidence for God already covered in the course. Christianity also has to explain why we recognize some things as really evil, not merely unpleasant or unpopular."
+    ],
+    [
+      "“Why would a loving God not stop every evil act?”",
+      "Stopping every harmful choice immediately would mean a very different kind of world and a very different kind of human freedom. Christianity says God permits evil for a time, limits it, can bring good through it, and will finally judge it. That is not the same as saying evil itself is good."
+    ]
+  ],
+  "limits": "Do not tell a grieving person that you know exactly why God allowed their tragedy. In personal suffering, listening, prayer, presence, and practical help may come before philosophical argument.",
+  "practice": "A friend who has just suffered a terrible loss says, “If God loved us, why would he let this happen?” What should you say first?",
+  "model": "I would not start with a list of reasons. I would listen and say something like, “I do not know why God allowed this particular thing, and I am not going to pretend I do.” If they want to keep talking, I can explain that Christianity does not call suffering good. It says God entered our suffering in Christ, death will be defeated, evil will be judged, and this broken world is not the end of the story.",
+  "sources": [
+    [
+      "Stanford Encyclopedia of Philosophy | The Problem of Evil",
+      "https://plato.stanford.edu/entries/evil/"
+    ],
+    [
+      "Internet Encyclopedia of Philosophy | Logical Problem of Evil",
+      "https://iep.utm.edu/evil-log/"
+    ],
+    [
+      "Bible reference | Romans 8:18–25",
+      "https://www.biblegateway.com/passage/?search=Romans%208%3A18-25&version=ESV"
+    ],
+    [
+      "Bible reference | Revelation 21:1–5",
+      "https://www.biblegateway.com/passage/?search=Revelation%2021%3A1-5&version=ESV"
+    ]
+  ],
+  "evidence": {
+    "claim": "The existence of suffering raises a serious challenge, but it is not a simple logical contradiction of a good and powerful God.",
+    "establishes": "Philosophers distinguish between the claim that God and evil are logically incompatible and the broader claim that the amount of suffering counts as evidence against God. The first requires showing that God could have no good reason for allowing suffering. The second remains a real debate and must be weighed with the rest of the case for and against God.",
+    "caution": "A philosophical answer does not tell us why God allowed a particular tragedy. The Christian claims about the fall, the cross, resurrection, judgment, and restoration are theological claims that give the suffering question a larger setting.",
+    "resources": [
+      {
+        "type": "Scholarship",
+        "title": "Stanford Encyclopedia of Philosophy | The Problem of Evil",
+        "why": "Explains the logical and evidential forms of the problem and the major responses.",
+        "url": "https://plato.stanford.edu/entries/evil/"
+      },
+      {
+        "type": "Scholarship",
+        "title": "Internet Encyclopedia of Philosophy | Logical Problem of Evil",
+        "why": "A readable overview of the alleged contradiction between God and evil.",
+        "url": "https://iep.utm.edu/evil-log/"
+      },
+      {
+        "type": "Primary Christian source",
+        "title": "Romans 8:18–25",
+        "why": "Describes creation as groaning now while waiting for future restoration.",
+        "url": "https://www.biblegateway.com/passage/?search=Romans%208%3A18-25&version=ESV"
+      },
+      {
+        "type": "Primary Christian source",
+        "title": "Revelation 21:1–5",
+        "why": "Describes the Christian hope of the end of death, mourning, and pain.",
+        "url": "https://www.biblegateway.com/passage/?search=Revelation%2021%3A1-5&version=ESV"
+      }
+    ]
+  },
+  "thoughts": [
+    "What is the difference between saying God and evil cannot coexist and saying suffering makes God less likely?",
+    "Why does free will explain only part of the problem?",
+    "Why is “I cannot see a reason” weaker than “there can be no reason”?",
+    "How should your response change when the person asking is grieving rather than debating?"
+  ],
+  "terms": [
+    [
+      "Logical problem of evil",
+      "The claim that God and evil cannot both exist."
+    ],
+    [
+      "Evidential problem of evil",
+      "The claim that the amount or kinds of suffering count as evidence against God."
+    ],
+    [
+      "Moral evil",
+      "Evil caused by human choices, such as murder, abuse, or cruelty."
+    ],
+    [
+      "Natural suffering",
+      "Suffering from things such as disease, disasters, and other natural events."
+    ]
+  ],
+  "conclusion": "Remember this: evil is a serious question, not a simple disproof of God. Christianity says evil is real, God entered our suffering, death was defeated, and evil will not have the final word.",
+  "thread": "The main course built a positive case for God and the resurrection. This bonus study asks whether the reality of suffering overturns that case, and how a Christian should answer without losing sight of the person who is hurting.",
+  "bigIdea": "Suffering is both an argument to think through and a wound to care for. Christianity answers it with reasons, but ultimately with the cross, resurrection, judgment, and restoration."
+});
