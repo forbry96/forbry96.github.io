@@ -28,11 +28,17 @@ function openQuestion(id){
   if(q.synthesis) html += `<div class="synthesis-block"><div class="lesson-kicker">PUT IT TOGETHER</div><h3>${esc(q.synthesis.title)}</h3><p>${esc(q.synthesis.body)}</p>${q.synthesis.points?.length?`<ul>${q.synthesis.points.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`:''}</div>`;
   html += `</div></section>`;
 
-  html += `<section class="learning-phase practice-phase"><div class="phase-badge">3</div><div class="phase-content"><span class="lesson-kicker">PRACTICE</span><h3>Use the idea in a real conversation</h3><div class="practice-box embedded-practice"><p><strong>${esc(q.practice)}</strong></p><textarea id="practiceInput" placeholder="Write your answer before checking the model..."></textarea><button class="button light practice-btn" id="revealModel">Show one model response</button><div id="modelHolder"></div></div></div></section>`;
+  const checks = [
+    {question:"What is this lesson actually claiming?", answer:bigIdea},
+    ...(q.limits ? [{question:"What is one thing this lesson does not prove?", answer:q.limits}] : []),
+    ...(q.pressure?.length ? [{question:`How would you answer this objection: ${q.pressure[0][0]}`, answer:q.pressure[0][1]}] : [])
+  ].slice(0,3);
 
-  if(q.thoughts?.length){
-    html += `<section class="comprehension-block"><span class="lesson-kicker">COMPREHENSION CHECK</span><h3>Can you explain it without looking back?</h3><p class="retrieval-note">Answer these in your own words. The goal is recall and understanding, not memorizing the wording.</p><ol>${q.thoughts.map(x=>`<li>${esc(x)}</li>`).join('')}</ol></section>`;
+  if(checks.length){
+    html += `<section class="comprehension-block active-check-block"><span class="lesson-kicker">QUICK COMPREHENSION CHECK</span><h3>Try it before you keep going.</h3><p class="retrieval-note">Answer from memory first. Then reveal a short answer and compare it with your own words.</p><div class="active-check-list">${checks.map((item,i)=>`<article class="active-check-item"><strong>${i+1}. ${esc(item.question)}</strong><textarea data-check-input="${i}" placeholder="Answer in your own words..."></textarea><button class="button light" type="button" data-check-reveal="${i}">Reveal answer</button><div class="check-answer" id="checkAnswer-${i}" hidden><span class="lesson-kicker">ONE GOOD ANSWER</span><p>${esc(item.answer)}</p></div></article>`).join('')}</div></section>`;
   }
+
+  html += `<section class="learning-phase practice-phase"><div class="phase-badge">3</div><div class="phase-content"><span class="lesson-kicker">PRACTICE</span><h3>Use the idea in a real conversation</h3><div class="practice-box embedded-practice"><p><strong>${esc(q.practice)}</strong></p><textarea id="practiceInput" placeholder="Write your answer before checking the model..."></textarea><button class="button light practice-btn" id="revealModel">Show one model response</button><div id="modelHolder"></div></div></div></section>`;
 
   html += `<details class="challenges-details"><summary><div><span class="lesson-kicker">COMMON OBJECTIONS</span><strong>Open the main challenges and responses</strong></div><span class="details-mark" aria-hidden="true">+</span></summary><div class="challenges-body">${q.pressure.map(x=>`<div class="pressure"><strong>${esc(x[0])}</strong><span>${esc(x[1])}</span></div>`).join('')}</div></details>`;
   if(q.limits) html += `<div class="limitations-note"><span>ONE LIMIT TO REMEMBER</span><p>${esc(q.limits)}</p></div>`;
@@ -49,6 +55,16 @@ function openQuestion(id){
   const next = currentIndex<ordered.length-1 ? ordered[currentIndex+1] : null;
   html += `<div class="next-links"><span class="question-tag next-label">Keep going</span>${previous?`<button data-open-next="${previous.id}">← Previous: ${esc(previous.title)}</button>`:''}${next?`<button data-open-next="${next.id}">Next: ${esc(next.title)} →</button>`:''}</div>`;
   showModal(html);
+  document.querySelectorAll('[data-check-reveal]').forEach(button=>{
+    button.onclick=()=>{
+      const i=button.dataset.checkReveal;
+      const holder=document.querySelector(`#checkAnswer-${i}`);
+      if(!holder) return;
+      holder.hidden=false;
+      button.textContent='Answer revealed';
+      button.disabled=true;
+    };
+  });
   document.querySelector('#revealModel').onclick = () => {
     const answer = document.querySelector('#practiceInput').value.trim();
     if(answer) markPracticed(q.id);
