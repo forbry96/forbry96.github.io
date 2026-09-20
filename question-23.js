@@ -1,1 +1,135 @@
-questions.push({"id":23,"cat":"practice","tag":"Conversation","title":"Where should I begin in a real apologetics conversation?","teaser":"You do not need a speech. Listen well, find the real question, and answer one thing at a time.","lesson":{"heading":"Talk with the person, not at them","body":"You can know every argument in this course and still have a bad conversation if you answer a question the other person was not asking. Good apologetics begins by listening.\n\nA simple rhythm is enough: listen, clarify, ask why, find the first real disagreement, answer one point, and then let the other person respond. You are not trying to unload everything you know. You are trying to understand what stands between this person and the truth.\n\nThe course gives you a map. If the question is whether God exists, go back to the arguments in Step 1. If the objection is that miracles are impossible, use Study 10. If the question is about Jesus or the resurrection, use Step 2. If the issue is suffering or origins, use the bonus studies.\n\nAnd if you do not know, say so. “I am not sure, but I want to look into that” is a better answer than bluffing. The goal is faithful, truthful witness, not winning every exchange.","facts":["Listening first helps you answer the real objection instead of the one you expected to hear.","A good question can reveal what a person means and what reasons they are relying on.","One clear answer is usually easier to discuss than five arguments at once.","Saying “I do not know” can build trust when it is honest.","Christian apologetics should be joined with gentleness and respect, not treated as a contest."],"further":[["1 Peter 3:15–16","https://www.biblegateway.com/passage/?search=1%20Peter%203%3A15-16&version=ESV"],["Acts 17","https://www.biblegateway.com/passage/?search=Acts%2017&version=ESV"],["Oxford Centre for Christian Apologetics | Resources","https://theocca.org/resources/"]]},"why":"Apologetics is meant to be used with real people. The aim is not to perform arguments but to understand the question, give a truthful answer, and point clearly to Christ.","core":["Listen before answering. Make sure you understand what the person actually means.","Ask one or two simple questions: “What do you mean?” and “What makes you think that?”","Find the first important disagreement. Do not chase every side issue at once.","Give one clear answer, then stop and let the other person respond.","If you do not know, say so and check it later. Accuracy matters more than looking impressive."],"pressure":[["“Shouldn’t I give them all the evidence while I have the chance?”","Usually no. Too much at once can sound like a speech and makes it hard to know what the person actually disagrees with. Give the best answer to the question in front of you, then see where the conversation goes."],["“What if they keep changing the subject?”","Bring the conversation back gently: “That is another good question. Can we finish this one first?” You do not have to answer five objections at once."],["“What if I do not know the answer?”","Say so. You can say, “I have not looked into that enough to answer well.” Then check it. Bluffing can damage trust far more than admitting a limit."],["“What if the person is hostile?”","Stay calm and decide whether a real conversation is still possible. Gentleness does not mean letting someone abuse you, and apologetics does not require endless argument."],["“Which argument should I use first?”","Start where their actual objection is. If they doubt God, use Step 1. If they reject miracles, use Study 10. If they ask about Jesus, use Step 2. If they bring up evil or evolution, use the relevant bonus study."],["“How do I know when to stop?”","If the conversation is repeating, turning hostile, or the person is no longer listening, it is fine to end graciously. You can leave a question to think about and keep the relationship open."]],"limits":"No conversation method guarantees persuasion. People are not projects. Your job is to speak truthfully, listen carefully, and treat the other person with dignity.","practice":"Someone says, “Christianity is obviously false because science has disproved God.” What is a good first response?","model":"I would not begin with a science lecture. I would ask, “What scientific finding do you think disproves God?” Then I would listen. If they give an example, I can ask, “How does that finding lead to the conclusion that God does not exist?” Now I know what argument I actually need to answer. Then I can respond to one point instead of guessing at ten different objections.","sources":[["Bible reference | 1 Peter 3:15–16","https://www.biblegateway.com/passage/?search=1%20Peter%203%3A15-16&version=ESV"],["Bible reference | Acts 17","https://www.biblegateway.com/passage/?search=Acts%2017&version=ESV"],["OCCA | Foundational Apologetics","https://theocca.org/foundational-apologetics/"]],"evidence":{"claim":"Clear apologetics conversations usually begin by understanding what the other person means and why they believe it, then answering the first real point of disagreement.","establishes":"Christian apologetics training commonly emphasizes listening, questions, clarity, and gentleness. The pattern in this lesson is a simple conversation guide built from those ordinary skills rather than a branded script.","caution":"This is a practical tool, not a formula. Some people need evidence, some need time, some are mainly hurting, and some are not interested in a real conversation.","resources":[{"type":"Primary Christian source","title":"1 Peter 3:15–16","why":"Joins giving reasons for Christian hope with gentleness, respect, and good conduct.","url":"https://www.biblegateway.com/passage/?search=1%20Peter%203%3A15-16&version=ESV"},{"type":"Primary Christian source","title":"Acts 17","why":"Shows Paul reasoning with people from their own setting while still clearly proclaiming God and the resurrection.","url":"https://www.biblegateway.com/passage/?search=Acts%2017&version=ESV"},{"type":"Training resource","title":"OCCA | Foundational Apologetics","why":"Beginner-oriented training for answering difficult questions in real conversations.","url":"https://theocca.org/foundational-apologetics/"}]},"thoughts":["Why is “What do you mean?” often a better first response than an argument?","What should you do when several objections are raised at once?","Why can admitting “I do not know” strengthen rather than weaken a conversation?","How can the course map help you decide which argument to use?"],"terms":[["Clarifying question","A question that checks what someone means before you answer."],["Point of disagreement","The first important claim where your reasoning and the other person’s reasoning separate."],["Burden of proof","The responsibility to give reasons for a claim."],["Apologetics","Giving reasons for Christian hope and answering objections."]],"conclusion":"Remember this: listen, ask what they mean and why they believe it, answer one real issue, and keep the conversation human. You do not have to say everything at once.","thread":"The core course has built the argument in order. This workshop now practices finding the real point of disagreement and entering the case at the right place.","bigIdea":"Good apologetics starts with understanding the person and the real disagreement before choosing an argument."});
+questions.push({
+  "id": 23,
+  "cat": "practice",
+  "tag": "Conversation",
+  "title": "Where should I begin in a real apologetics conversation?",
+  "teaser": "You do not need a speech. Listen well, find the real question, and answer one thing at a time.",
+  "lesson": {
+    "heading": "Talk with the person, not at them",
+    "body": "You can know every argument in this course and still have a bad conversation if you answer a question the other person was not asking. Good apologetics begins by listening.\n\nA simple rhythm is enough: listen, clarify, ask why, find the first real disagreement, answer one point, and then let the other person respond. You are not trying to unload everything you know. You are trying to understand what stands between this person and the truth.\n\nThe course gives you a map. If the question is whether God exists, go back to the arguments in Step 1. If the objection is that miracles are impossible, use Study 10. If the question is about Jesus or the resurrection, use Step 2. If the issue is suffering or origins, use the bonus studies.\n\nAnd if you do not know, say so. “I am not sure, but I want to look into that” is a better answer than bluffing. The goal is faithful, truthful witness, not winning every exchange.",
+    "facts": [
+      "Listening first helps you answer the real objection instead of the one you expected to hear.",
+      "A good question can reveal what a person means and what reasons they are relying on.",
+      "One clear answer is usually easier to discuss than five arguments at once.",
+      "Saying “I do not know” can build trust when it is honest.",
+      "Christian apologetics should be joined with gentleness and respect, not treated as a contest."
+    ],
+    "further": [
+      [
+        "1 Peter 3:15–16",
+        "https://www.biblegateway.com/passage/?search=1%20Peter%203%3A15-16&version=ESV"
+      ],
+      [
+        "Acts 17",
+        "https://www.biblegateway.com/passage/?search=Acts%2017&version=ESV"
+      ],
+      [
+        "Oxford Centre for Christian Apologetics | Resources",
+        "https://theocca.org/resources/"
+      ]
+    ]
+  },
+  "why": "Apologetics is meant to be used with real people. The aim is not to perform arguments but to understand the question, give a truthful answer, and point clearly to Christ.",
+  "core": [
+    "Listen before answering. Make sure you understand what the person actually means.",
+    "Ask one or two simple questions: “What do you mean?” and “What makes you think that?”",
+    "Find the first important disagreement. Do not chase every side issue at once.",
+    "Give one clear answer, then stop and let the other person respond.",
+    "If you do not know, say so and check it later. Accuracy matters more than looking impressive."
+  ],
+  "pressure": [
+    [
+      "“Shouldn’t I give them all the evidence while I have the chance?”",
+      "Usually no. Too much at once can sound like a speech and makes it hard to know what the person actually disagrees with. Give the best answer to the question in front of you, then see where the conversation goes."
+    ],
+    [
+      "“What if they keep changing the subject?”",
+      "Bring the conversation back gently: “That is another good question. Can we finish this one first?” You do not have to answer five objections at once."
+    ],
+    [
+      "“What if I do not know the answer?”",
+      "Say so. You can say, “I have not looked into that enough to answer well.” Then check it. Bluffing can damage trust far more than admitting a limit."
+    ],
+    [
+      "“What if the person is hostile?”",
+      "Stay calm and decide whether a real conversation is still possible. Gentleness does not mean letting someone abuse you, and apologetics does not require endless argument."
+    ],
+    [
+      "“Which argument should I use first?”",
+      "Start where their actual objection is. If they doubt God, use Step 1. If they reject miracles, use Study 10. If they ask about Jesus, use Step 2. If they bring up evil or evolution, use the relevant bonus study."
+    ],
+    [
+      "“How do I know when to stop?”",
+      "If the conversation is repeating, turning hostile, or the person is no longer listening, it is fine to end graciously. You can leave a question to think about and keep the relationship open."
+    ]
+  ],
+  "limits": "No conversation method guarantees persuasion. People are not projects. Your job is to speak truthfully, listen carefully, and treat the other person with dignity.",
+  "practice": "Someone says, “Christianity is obviously false because science has disproved God.” What is a good first response?",
+  "model": "I would not begin with a science lecture. I would ask, “What scientific finding do you think disproves God?” Then I would listen. If they give an example, I can ask, “How does that finding lead to the conclusion that God does not exist?” Now I know what argument I actually need to answer. Then I can respond to one point instead of guessing at ten different objections.",
+  "sources": [
+    [
+      "Bible reference | 1 Peter 3:15–16",
+      "https://www.biblegateway.com/passage/?search=1%20Peter%203%3A15-16&version=ESV"
+    ],
+    [
+      "Bible reference | Acts 17",
+      "https://www.biblegateway.com/passage/?search=Acts%2017&version=ESV"
+    ],
+    [
+      "OCCA | Foundational Apologetics",
+      "https://theocca.org/foundational-apologetics/"
+    ]
+  ],
+  "evidence": {
+    "claim": "Clear apologetics conversations usually begin by understanding what the other person means and why they believe it, then answering the first real point of disagreement.",
+    "establishes": "Christian apologetics training commonly emphasizes listening, questions, clarity, and gentleness. The pattern in this lesson is a simple conversation guide built from those ordinary skills rather than a branded script.",
+    "caution": "This is a practical tool, not a formula. Some people need evidence, some need time, some are mainly hurting, and some are not interested in a real conversation.",
+    "resources": [
+      {
+        "type": "Primary Christian source",
+        "title": "1 Peter 3:15–16",
+        "why": "Joins giving reasons for Christian hope with gentleness, respect, and good conduct.",
+        "url": "https://www.biblegateway.com/passage/?search=1%20Peter%203%3A15-16&version=ESV"
+      },
+      {
+        "type": "Primary Christian source",
+        "title": "Acts 17",
+        "why": "Shows Paul reasoning with people from their own setting while still clearly proclaiming God and the resurrection.",
+        "url": "https://www.biblegateway.com/passage/?search=Acts%2017&version=ESV"
+      },
+      {
+        "type": "Training resource",
+        "title": "OCCA | Foundational Apologetics",
+        "why": "Beginner-oriented training for answering difficult questions in real conversations.",
+        "url": "https://theocca.org/foundational-apologetics/"
+      }
+    ]
+  },
+  "thoughts": [
+    "Why is “What do you mean?” often a better first response than an argument?",
+    "What should you do when several objections are raised at once?",
+    "Why can admitting “I do not know” strengthen rather than weaken a conversation?",
+    "How can the course map help you decide which argument to use?"
+  ],
+  "terms": [
+    [
+      "Clarifying question",
+      "A question that checks what someone means before you answer."
+    ],
+    [
+      "Point of disagreement",
+      "The first important claim where your reasoning and the other person’s reasoning separate."
+    ],
+    [
+      "Burden of proof",
+      "The responsibility to give reasons for a claim."
+    ],
+    [
+      "Apologetics",
+      "Giving reasons for Christian hope and answering objections."
+    ]
+  ],
+  "conclusion": "Remember this: listen, ask what they mean and why they believe it, answer one real issue, and keep the conversation human. You do not have to say everything at once.",
+  "thread": "The course ends where apologetics is actually used: in ordinary conversations. The arguments are tools; the goal is to use them truthfully, clearly, and with gentleness.",
+  "bigIdea": "Good apologetics starts with understanding the person and the real disagreement before choosing an argument."
+});
