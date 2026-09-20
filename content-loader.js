@@ -1,2 +1,1 @@
-(0,eval)((window.__contentParts||[]).join(''));
-delete window.__contentParts;
+window.__contentSource=(window.__contentParts||[]).join('');delete window.__contentParts;
