@@ -1,0 +1,1 @@
+const __s=document.createElement('style');__s.textContent=(window.__styleParts||[]).join('');document.head.appendChild(__s);delete window.__styleParts;
