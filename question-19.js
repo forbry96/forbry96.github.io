@@ -1,1 +1,137 @@
-questions.push({"id":19,"cat":"christianity","tag":"Scripture","title":"What about the New Testament?","teaser":"Jesus did not hand the disciples a finished 27-book New Testament. The argument runs through the apostles he chose, commissioned, and promised to guide.","why":"The New Testament step has to be stated carefully. Jesus directly affirmed the Scriptures already given, then authorized apostles to bear witness and teach in his name.","bigIdea":"The case for the New Testament is not that Jesus named a future table of contents. It is that Jesus authorized apostles and promised divine help for their witness, and the New Testament is rooted in that apostolic testimony.","thread":"Jesus points us backward to the Old Testament. Now ask how his authority reaches forward through the apostles and their witness.","terms":[["Apostle","A commissioned representative or messenger. In the New Testament, the term has a special role for those authorized to bear foundational witness to Christ."],["Apostolic","Connected to the teaching, testimony, or authorized mission of the apostles."],["Canon","The recognized collection of writings received as Scripture."]],"core":["Jesus chose a defined group of apostles and commissioned them to represent him.","He promised the Holy Spirit would help them remember his teaching and guide their witness after his departure.","The earliest church treated apostolic teaching as foundational and authoritative.","The New Testament writings are either apostolic writings or closely connected to apostolic testimony and the first-generation church.","Therefore the authority of the New Testament is connected to Christ’s authority mediated through his authorized witnesses.","Canon recognition is a further historical question: the church did not create apostolic authority, but had to recognize which writings genuinely carried it.","Do not shorten this to “Jesus said the New Testament is inspired.” That claims more directness than the historical situation allows."],"lesson":{"heading":"Jesus authorizes witnesses before there is a New Testament","body":"The Old Testament argument is fairly direct because Jesus can point to Scriptures that already exist. The New Testament requires one more step.\n\nJesus did not hold a bound New Testament and announce its twenty-seven titles. Instead, he chose apostles, trained them, sent them, and made their witness central to the spread of his message. In the farewell teaching recorded in John, Jesus promises the Spirit’s help in remembering his teaching and in guiding the apostles as they continue to bear witness.\n\nThat matters because Christianity did not begin as anonymous ideas floating through the ancient world. It begins with a commissioned witness to a particular person and event.\n\nThe earliest Christian communities therefore treat apostolic teaching as a standard. Paul defends his authority as an apostle. Acts describes the church devoting itself to the apostles’ teaching. Later New Testament writings show apostolic material being received with scriptural authority.\n\nThe canon question still has to be handled honestly. Christians had to recognize which writings were genuinely apostolic and belonged in the canon. That process took historical discernment. The claim here is not that the canon dropped from heaven as a finished list.\n\nThe apologetic chain is instead: Christ is vindicated; Christ commissions apostles; Christ promises divine aid for their witness; apostolic teaching carries Christ’s authority; the New Testament preserves that apostolic witness. That is a stronger and more accurate bridge than saying Jesus directly named books that had not yet been written.","facts":["The Gospels portray Jesus deliberately choosing and commissioning apostles.","John 14 connects the Spirit with helping the disciples remember Jesus’ teaching; John 16 connects the Spirit with guiding and continuing their witness.","Acts presents the apostles’ teaching as foundational in the earliest Jerusalem church.","Paul’s letters are among the earliest surviving Christian writings and claim apostolic authority.","The recognition of the New Testament canon developed historically; the claim of inspiration and apostolic authority is not the claim that every canonical question was settled immediately."]},"pressure":[["“Jesus never said, ‘The 27-book New Testament is Scripture.’”","Correct. That is why the argument should not be stated that way. The historical bridge is Jesus’ commission of apostles and his promises concerning their witness."],["“The church chose the canon, so the church created the Bible’s authority.”","Recognizing authority and creating authority are different claims. The early church still had to make historical judgments about which writings were genuinely apostolic and widely received."],["“Some New Testament books were not written by one of the Twelve.”","Apostolic authority is broader than direct authorship by one of the Twelve. The historical question includes close connection to apostolic testimony and reception in the apostolic church."],["“This still sounds more complicated than the Old Testament case.”","It is. That is why the lesson says so. A careful argument is better than a neat but inaccurate shortcut."]],"limits":"This lesson gives the apologetic bridge to apostolic New Testament authority. It does not provide a full history of the canon or settle every authorship debate.","practice":"A friend says, “Jesus could not have endorsed the New Testament because it did not exist yet.” What is the careful Christian answer?","model":"That is right if by “endorsed” we mean Jesus named the future 27 books. The stronger argument is that Jesus chose and commissioned apostles, promised the Spirit would help their witness, and gave them authority to teach in his name. The New Testament is rooted in that apostolic witness. The later canon question is about recognizing which writings genuinely carry that authority.","thoughts":["Why is the New Testament argument less direct than the Old Testament argument?","What role do the apostles play in carrying Jesus’ authority forward?","Why is recognition of a canon different from creating its authority?","What claim should we avoid making about Jesus and the future 27-book canon?"],"conclusion":"Remember this: Jesus did not name a future New Testament table of contents. He did something more historically concrete: he authorized apostles to witness and teach in his name and promised divine help for that mission. The New Testament stands on that apostolic foundation.","sources":[["Bible reference | John 14:25–26","https://www.biblegateway.com/passage/?search=John%2014%3A25-26&version=ESV"],["Bible reference | John 16:12–15","https://www.biblegateway.com/passage/?search=John%2016%3A12-15&version=ESV"]],"evidence":{"claim":"Jesus’ authority reaches the New Testament through the apostles he commissioned and promised to guide.","establishes":"The Gospel traditions present an authorized apostolic mission, and early Christian sources treat apostolic teaching as foundational. This creates the bridge from Christ’s authority to the apostolic witness preserved in the New Testament.","caution":"A full defense of the 27-book canon requires additional historical work. The lesson deliberately distinguishes apostolic authority from the later process of canon recognition.","resources":[{"type":"Primary text","title":"Bible reference | John 14:25–26","why":"Connects the Spirit’s work with the disciples’ remembrance of Jesus’ teaching.","url":"https://www.biblegateway.com/passage/?search=John%2014%3A25-26&version=ESV"},{"type":"Primary text","title":"Bible reference | John 16:12–15","why":"Connects the Spirit’s work with the continuation and guidance of the disciples’ witness.","url":"https://www.biblegateway.com/passage/?search=John%2016%3A12-15&version=ESV"},{"type":"Primary text","title":"Acts 2:42","why":"Shows the earliest church treating the apostles’ teaching as foundational.","url":"https://www.biblegateway.com/passage/?search=Acts%202%3A42&version=ESV"}]}});
+questions.push({
+  "id": 19,
+  "cat": "christianity",
+  "tag": "Scripture",
+  "title": "What about the New Testament?",
+  "teaser": "Jesus did not hand the church a completed 27-book New Testament. He did something more basic first: he chose, commissioned, and promised help to authoritative apostolic witnesses.",
+  "lesson": {
+    "heading": "Move from Christ’s authority to apostolic authority carefully",
+    "body": "The Old Testament step is fairly direct because Jesus repeatedly cites the Scriptures already received in Israel. The New Testament requires one more step. Jesus did not hold up a completed twenty-seven-book collection and name every future book. So the argument should not claim that he did.\n\nInstead, Jesus deliberately chose apostles to be his authorized witnesses. He sent them to teach in his name. In the farewell teaching of John, he promises the Spirit will bring his words to their remembrance and guide them in the truth they still need to receive. After the resurrection, the apostolic mission becomes the authorized public witness to Jesus.\n\nThat gives the early church a standard for recognizing New Testament writings: apostolic origin or close apostolic connection mattered greatly, along with consistency with the apostolic faith and widespread reception in the churches. The church did not create the authority of Jesus’ apostles by voting centuries later. It recognized writings that bore that apostolic authority, though some books were discussed longer than others.\n\nThis means the apologetic should be strong without being careless. We can say that Jesus authorized the apostolic foundation from which the New Testament comes. We should not say Jesus personally named all twenty-seven books during his earthly ministry. The historical recognition of the canon is a real process, and acknowledging that process makes the argument more credible, not less.",
+    "facts": [
+      "Jesus chose apostles and sent them as authorized witnesses and teachers.",
+      "John 14:26 promises the Spirit will remind the apostles of Jesus’ teaching.",
+      "John 16:12–15 promises further guidance into truth in the immediate apostolic setting.",
+      "The early church gave special weight to apostolic origin or connection when recognizing New Testament books.",
+      "Recognition of the twenty-seven-book canon developed over time, with a strong core received early and some books discussed longer."
+    ],
+    "further": [
+      [
+        "Ligonier | The Authority of the Apostles",
+        "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-authority-of-the-apostles"
+      ],
+      [
+        "Ligonier | The New Testament Canon",
+        "https://learn.ligonier.org/devotionals/new-testament-canon"
+      ],
+      [
+        "The Gospel Coalition | Introduction to the New Testament",
+        "https://www.thegospelcoalition.org/essay/introduction-to-the-new-testament/"
+      ],
+      [
+        "Bible reference | John 14:25–26; 16:12–15",
+        "https://www.biblegateway.com/passage/?search=John%2014%3A25-26%3B%20John%2016%3A12-15&version=ESV"
+      ]
+    ]
+  },
+  "why": "This lesson prevents the argument from making an easy but inaccurate leap. Jesus’ authority reaches the New Testament through the apostles he authorized and the writings the church recognized as apostolic.",
+  "core": [
+    "Jesus did not personally present a completed New Testament canon during his earthly ministry.",
+    "He did choose and authorize apostles to bear witness and teach in his name.",
+    "He promised the Spirit’s help in remembering his teaching and guiding the apostolic witness.",
+    "Apostolic origin or close apostolic connection became a central mark in the church’s recognition of New Testament books.",
+    "The canon was recognized through a historical process; acknowledging that process is more accurate than pretending the list appeared all at once.",
+    "The Christian claim is therefore that the New Testament carries the authorized apostolic witness of Christ, not that Jesus verbally named every future book."
+  ],
+  "pressure": [
+    [
+      "“Jesus never said, ‘These twenty-seven books are the New Testament.’”",
+      "Correct. The argument should not claim that. Jesus authorized apostles, promised them the Spirit’s help, and commissioned their teaching. The canon question then asks which writings carry that apostolic witness."
+    ],
+    [
+      "“The church chose the Bible centuries later.”",
+      "The church did have to recognize and discuss the books, and some were debated longer than others. But a substantial core was received early, and apostolicity was a major criterion. Recognition is not the same thing as inventing the authority from nothing."
+    ],
+    [
+      "“Why trust Paul if he was not one of the Twelve?”",
+      "Paul’s apostleship has its own historical and theological case: he claimed an appearance of the risen Jesus, was known to the Jerusalem leaders, and his mission was recognized rather than carried on in isolation. This lesson does not need to pretend every apostolic question is simple."
+    ],
+    [
+      "“Does John 16 promise every Christian will be infallible?”",
+      "No. The immediate setting is Jesus speaking to the apostles who had been with him. Christians can learn from the passage, but the promise about remembering Jesus’ words has a special relevance to the apostolic witnesses."
+    ]
+  ],
+  "limits": "This lesson gives the bridge from Jesus to apostolic Scripture. It is not a full course on canon history, authorship of every New Testament book, or every disputed canonical question.",
+  "practice": "Someone says, “Jesus never told us which 27 books belong in the New Testament, so your argument fails.” How would you respond accurately?",
+  "model": "I agree that Jesus did not hand the disciples a finished table of contents. The argument is more careful than that. Jesus chose apostles, commissioned them to teach in his name, and promised the Spirit would help them remember and understand his teaching. The early church then recognized writings connected to that apostolic witness. So the New Testament step is about Christ-authorized apostles and the historical recognition of their writings.",
+  "sources": [
+    [
+      "Ligonier | The Authority of the Apostles",
+      "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-authority-of-the-apostles"
+    ],
+    [
+      "Ligonier | The New Testament Canon",
+      "https://learn.ligonier.org/devotionals/new-testament-canon"
+    ]
+  ],
+  "evidence": {
+    "claim": "Jesus authorized apostles to teach and bear witness in his name, and apostolicity became central to the church’s recognition of New Testament Scripture.",
+    "establishes": "The sources support the special authority of the apostles, Jesus’ promises concerning their witness, and the historical role of apostolic origin and reception in canon recognition.",
+    "caution": "Jesus did not directly name a completed 27-book New Testament. The exact canon was recognized through a historical process, and some books were debated longer than others.",
+    "resources": [
+      {
+        "type": "Reformed theology",
+        "title": "Ligonier | The Authority of the Apostles",
+        "why": "Explains delegated apostolic authority as authority received from Christ.",
+        "url": "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-authority-of-the-apostles"
+      },
+      {
+        "type": "Primary Christian source",
+        "title": "John 14:25–26",
+        "why": "Jesus promises the Spirit will bring his teaching to the apostles’ remembrance.",
+        "url": "https://www.biblegateway.com/passage/?search=John%2014%3A25-26&version=ESV"
+      },
+      {
+        "type": "Primary Christian source",
+        "title": "John 16:12–15",
+        "why": "Promises further guidance in the immediate apostolic setting.",
+        "url": "https://www.biblegateway.com/passage/?search=John%2016%3A12-15&version=ESV"
+      },
+      {
+        "type": "Canon history",
+        "title": "Ligonier | The New Testament Canon",
+        "why": "Summarizes early consensus, debated books, and the role of apostolicity in recognizing the canon.",
+        "url": "https://learn.ligonier.org/devotionals/new-testament-canon"
+      },
+      {
+        "type": "New Testament introduction",
+        "title": "The Gospel Coalition | Introduction to the New Testament",
+        "why": "Explains apostolicity, orthodoxy, and widespread church use in canon recognition.",
+        "url": "https://www.thegospelcoalition.org/essay/introduction-to-the-new-testament/"
+      }
+    ]
+  },
+  "thoughts": [
+    "Why is it inaccurate to say Jesus personally named all 27 New Testament books?",
+    "What authority did Jesus give the apostles?",
+    "Why do John 14 and 16 have a special apostolic setting?",
+    "What role did apostolicity play in recognizing the New Testament canon?",
+    "Why is recognition different from creating authority?"
+  ],
+  "terms": [
+    [
+      "Apostle",
+      "An authorized messenger of Christ, especially the foundational witnesses commissioned by the risen Jesus."
+    ],
+    [
+      "Apostolicity",
+      "Connection to the apostles and their authorized teaching."
+    ],
+    [
+      "Canon recognition",
+      "The historical process by which the church identified the writings it received as Scripture."
+    ]
+  ],
+  "conclusion": "Remember this: Jesus did not hand over a finished New Testament table of contents. He authorized apostles, and the church received the New Testament as the written apostolic witness tied to that authority.",
+  "thread": "Study 18 showed how Jesus receives the Old Testament. Study 19 now completes the other side of the bridge by asking how Jesus’ authority reaches the apostolic witness that becomes the New Testament.",
+  "bigIdea": "Jesus’ authority reaches the New Testament through the apostles he commissioned and the writings received as their authoritative witness."
+});
