@@ -11,7 +11,7 @@ const bonusStudyIds = lessonModules.filter(m => !m.core).flatMap(m => m.studyIds
 const STORAGE_KEY = 'classicalApologeticsProgressV3';
 
 const defaultState = () => ({
-  version: 4,
+  version: 5,
   completed: [],
   practiced: [],
   pre: null,
@@ -25,10 +25,12 @@ function normalizeState(raw){
   const oldVersion = Number(raw.version || 0);
   const remapLegacyId = id => {
     id = Number(id);
-    // Before v3, Study 17 was the conversation workshop. In v3 it moved to 18.
-    // In v4 the workshop moves to 19 to make room for the Origins & Worldview bonus.
-    if(oldVersion < 3 && id === 17) return 19;
-    if(oldVersion < 4 && id === 18) return 19;
+    // Preserve progress from earlier course layouts as the core path expands in v5.
+    if(oldVersion < 3 && id === 17) return 23; // original workshop
+    if(oldVersion < 4 && id === 18) return 23; // workshop in v3
+    if(oldVersion < 5 && id === 17) return 21; // problem of evil in v4
+    if(oldVersion < 5 && id === 18) return 22; // origins in v4
+    if(oldVersion < 5 && id === 19) return 23; // workshop in v4
     return id;
   };
   base.completed = Array.isArray(raw.completed) ? [...new Set(raw.completed.map(remapLegacyId).filter(id => ids.has(id)))] : [];
