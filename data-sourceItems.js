@@ -1,1 +1,222 @@
-var sourceItems=[["Stanford Encyclopedia of Philosophy","Academic reference entries used for background on cosmological arguments, fine-tuning, moral arguments, naturalism, miracles, and the problem of evil.","https://plato.stanford.edu/"],["Classical apologetics overview | Bible.org","A secondary overview of classical apologetics as a method and its distinction from other apologetic approaches.","https://bible.org/seriespage/4-issues-and-methods-apologetics"],["Reasonable Faith","William Lane Craig’s apologetics ministry; useful for classical arguments and historical resurrection material.","https://www.reasonablefaith.org/"],["Stand to Reason","A major practical apologetics ministry whose material is useful for comparison on conversation and reasoning.","https://www.str.org/"],["OCCA","The Oxford Centre for Christian Apologetics; especially useful as a comparison point for beginner-oriented training.","https://theocca.org/foundational-apologetics/"],["CrossExamined","An established apologetics ministry included here as a further-reading resource, not as a template for this site’s framework.","https://crossexamined.org/"],["Biblical Training | Essentials of Apologetics","A structured introductory apologetics course and transcript archive.","https://www.biblicaltraining.org/learn/foundations/essentials-apologetics-th202/what-is-apologetics-th202-01"],["Bible references","Scripture references are linked rather than reproduced here at length.","https://www.biblegateway.com/"],["Tacitus | Annals 15.44","A Roman historian discussing Christians and the execution of Christus under Pontius Pilate.","https://www.perseus.tufts.edu/hopper/text?doc=Tac.+Ann.+15.44"],["Josephus | Antiquities 18 and 20","A late-first-century Jewish historian who discusses Jesus, James, and Pilate, with the usual textual cautions around the Testimonium.","https://penelope.uchicago.edu/josephus/"],["Pliny | Letters 10.96–97","A Roman governor describing Christian worship and devotion to Christ around AD 112.","https://sourcebooks.fordham.edu/source/pliny1.asp"],["Polycarp | Letter to the Philippians","Early second-century Christian witness that quotes and echoes a substantial amount of New Testament material.","https://www.newadvent.org/fathers/0136.htm"],["Eusebius | Papias on Mark and Matthew","Preserves Papias’s testimony about traditions concerning Mark and Matthew and notes his use of 1 John and 1 Peter.","https://www.newadvent.org/fathers/250103.htm"],["Irenaeus | Against Heresies III.11","Late-second-century testimony explicitly identifying the four Gospels as an established fourfold collection.","https://www.newadvent.org/fathers/0103311.htm"],["Oxford Academic | Gospels and ancient biography","Scholarly discussion of the Gospels as forms of Greco-Roman biography.","https://academic.oup.com/edited-volume/34334/chapter-abstract/291368485"],["Cambridge | John 5:2 and pre-70 dating","A 2025 scholarly argument that the present-tense description of the five-portico pool supports a pre-70 date for John.","https://www.cambridge.org/core/journals/new-testament-studies/article/pre70-ce-dating-of-the-gospel-of-john-there-is-in-jerusalem-a-pool-which-has-five-porticoes-52/6EB521B72901E535E1BB31A1A1473C94"],["Biblical Archaeology Society | Bethesda Pool","Archaeological background on the pool described in John 5.","https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/the-bethesda-pool-site-of-one-of-jesus-miracles/"],["Library of Congress | Dead Sea Scrolls","Primary-source and archaeological background for the manuscripts and Second Temple setting.","https://www.loc.gov/exhibits/scrolls/intr.html"],["Darwin Online | Origin of Species","Primary text for reading Darwin on natural selection, domestic breeding, and the fossil-record difficulty he recognized.","https://darwin-online.org.uk/converted/published/1859_Origin_F373/1859_Origin_F373.html"],["Discovery Institute | Darwin’s Black Box","Primary intelligent-design resource for Michael Behe’s irreducible-complexity argument.","https://www.discovery.org/t/darwins-black-box/"],["Borde, Guth & Vilenkin | Inflationary spacetimes are not past-complete","Original paper for a widely discussed result about past incompleteness in sufficiently expanding inflationary spacetimes.","https://arxiv.org/abs/gr-qc/0110012"],["IEP | Critical Thinking","Practical framework for evaluating arguments, evidence, assumptions, and common reasoning mistakes.","https://iep.utm.edu/critical-thinking/"],["SEP | Testimony","Why testimony can be a source of knowledge and how its justification is debated.","https://plato.stanford.edu/entries/testimony-episprob/"],["Aquinas | Summa I, Q.46","Historical reminder that classical theistic arguments need not depend on a young universe.","https://www.newadvent.org/summa/1046.htm"],["Barnes | Fine-Tuning Review","Technical review of fine-tuning claims, parameters, and objections.","https://arxiv.org/abs/1112.4647"],["Adams | Degree of Fine-Tuning","Scientific discussion showing where life-permitting possibilities may be broader than popular presentations suggest.","https://arxiv.org/abs/1902.03928"],["SEP | Religion and Morality","Scholarly treatment of God, morality, and the Euthyphro problem.","https://plato.stanford.edu/entries/religion-morality/"],["IEP | Naturalism","Overview of naturalism and philosophical questions concerning mind, reason, and explanation.","https://iep.utm.edu/naturali/"],["Hume | Of Miracles","The classic skeptical argument in Hume's own words.","https://davidhume.org/texts/e/10"],["Perseus | Josephus, Antiquities 20","Primary source containing the reference to James, brother of Jesus who was called Christ.","https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0146%3Abook%3D20%3Asection%3D197"],["Cambridge NTS | Pre-Pauline Formula","Peer-reviewed study of the early tradition in 1 Corinthians 15:3–5.","https://www.cambridge.org/core/journals/new-testament-studies/article/abs/resurrection-of-jesus-in-the-prepauline-formula-of-1-cor-1535/B98A7CB0EDE64897CAFEE83263BE6289"],["Cambridge NTS | Empty Tomb & 1 Corinthians 15","Academic discussion of resurrection language and bodily implications in 1 Corinthians 15.","https://www.cambridge.org/core/journals/new-testament-studies/article/resurrection-in-paganism-and-the-question-of-an-empty-tomb-in-1-corinthians-15/EF4DE640BE9104A454C7847ECF899313"],["Answers in Genesis | Origins and Worldview","Creationist resources on origins, observational versus historical science, and interpreting evidence within a biblical worldview.","https://answersingenesis.org/evolution/"],["Creation Ministries International | Creation and Evolution","Creationist articles on biological change, common design, the fossil record, and evolutionary mechanisms.","https://creation.com/"],["Discovery Institute | Intelligent Design","Research and arguments concerning biological information, irreducible complexity, common design, and critiques of unguided evolution.","https://www.discovery.org/id/"],["Cambridge | Historical and Experimental Science","Philosophy-of-science treatment of the methodological differences between reconstructing past events and controlled experiment.","https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/methodological-and-epistemic-differences-between-historical-science-and-experimental-science/47BC0ED44A127140EB4B6A442A663374"],["SEP | Theory and Observation in Science","Academic discussion of theory-ladenness: empirical evidence is real and constraining, but it is never used from a completely assumption-free standpoint.","https://plato.stanford.edu/entries/science-theory-observation/"]];
+const sourceItems = [
+  [
+    "Stanford Encyclopedia of Philosophy",
+    "Academic reference entries used for background on cosmological arguments, fine-tuning, moral arguments, naturalism, miracles, and the problem of evil.",
+    "https://plato.stanford.edu/"
+  ],
+  [
+    "Classical apologetics overview | Bible.org",
+    "A secondary overview of classical apologetics as a method and its distinction from other apologetic approaches.",
+    "https://bible.org/seriespage/4-issues-and-methods-apologetics"
+  ],
+  [
+    "Reasonable Faith",
+    "William Lane Craig’s apologetics ministry; useful for classical arguments and historical resurrection material.",
+    "https://www.reasonablefaith.org/"
+  ],
+  [
+    "Stand to Reason",
+    "A major practical apologetics ministry whose material is useful for comparison on conversation and reasoning.",
+    "https://www.str.org/"
+  ],
+  [
+    "OCCA",
+    "The Oxford Centre for Christian Apologetics; especially useful as a comparison point for beginner-oriented training.",
+    "https://theocca.org/foundational-apologetics/"
+  ],
+  [
+    "CrossExamined",
+    "An established apologetics ministry included here as a further-reading resource, not as a template for this site’s framework.",
+    "https://crossexamined.org/"
+  ],
+  [
+    "Biblical Training | Essentials of Apologetics",
+    "A structured introductory apologetics course and transcript archive.",
+    "https://www.biblicaltraining.org/learn/foundations/essentials-apologetics-th202/what-is-apologetics-th202-01"
+  ],
+  [
+    "Bible references",
+    "Scripture references are linked rather than reproduced here at length.",
+    "https://www.biblegateway.com/"
+  ],
+  [
+    "Tacitus | Annals 15.44",
+    "A Roman historian discussing Christians and the execution of Christus under Pontius Pilate.",
+    "https://www.perseus.tufts.edu/hopper/text?doc=Tac.+Ann.+15.44"
+  ],
+  [
+    "Josephus | Antiquities 18 and 20",
+    "A late-first-century Jewish historian who discusses Jesus, James, and Pilate, with the usual textual cautions around the Testimonium.",
+    "https://penelope.uchicago.edu/josephus/"
+  ],
+  [
+    "Pliny | Letters 10.96–97",
+    "A Roman governor describing Christian worship and devotion to Christ around AD 112.",
+    "https://sourcebooks.fordham.edu/source/pliny1.asp"
+  ],
+  [
+    "Polycarp | Letter to the Philippians",
+    "Early second-century Christian witness that quotes and echoes a substantial amount of New Testament material.",
+    "https://www.newadvent.org/fathers/0136.htm"
+  ],
+  [
+    "Eusebius | Papias on Mark and Matthew",
+    "Preserves Papias’s testimony about traditions concerning Mark and Matthew and notes his use of 1 John and 1 Peter.",
+    "https://www.newadvent.org/fathers/250103.htm"
+  ],
+  [
+    "Irenaeus | Against Heresies III.11",
+    "Late-second-century testimony explicitly identifying the four Gospels as an established fourfold collection.",
+    "https://www.newadvent.org/fathers/0103311.htm"
+  ],
+  [
+    "Oxford Academic | Gospels and ancient biography",
+    "Scholarly discussion of the Gospels as forms of Greco-Roman biography.",
+    "https://academic.oup.com/edited-volume/34334/chapter-abstract/291368485"
+  ],
+  [
+    "Cambridge | John 5:2 and pre-70 dating",
+    "A 2025 scholarly argument that the present-tense description of the five-portico pool supports a pre-70 date for John.",
+    "https://www.cambridge.org/core/journals/new-testament-studies/article/pre70-ce-dating-of-the-gospel-of-john-there-is-in-jerusalem-a-pool-which-has-five-porticoes-52/6EB521B72901E535E1BB31A1A1473C94"
+  ],
+  [
+    "Biblical Archaeology Society | Bethesda Pool",
+    "Archaeological background on the pool described in John 5.",
+    "https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/the-bethesda-pool-site-of-one-of-jesus-miracles/"
+  ],
+  [
+    "Library of Congress | Dead Sea Scrolls",
+    "Primary-source and archaeological background for the manuscripts and Second Temple setting.",
+    "https://www.loc.gov/exhibits/scrolls/intr.html"
+  ],
+  [
+    "Darwin Online | Origin of Species",
+    "Primary text for reading Darwin on natural selection, domestic breeding, and the fossil-record difficulty he recognized.",
+    "https://darwin-online.org.uk/converted/published/1859_Origin_F373/1859_Origin_F373.html"
+  ],
+  [
+    "Discovery Institute | Darwin’s Black Box",
+    "Primary intelligent-design resource for Michael Behe’s irreducible-complexity argument.",
+    "https://www.discovery.org/t/darwins-black-box/"
+  ],
+  [
+    "Borde, Guth & Vilenkin | Inflationary spacetimes are not past-complete",
+    "Original paper for a widely discussed result about past incompleteness in sufficiently expanding inflationary spacetimes.",
+    "https://arxiv.org/abs/gr-qc/0110012"
+  ],
+  [
+    "IEP | Critical Thinking",
+    "Practical framework for evaluating arguments, evidence, assumptions, and common reasoning mistakes.",
+    "https://iep.utm.edu/critical-thinking/"
+  ],
+  [
+    "SEP | Testimony",
+    "Why testimony can be a source of knowledge and how its justification is debated.",
+    "https://plato.stanford.edu/entries/testimony-episprob/"
+  ],
+  [
+    "Aquinas | Summa I, Q.46",
+    "Historical reminder that classical theistic arguments need not depend on a young universe.",
+    "https://www.newadvent.org/summa/1046.htm"
+  ],
+  [
+    "Barnes | Fine-Tuning Review",
+    "Technical review of fine-tuning claims, parameters, and objections.",
+    "https://arxiv.org/abs/1112.4647"
+  ],
+  [
+    "Adams | Degree of Fine-Tuning",
+    "Scientific discussion showing where life-permitting possibilities may be broader than popular presentations suggest.",
+    "https://arxiv.org/abs/1902.03928"
+  ],
+  [
+    "SEP | Religion and Morality",
+    "Scholarly treatment of God, morality, and the Euthyphro problem.",
+    "https://plato.stanford.edu/entries/religion-morality/"
+  ],
+  [
+    "IEP | Naturalism",
+    "Overview of naturalism and philosophical questions concerning mind, reason, and explanation.",
+    "https://iep.utm.edu/naturali/"
+  ],
+  [
+    "Hume | Of Miracles",
+    "The classic skeptical argument in Hume's own words.",
+    "https://davidhume.org/texts/e/10"
+  ],
+  [
+    "Perseus | Josephus, Antiquities 20",
+    "Primary source containing the reference to James, brother of Jesus who was called Christ.",
+    "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0146%3Abook%3D20%3Asection%3D197"
+  ],
+  [
+    "Cambridge NTS | Pre-Pauline Formula",
+    "Peer-reviewed study of the early tradition in 1 Corinthians 15:3–5.",
+    "https://www.cambridge.org/core/journals/new-testament-studies/article/abs/resurrection-of-jesus-in-the-prepauline-formula-of-1-cor-1535/B98A7CB0EDE64897CAFEE83263BE6289"
+  ],
+  [
+    "Cambridge NTS | Empty Tomb & 1 Corinthians 15",
+    "Academic discussion of resurrection language and bodily implications in 1 Corinthians 15.",
+    "https://www.cambridge.org/core/journals/new-testament-studies/article/resurrection-in-paganism-and-the-question-of-an-empty-tomb-in-1-corinthians-15/EF4DE640BE9104A454C7847ECF899313"
+  ],
+  [
+    "Answers in Genesis | Origins and Worldview",
+    "Creationist resources on origins, observational versus historical science, and interpreting evidence within a biblical worldview.",
+    "https://answersingenesis.org/evolution/"
+  ],
+  [
+    "Creation Ministries International | Creation and Evolution",
+    "Creationist articles on biological change, common design, the fossil record, and evolutionary mechanisms.",
+    "https://creation.com/"
+  ],
+  [
+    "Discovery Institute | Intelligent Design",
+    "Research and arguments concerning biological information, irreducible complexity, common design, and critiques of unguided evolution.",
+    "https://www.discovery.org/id/"
+  ],
+  [
+    "Cambridge | Historical and Experimental Science",
+    "Philosophy-of-science treatment of the methodological differences between reconstructing past events and controlled experiment.",
+    "https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/methodological-and-epistemic-differences-between-historical-science-and-experimental-science/47BC0ED44A127140EB4B6A442A663374"
+  ],
+  [
+    "SEP | Theory and Observation in Science",
+    "Academic discussion of theory-ladenness: empirical evidence is real and constraining, but it is never used from a completely assumption-free standpoint.",
+    "https://plato.stanford.edu/entries/science-theory-observation/"
+  ],
+  [
+    "Ligonier | The Purpose of Miracles",
+    "Miracles as authentication of a messenger after God’s existence is established.",
+    "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-purpose-of-miracles"
+  ],
+  [
+    "Reasonable Faith | Historical Jesus",
+    "Historical case concerning Jesus’ identity and claims.",
+    "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-goddoes-god-exist1/rediscovering-the-historical-jesus-the-evidence-for-jesus/"
+  ],
+  [
+    "Reasonable Faith | The Resurrection of Jesus",
+    "Cumulative historical case centered on the empty tomb, appearances, and origin of resurrection belief.",
+    "https://www.reasonablefaith.org/writings/popular-writings/jesus-of-nazareth/the-resurrection-of-jesus/"
+  ],
+  [
+    "TGC | Jesus’s View of the Old Testament",
+    "Survey of Jesus’ treatment of Israel’s Scriptures as divine and authoritative.",
+    "https://www.thegospelcoalition.org/essay/jesuss-view-old-testament/"
+  ],
+  [
+    "Ligonier | Authority of the Apostles",
+    "Christ’s delegated authority to the apostles.",
+    "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-authority-of-the-apostles"
+  ],
+  [
+    "Ligonier | New Testament Canon",
+    "Overview of apostolicity, early reception, and canon recognition.",
+    "https://learn.ligonier.org/devotionals/new-testament-canon"
+  ],
+  [
+    "Oxford Academic | Jesus’ Son of Man self-designation and divinity",
+    "Academic treatment connecting Jesus’ Son of Man language with the emergence of claims about his divinity.",
+    "https://academic.oup.com/book/27347/chapter-abstract/197087305"
+  ]
+];
