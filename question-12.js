@@ -1,1 +1,145 @@
-questions.push({"id":12,"cat":"christianity","tag":"Jesus","title":"Did Jesus really die by crucifixion?","teaser":"Before asking whether Jesus rose, we first need to know whether he actually died.","lesson":{"heading":"Start with the fact of Jesus’ death","body":"Before asking whether Jesus rose from the dead, we first need to establish something more basic: did he really die? Historically, the answer is very strong. Jesus’ crucifixion under Pontius Pilate is one of the best-attested facts about his life.\n\nThe earliest Christian sources already put Jesus’ death at the center of the message. Paul says he received and passed on the proclamation that Christ died, was buried, and was raised. The Gospel accounts give fuller narratives of the crucifixion. Then, from outside Christianity, the Roman historian Tacitus says that Christus suffered the extreme penalty under Pontius Pilate during the reign of Tiberius.\n\nThat does not mean we can reconstruct a modern medical chart for Jesus. Scholars and physicians still debate the exact physical process by which crucifixion killed its victims. But we do not need to know whether Jesus died mainly from shock, blood loss, breathing failure, or some combination. Crucifixion was a Roman execution, and the historical question is whether Jesus survived it.\n\nThat is why the old swoon theory has such a heavy burden. It is not enough to say, ‘Maybe he fainted.’ Jesus would have had to survive the beating and scourging that came before the crucifixion, survive the crucifixion itself, be mistaken for dead by the people carrying out the execution, endure burial while already badly injured, and then recover without the kind of medical care someone in that condition would normally need. Even after all that, the theory still has to explain why his followers came away convinced that he had conquered death rather than simply survived a brutal execution. Simply imagining survival is not evidence that survival happened.","facts":["Jesus’ crucifixion under Pontius Pilate is supported by early Christian sources and a non-Christian Roman source.","Paul’s letters already treat Jesus’ death and burial as part of the message he had received and passed on.","Tacitus independently connects Christus’s execution with Pontius Pilate during Tiberius’s reign.","Crucifixion was used as a form of execution, even though the exact medical cause of death in an individual case can be difficult to reconstruct.","A survival theory has to explain much more than the bare possibility that someone could live through severe trauma."],"further":[["Tacitus | Annals 15.44","https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html"],["1 Corinthians 15:3–8","https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A3-8&version=ESV"]]},"why":"If Jesus did not really die, then there is no resurrection to explain. His death is the first historical fact the resurrection case has to establish.","core":["The earliest Christian sources already proclaim that Jesus died and was buried.","The Gospel accounts agree on the central event: Jesus was crucified under Pontius Pilate and died.","Tacitus, writing outside the Christian movement, also reports that Christus was executed under Pilate.","Roman crucifixion was an execution, so saying Jesus survived requires evidence, not just possibility.","We do not need to know the exact medical mechanism of death in order to conclude historically that Jesus died."],"pressure":[["“Maybe Jesus only fainted.”","That is possible to imagine, but history needs more than an imaginable story. A swoon theory has to explain how Jesus survived the beating, scourging, and crucifixion, was mistaken for dead, endured burial while badly injured, recovered without normal medical care, and then appeared in a condition that convinced his followers he had conquered death. That is a much larger claim than simply saying he might have fainted."],["“The death is only reported by Christians.”","The Christian sources are legitimate historical evidence, and Tacitus gives us an important non-Christian reference to Christus being executed under Pontius Pilate."],["“The Gospel accounts differ in some details.”","Historians do not require every source to describe every secondary detail in exactly the same way. The important point here is the event they agree on: Jesus was crucified under Pilate and died."],["“Can doctors prove exactly what killed Jesus?”","No. We do not have a body, autopsy, or medical chart. Modern writers have proposed several physical causes of death. The historical case is stronger when it rests on the sources and on crucifixion being an execution, rather than pretending medicine can reconstruct every detail two thousand years later."],["“But people have survived terrible injuries before.”","True, but a general possibility is not evidence that it happened in this case. The question is what the sources say happened to Jesus, and those sources consistently present his crucifixion as a death."]],"limits":"The evidence gives strong historical grounds for saying Jesus was crucified and died. It does not give us a modern medical record, and it cannot settle every disputed detail in the passion narratives.","practice":"A friend says, “People survive terrible injuries. Maybe Jesus survived the cross and the disciples only thought he had risen.” How would you answer without overclaiming?","model":"I would start with the history, not a medical theory. Crucifixion was a Roman execution, the earliest Christian sources say Jesus died, and Tacitus independently says Christus was executed under Pilate. It is always possible to invent a survival story, but then that story needs evidence. It also has to explain how a badly injured survivor came to be proclaimed as the risen Lord who had defeated death.","sources":[["Cambridge | Pontius Pilate in History and Interpretation","https://www.cambridge.org/core/books/abs/pontius-pilate-in-history-and-interpretation/preface/BFE4DF55CCA5A59E787E10FE48D42441"],["PubMed | Execution by Crucifixion: History, Methods and Cause of Death","https://pubmed.ncbi.nlm.nih.gov/7561527/"]],"evidence":{"claim":"Jesus’ death by crucifixion under Pontius Pilate is one of the strongest historical facts in the resurrection case.","establishes":"Early Christian sources place Jesus’ death at the center of the message, the Gospel accounts narrate the crucifixion, and Tacitus independently confirms that Christus was executed under Pontius Pilate. Historical scholarship widely treats Jesus’ crucifixion as secure even when scholars disagree about many other details of his life.","caution":"The sources do not provide a modern autopsy, and medical writers disagree about the exact physical mechanism of death by crucifixion. That uncertainty should not be confused with uncertainty about whether crucifixion was intended as execution or whether Jesus was historically reported to have died by it.","resources":[{"type":"Historical study","title":"Cambridge | Pontius Pilate in History and Interpretation","why":"Describes Jesus’ crucifixion under Pilate as one of the surest facts in the historical record surrounding Christianity.","url":"https://www.cambridge.org/core/books/abs/pontius-pilate-in-history-and-interpretation/preface/BFE4DF55CCA5A59E787E10FE48D42441"},{"type":"Ancient source","title":"Tacitus | Annals 15.44","why":"A non-Christian Roman reference connecting Christus’s execution with Pontius Pilate.","url":"https://www.perseus.tufts.edu/hopper/text?doc=Tac.+Ann.+15.44"},{"type":"Primary Christian source","title":"1 Corinthians 15:3–8","why":"Paul’s early summary places Jesus’ death and burial before the resurrection proclamation.","url":"https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A3-8&version=ESV"},{"type":"Primary Christian source","title":"Mark 15","why":"A detailed Gospel account of Jesus’ crucifixion, death, and burial.","url":"https://www.biblegateway.com/passage/?search=Mark%2015&version=ESV"},{"type":"Medical history","title":"PubMed | Execution by Crucifixion: History, Methods and Cause of Death","why":"Useful background on crucifixion as a method of execution and on why the exact medical mechanism of death can be debated.","url":"https://pubmed.ncbi.nlm.nih.gov/7561527/"}]},"thoughts":["Why must the resurrection case first establish that Jesus really died?","What evidence for Jesus’ death comes from both Christian and non-Christian sources?","Why do we not need to know the exact medical cause of death to make the historical case?","Why is saying ‘maybe he survived’ not yet an explanation?","What would a survival theory still have to explain after getting Jesus off the cross alive?"],"terms":[["Crucifixion","A Roman method of punishment and execution in which a victim was fixed or suspended on a cross or similar structure."],["Corroboration","When another source supports part of the same historical claim."],["Swoon theory","The idea that Jesus did not really die on the cross but only appeared dead and later recovered."],["Pontius Pilate","The Roman prefect of Judea who ordered Jesus’ crucifixion."]],"conclusion":"Remember this: the resurrection case begins with a death. We do not have to reconstruct the exact medical process to know the main historical point. Jesus was crucified under Pontius Pilate, and the evidence gives strong reason to conclude that he died.","thread":"Study 11 established that we have early historical sources for Jesus. Study 12 uses those sources to fix the first major fact of the resurrection case: Jesus was crucified under Pontius Pilate and died. The next question is how soon people began claiming that he was alive again.","bigIdea":"Before asking whether Jesus rose from the dead, establish the simpler historical fact first: he really died."});
+questions.push({
+  "id": 12,
+  "cat": "christianity",
+  "tag": "Jesus",
+  "title": "Who did Jesus claim to be?",
+  "teaser": "Before asking what the resurrection means, first ask what Jesus said and did that made his identity such a serious question.",
+  "lesson": {
+    "heading": "Read Jesus’ claims in their first-century setting",
+    "body": "Jesus did not usually walk around repeating the modern sentence, ‘I am God.’ That is not the only way a first-century Jewish teacher could make a claim about his identity. The better question is what Jesus claimed the right to do, what titles he used, and how the people around him understood those claims.\n\nAcross the Gospel traditions, Jesus acts with an authority that goes beyond an ordinary prophet. He announces forgiveness of sins in his own authority. He places himself over the Sabbath. He speaks as the Son who has a unique relationship with the Father. He identifies himself with the ‘Son of Man’ figure who receives everlasting authority in Daniel 7. In John, the claims become especially direct: Jesus speaks of existing before Abraham, of a unique unity with the Father, and of receiving honor that belongs to God.\n\nNo single verse has to carry the whole case. Some sayings are debated more than others, and historians disagree about how to weigh every Gospel passage. The point is cumulative. The sources present Jesus as making claims and taking actions that put his identity at the center of the question.\n\nThat matters for the resurrection. If Jesus were simply an unknown person who came back from the dead, the event would still be astonishing. But if the man who was raised had already claimed divine authority, then the resurrection would have something specific to confirm or reject.",
+    "facts": [
+      "In Mark 2, Jesus pronounces a man’s sins forgiven and then heals him in a setting where his critics say that forgiving sins belongs to God.",
+      "Jesus repeatedly calls himself the Son of Man, including sayings that echo Daniel 7’s heavenly ruler who receives universal authority.",
+      "The Gospels present Jesus as claiming authority over the Sabbath, final judgment, and the kingdom of God.",
+      "John contains especially explicit statements about Jesus’ relationship to the Father and his pre-existence.",
+      "The strongest case is cumulative: titles, actions, prerogatives, and direct sayings belong together."
+    ],
+    "further": [
+      [
+        "Reasonable Faith | Rediscovering the Historical Jesus",
+        "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-goddoes-god-exist1/rediscovering-the-historical-jesus-the-evidence-for-jesus/"
+      ],
+      [
+        "Bible reference | Mark 2:1–12",
+        "https://www.biblegateway.com/passage/?search=Mark%202%3A1-12&version=ESV"
+      ],
+      [
+        "Bible reference | Mark 14:61–64",
+        "https://www.biblegateway.com/passage/?search=Mark%2014%3A61-64&version=ESV"
+      ],
+      [
+        "Bible reference | John 8:48–59; 10:22–39",
+        "https://www.biblegateway.com/passage/?search=John%208%3A48-59%3B%20John%2010%3A22-39&version=ESV"
+      ],
+      [
+        "Oxford Academic | Jesus’ Son of Man self-designation and divinity",
+        "https://academic.oup.com/book/27347/chapter-abstract/197087305"
+      ]
+    ]
+  },
+  "why": "The resurrection only becomes a clear confirmation of Jesus if we first know what kind of claims Jesus was making about himself and his authority.",
+  "core": [
+    "Do not reduce the question to whether Jesus used one exact modern phrase. Ask what he claimed the right to do and how those claims fit his Jewish setting.",
+    "Jesus forgave sins, claimed authority over the Sabbath, spoke of judging the world, and used the Son of Man title in ways tied to Daniel 7.",
+    "John records still more direct claims about Jesus’ unity with the Father and existence before Abraham.",
+    "Different passages carry different historical debates, so the case should be cumulative rather than resting on one proof text.",
+    "If Jesus made extraordinary claims about his identity, then a resurrection would have a meaning beyond mere survival after death."
+  ],
+  "pressure": [
+    [
+      "“Jesus never said the exact words, ‘I am God.’”",
+      "That exact English sentence is not the historical standard. The question is whether Jesus claimed divine authority or identity in the language and categories of his own setting. His forgiveness of sins, Son of Man claims, authority over sacred institutions, and statements about the Father all belong in that discussion."
+    ],
+    [
+      "“Maybe the church put those claims on Jesus later.”",
+      "That is a real historical objection, so the case should not rest only on the latest or most explicit saying. Claims to unusual authority appear across different Gospel traditions, including material in Mark as well as John."
+    ],
+    [
+      "“Son of God can mean less than God.”",
+      "Yes. The title by itself does not settle the question. That is why the argument looks at the wider pattern of Jesus’ words, actions, authority, and relationship to the Father."
+    ],
+    [
+      "“A prophet can forgive sins by announcing God’s forgiveness.”",
+      "A prophet can announce what God has done. The striking feature in passages such as Mark 2 is the way Jesus personally speaks and then backs the claim with an act of authority. It is one piece of a larger case, not the whole case by itself."
+    ]
+  ],
+  "limits": "This course argues that the Gospel evidence gives a cumulative case for unusually high claims by Jesus. Historical Jesus scholarship is divided over exactly how much can be established about Jesus’ explicit divine self-understanding, so the lesson should not be presented as a point of universal scholarly agreement.",
+  "practice": "Someone says, “Jesus never claimed to be God. Christians invented that later.” Give a short answer without relying on only one verse.",
+  "model": "I would not make the case depend on one sentence. In the Gospel traditions Jesus forgives sins, claims authority over the Sabbath, uses the Son of Man language of Daniel 7, speaks of final judgment, and describes a unique relationship with the Father. John makes some of those claims even more explicit. The point is cumulative: Jesus put his own identity and authority at the center of his message.",
+  "sources": [
+    [
+      "Reasonable Faith | Rediscovering the Historical Jesus",
+      "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-goddoes-god-exist1/rediscovering-the-historical-jesus-the-evidence-for-jesus/"
+    ],
+    [
+      "Bible reference | Mark 2:1–12",
+      "https://www.biblegateway.com/passage/?search=Mark%202%3A1-12&version=ESV"
+    ]
+  ],
+  "evidence": {
+    "claim": "The Gospel sources present Jesus as making extraordinary claims to divine authority and a unique relationship with God.",
+    "establishes": "The passages below support a cumulative historical case from Jesus’ actions, titles, and sayings. They do not require every disputed saying to carry equal weight.",
+    "caution": "Historical Jesus scholarship is divided over Jesus’ self-understanding. The course is making a cumulative argument from several sayings and actions, not reporting a universal scholarly consensus.",
+    "resources": [
+      {
+        "type": "Historical Jesus resource",
+        "title": "Reasonable Faith | Rediscovering the Historical Jesus",
+        "why": "Surveys historical arguments concerning Jesus’ self-understanding and divine claims.",
+        "url": "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-goddoes-god-exist1/rediscovering-the-historical-jesus-the-evidence-for-jesus/"
+      },
+      {
+        "type": "Primary Christian source",
+        "title": "Mark 2:1–12",
+        "why": "Jesus forgives sins in a dispute that makes the authority involved explicit.",
+        "url": "https://www.biblegateway.com/passage/?search=Mark%202%3A1-12&version=ESV"
+      },
+      {
+        "type": "Primary Christian source",
+        "title": "Mark 14:61–64",
+        "why": "Jesus links himself with the Daniel 7 Son of Man and is accused of blasphemy.",
+        "url": "https://www.biblegateway.com/passage/?search=Mark%2014%3A61-64&version=ESV"
+      },
+      {
+        "type": "Primary Christian source",
+        "title": "John 8:48–59",
+        "why": "One of John’s strongest passages concerning Jesus’ pre-existence and identity.",
+        "url": "https://www.biblegateway.com/passage/?search=John%208%3A48-59&version=ESV"
+      },
+      {
+        "type": "Primary Christian source",
+        "title": "John 10:22–39",
+        "why": "Shows the controversy surrounding Jesus’ claim of unity with the Father.",
+        "url": "https://www.biblegateway.com/passage/?search=John%2010%3A22-39&version=ESV"
+      },
+      {
+        "type": "Academic scholarship",
+        "title": "Oxford Academic | Jesus’ Son of Man self-designation and divinity",
+        "why": "Craig Evans argues that Jesus’ Son of Man language and activity contributed to early claims about his divinity, while the wider field remains debated.",
+        "url": "https://academic.oup.com/book/27347/chapter-abstract/197087305"
+      }
+    ]
+  },
+  "thoughts": [
+    "Why is it too narrow to ask only whether Jesus said one exact modern sentence?",
+    "What kinds of authority does Jesus claim in the Gospel traditions?",
+    "Why should a case for Jesus’ identity be cumulative rather than built on one verse?",
+    "Why do Jesus’ claims matter for interpreting the resurrection?"
+  ],
+  "terms": [
+    [
+      "Son of Man",
+      "Jesus’ most frequent self-designation in the Gospels. Some uses connect with the exalted figure of Daniel 7."
+    ],
+    [
+      "Divine prerogative",
+      "An authority or action that belongs especially to God, such as final judgment or the forgiveness of sins."
+    ],
+    [
+      "Cumulative case",
+      "An argument in which several pieces of evidence support the conclusion together."
+    ]
+  ],
+  "conclusion": "Remember this: the case does not depend on Jesus saying one modern phrase. His words, actions, titles, and authority together force the question of who he understood himself to be.",
+  "thread": "Study 11 established that the New Testament can be examined as early historical evidence. Study 12 now asks what those sources say about Jesus himself before we turn to his death, the tomb, and the resurrection.",
+  "bigIdea": "Before the resurrection can confirm Jesus, we need to know what Jesus claimed about himself."
+});
