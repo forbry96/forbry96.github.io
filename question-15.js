@@ -1,1 +1,104 @@
-questions.push({"id":15,"cat":"christianity","tag":"Resurrection","title":"Was the tomb empty?","teaser":"The empty tomb adds a physical question to the resurrection case: what happened to Jesus’ body?","lesson":{"heading":"The empty tomb matters because it adds a body to the question","body":"The Gospel accounts do not just say that Jesus died and that people later believed they saw him. They also say he was buried in a known tomb and that the tomb was later found empty.\n\nThat matters because it gives the resurrection case a physical side. If the burial place was known and the body was later gone, an explanation based only on visions or grief has another question to answer: what happened to the body?\n\nThe burial story is also fairly specific. All four Gospels connect Joseph of Arimathea with Jesus’ burial. Mark also describes women watching where Jesus was laid and later returning to that place. That does not make every detail beyond dispute, but it makes the idea that no one knew where Jesus was buried less natural.\n\nThe women at the tomb are worth noticing too. The point is not that women could never testify in the ancient world. That claim is too broad. The simpler point is that women remain at the center of the discovery story even though the movement’s public leaders were mostly men. That is an unusual detail if someone were simply inventing the strongest possible public story.\n\nPaul does not tell the story of the women finding the tomb. But he does say that Jesus was buried and raised. In Jewish and early Christian thought, resurrection meant something happening to the body, not simply that a person’s spirit lived on. Some scholars therefore argue that Paul’s resurrection language fits naturally with an empty tomb, even though Paul does not independently tell us who found it.\n\nThe empty tomb does not prove the resurrection by itself. But once it is put beside Jesus’ death, the very early resurrection message, and the appearance reports, every alternative has more to explain.","facts":["All four Gospels connect Joseph of Arimathea with Jesus’ burial.","Mark describes women watching where Jesus was buried and later returning to the tomb.","Paul says Jesus was buried and raised, even though he does not narrate the women finding the tomb.","Matthew preserves an early counterclaim that the disciples stole the body.","The empty tomb is more debated than the crucifixion, so it should be used as part of the larger case rather than as a stand-alone proof."],"further":[["Cambridge New Testament Studies | The Historicity of the Empty Tomb of Jesus","https://www.cambridge.org/core/journals/new-testament-studies/article/abs/historicity-of-the-empty-tomb-of-jesus1/39C53623AC0517088951E31CF346B540"],["John Granger Cook | Resurrection and the Question of an Empty Tomb","https://www.cambridge.org/core/journals/new-testament-studies/article/resurrection-in-paganism-and-the-question-of-an-empty-tomb-in-1-corinthians-15/EF4DE640BE9104A454C7847ECF899313"]]},"why":"If Jesus was buried in a known place and the body was later missing, explanations based only on private experiences or grief become less complete.","core":["The burial tradition is specific: Joseph of Arimathea is named in all four Gospels, and Mark says women saw where Jesus was laid.","Women remain prominent in the discovery story. That does not prove the account, but it is not the most obvious detail to invent if the goal were simply to create the strongest public case.","Paul does not narrate the discovery of the empty tomb, but his language about burial and resurrection is bodily language, not merely a claim that Jesus lived on spiritually.","If the tomb was empty, vision-only theories still have to explain the missing body. Body-removal theories still have to explain the appearance claims and the rise of resurrection belief."],"pressure":[["“Paul never says women found an empty tomb.”","That is true. Paul says Jesus was buried and raised, but he does not tell the Gospel discovery story. The empty-tomb case comes mainly from the Gospel traditions. Paul still matters because his resurrection language is about Jesus being raised after burial, not simply remembered or spiritually alive."],["“Women at the tomb does not prove anything.”","By itself, no. The point is modest. Women remain at the center of the discovery story even though the movement’s public leaders were mostly men. That makes the detail interesting, but it should not be turned into the exaggerated claim that women could never testify."],["“Maybe Jesus was buried somewhere else and nobody knew where.”","That is possible in theory, but it has to explain why all four Gospels name Joseph of Arimathea and why Mark describes women watching where Jesus was laid. The burial story is specific enough that an unknown-grave theory cannot simply be assumed."],["“Maybe the body was moved or stolen.”","That can explain why a tomb might be empty, but it does not explain why people came to believe they had seen Jesus alive, why Paul changed from opponent to missionary, or why resurrection rather than simple body theft became the message. Matthew even preserves a stolen-body counterclaim, which shows that a missing body was already part of the debate."],["“Could the stolen-body story be what really happened?”","It is one possibility people have proposed. But if Matthew’s guard account is part of the picture, the theory becomes harder: the tomb would have to be opened, the body removed, and the guards bypassed or somehow unaware. Even without relying on the guard story, theft still explains only a missing body. It does not explain the appearance reports."]],"limits":"The empty tomb is more debated than Jesus’ crucifixion or the very early resurrection proclamation. It strengthens the case, but it should not carry the whole argument by itself.","practice":"A skeptic says, “An empty tomb only proves that a body was missing.” How would you respond?","model":"I agree that an empty tomb by itself would not prove resurrection. The point is what happens when it is added to the rest of the case. Jesus was executed, the resurrection message appeared very early, people and groups were reported to have seen him alive, and the Gospel accounts say the burial place was later empty. A moved body can explain the tomb, but not the appearances. A vision theory can try to explain some experiences, but not the missing body. The question is which explanation makes the best sense of all of it together.","sources":[["Cambridge New Testament Studies | The Historicity of the Empty Tomb of Jesus","https://www.cambridge.org/core/journals/new-testament-studies/article/abs/historicity-of-the-empty-tomb-of-jesus1/39C53623AC0517088951E31CF346B540"],["Reasonable Faith | The Resurrection of Jesus","https://www.reasonablefaith.org/writings/popular-writings/jesus-of-nazareth/the-resurrection-of-jesus/"]],"evidence":{"claim":"The Gospel accounts present Jesus as buried in a known tomb that was later found empty, and this adds a physical part to the resurrection case.","establishes":"The sources give a specific burial story, place women at the discovery of the empty tomb, and preserve an early stolen-body counterclaim. Paul’s earlier resurrection language also treats Jesus’ resurrection as bodily, even though Paul does not narrate the tomb discovery.","caution":"The empty tomb is more disputed among historians than the crucifixion. These points strengthen the cumulative case, but they should not be presented as if one detail settles the question by itself.","resources":[{"type":"Primary Christian source","title":"Bible reference | Mark 15–16","why":"Mark names Joseph of Arimathea, says women saw where Jesus was laid, and then describes those women returning to the tomb.","url":"https://www.biblegateway.com/passage/?search=Mark%2015-16&version=ESV"},{"type":"Primary Christian source","title":"Bible reference | Matthew 27–28","why":"Matthew preserves the guard story and the counterclaim that the disciples stole the body.","url":"https://www.biblegateway.com/passage/?search=Matthew%2027-28&version=ESV"},{"type":"Primary Christian source","title":"Bible reference | 1 Corinthians 15:3–8","why":"Paul’s early summary links burial and resurrection before the later Gospel narratives were written.","url":"https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A3-8&version=ESV"},{"type":"Peer-reviewed study","title":"Cambridge NTS | The Historicity of the Empty Tomb of Jesus","why":"A scholarly treatment of the main arguments surrounding the empty-tomb tradition.","url":"https://www.cambridge.org/core/journals/new-testament-studies/article/abs/historicity-of-the-empty-tomb-of-jesus1/39C53623AC0517088951E31CF346B540"},{"type":"Peer-reviewed study","title":"John Granger Cook | Resurrection and the Question of an Empty Tomb","why":"Explores how ancient resurrection language bears on the question of what happened to the body.","url":"https://www.cambridge.org/core/journals/new-testament-studies/article/resurrection-in-paganism-and-the-question-of-an-empty-tomb-in-1-corinthians-15/EF4DE640BE9104A454C7847ECF899313"}]},"thoughts":["Why does a known burial place make the empty-tomb question more important?","What is the careful way to use the women-at-the-tomb argument?","What does Paul say about burial and resurrection, and what does he not tell us?","What can a stolen-body theory explain, and what does it leave unexplained?"],"terms":[["Empty tomb","The claim that Jesus’ known burial place was later found without his body."],["Joseph of Arimathea","The man named in all four Gospels as being involved in Jesus’ burial."],["Bodily resurrection","The claim that resurrection happened to Jesus himself, not merely that his memory or spirit lived on."],["Cumulative case","An argument that becomes stronger when several pieces of evidence are considered together."]],"conclusion":"Remember this: the empty tomb does not prove the resurrection by itself. But when it is added to Jesus’ death, the early resurrection message, and the appearance reports, every alternative has to explain both the missing body and why people believed they saw Jesus alive.","thread":"Study 14 asked why people came to believe they had seen Jesus alive. Study 15 adds the physical question: if Jesus was buried in a known place and the tomb was later empty, what happened to the body?","bigIdea":"The empty tomb adds a physical piece to the resurrection case. It does not prove resurrection alone, but it makes explanations that handle only visions or only a missing body less complete."});
+questions.push({
+  "id": 15,
+  "cat": "christianity",
+  "tag": "Jesus",
+  "title": "Liar, lunatic, legend, or Lord?",
+  "teaser": "The famous trilemma is useful only after the historical groundwork is in place, and it becomes stronger when we include the objections Lewis’s short version leaves out.",
+  "lesson": {
+    "heading": "Use the trilemma as a decision point, not a shortcut",
+    "body": "C.S. Lewis made famous a simple challenge: if Jesus made the kinds of claims Christians attribute to him, it is hard to reduce him to merely a good moral teacher. A person who falsely makes those claims would seem to be deceiving people, badly mistaken about himself, or telling the truth.\n\nThat basic point is useful, but by itself it is incomplete. A skeptic can add other possibilities: maybe the claims were exaggerated later, maybe the disciples misunderstood Jesus, or maybe the Gospel picture became legendary. Those options have to be considered too.\n\nThat is why this lesson comes after the historical work instead of before it. Study 11 treated the New Testament as early historical evidence. Study 12 argued that high claims about Jesus appear across the Gospel traditions. Studies 13 and 14 built the death, tomb, appearance, and resurrection case. Those earlier studies do not make every objection disappear, but they make ‘legend’ and ‘mere misunderstanding’ harder to use as effortless escape routes.\n\nThe trilemma is therefore not an independent proof of Christianity. It is a way of asking what options are left after the evidence is on the table. If Jesus really made extraordinary claims and God really raised him, then ‘Lord’ is no longer just one label among several. It becomes the explanation the earlier evidence is pointing toward.",
+    "facts": [
+      "The classic “liar, lunatic, or Lord” argument is most useful as a challenge to the idea that Jesus can simply be called a good teacher while his strongest claims are ignored.",
+      "The short trilemma is not logically exhaustive unless alternatives such as legend, misunderstanding, or textual development are also considered.",
+      "Those added alternatives are historical claims, so they should be tested against the early-source and resurrection evidence already discussed.",
+      "The resurrection matters because it supplies external confirmation rather than leaving Jesus’ identity to rest only on his own claims."
+    ],
+    "further": [
+      [
+        "Reasonable Faith | Rediscovering the Historical Jesus",
+        "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-goddoes-god-exist1/rediscovering-the-historical-jesus-the-evidence-for-jesus/"
+      ],
+      [
+        "Reasonable Faith | Resurrection",
+        "https://www.reasonablefaith.org/videos/interviews-panels/resurrection-veritas-forum/"
+      ]
+    ]
+  },
+  "why": "This lesson helps the learner synthesize the previous studies without pretending a memorable slogan can substitute for historical evidence.",
+  "core": [
+    "The trilemma rightly challenges the idea that Jesus can be praised as merely a great teacher while his extraordinary self-claims are ignored.",
+    "The short form is not a complete argument unless legend, misunderstanding, and development are also considered.",
+    "Those alternatives should be tested against the historical groundwork already established rather than simply asserted.",
+    "The resurrection changes the discussion because it functions as evidence outside Jesus’ own self-claims.",
+    "So the real question is not whether a catchy trilemma proves Christianity. It is which account of Jesus best fits the historical evidence already considered."
+  ],
+  "pressure": [
+    [
+      "“Lewis forgot the legend option.”",
+      "That is a fair criticism of the short form. This course includes legend and misunderstanding explicitly. The question then becomes whether those explanations fit the early sources and resurrection evidence better than the Christian conclusion."
+    ],
+    [
+      "“Someone can be sincere and still mistaken.”",
+      "Yes. That is why “lunatic” is too crude if it is treated as a psychological diagnosis. The real category is that Jesus could have been deeply mistaken about himself. The resurrection evidence is what makes that explanation harder to sustain."
+    ],
+    [
+      "“Maybe the disciples exaggerated Jesus’ claims.”",
+      "That is a historical hypothesis, not a free answer. It has to fit the breadth and date of the sources and explain why high claims appear in multiple traditions."
+    ],
+    [
+      "“This still sounds like a false dilemma.”",
+      "It would be if we limited the choices artificially. The point of this version is to broaden the options and then compare them with the evidence already built in the course."
+    ]
+  ],
+  "limits": "This study does not diagnose Jesus’ mental health, and the trilemma by itself does not prove that Jesus is Lord. Its value is as a synthesis of options after the historical evidence has already been considered.",
+  "practice": "Someone says, “Lewis’s liar-lunatic-Lord argument is a false trilemma because Jesus could have been legendary.” How would you answer?",
+  "model": "I think that criticism is fair against the slogan if it is used by itself. Legend and misunderstanding should be considered too. But then they become historical explanations that have to fit the evidence. The New Testament sources are early enough to investigate, high claims about Jesus appear across the traditions, and the resurrection message is early. So I would broaden the trilemma rather than abandon the question: which explanation of Jesus best fits the whole historical picture?",
+  "sources": [
+    [
+      "Reasonable Faith | Historical Jesus",
+      "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-goddoes-god-exist1/rediscovering-the-historical-jesus-the-evidence-for-jesus/"
+    ]
+  ],
+  "evidence": {
+    "claim": "The classic trilemma is best used as a synthesis after historical alternatives such as legend and misunderstanding have been considered.",
+    "establishes": "The earlier studies supply the historical work the slogan itself lacks: sources, Jesus’ claims, death, resurrection proclamation, appearances, and tomb evidence.",
+    "caution": "Do not present the trilemma as a deductive proof or use “lunatic” as a clinical judgment about Jesus’ mental state.",
+    "resources": [
+      {
+        "type": "Historical Jesus resource",
+        "title": "Reasonable Faith | Rediscovering the Historical Jesus",
+        "why": "Provides the historical context needed before assessing explanations of Jesus’ identity.",
+        "url": "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-goddoes-god-exist1/rediscovering-the-historical-jesus-the-evidence-for-jesus/"
+      },
+      {
+        "type": "Resurrection resource",
+        "title": "Reasonable Faith | Resurrection – Veritas Forum",
+        "why": "Explains why the resurrection has special significance in light of Jesus’ claims.",
+        "url": "https://www.reasonablefaith.org/videos/interviews-panels/resurrection-veritas-forum/"
+      }
+    ]
+  },
+  "thoughts": [
+    "What useful point does the classic trilemma make?",
+    "Why is “legend” a real option that has to be addressed?",
+    "Why should this argument come after the historical studies rather than before them?",
+    "How does the resurrection change the range of explanations?"
+  ],
+  "terms": [
+    [
+      "Trilemma",
+      "An argument presenting three main options. Here, the classic form is liar, lunatic, or Lord."
+    ],
+    [
+      "Legend hypothesis",
+      "The proposal that major claims about Jesus developed through later storytelling rather than going back substantially to Jesus himself."
+    ],
+    [
+      "Synthesis",
+      "Putting several earlier lines of evidence together to see what overall conclusion they support."
+    ]
+  ],
+  "conclusion": "Remember this: liar, lunatic, or Lord is not the whole case. Once legend and misunderstanding are included and tested against the historical evidence, the question becomes much stronger: what explanation of Jesus best fits everything we have learned?",
+  "thread": "Study 14 argued that resurrection best explains the historical pattern. Study 15 pauses to compare the main ways someone could still explain Jesus himself before asking what the resurrection says about his authority.",
+  "bigIdea": "The trilemma is strongest as a summary question after the evidence, not as a shortcut around the evidence."
+});
