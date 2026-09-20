@@ -1,1 +1,213 @@
-questions.push({"id":14,"cat":"christianity","tag":"Resurrection","title":"What is the historical case for the resurrection?","teaser":"Do not ask one fact to prove everything. Put the early proclamation, appearances, empty tomb, and changed lives together.","why":"The resurrection case is strongest as a cumulative historical argument. Several lines of evidence point to the same question: what best explains the beginning of resurrection belief?","bigIdea":"The resurrection case is not one clever proof. It is several historical facts and reports that need one explanation.","thread":"Jesus died, and there is evidence for an empty tomb. Now widen the view to the early proclamation and appearance reports.","terms":[["Early creed or tradition","Material Paul says he received and passed on, showing that resurrection proclamation did not begin centuries later."],["Appearance report","A claim that Jesus was seen alive after his death."],["Cumulative case","An argument whose strength comes from several lines of evidence considered together."]],"core":["Paul’s letters place resurrection proclamation inside the first Christian generation, and 1 Corinthians 15 contains tradition Paul says he had received earlier.","The sources report appearances to individuals and groups rather than only one private experience.","Paul himself moved from opposing the Christian movement to proclaiming the risen Jesus after an experience he understood as an appearance.","James is also associated with an appearance and later became a leader in the Jerusalem church.","The empty tomb adds a physical piece to the case rather than leaving us only with reported experiences.","The best explanation should account for the death, early proclamation, appearances, empty tomb, and the rise of resurrection-centered belief together.","Because the earlier part of the course has already argued that God exists, resurrection is not being introduced as an impossible kind of cause."],"lesson":{"heading":"Put the pieces together before choosing an explanation","body":"Historical arguments are often less like geometry and more like detective work. One clue can be misunderstood. Several independent or partly independent clues can form a much stronger pattern.\n\nThe resurrection case works that way. First, Jesus died. Second, resurrection was being proclaimed very early. Paul is already preaching it within the first Christian generation, and in 1 Corinthians 15 he passes on a tradition that he says he had received. That pushes the core proclamation earlier than Paul’s letter itself.\n\nThird, the sources report experiences understood as appearances of Jesus. These include Peter, groups of disciples, James, and Paul. We do not have to assume at the start what caused every experience. Historically, the point is that resurrection belief was tied to claimed encounters, not merely to an abstract idea that Jesus’ teaching lived on.\n\nFourth, the empty tomb adds a bodily question. It is more debated than Jesus’ death or the early proclamation, but it makes explanations that deal only with inner experiences less complete.\n\nFinally, the movement itself needs explaining. First-century Jews already had categories for martyrdom, visions, and future resurrection. Yet the earliest Christians proclaimed that one man had been raised ahead of the final resurrection and made that event central to his identity as Messiah and Lord.\n\nNone of these points should be exaggerated. The strength comes from their combination. The next lesson will compare the main alternatives instead of pretending the word “resurrection” automatically wins.","facts":["1 Corinthians is an undisputed Pauline letter written within the first Christian generation.","Paul says he received and passed on resurrection tradition rather than inventing it in the letter.","Early Christian sources report appearances to individuals and groups.","Paul’s own conversion is tied in his writings to an encounter he understood as an appearance of the risen Jesus.","The empty tomb adds evidence about the body, while the appearance reports add evidence about what people thought they encountered.","Historical explanation compares how well different hypotheses account for the whole pattern."]},"pressure":[["“Early belief only proves people believed it.”","Correct. Early proclamation does not prove resurrection by itself. It does block theories that require the central resurrection claim to arise only after centuries of legend."],["“People have visions after someone dies.”","Bereavement experiences are real and should be considered. The question is whether they explain the variety of appearance reports, Paul, the empty-tomb evidence, and the specific resurrection belief taken together."],["“Groups cannot prove what they saw.”","Group reports are still historical testimony that needs explanation. The claim is not that a group report makes error impossible; it is that a theory has to explain why these reports arose so early and in this form."],["“Paul never met Jesus during Jesus’ ministry.”","That is precisely why Paul is interesting. He was not a grieving disciple expecting to see Jesus. His experience still has to be explained, while being distinguished from the earlier disciples’ experiences."]],"limits":"History can establish early claims, testimony, and explanatory patterns. It cannot put the resurrection event under laboratory observation. The final conclusion is an inference to the best explanation, not a mathematical proof.","practice":"Someone says, “All you really have is that some Christians believed Jesus rose.” How would you show that the historical case is broader than that without overstating it?","model":"I would say early belief is only one part. We also have a well-established death, early tradition that predates Paul’s letter, reported appearances to individuals and groups, Paul’s own conversion, and evidence for an empty tomb. None proves resurrection alone. The question is which explanation handles the whole pattern best.","thoughts":["Why does the early date of resurrection proclamation matter?","What does Paul add to the historical case?","Why is the empty tomb different from appearance evidence?","What makes a cumulative argument stronger than relying on one disputed fact?"],"conclusion":"Remember this: the resurrection case is a pattern, not a trick. Jesus died, resurrection was proclaimed early, appearances were reported, and there is evidence for an empty tomb. Now compare what can actually explain all of that.","sources":[["Reasonable Faith | Jesus’ Resurrection","https://www.reasonablefaith.org/writings/scholarly-writings/divine-aseity/jesus-resurrection/"]],"evidence":{"claim":"Several early lines of evidence require an explanation for the origin of resurrection belief.","establishes":"The early Pauline material, appearance reports, Paul’s conversion, and empty-tomb tradition form a cumulative historical case rather than a single-proof argument.","caution":"The sources do not force every historian to accept resurrection. Prior beliefs about God and miracles affect which explanations a person regards as live options.","resources":[{"type":"Resurrection scholarship","title":"Reasonable Faith | Jesus’ Resurrection","why":"A detailed defense of the historical evidence and resurrection inference.","url":"https://www.reasonablefaith.org/writings/scholarly-writings/divine-aseity/jesus-resurrection/"},{"type":"Primary text","title":"1 Corinthians 15:1–8","why":"Paul’s early summary of the resurrection proclamation and appearances.","url":"https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A1-8&version=ESV"}]}});
+questions.push({
+  "id": 14,
+  "cat": "christianity",
+  "tag": "Resurrection",
+  "title": "Did Jesus rise from the dead?",
+  "teaser": "Put the early proclamation, reported appearances, empty tomb, and competing explanations together and ask what best explains the whole pattern.",
+  "lesson": {
+    "heading": "Build the resurrection case cumulatively",
+    "body": "A common objection says the resurrection story grew slowly after Jesus, once the eyewitnesses were gone. The problem is that our earliest Christian sources already contain the resurrection message.\n\nIn 1 Corinthians 15, Paul reminds the church of something he had taught them before. He says that he had first received it himself: Christ died, was buried, was raised, and appeared to Peter, the Twelve, and others. Paul is not introducing a new idea. He is passing on a message that was already being taught before he wrote the letter.\n\nThat matters because 1 Corinthians comes from the first Christian generation. The tradition Paul says he received must be earlier still. Galatians gives us another important piece: Paul says that after his conversion he went to Jerusalem and spent time with Peter, and he also met James, the brother of Jesus. So Paul was not developing his resurrection message in isolation from the Jerusalem leaders closest to the beginning of the movement.\n\nWe should not pretend we can date the tradition to an exact month or year. Scholars debate exactly how much of the passage is a received formula and precisely when Paul first learned it. We do not need an exact date. The important point is simpler and stronger: resurrection belief is already there very early, connected to the first generation of Christian leaders.\n\nThe question is not simply whether the disciples believed in the resurrection. The more useful question is: what happened that made them believe Jesus had appeared to them alive after his death?\n\nIn the early tradition Paul passes on in 1 Corinthians 15, appearances are named to Peter, the Twelve, a larger group, James, and finally Paul himself. That gives us more than one kind of claim: individuals, groups, followers, and Paul, who had actually opposed the Christian movement.\n\nWe should not exaggerate the evidence. We do not have five hundred separate written statements, and not every appearance account survives as an independent eyewitness document. But the claims are early and varied. Any explanation has to account for that whole pattern, not just explain away one person at a time.\n\nNow put those pieces beside the death and tomb evidence from Study 13. The case is not that one isolated fact forces everyone to believe. It is that several lines of evidence converge: Jesus died, resurrection was proclaimed very early, individuals and groups were reported to have seen him alive, Paul changed from opponent to missionary after an experience he understood as an appearance of Jesus, and there is a serious case for an empty tomb.\n\nAlternative explanations can address pieces of that pattern. A survival theory struggles with the death evidence. A moved or stolen body can address a missing body but not the appearance reports. Hallucination or visionary theories can be proposed for experiences but do not by themselves explain the missing body. A slow legend theory has to deal with how early the resurrection message appears. Several natural explanations can be combined, but each added part needs evidence of its own.\n\nThe resurrection hypothesis says one central event explains the whole pattern: God raised Jesus from the dead. That conclusion is not a neutral consensus of all historians. It is the conclusion this course argues best fits the evidence once the earlier case for God has made divine action a live possibility.",
+    "facts": [
+      "Paul says he received and passed on a resurrection proclamation before writing 1 Corinthians.",
+      "Paul reports appearances to Peter, the Twelve, a large group, James, and himself.",
+      "Paul’s own letters show that he had once opposed the Christian movement and later became one of its missionaries.",
+      "The Gospel traditions describe the risen Jesus in personal and bodily terms.",
+      "The empty tomb adds a physical part of the case, though it is more debated than Jesus’ death or the early proclamation.",
+      "A historical explanation should be judged by how much of the evidence it explains, how naturally it fits, and how many unsupported additions it needs."
+    ],
+    "further": [
+      [
+        "Reasonable Faith | The Resurrection of Jesus",
+        "https://www.reasonablefaith.org/writings/popular-writings/jesus-of-nazareth/the-resurrection-of-jesus/"
+      ],
+      [
+        "Cambridge NTS | Pre-Pauline Formula",
+        "https://www.cambridge.org/core/journals/new-testament-studies/article/abs/resurrection-of-jesus-in-the-prepauline-formula-of-1-cor-1535/B98A7CB0EDE64897CAFEE83263BE6289"
+      ],
+      [
+        "Cambridge NTS | Empty Tomb and 1 Corinthians 15",
+        "https://www.cambridge.org/core/journals/new-testament-studies/article/resurrection-in-paganism-and-the-question-of-an-empty-tomb-in-1-corinthians-15/EF4DE640BE9104A454C7847ECF899313"
+      ],
+      [
+        "Stanford Encyclopedia of Philosophy | Abduction",
+        "https://plato.stanford.edu/entries/abduction/"
+      ]
+    ]
+  },
+  "why": "This is the central historical question of Part 2. The course has already argued that God exists and miracles are possible; now it asks whether resurrection best explains what happened after Jesus’ death.",
+  "core": [
+    "The resurrection proclamation appears in the first Christian generation and is earlier than Paul’s letter to Corinth.",
+    "Early sources report appearances to individuals and groups, including Paul, who had opposed the movement.",
+    "The empty tomb is supporting physical evidence, not a stand-alone proof.",
+    "Every proposed explanation should face the same evidence: death, early proclamation, appearances, and the tomb.",
+    "Survival, theft, hallucination, and slow legend theories can explain pieces, but each leaves significant parts to be explained or requires added hypotheses.",
+    "If God exists, resurrection is not disqualified simply because it is miraculous. It can be compared with the alternatives as an explanation.",
+    "This course argues that the resurrection best explains the full pattern, while acknowledging that this is an argued historical conclusion rather than a point on which all historians agree."
+  ],
+  "pressure": [
+    [
+      "“The resurrection belief was invented generations later.”",
+      "Paul is already passing on a resurrection message in the first Christian generation and says he received it earlier. That does not prove the event, but it makes a centuries-later origin a poor fit for the central claim."
+    ],
+    [
+      "“Maybe everyone hallucinated.”",
+      "Visionary or hallucination explanations deserve consideration, but they must account for the range of reported experiences and, if the empty tomb is accepted, what happened to the body. The point is not that group experiences are psychologically impossible; it is that the explanation must cover the whole pattern."
+    ],
+    [
+      "“Maybe the body was moved or stolen.”",
+      "That could explain a missing body. It does not by itself explain why individuals and groups came to believe Jesus appeared alive or why resurrection became the message so early."
+    ],
+    [
+      "“You are assuming a miracle because you are Christian.”",
+      "The course deliberately argued for God before reaching the resurrection. If God is a serious conclusion, then divine action cannot be ruled out by definition. The resurrection still has to earn its place by explaining the evidence."
+    ],
+    [
+      "“Historians cannot prove a miracle.”",
+      "History does not give mathematical proof of ordinary events either. It compares sources and explanations. The further philosophical question is whether God’s action is a possible cause. This course argues that it is because of the case built in Part 1 and Study 10."
+    ]
+  ],
+  "limits": "The resurrection is an inference to the best explanation, not a laboratory demonstration. The historical facts themselves are not all equally certain, and scholars disagree about whether a supernatural explanation belongs in historical reasoning. The course should say clearly that resurrection is the conclusion it argues for, not a universal scholarly consensus.",
+  "practice": "Give a one-minute resurrection case that uses the whole pattern rather than one isolated fact.",
+  "model": "Jesus was crucified and died. The resurrection message appears very early. Early sources report appearances to individuals and groups, including Paul, who had opposed the movement. There is also a serious case for an empty tomb. Natural explanations can address parts of this, but they tend to leave other parts unexplained. Since we have already argued that God exists and can act, I think the resurrection best explains the whole pattern.",
+  "sources": [
+    [
+      "Reasonable Faith | The Resurrection of Jesus",
+      "https://www.reasonablefaith.org/writings/popular-writings/jesus-of-nazareth/the-resurrection-of-jesus/"
+    ],
+    [
+      "Stanford Encyclopedia of Philosophy | Abduction",
+      "https://plato.stanford.edu/entries/abduction/"
+    ]
+  ],
+  "evidence": {
+    "claim": "The resurrection is a serious historical explanation for the early proclamation, appearance reports, and empty-tomb evidence following Jesus’ death.",
+    "establishes": "The sources establish the early resurrection proclamation and reported appearances, and they provide arguments concerning the empty tomb. Explanatory reasoning then asks what best accounts for those facts together.",
+    "caution": "The final resurrection conclusion goes beyond merely listing historical data. It is an explanatory judgment, and not all historians accept a supernatural explanation.",
+    "resources": [
+      {
+        "type": "Primary source",
+        "title": "1 Corinthians 15:3–8",
+        "why": "Paul says he received and passed on the death-resurrection-appearance message.",
+        "url": "https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A3-8&version=ESV"
+      },
+      {
+        "type": "Primary source",
+        "title": "Galatians 1:18–19",
+        "why": "Paul says that after his conversion he went to Jerusalem, stayed with Peter, and met James.",
+        "url": "https://www.biblegateway.com/passage/?search=Galatians%201%3A18-19&version=ESV"
+      },
+      {
+        "type": "Scholarship",
+        "title": "Cambridge | The Resurrection of Jesus in the Pre-Pauline Formula of 1 Cor 15.3–5",
+        "why": "A scholarly discussion of the early material in 1 Corinthians 15 and the debates surrounding it.",
+        "url": "https://www.cambridge.org/core/journals/new-testament-studies/article/resurrection-of-jesus-in-the-prepauline-formula-of-1-cor-1535/B98A7CB0EDE64897CAFEE83263BE6289"
+      },
+      {
+        "type": "Primary Christian source",
+        "title": "1 Corinthians 15:3–8",
+        "why": "Paul passes on an early resurrection tradition and names individuals and groups said to have seen Jesus alive.",
+        "url": "https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A3-8&version=ESV"
+      },
+      {
+        "type": "Primary Christian source",
+        "title": "Galatians 1:13–24",
+        "why": "Paul describes his earlier persecution of the church and his later change of course.",
+        "url": "https://www.biblegateway.com/passage/?search=Galatians%201%3A13-24&version=ESV"
+      },
+      {
+        "type": "Primary Christian source",
+        "title": "2 Corinthians 11:23–28",
+        "why": "Paul describes beatings, imprisonment, danger, and other costs he says he endured while preaching Christ.",
+        "url": "https://www.biblegateway.com/passage/?search=2%20Corinthians%2011%3A23-28&version=ESV"
+      },
+      {
+        "type": "Later Gospel narratives",
+        "title": "Luke 24:36–43; John 20:24–29",
+        "why": "These accounts describe longer, physical encounters: Jesus talks with people, shows his wounds, is touched, and eats with them. They were written later than Paul’s appearance list, so they should be used as supporting evidence rather than treated as equally early.",
+        "url": "https://www.biblegateway.com/passage/?search=Luke%2024%3A36-43%3B%20John%2020%3A24-29&version=ESV"
+      },
+      {
+        "type": "Peer-reviewed study",
+        "title": "James Ware | The Resurrection of Jesus in the Pre-Pauline Formula",
+        "why": "Academic treatment of the early formula in 1 Corinthians 15 and its resurrection language.",
+        "url": "https://www.cambridge.org/core/journals/new-testament-studies/article/abs/resurrection-of-jesus-in-the-prepauline-formula-of-1-cor-1535/B98A7CB0EDE64897CAFEE83263BE6289"
+      },
+      {
+        "type": "Primary Christian source",
+        "title": "Bible reference | Mark 15–16",
+        "why": "Mark names Joseph of Arimathea, says women saw where Jesus was laid, and then describes those women returning to the tomb.",
+        "url": "https://www.biblegateway.com/passage/?search=Mark%2015-16&version=ESV"
+      },
+      {
+        "type": "Primary Christian source",
+        "title": "Bible reference | Matthew 27–28",
+        "why": "Matthew preserves the guard story and the counterclaim that the disciples stole the body.",
+        "url": "https://www.biblegateway.com/passage/?search=Matthew%2027-28&version=ESV"
+      },
+      {
+        "type": "Primary Christian source",
+        "title": "Bible reference | 1 Corinthians 15:3–8",
+        "why": "Paul’s early summary links burial and resurrection before the later Gospel narratives were written.",
+        "url": "https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A3-8&version=ESV"
+      },
+      {
+        "type": "Peer-reviewed study",
+        "title": "Cambridge NTS | The Historicity of the Empty Tomb of Jesus",
+        "why": "A scholarly treatment of the main arguments surrounding the empty-tomb tradition.",
+        "url": "https://www.cambridge.org/core/journals/new-testament-studies/article/abs/historicity-of-the-empty-tomb-of-jesus1/39C53623AC0517088951E31CF346B540"
+      },
+      {
+        "type": "Peer-reviewed study",
+        "title": "John Granger Cook | Resurrection and the Question of an Empty Tomb",
+        "why": "Explores how ancient resurrection language bears on the question of what happened to the body.",
+        "url": "https://www.cambridge.org/core/journals/new-testament-studies/article/resurrection-in-paganism-and-the-question-of-an-empty-tomb-in-1-corinthians-15/EF4DE640BE9104A454C7847ECF899313"
+      },
+      {
+        "type": "Scholarship",
+        "title": "Stanford Encyclopedia of Philosophy | Abduction",
+        "why": "Explains the basic idea of comparing explanations and choosing the one that best fits the evidence.",
+        "url": "https://plato.stanford.edu/entries/abduction/"
+      },
+      {
+        "type": "Scholarship",
+        "title": "Stanford Encyclopedia of Philosophy | Miracles",
+        "why": "Explains the philosophical issues involved in weighing miracle claims.",
+        "url": "https://plato.stanford.edu/entries/miracles/"
+      },
+      {
+        "type": "Classical apologetics reading",
+        "title": "Reasonable Faith | The Resurrection of Jesus",
+        "why": "An example of a Christian cumulative argument for the resurrection.",
+        "url": "https://www.reasonablefaith.org/writings/popular-writings/jesus-of-nazareth/the-resurrection-of-jesus/"
+      }
+    ]
+  },
+  "thoughts": [
+    "Why does an early resurrection proclamation matter?",
+    "What do the appearance reports establish before we explain them?",
+    "Why should the empty tomb not carry the whole case by itself?",
+    "What should every alternative explanation be required to explain?",
+    "Why does the earlier case for God matter when resurrection is considered?"
+  ],
+  "terms": [
+    [
+      "Resurrection",
+      "The claim that God raised Jesus from death to embodied life, not merely that his spirit survived."
+    ],
+    [
+      "Inference to the best explanation",
+      "Comparing competing explanations and asking which one best accounts for the evidence."
+    ],
+    [
+      "Early proclamation",
+      "The fact that resurrection was already part of the Christian message in its earliest period."
+    ],
+    [
+      "Appearance report",
+      "A claim that someone or a group encountered Jesus alive after his death."
+    ]
+  ],
+  "conclusion": "Remember this: the course is not asking one fact to do all the work. It argues that resurrection best explains the combined pattern of Jesus’ death, the early message, the appearances, and the empty tomb.",
+  "thread": "Study 13 established the physical starting point. Study 14 now asks the central historical question: what best explains the early resurrection message, the reported appearances, and the tomb evidence together?",
+  "bigIdea": "The resurrection case is cumulative: one explanation should account for the whole pattern, not just one piece."
+});
