@@ -22,8 +22,8 @@ function renderQuestions(){
     const progressLabel = `${moduleDone}/${module.studyIds.length} complete`;
     const quickReference = !term && (module.key === 'step1' || module.key === 'step2') ? `<article class="question-card quick-reference-card" data-open-quick="${module.key}" tabindex="0" role="button" aria-label="Open ${module.key === 'step1' ? 'Step 1' : 'Step 2'} quick reference">
         <div class="question-card-top"><span class="question-tag">QUICK REFERENCE · NOT A LESSON</span></div>
-        <h3>${module.key === 'step1' ? 'Step 1 in one minute: Why believe God exists?' : 'Step 2 in one minute: Why believe Jesus rose?'}</h3>
-        <p>${module.key === 'step1' ? 'A short review of Studies 3–9 for quick reference before a conversation or after finishing the section.' : 'A short review of Studies 11–16 for quick reference before a conversation or after finishing the section.'}</p>
+        <h3>${module.key === 'step1' ? 'Step 1 in one minute: Why believe God exists?' : 'Step 2 in one minute: Has God spoken?'}</h3>
+        <p>${module.key === 'step1' ? 'A short review of Studies 3–9 for quick reference before a conversation or after finishing the section.' : 'A short review of Studies 11–20 for quick reference before a conversation or after finishing the section.'}</p>
         <div class="card-foot">Open quick reference →</div>
       </article>` : '';
     return `<section class="learning-module ${module.core?'core-module':'bonus-module'}" data-module="${esc(module.key)}">
@@ -82,13 +82,17 @@ const memorableBigIdeas = {
   8: "If moral duties are objectively binding, a personal and necessarily good God gives them a fitting foundation.",
   9: "A worldview must explain not only why we have beliefs, but why our reasoning can be trusted to reach truth.",
   10: "If God exists, miracles cannot be ruled out before the historical evidence is considered.",
-  11: "The New Testament can be investigated as early historical testimony, including testimony connected to named eyewitnesses and the first Christian leaders.",
-  12: "The resurrection claim begins with a genuinely dead Jesus, not a survivor of crucifixion.",
-  13: "The resurrection proclamation appears too early to dismiss simply as a legend that emerged centuries later.",
-  14: "Early Christians reported encounters with the risen Jesus, and any explanation must account for those reports.",
-  15: "The empty tomb matters as one part of a cumulative case, not as a stand-alone proof.",
-  16: "The strongest explanation is the one that accounts for the whole body of evidence with the fewest unsupported additions.",
-  17: "The problem of evil raises both intellectual and personal questions, and those questions should not be confused.",
-  18: "Origins evidence is interpreted inside larger worldviews, so observations, historical inferences, and assumptions must be kept distinct.",
-  19: "Good apologetics starts by finding the real point of disagreement before choosing an argument."
+  11: "The New Testament can be used as serious first-century historical evidence before inspiration is assumed.",
+  12: "Jesus’ identity is best seen in the cumulative pattern of his claims and authority, not one isolated verse.",
+  13: "The resurrection case begins with a dead Jesus, and the empty tomb adds a physical question that needs explanation.",
+  14: "The resurrection case is cumulative: early proclamation, appearances, Paul, and the tomb have to be explained together.",
+  15: "Liar, lunatic, legend, or Lord is useful only when the real alternatives are tested rather than forced into a slogan.",
+  16: "If God raised Jesus, the resurrection is God’s vindication of Jesus’ identity and authority.",
+  17: "A divinely vindicated Jesus gives us strong reason to trust what he teaches about God and revelation.",
+  18: "Jesus receives the Old Testament as authoritative Scripture and treats it as speaking with God’s authority.",
+  19: "Jesus reaches forward to the New Testament through the apostles he commissioned and promised to guide.",
+  20: "The classical case moves from God, to Christ, to Scripture without assuming the final conclusion at the start.",
+  21: "The problem of evil raises both intellectual and personal questions, and those questions should not be confused.",
+  22: "Origins evidence is interpreted inside larger worldviews, so observations, historical inferences, and assumptions must be kept distinct.",
+  23: "Good apologetics starts by finding the real point of disagreement before choosing an argument."
 };
