@@ -1,0 +1,2 @@
+window.__styleParts = window.__styleParts || [];
+window.__styleParts.push("t:800}\n.quick-reference-list{display:grid;gap:10px;margin:22px 0}\n.quick-reference-list article{border:1px solid var(--line);padding:14px 16px;background:var(--paper)}\n.quick-reference-list strong{font-family:var(--serif);font-size:18px}\n.quick-reference-list p{margin:5px 0 0;color:var(--muted);line-height:1.55}\n");
