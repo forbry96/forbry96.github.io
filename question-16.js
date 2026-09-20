@@ -1,1 +1,119 @@
-questions.push({"id":16,"cat":"christianity","tag":"Resurrection","title":"Which explanation best fits all the evidence?","teaser":"The resurrection case is strongest when all the evidence is explained together, not one fact at a time.","lesson":{"heading":"Put all the pieces on the table at once","body":"No single fact has to carry the whole resurrection case. The question is what best explains the whole pattern.\n\nHere is the pattern built in Studies 12–15: Jesus died by crucifixion. His followers were proclaiming resurrection very early. Different people and groups were reported to have seen him alive. There is also a serious historical case that the tomb was found empty.\n\nNow compare the alternatives. The swoon theory struggles with Jesus’ death. A stolen or moved body can address an empty tomb, but not the appearance reports. Hallucination can be suggested for some experiences, but it does not explain a missing body and has difficulty with repeated reports involving different people and groups. A late legend does not fit well with how early the resurrection message appears. You can combine several natural explanations, but every added piece needs its own evidence.\n\nThe resurrection explains the whole pattern with one central claim: God raised Jesus from the dead. Earlier studies matter here. If there is already good reason to believe God exists and can act in the world, resurrection should not be rejected simply because it is miraculous. It should be compared with the other explanations on the evidence.","facts":["A strong explanation should account for all the main evidence, not just one piece.","The main pieces are Jesus’ death, the early resurrection message, the reported appearances, and the empty tomb evidence.","Natural alternatives can explain parts of the case, but usually leave other parts untouched or require several separate explanations.","If God exists, resurrection is not something we have to rule out before looking at the historical case."],"further":[["Stanford Encyclopedia of Philosophy | Abduction","https://plato.stanford.edu/entries/abduction/"],["Reasonable Faith | The Resurrection of Jesus","https://www.reasonablefaith.org/writings/popular-writings/jesus-of-nazareth/the-resurrection-of-jesus"],["Oxford Academic | The Resurrection of Jesus and Rival Explanations","https://academic.oup.com/book/38446"]]},"why":"This is where the historical case becomes cumulative. Instead of asking one fact to prove everything, compare which explanation makes the best sense of the whole set.","core":["Start with the full set: death, early proclamation, appearances, and the empty tomb.","Ask three simple questions of every explanation: How much does it explain? How naturally does it fit? How many extra assumptions does it need?","Swoon, stolen body, hallucination, and late legend each address only part of the evidence unless they are combined with other theories.","The resurrection claim has unusual reach because one event would explain why Jesus was no longer in the tomb and why his followers became convinced they had seen him alive.","The earlier case for God matters. If God is a serious possibility, then 'God raised Jesus' can be weighed as an explanation instead of being dismissed before the evidence is heard."],"pressure":[["“Maybe several natural explanations happened together.”","That is possible, but each part needs evidence. A theory should not become a stack of guesses added only because the previous guess could not explain something."],["“A miracle is always less likely than a natural explanation.”","That is only true if we already assume God is not acting. The earlier part of this course argued that God is a serious conclusion. Once that question is open, the resurrection has to be judged by how well it fits the historical evidence."],["“You are just choosing the answer Christians already believe.”","Then use the same test for every option. Does it explain Jesus’ death? The early resurrection message? The appearances? The empty tomb? Does it have evidence of its own, or is it being invented only to avoid resurrection?"],["“Even if Jesus rose, why would that support Christianity?”","Because this was not a random person returning to life. It happened in the setting of Jesus’ ministry, claims, execution, and message about God’s kingdom. If God raised Jesus, that would be a powerful confirmation of Jesus himself."]],"limits":"History cannot give mathematical proof. The conclusion is a judgment about which explanation best fits the evidence, and that judgment is also affected by whether someone thinks God is possible in the first place.","practice":"Give a one-minute case for the resurrection using the whole pattern rather than one isolated fact.","model":"I would not base the resurrection on one fact. Jesus was crucified and died. The resurrection message appears very early. Different people and groups were reported to have seen him alive. There is also a serious case for an empty tomb. Natural explanations can handle pieces of that, but they usually leave something else unexplained. If there is already good reason to believe God exists, then the resurrection is a serious explanation because one event makes sense of the whole pattern.","sources":[["Stanford Encyclopedia of Philosophy | Miracles","https://plato.stanford.edu/entries/miracles/"],["Reasonable Faith | The Resurrection of Jesus","https://www.reasonablefaith.org/writings/popular-writings/jesus-of-nazareth/the-resurrection-of-jesus/"]],"evidence":{"claim":"The resurrection case should be judged by comparing how well each explanation fits the whole body of evidence.","establishes":"Historians and people in everyday life often compare explanations by asking which one makes the most sense of the available facts with the fewest unsupported additions.","caution":"This is not automatic proof. People can disagree about how much weight to give each fact and about whether a miracle is a live possibility.","resources":[{"type":"Scholarship","title":"Stanford Encyclopedia of Philosophy | Abduction","why":"Explains the basic idea of comparing explanations and choosing the one that best fits the evidence.","url":"https://plato.stanford.edu/entries/abduction/"},{"type":"Scholarship","title":"Stanford Encyclopedia of Philosophy | Miracles","why":"Explains the philosophical issues involved in weighing miracle claims.","url":"https://plato.stanford.edu/entries/miracles/"},{"type":"Classical apologetics reading","title":"Reasonable Faith | The Resurrection of Jesus","why":"An example of a Christian cumulative argument for the resurrection.","url":"https://www.reasonablefaith.org/writings/popular-writings/jesus-of-nazareth/the-resurrection-of-jesus/"}]},"thoughts":["What four main pieces of evidence are being explained together?","Why does combining several natural theories create a new burden of evidence?","Why does the earlier case for God matter when evaluating resurrection?","What would the resurrection explain in one step that rival theories often split into separate problems?"],"terms":[["Cumulative case","An argument that grows stronger when several pieces of evidence are considered together."],["Best explanation","The explanation that makes the most sense of the evidence with the fewest unsupported additions."],["Extra assumption","A new claim added to a theory that also needs evidence of its own."],["Divine vindication","God publicly confirming a person or claim."]],"conclusion":"Remember this: compare the whole pattern. Jesus died, resurrection was proclaimed early, appearances were reported, and the tomb was said to be empty. The resurrection explains all four with one event.","thread":"Studies 12–15 built the pieces one at a time. Study 16 asks the final historical question: which explanation makes the best sense of all of them together?","bigIdea":"The resurrection case is cumulative. Its strength comes from explaining the whole pattern together."});
+questions.push({
+  "id": 16,
+  "cat": "christianity",
+  "tag": "Jesus",
+  "title": "What does the resurrection say about Jesus?",
+  "teaser": "If God raised Jesus after Jesus made extraordinary claims, the resurrection is not just a strange event. It is divine confirmation in a specific historical setting.",
+  "lesson": {
+    "heading": "The resurrection is a vindication of Jesus",
+    "body": "A resurrection would be remarkable no matter who experienced it. But the Christian argument depends on whose resurrection this was. Jesus had preached the kingdom of God, acted with unusual authority, and made claims that put his own identity at the center of his message. He was then executed.\n\nIf God raised that Jesus from the dead, the most natural Christian reading is that God was vindicating him. The resurrection would be God’s answer to the question raised by Jesus’ life and claims. It would say that Jesus was not a deceiver or a man disastrously mistaken about his authority.\n\nThis is also how miracles function in a classical apologetic. Once God’s existence is established, a genuine miracle can authenticate a messenger rather than serve as the first proof that God exists. The resurrection therefore connects Part 1 to the rest of Christianity: the God whose existence was argued for has acted in history in a way that confirms Jesus.\n\nThe conclusion still needs to be stated carefully. A bare claim that ‘someone rose’ would not automatically prove every Christian doctrine. The force comes from the event together with Jesus’ prior claims, mission, and teaching. In that setting, resurrection gives strong reason to receive Jesus as the divinely vindicated Lord.",
+    "facts": [
+      "The significance of the resurrection depends on the identity and claims of the person raised.",
+      "In the New Testament, resurrection is presented as God’s act, not Jesus merely recovering on his own.",
+      "Acts 17:31 uses the resurrection as God’s public assurance concerning the one appointed to judge.",
+      "Classical apologetics often treats miracles as signs that authenticate a messenger of revelation after God’s existence is already established.",
+      "The inference is contextual: Jesus’ claims plus God’s raising of Jesus support divine vindication."
+    ],
+    "further": [
+      [
+        "Ligonier | The Purpose of Miracles",
+        "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-purpose-of-miracles"
+      ],
+      [
+        "Reasonable Faith | Resurrection – Veritas Forum",
+        "https://www.reasonablefaith.org/videos/interviews-panels/resurrection-veritas-forum/"
+      ],
+      [
+        "Bible reference | Acts 17:30–31",
+        "https://www.biblegateway.com/passage/?search=Acts%2017%3A30-31&version=ESV"
+      ]
+    ]
+  },
+  "why": "This is the hinge of the second half. The resurrection matters not merely because a miracle occurred, but because it confirms the authority of the person whose teaching will now guide the argument to Scripture.",
+  "core": [
+    "Jesus made extraordinary claims before his death, so the resurrection occurred in a meaningful context.",
+    "If God raised Jesus, God is the actor who reverses the judgment of death and publicly vindicates Jesus.",
+    "That makes it much harder to explain Jesus as a deceiver or someone fundamentally mistaken about his mission.",
+    "In a classical apologetic, miracles authenticate a messenger after the case for God has already been made.",
+    "The resurrection therefore gives strong reason to trust Jesus’ divine authority and move from the historical case to his teaching."
+  ],
+  "pressure": [
+    [
+      "“Even if Jesus rose, that would only prove a miracle happened.”",
+      "If it were a random event with no context, that objection would be stronger. But Jesus had already made extraordinary claims about his authority and identity. God raising that person from the dead has a natural meaning: vindication."
+    ],
+    [
+      "“Why assume God raised him?”",
+      "The earlier course argued for a personal Creator, and the resurrection hypothesis itself is that God acted. The historical evidence by itself does not identify a mechanism; the theological interpretation comes from the prior case for God plus Jesus’ own context."
+    ],
+    [
+      "“Does this prove every Christian doctrine?”",
+      "No. It establishes the authority of Jesus as the next key step. We then have to ask what Jesus actually taught about God and Scripture rather than skipping those steps."
+    ],
+    [
+      "“Could God raise a false teacher?”",
+      "That would make the sign deeply misleading in the very context where Jesus’ identity and authority were at issue. The classical argument is that a genuine divine miracle functions as authentication, not divine endorsement of falsehood."
+    ]
+  ],
+  "limits": "This study argues that the resurrection vindicates Jesus in the context of his claims. It does not claim that the resurrection by itself settles every later question about doctrine, the church, or the exact New Testament canon.",
+  "practice": "A friend says, “Fine, suppose Jesus rose. How does that make Christianity true?” What is the next step in the argument?",
+  "model": "I would say the resurrection matters because of who Jesus was claiming to be. If the God we already have reason to believe in raised Jesus after those claims, that is strong reason to see God as vindicating Jesus. The next step is then to take Jesus’ teaching seriously, especially what he says about God’s Word and the people he authorizes to speak for him.",
+  "sources": [
+    [
+      "Ligonier | The Purpose of Miracles",
+      "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-purpose-of-miracles"
+    ],
+    [
+      "Reasonable Faith | Resurrection – Veritas Forum",
+      "https://www.reasonablefaith.org/videos/interviews-panels/resurrection-veritas-forum/"
+    ]
+  ],
+  "evidence": {
+    "claim": "In the context of Jesus’ claims, the resurrection functions as divine vindication of Jesus and his authority.",
+    "establishes": "The sources show the classical apologetic role of miracles as authentication and the New Testament’s own interpretation of resurrection as God’s act concerning Jesus.",
+    "caution": "The conclusion depends on the historical case for resurrection and on the earlier argument that God exists. It is not a free-standing proof detached from those steps.",
+    "resources": [
+      {
+        "type": "Classical apologetics",
+        "title": "Ligonier | The Purpose of Miracles",
+        "why": "Explains the classical view that miracles authenticate God’s messengers rather than serve as the first proof of God’s existence.",
+        "url": "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-purpose-of-miracles"
+      },
+      {
+        "type": "Resurrection significance",
+        "title": "Reasonable Faith | Resurrection – Veritas Forum",
+        "why": "Explains why Jesus’ resurrection has special force in the context of his own claims and ministry.",
+        "url": "https://www.reasonablefaith.org/videos/interviews-panels/resurrection-veritas-forum/"
+      },
+      {
+        "type": "Primary Christian source",
+        "title": "Acts 17:30–31",
+        "why": "Presents the resurrection as God’s assurance concerning the man appointed to judge.",
+        "url": "https://www.biblegateway.com/passage/?search=Acts%2017%3A30-31&version=ESV"
+      }
+    ]
+  },
+  "thoughts": [
+    "Why does the identity of the person raised matter?",
+    "How do miracles function in a classical apologetic?",
+    "Why is “vindication” stronger than merely saying something unexplained happened?",
+    "What still has to be argued after Jesus is vindicated?"
+  ],
+  "terms": [
+    [
+      "Vindication",
+      "Public confirmation that a person or claim should be regarded as right or genuine."
+    ],
+    [
+      "Authentication",
+      "Evidence that confirms someone as a genuine messenger or authority."
+    ],
+    [
+      "Divine authority",
+      "Authority that comes from God and therefore carries more than ordinary human opinion."
+    ]
+  ],
+  "conclusion": "Remember this: the resurrection is not important merely because it is miraculous. If God raised the Jesus who made these claims, the event strongly vindicates Jesus himself.",
+  "thread": "Study 15 compared the remaining explanations of Jesus. Study 16 now draws out what the resurrection means: God’s act gives us strong reason to receive Jesus as a divinely authorized Lord and teacher.",
+  "bigIdea": "The resurrection is God’s vindication of Jesus in the context of Jesus’ own claims."
+});
