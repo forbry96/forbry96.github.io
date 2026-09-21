@@ -6,13 +6,14 @@ const questions = [
     "title": "How do arguments actually work?",
     "teaser": "Learn how to find what an argument is claiming and whether its reasons really support it.",
     "lesson": {
-      "heading": "Find the conclusion, then test the support",
-      "body": "Arguments are everywhere, even when nobody calls them arguments. Someone gives a reason and wants you to accept a conclusion. Your first job is to slow that down: What are they trying to prove? What reasons are they giving?\n\nSome arguments are deductive: if the premises are true and the reasoning is valid, the conclusion must follow. Others, especially in history, compare several explanations and ask which one best fits the evidence. You will use both kinds in this course.",
+      "heading": "Five reasoning tools you will use throughout the course",
+      "body": "Christian apologetics does not begin by shouting a conclusion. It begins by asking whether there are good reasons for that conclusion.\n\nA deductive argument aims at necessity. If its form is valid and its premises are true, the conclusion must be true. That is why the distinction between validity and soundness matters: valid reasoning can still begin from a false premise.\n\nNot every important question works like a geometry proof. Historians, detectives, and scientists often use inference to the best explanation. They compare explanations by asking which one accounts for the most evidence, explains it naturally, and creates the fewest new problems.\n\nYou will also use the law of non-contradiction. Two claims that directly contradict each other cannot both be true in the same sense at the same time. That matters when someone says, for example, that all truth is relative while also insisting that this claim is universally true.\n\nFinally, remember the burden of proof. A claim needs reasons. An objection also needs reasons. Simply naming a possibility does not defeat an argument; the alternative has to be supported and shown to explain the evidence better.",
       "facts": [
-        "A premise is a reason offered in support of a conclusion.",
-        "A valid argument has the right logical structure: if the premises are true, the conclusion follows.",
-        "A sound argument is valid and has true premises.",
-        "Historical arguments often compare explanations instead of giving a strict mathematical proof."
+        "Premise = a reason offered in support of a conclusion.",
+        "Valid = the conclusion follows if the premises are true. Sound = valid reasoning plus true premises.",
+        "The law of non-contradiction says a statement and its direct denial cannot both be true in the same respect at the same time.",
+        "Inference to the best explanation asks which explanation has the strongest explanatory scope and power, not merely which one is possible.",
+        "A fallacy label is useful only when you can show what went wrong in the reasoning."
       ],
       "further": [
         [
@@ -33,24 +34,25 @@ const questions = [
         ]
       ]
     },
-    "why": "Every later lesson gives reasons for a conclusion. This lesson gives you the basic tools to follow those reasons without getting lost in technical language.",
+    "why": "Apologetics depends on arguments, but an argument is not a slogan or a debate trick. Learning a few basic reasoning tools lets you see exactly where agreement or disagreement really lies.",
     "core": [
-      "Find the conclusion: what is the argument trying to establish?",
-      "Find the premises: what reasons are offered for that conclusion?",
-      "Ask whether the conclusion really follows from those reasons.",
-      "Then ask whether the important premises are actually true."
+      "Find the conclusion: what is the person asking you to believe?",
+      "Find the premises: what reasons are being offered for that conclusion?",
+      "For a deductive argument, ask whether the conclusion follows if the premises are true.",
+      "Then ask whether the important premises are actually true or well supported.",
+      "For historical or explanatory questions, compare the main explanations and ask which one best accounts for the evidence."
     ],
     "pressure": [
       [
-        "“Everyone has assumptions.”",
-        "Yes. An assumption is not automatically bad. The question is whether it is reasonable, supported, and used consistently."
+        "“Logic is just a Western way of thinking.”",
+        "Different cultures reason in different styles, but contradiction, valid inference, and the difference between a claim and its denial are not merely cultural preferences. Any argument against logic has to use reasoning to make its case."
       ],
       [
-        "“You are just using logic to prove Christianity.”",
-        "Logic alone does not prove Christianity. It only helps us see whether the reasons offered actually support a conclusion."
+        "“Everyone has assumptions, so nobody is objective.”",
+        "Everyone begins with assumptions, but assumptions can still be compared. Ask whether they are internally consistent, fit the evidence, and explain reality better than the alternatives."
       ]
     ],
-    "limits": "Logic can show whether the reasoning works. It can’t make a weak premise true, so evidence still matters.",
+    "limits": "Logic tells us whether reasoning works. It does not make a weak premise true, so evidence still matters.",
     "practice": "Someone says, “Miracles can’t happen, so the resurrection didn’t happen.” How would you identify the argument and show where the real disagreement begins?",
     "model": "I’d separate the conclusion from the premise. The conclusion is that the resurrection did not happen. The key premise is that miracles cannot happen. Before we debate the resurrection evidence, I’d ask why that premise should be accepted.",
     "sources": [
@@ -60,41 +62,36 @@ const questions = [
       ]
     ],
     "evidence": {
-      "claim": "Arguments have conclusions supported by premises, but different kinds of reasoning justify conclusions in different ways.",
-      "establishes": "The sources below support the basic distinctions among deductive, inductive, and explanatory reasoning and explain why validity is different from evidential support.",
-      "caution": "A source on logic explains how reasoning works; it does not by itself establish any particular Christian conclusion.",
+      "claim": "Christian apologetics curricula commonly begin with logic, truth, and argument evaluation before moving to arguments for God.",
+      "establishes": "Biola, Impact Apologetics, Ligonier, and Reasonable Faith all treat sound reasoning as foundational to apologetics, including validity, truth, evidence, and explanatory reasoning.",
+      "caution": "Logic is a tool for evaluating claims; it is not itself an argument that Christianity is true.",
       "resources": [
         {
-          "type": "Scholarship",
-          "title": "Stanford Encyclopedia of Philosophy | Informal Logic",
-          "why": "Background on arguments, inference, relevance, and informal reasoning.",
-          "url": "https://plato.stanford.edu/entries/logic-informal/"
+          "type": "Curriculum",
+          "title": "Biola | Introduction to Christian Apologetics",
+          "why": "Begins with apologetics and worldview, truth, knowledge, and faith before moving to arguments for God.",
+          "url": "https://learn.biola.edu/courses/introduction-to-christian-apologetics"
         },
         {
-          "type": "Scholarship",
-          "title": "Stanford Encyclopedia of Philosophy | Abduction",
-          "why": "Explains explanatory reasoning and inference to the best explanation.",
-          "url": "https://plato.stanford.edu/entries/abduction/"
+          "type": "Curriculum",
+          "title": "Biola Catalog | Logic and Critical Thinking",
+          "why": "A formal apologetics course on distinguishing good and bad reasoning in arguments for and against Christianity.",
+          "url": "https://catalog.biola.edu/courses/csap/"
         },
         {
-          "type": "Scholarship",
-          "title": "Internet Encyclopedia of Philosophy | Critical Thinking",
-          "why": "A practical overview of evaluating reasons, assumptions, evidence, and argument quality.",
-          "url": "https://iep.utm.edu/critical-thinking/"
+          "type": "Curriculum",
+          "title": "Impact Apologetics | Why I Still Don’t Have Enough Faith to Be an Atheist",
+          "why": "Opens with thinking skills, faith and evidence, truth, and the law of non-contradiction.",
+          "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
         },
         {
-          "type": "Scholarship",
-          "title": "Internet Encyclopedia of Philosophy | Fallacies",
-          "why": "Background on recurring reasoning errors without reducing every disagreement to a fallacy label.",
-          "url": "https://iep.utm.edu/fallacy/"
+          "type": "Apologetics",
+          "title": "Reasonable Faith | The New Atheism and Five Arguments for God",
+          "why": "Explains that good arguments need valid reasoning and premises that are more plausible than their negations.",
+          "url": "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-god/the-new-atheism-and-five-arguments-for-god"
         }
       ]
     },
-    "thoughts": [
-      "What are the premise and conclusion of an argument?",
-      "What is the difference between validity and soundness?",
-      "Why do historical arguments often compare explanations rather than use strict deduction?"
-    ],
     "terms": [
       [
         "Argument",
@@ -121,9 +118,26 @@ const questions = [
         "Valid means the conclusion follows if the premises are true. Sound means the argument is valid and its premises are true."
       ]
     ],
-    "conclusion": "Find the conclusion, find the reasons, and test both. That simple habit keeps the rest of the course from becoming a pile of slogans.",
+    "conclusion": "Find the claim, find the reasons, test the connection, then test the reasons. That habit will carry you through the entire course.",
     "thread": "Before we argue about God or the resurrection, we need one basic habit: know what a claim is trying to prove and whether its reasons actually get us there.",
-    "bigIdea": "Good apologetics begins by knowing what an argument is actually claiming and whether its reasons support it."
+    "bigIdea": "A good argument gives reasons that actually support a conclusion. First test the reasoning, then test whether the reasons are true.",
+    "checkpoints": [
+      {
+        "after": "core",
+        "question": "If an argument is valid, does that automatically make its conclusion true?",
+        "answer": "No. Validity only means the conclusion follows from the premises. A sound argument also needs true premises."
+      },
+      {
+        "after": "body",
+        "question": "Why do historical arguments often compare explanations instead of giving a strict deduction?",
+        "answer": "Because historical evidence usually supports a conclusion cumulatively. We ask which explanation best accounts for the whole body of evidence."
+      },
+      {
+        "after": "facts",
+        "question": "Does proposing another possible explanation defeat an argument?",
+        "answer": "Not by itself. The alternative needs reasons and should explain the evidence at least as well as the explanation it is meant to replace."
+      }
+    ]
   },
   {
     "id": 2,
@@ -132,13 +146,14 @@ const questions = [
     "title": "How can we know something is true?",
     "teaser": "Learn how evidence can justify belief even when absolute certainty is impossible.",
     "lesson": {
-      "heading": "Match the evidence to the kind of claim",
-      "body": "You know plenty of things you did not see happen yourself. You rely on testimony, records, physical evidence, memory, and reasoning. History works the same way.\n\nThe useful question is usually not, “Can I be completely certain?” Ask instead, “What kind of evidence should we expect here, and how well does the evidence we have support the claim?” Stronger evidence should produce stronger confidence. Weaker evidence should produce more caution.",
+      "heading": "Truth, certainty, and historical knowledge",
+      "body": "A common obstacle in apologetics is the claim that truth is personal: “Christianity may be true for you, but not for me.” Preferences can be personal. Truth claims are different. If Jesus rose from the dead, he did so whether either of us likes the fact or believes it.\n\nSome forms of relativism defeat themselves. The statement “there is no objective truth” is itself presented as an objective truth. The statement “nobody can know truth” asks us to know at least that one truth. This does not settle every disputed claim, but it clears the ground for asking what is actually true.\n\nWe also need to separate knowledge from certainty. Ordinary life would become impossible if we required mathematical certainty before believing anything. We reasonably know things through multiple kinds of evidence and adjust our confidence to the quality of that evidence.\n\nHistory works the same way. We do not dismiss the existence of Julius Caesar because nobody alive today watched him cross the Rubicon. We use documents, testimony, archaeology, cultural context, and explanatory comparison. The resurrection will later be examined as a historical claim using those same kinds of tools.",
       "facts": [
-        "Truth is about what is actually the case; evidence is about our reasons for believing it.",
-        "Testimony is a normal source of knowledge, but testimony must still be evaluated.",
-        "Different claims call for different kinds of evidence.",
-        "Reasonable belief does not require absolute certainty."
+        "Objective truth does not depend on a person’s preference or sincerity.",
+        "Self-defeating claims undermine themselves when they must be true in order to say that truth cannot be known.",
+        "Reasonable knowledge can be strong without being infallible or absolutely certain.",
+        "Testimony is a normal source of knowledge, though testimony should be evaluated for access, independence, consistency, motive, and corroboration.",
+        "Historical conclusions are normally cumulative: several lines of evidence can reinforce one another."
       ],
       "further": [
         [
@@ -151,24 +166,25 @@ const questions = [
         ]
       ]
     },
-    "why": "Later lessons use testimony, documents, scientific evidence, and historical reasoning. You need a fair standard for judging all of them.",
+    "why": "Before weighing evidence for God or Jesus, we need a workable view of truth and knowledge. Otherwise every disagreement can collapse into “that is true for you.”",
     "core": [
-      "Identify the kind of claim being made.",
-      "Ask what kind of evidence could reasonably support or weaken that claim.",
-      "Compare the quality of the evidence and the main alternatives.",
-      "Believe with a level of confidence that matches the evidence."
+      "Truth is what corresponds to reality: a claim is true if things really are the way the claim says they are.",
+      "Contradictory claims cannot both be true in the same sense at the same time.",
+      "Knowing something does not require being unable to imagine any possibility of error.",
+      "Beliefs can be rationally justified by perception, testimony, memory, documents, physical evidence, and good inference.",
+      "Historical knowledge is real knowledge even though we cannot directly observe the past."
     ],
     "pressure": [
       [
-        "“If you did not see it yourself, you cannot know it.”",
-        "That rule would erase most historical knowledge. The better question is whether the testimony and other evidence are good enough."
+        "“That may be true for you.”",
+        "Ask whether the claim is a preference or a claim about reality. If two people disagree about whether an event happened, both beliefs may be sincerely held, but they cannot both describe the event correctly."
       ],
       [
-        "“Faith means believing without evidence.”",
-        "Some people use the word that way, but Christian faith need not mean belief without reasons. The relevant question is what grounds a particular belief and whether those grounds are adequate."
+        "“You were not there, so you cannot know.”",
+        "Most of what we know about history comes through evidence rather than personal observation. The real question is whether the surviving evidence is good enough to justify the conclusion."
       ]
     ],
-    "limits": "The point here is to learn a fair way to judge claims, not to decide Christianity in advance.",
+    "limits": "Do not promise certainty that the evidence cannot give. The goal is warranted belief proportioned to the evidence.",
     "practice": "Someone says, “You were not there two thousand years ago, so you can’t know anything about Jesus.” How would you explain why historical knowledge can still be rational?",
     "model": "We know many past events without seeing them ourselves. We use early documents, testimony, physical evidence, corroboration, and competing explanations. The right question isn’t whether I personally witnessed the event, but whether the surviving evidence is strong enough to justify the conclusion.",
     "sources": [
@@ -178,29 +194,36 @@ const questions = [
       ]
     ],
     "evidence": {
-      "claim": "Rational belief does not require mathematical certainty, and testimony is a normal source of human knowledge.",
-      "establishes": "These references give a philosophical basis for distinguishing truth, justification, evidence, testimony, and certainty.",
-      "caution": "Epistemology does not tell us which religion is true by itself; it helps establish standards for rational belief.",
+      "claim": "Introductory apologetics curricula regularly place truth, knowledge, worldview, and evidence before the positive case for Christianity.",
+      "establishes": "Biola explicitly teaches “Worldview: Truth, Knowledge, and Faith,” while Impact Apologetics teaches the law of non-contradiction, self-defeating relativism, and how truth is known. Stand to Reason likewise treats rational warrant as central to Christian claims.",
+      "caution": "Pointing out that relativism can be self-defeating does not prove Christianity; it establishes that objective truth and rational investigation remain meaningful.",
       "resources": [
         {
-          "type": "Scholarship",
-          "title": "Stanford Encyclopedia of Philosophy | Epistemology",
-          "why": "Background on knowledge, justification, evidence, and related epistemological questions.",
-          "url": "https://plato.stanford.edu/entries/epistemology/"
+          "type": "Curriculum",
+          "title": "Biola | Introduction to Christian Apologetics",
+          "why": "Includes a full module on worldview, truth, knowledge, and faith.",
+          "url": "https://learn.biola.edu/courses/introduction-to-christian-apologetics"
         },
         {
-          "type": "Scholarship",
-          "title": "Stanford Encyclopedia of Philosophy | Epistemological Problems of Testimony",
-          "why": "Explains why testimony is a major source of knowledge and why philosophers debate how testimonial justification works.",
-          "url": "https://plato.stanford.edu/entries/testimony-episprob/"
+          "type": "Curriculum",
+          "title": "Impact Apologetics | Why I Still Don’t Have Enough Faith to Be an Atheist",
+          "why": "Lesson 2 covers how truth is known, non-contradiction, and the Road Runner tactic for self-defeating claims.",
+          "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
+        },
+        {
+          "type": "Apologetics",
+          "title": "Stand to Reason | Is It Rational to Believe in God?",
+          "why": "Discusses rationality, warrant, and Christian truth claims.",
+          "url": "https://www.str.org/w/is-it-rational-to-believe-in-god-"
+        },
+        {
+          "type": "Course notes",
+          "title": "Reasonable Faith | Foundations",
+          "why": "Treats reason, evidence, worldview, and apologetic method before specific arguments.",
+          "url": "https://www.reasonablefaith.org/images/uploads/01-foundations-final.pdf"
         }
       ]
     },
-    "thoughts": [
-      "Why does knowledge not require absolute certainty?",
-      "What kinds of evidence can justify a historical belief?",
-      "Why should confidence track the strength of the evidence?"
-    ],
     "terms": [
       [
         "Truth",
@@ -223,9 +246,26 @@ const questions = [
         "Complete absence of doubt. Many reasonable beliefs do not reach this level."
       ]
     ],
-    "conclusion": "You don’t need mathematical certainty before you can know something reasonably. Match your confidence to the kind and strength of the evidence.",
+    "conclusion": "Truth is not created by belief, and knowledge does not require omniscience. That gives us room to investigate God and Christianity as real questions about reality.",
     "thread": "Good reasoning still needs evidence. So before we ask whether God exists, we need to know what counts as a fair reason for believing something.",
-    "bigIdea": "We can have rational knowledge without absolute certainty when the evidence fits the kind of claim being made."
+    "bigIdea": "Truth is about reality, not preference. We can know many things reasonably without having absolute certainty.",
+    "checkpoints": [
+      {
+        "after": "core",
+        "question": "What is the difference between a preference and a truth claim?",
+        "answer": "A preference reports what someone likes or chooses. A truth claim says something about reality and can be true or false regardless of anyone’s preference."
+      },
+      {
+        "after": "body",
+        "question": "Why is “nobody can know truth” self-defeating?",
+        "answer": "Because the speaker is asking us to know that very statement is true."
+      },
+      {
+        "after": "facts",
+        "question": "Do we need absolute certainty before we can know something historically?",
+        "answer": "No. Historical knowledge is justified by the quality and convergence of evidence, even though it is not mathematical certainty."
+      }
+    ]
   },
   {
     "id": 3,
@@ -234,13 +274,14 @@ const questions = [
     "title": "Why is there something rather than nothing?",
     "teaser": "If dependent things do not explain themselves, what ultimately explains reality?",
     "lesson": {
-      "heading": "Ask what reality ultimately depends on",
-      "body": "Once we know how to test an argument, we can ask the first big question about God: why is there anything at all?\n\nSome things clearly depend on other things. A tree depends on soil, water, prior life, and a world in which trees can grow. Philosophers call things like this contingent: they exist, but they do not have to exist, and they do not explain their own existence.\n\nNow widen the question. If every part of reality were dependent, we could still ask what the whole thing depends on. An endless chain of borrowed existence never gives you something that has existence in itself. The contingency argument says there must be an ultimate reality that does not depend on anything beyond itself. Christians call that necessary, self-existent reality God.\n\nThis is not an argument about the age of the universe. Even an eternal universe would still need an explanation if its existence were dependent.",
+      "heading": "The argument from contingency",
+      "body": "One common Christian formulation comes from Leibniz. Everything that exists has an explanation of its existence, either in the necessity of its own nature or in something outside itself. The universe exists. If the universe is contingent rather than necessary, its explanation must lie beyond itself.\n\nStart with ordinary examples. A tree exists because of prior life, soil, water, sunlight, and a world with the right conditions. You exist because of parents, food, oxygen, and countless other conditions. None of these things has existence in itself.\n\nNow widen the question. Suppose every part of the universe depends on something else. Adding dependent things together does not suddenly produce something self-existent. Nor does making the chain infinitely long answer why there is a chain of dependent reality at all.\n\nThe argument therefore points to a necessary being: something that exists through its own nature and does not receive existence from anything else. In classical Christian language this is God’s aseity or self-existence.\n\nThis argument is different from the Kalam. Contingency asks why dependent reality exists at all. Kalam asks whether the universe began to exist. An eternal universe could still be contingent.",
       "facts": [
-        "Contingent means dependent and able not to exist.",
-        "Necessary means not dependent on another reality for existence.",
-        "Contingency arguments contend that a chain made only of dependent realities still does not provide an ultimate explanation of why dependent reality exists.",
-        "An eternal universe would not automatically be a necessary universe."
+        "Contingent means dependent and not necessary in itself.",
+        "Necessary being means a reality that does not depend on anything else for its existence.",
+        "The principle of sufficient reason expresses the intuition that contingent reality calls for an adequate explanation.",
+        "An infinite regress of dependent explanations would still consist entirely of things that do not explain their own existence.",
+        "The argument aims first at a necessary foundation; later arguments add further features of the God of classical theism."
       ],
       "further": [
         [
@@ -253,25 +294,25 @@ const questions = [
         ]
       ]
     },
-    "why": "This is the first move in the case for God: dependent reality needs an ultimate foundation that is not itself dependent.",
+    "why": "The contingency argument asks the deepest explanatory question: why is there any dependent reality at all rather than nothing?",
     "core": [
-      "Contingent or dependent things exist.",
-      "A dependent thing does not contain the complete reason for its own existence.",
-      "The contingency argument says that adding more dependent realities, even indefinitely, does not by itself supply a non-dependent explanation of the whole dependent order.",
-      "There must therefore be an ultimate reality that is not dependent on anything beyond itself—a necessary or primary cause.",
-      "A self-existent God is a strong candidate for this necessary foundation of all contingent reality."
+      "Things in the world are contingent: they exist, but they could have failed to exist and depend on conditions beyond themselves.",
+      "A contingent reality needs an explanation of why it exists rather than not.",
+      "The universe is not made less contingent simply by collecting all contingent things together or extending the chain indefinitely.",
+      "So the ultimate explanation of contingent reality must be a necessary reality whose existence is not borrowed from something else.",
+      "A necessary, self-existent foundation is the kind of reality classical theism calls God."
     ],
     "pressure": [
       [
-        "“The universe could simply be eternal.”",
-        "That would answer how long it has existed, not whether it depends on anything else. Eternal and necessary are different claims."
+        "“Who created God?”",
+        "The argument does not say everything needs a creator. It distinguishes contingent beings from a necessary being. If God is the necessary foundation, asking for a cause of God misunderstands the conclusion."
       ],
       [
-        "“Who caused God?”",
-        "The argument is not that everything has a cause. It argues that dependent reality requires an ultimate non-dependent foundation."
+        "“Maybe the universe is just a brute fact.”",
+        "That is possible to say, but it gives up the search for an explanation at precisely the point where the largest contingent reality is in view. The argument asks whether a necessary foundation explains the existence of the contingent universe better than stopping with an unexplained brute fact."
       ]
     ],
-    "limits": "The main question is simple: what ultimately explains dependent reality? Later lessons build from that answer toward the fuller Christian case.",
+    "limits": "The contingency argument establishes a necessary foundation of dependent reality. Do not make it prove the resurrection, Trinity, or Scripture by itself.",
     "practice": "A friend says, “Maybe the universe has always existed, so God is unnecessary.” How would you use the contingency argument to show why that doesn’t answer the deeper question?",
     "model": "I’d separate age from dependence. Something could exist forever and still depend on something else for its existence. The contingency argument asks why dependent reality exists at all. An endless collection of dependent things still leaves us asking what ultimately holds it all up.",
     "sources": [
@@ -281,35 +322,36 @@ const questions = [
       ]
     ],
     "evidence": {
-      "claim": "Contingency reasoning asks whether dependent reality ultimately requires a non-dependent, necessary foundation or primary cause.",
-      "establishes": "The sources explain cosmological arguments from contingency and the classical distinction between a temporal first event and a primary or sustaining cause.",
-      "caution": "An eternal universe would not automatically defeat this argument, because eternal duration and necessary existence are different claims. The disputed premises concern contingency, explanation, and whether the universe itself could be necessary.",
+      "claim": "Christian treatments commonly formulate contingency around dependent beings, explanation, and a necessary self-existent reality.",
+      "establishes": "Reasonable Faith uses a Leibnizian explanation argument, while Ligonier emphasizes necessary being and aseity. Introductory curricula place the cosmological argument early in the cumulative case for God.",
+      "caution": "The principle of sufficient reason and the inference from the universe’s contingency are philosophical claims that should be defended, not simply assumed.",
       "resources": [
         {
-          "type": "Scholarship",
-          "title": "Stanford Encyclopedia of Philosophy | Cosmological Argument",
-          "why": "Primary scholarly overview of contingency, causal, and explanatory forms of cosmological argument.",
-          "url": "https://plato.stanford.edu/entries/cosmological-argument/"
+          "type": "Apologetics",
+          "title": "Reasonable Faith | Argument from Contingency",
+          "why": "Gives a standard Leibnizian formulation using explanation, necessity, and God.",
+          "url": "https://www.reasonablefaith.org/writings/question-answer/argument-from-contingency/"
         },
         {
-          "type": "Classical apologetics reading",
-          "title": "Reasonable Faith | Cosmological arguments",
-          "why": "An accessible Christian defense of cosmological reasoning for further study.",
-          "url": "https://www.reasonablefaith.org/"
+          "type": "Teaching series",
+          "title": "Ligonier | Necessary Being",
+          "why": "Treats the move from dependent reality to a necessary being in classical theism.",
+          "url": "https://learn.ligonier.org/series/defending-your-faith/necessary-being"
         },
         {
-          "type": "Primary source",
-          "title": "Aquinas | Summa Theologiae I, Q.2",
-          "why": "A classic medieval source for cosmological reasoning, including the argument from contingency.",
-          "url": "https://www.newadvent.org/summa/1002.htm"
+          "type": "Reference",
+          "title": "Ligonier | What Is the Aseity of God?",
+          "why": "Explains God as the necessary being who exists in Himself rather than through another.",
+          "url": "https://learn.ligonier.org/qas/what-is-the-aseity-of-god"
+        },
+        {
+          "type": "Curriculum",
+          "title": "Biola | Introduction to Christian Apologetics",
+          "why": "Places arguments for God within a broader apologetic progression.",
+          "url": "https://learn.biola.edu/courses/introduction-to-christian-apologetics"
         }
       ]
     },
-    "thoughts": [
-      "What is the difference between a contingent thing and a necessary reality?",
-      "Why would an eternal universe still leave the contingency question open?",
-      "What conclusion does the contingency argument draw from dependent reality?"
-    ],
     "terms": [
       [
         "Contingent",
@@ -332,9 +374,26 @@ const questions = [
         "An argument that reasons from features of the universe or dependent reality to an ultimate cause or explanation."
       ]
     ],
-    "conclusion": "Dependent things don’t explain their own existence. The contingency argument points to a self-existent reality that doesn’t borrow existence from anything else. That is the kind of reality Christians mean by God.",
+    "conclusion": "Dependent reality points beyond itself. The contingency argument gives us a necessary, self-existent foundation rather than an unexplained universe that somehow exists on its own.",
     "thread": "Now we turn from the tools to reality itself. Why is there anything here at all?",
-    "bigIdea": "Things that depend on something else for their existence point to a reality that does not depend on anything else."
+    "bigIdea": "Contingent things do not contain the reason for their existence in themselves. The dependent universe points to a necessary, self-existent foundation.",
+    "checkpoints": [
+      {
+        "after": "core",
+        "question": "Could something exist forever and still be contingent?",
+        "answer": "Yes. Duration and dependence are different questions. Something could have no first moment and still depend on something else for its existence."
+      },
+      {
+        "after": "body",
+        "question": "Why does an endless chain of dependent things not answer the contingency question?",
+        "answer": "Because every member of the chain would still have borrowed existence. The question remains why that entire dependent order exists at all."
+      },
+      {
+        "after": "facts",
+        "question": "What kind of reality does the argument ultimately require?",
+        "answer": "A necessary, self-existent reality that does not receive existence from anything beyond itself."
+      }
+    ]
   },
   {
     "id": 4,
@@ -343,14 +402,14 @@ const questions = [
     "title": "Did the universe begin to exist?",
     "teaser": "The Kalam asks a simple question: if the universe began to exist, what caused it?",
     "lesson": {
-      "heading": "Why take a beginning seriously?",
-      "body": "The Kalam is easy to state:\n\n1. Whatever begins to exist has a cause.\n2. The universe began to exist.\n3. Therefore, the universe has a cause.\n\nThe key question is whether the universe really had a beginning. Kalam defenders give both philosophical and scientific reasons for taking that seriously. Philosophically, they argue that the past cannot be an actually completed infinite series of events. Scientifically, the observable universe is expanding and traces back to a much hotter, denser state.\n\nIf physical space, time, matter, and energy began, then their ultimate cause cannot simply be another physical thing inside the universe. The argument points beyond the physical order to a transcendent cause.\n\nTechnical questions about Big Bang models, inflation, and the Borde-Guth-Vilenkin theorem are worth studying, but they belong in the deeper evidence section. The three-step argument above is the part worth remembering.",
+      "heading": "Defend the two premises, then ask what follows",
+      "body": "The first premise rests on a basic causal intuition: things do not simply pop into existence from nothing without a cause. “Nothing” has no properties, powers, laws, or potential waiting to produce a universe.\n\nThe second premise is defended in two broad ways. Philosophically, Kalam defenders argue against an actually infinite series of past events and against forming an actual infinite by successive addition. Scientifically, the observable universe is expanding and traces back to a hot, dense early state. Contemporary cosmology contains competing models and technical debates, so the scientific evidence should support the premise rather than be treated as a one-theory proof.\n\nThe Borde-Guth-Vilenkin theorem is useful but easy to overstate. Under its stated condition, a spacetime with positive average expansion is past-incomplete. It does not by itself prove creation from nothing or settle every cosmological model.\n\nOnce the conclusion is reached, ask what sort of cause could explain the beginning of the physical universe. If the physical order began, its ultimate cause cannot be made of the very matter, space, and time being explained. That points to a transcendent and immensely powerful cause.\n\nMany classical defenders add an argument for personality: if a sufficient cause exists without a beginning but produces a first temporal effect, an agent with freedom is a natural way to explain why the effect is not eternally co-present with the cause.",
       "facts": [
         "The Kalam argues for a beginning, not a particular age of the universe.",
-        "Cosmic expansion and the cosmic microwave background are major observations used in standard hot-Big-Bang cosmology.",
-        "The Borde-Guth-Vilenkin theorem shows past-incompleteness for sufficiently expanding spacetimes under its stated condition; it does not by itself prove creation ex nihilo.",
-        "Kalam defenders also use philosophical arguments against an actually infinite temporal past.",
-        "If physical reality began, its ultimate cause must be beyond the physical reality being explained."
+        "Premise 1 is narrower than “everything has a cause”; it applies to what begins to exist.",
+        "Philosophical defenses of premise 2 often use the problems of an actual infinite past and successive addition.",
+        "Scientific evidence includes cosmic expansion and a hot, dense early universe, while technical cosmology remains more complex than a single slogan.",
+        "BGV supports past-incompleteness under a condition of average expansion; it is not a stand-alone proof of creation ex nihilo."
       ],
       "further": [
         [
@@ -367,27 +426,27 @@ const questions = [
         ]
       ]
     },
-    "why": "If the universe began, it cannot be the ultimate explanation of its own beginning. That points beyond nature to a Creator.",
+    "why": "Kalam is memorable because the form is simple, but the real work is defending the two premises and then asking what a cause of the physical universe would have to be like.",
     "core": [
-      "Step 1: Whatever begins to exist has a cause of its beginning.",
-      "Step 2: The universe began to exist.",
-      "Step 3: Therefore, the universe has a cause of its beginning.",
-      "If physical space, time, matter, and energy began, their ultimate cause cannot simply be another physical object inside the same order.",
-      "The argument therefore points to a transcendent and immensely powerful Creator."
+      "Premise 1: Whatever begins to exist has a cause of its beginning.",
+      "Premise 2: The universe began to exist.",
+      "Conclusion: Therefore, the universe has a cause of its beginning.",
+      "If space, time, matter, and energy began with the universe, the ultimate cause cannot simply be another physical object within the universe.",
+      "The cause must be transcendent to the physical universe and powerful enough to bring it into being; many defenders also argue that a personal cause best explains a first temporal effect."
     ],
     "pressure": [
       [
-        "“Who caused God?”",
-        "The Kalam does not say that everything has a cause. It says that whatever begins to exist has a cause. If the ultimate cause is beginningless, the first premise does not require a cause of that cause."
+        "“Maybe things really can come from nothing.”",
+        "Examples from quantum physics do not describe literal nothing; they involve physical states, fields, laws, or mathematical structures. The premise concerns coming into being without any cause or reality at all."
       ],
       [
         "“The Big Bang does not prove God.”",
-        "Correct. The Christian case should not rest on treating one cosmological model as a proof of God. The Kalam combines a causal principle, reasons for a beginning, and the conclusion that a beginning of physical reality requires a cause beyond physical reality."
+        "Agreed. Kalam does not rest on treating one cosmological model as a proof of God. The scientific case supports the beginning premise alongside philosophical arguments, and the theological inference comes after the causal conclusion."
       ]
     ],
-    "limits": "Do not make one scientific model carry the whole argument. The Kalam rests on a causal principle plus reasons for thinking the universe had a beginning.",
-    "practice": "A friend says, “Even if the universe began, why think it needed a cause?” How would you defend the first step of the Kalam?",
-    "model": "I’d start with the ordinary causal principle behind the argument: things do not simply pop into existence from nothing without a cause. If the universe began to exist, asking what caused it is not a special rule invented for God; it is the same kind of question we ask whenever something begins.",
+    "limits": "Do not turn one cosmological theorem or model into the whole argument. The strength of Kalam comes from the simple causal form plus several independent reasons for a beginning.",
+    "practice": "Someone says, “If everything needs a cause, then God needs a cause too.” How would you state the Kalam accurately and answer the objection?",
+    "model": "I’d start by correcting the premise. Kalam does not say everything needs a cause; it says whatever begins to exist has a cause. The universe began to exist, so it needs a cause. God is being proposed as the beginningless cause, not as another thing that began inside the chain.",
     "sources": [
       [
         "NASA Science | Universe Overview",
@@ -403,35 +462,42 @@ const questions = [
       ]
     ],
     "evidence": {
-      "claim": "The evidence relevant to the Kalam gives philosophical and scientific reasons for taking a finite cosmic past seriously.",
-      "establishes": "Philosophical arguments challenge an actually infinite temporal past. Observational cosmology supplies evidence of expansion and a hot, dense early state, while BGV shows past-incompleteness for sufficiently expanding spacetimes under its stated condition. None of those points proves Christianity by itself, but together they support the premise that physical reality is not an eternal, self-existing order.",
-      "caution": "Big Bang cosmology and BGV should not be presented as though either one, by itself, proves creation from nothing. They are pieces of the case for a beginning, not substitutes for the whole argument.",
+      "claim": "Standard Kalam treatments defend the causal premise, defend the universe’s beginning on philosophical and scientific grounds, and then analyze what the cause must be like.",
+      "establishes": "Reasonable Faith’s dedicated Kalam curriculum explicitly follows that structure. Biola and Impact Apologetics use the same three-step formulation, while Ligonier places cosmological causation within the classical case for God.",
+      "caution": "Cosmological evidence is relevant to premise 2, but no single scientific model or theorem should be presented as though it proves the entire Christian doctrine of creation.",
       "resources": [
         {
-          "type": "Philosophy",
-          "title": "Stanford Encyclopedia of Philosophy | Cosmological Argument",
-          "why": "Explains the Kalam, the philosophical case for a beginning, and the move from a beginning to a transcendent cause.",
-          "url": "https://plato.stanford.edu/entries/cosmological-argument/"
+          "type": "Curriculum",
+          "title": "Reasonable Faith Equip | The Kalam Cosmological Argument",
+          "why": "A full course defending each premise, the beginning of the universe, properties of the cause, and major objections.",
+          "url": "https://equip.reasonablefaith.org/courses/apologetics-201-the-kalam-cosmological-argument/"
         },
         {
-          "type": "Cosmology paper",
+          "type": "Curriculum",
+          "title": "Impact Apologetics | Cosmological Argument",
+          "why": "The curriculum presents the argument, scientific evidence, the “something from nothing” objection, and Q&A.",
+          "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
+        },
+        {
+          "type": "Apologetics",
+          "title": "Reasonable Faith | The Existence of God and the Beginning of the Universe",
+          "why": "Develops the philosophical and scientific defenses of a finite past.",
+          "url": "https://www.reasonablefaith.org/writings/scholarly-writings/the-existence-of-god/the-existence-of-god-and-the-beginning-of-the-universe/"
+        },
+        {
+          "type": "Biola",
+          "title": "Biola | Confusing the Leibnizian and Kalam Arguments",
+          "why": "Clearly distinguishes Kalam from contingency and corrects the “everything has a cause” misunderstanding.",
+          "url": "https://www.biola.edu/blogs/good-book-blog/2017/confusing-the-leibnizian-and-kalam-cosmological-arguments"
+        },
+        {
+          "type": "Primary paper",
           "title": "Borde, Guth & Vilenkin | Inflationary spacetimes are not past-complete",
-          "why": "Supports the specific past-incompleteness point used in the lesson without claiming the theorem proves creation from nothing.",
+          "why": "The theorem commonly cited in scientific support, useful when stated within its actual scope.",
           "url": "https://arxiv.org/abs/gr-qc/0110012"
-        },
-        {
-          "type": "Mainstream cosmology",
-          "title": "NASA Science | Hubble and the Big Bang",
-          "why": "Shows how mainstream cosmology interprets expansion and the hot early universe. Its age estimate is presented as the standard model’s chronology, not as the course’s doctrinal position.",
-          "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/"
         }
       ]
     },
-    "thoughts": [
-      "State the Kalam in three steps.",
-      "Why does the first premise not imply that God also needs a cause?",
-      "If the physical universe began, why must its ultimate cause be beyond the physical universe?"
-    ],
     "terms": [
       [
         "Kalam cosmological argument",
@@ -450,9 +516,26 @@ const questions = [
         "Beyond or not contained within the physical universe being explained."
       ]
     ],
-    "conclusion": "If the physical universe began, it cannot be the cause of its own beginning. The Kalam points beyond nature to a transcendent Creator.",
+    "conclusion": "Kalam gives a simple but substantial result: if the physical universe began, it has a cause beyond the physical universe itself.",
     "thread": "Contingency asks why reality exists. Kalam asks a different question: did the universe itself have a beginning?",
-    "bigIdea": "If the universe began to exist, it requires a cause beyond the physical universe."
+    "bigIdea": "Whatever begins to exist has a cause. The universe began to exist. Therefore, the universe has a cause beyond itself.",
+    "checkpoints": [
+      {
+        "after": "core",
+        "question": "Why does “Who caused God?” miss the first premise of the Kalam?",
+        "answer": "Because the premise is not “everything has a cause.” It says that whatever begins to exist has a cause. A beginningless cause is not covered by that premise."
+      },
+      {
+        "after": "body",
+        "question": "What are the two broad kinds of support normally given for the universe’s beginning?",
+        "answer": "Philosophical arguments about an infinite past and scientific evidence from cosmology."
+      },
+      {
+        "after": "facts",
+        "question": "If the physical universe began, what can we infer about its ultimate cause?",
+        "answer": "It cannot simply be another physical object inside the universe. It must transcend the physical order it causes and possess enormous causal power."
+      }
+    ]
   },
   {
     "id": 5,
@@ -461,13 +544,14 @@ const questions = [
     "title": "Does design point to a Designer?",
     "teaser": "Nature is full of parts working together to do something. Does that kind of design point to a mind, or can unguided processes explain it just as well?",
     "lesson": {
-      "heading": "When parts work together for a purpose",
-      "body": "The design argument starts with something familiar: parts arranged so that together they do a job.\n\nThink of a watch. What matters is not simply that it has many pieces. Its parts are fitted together so the watch can keep time. We recognize that kind of arrangement because minds regularly produce it.\n\nLiving things are full of organized function. In the eye, different structures handle light, focus it, detect it, and send signals so that we can see. Inside a cell, other systems store information, copy it, repair it, move materials, and build proteins.\n\nThe argument is not, “This is complicated, so God did it.” The point is that intelligence is a cause we already know can arrange parts toward a goal. So when we find systems whose parts are fitted together to accomplish a function, design is a real explanation to consider.\n\nNatural selection is an important part of the opposing biological explanation, but it should not take over this lesson. The main question here is whether purposeful organization fits better with a reality that comes from mind or with a reality that is ultimately unguided.",
+      "heading": "From order and purpose to intelligence",
+      "body": "The classic illustration is Paley’s watch. A watch is not recognized as designed merely because it has many pieces. Its pieces are arranged so that together they keep time. The important feature is functional coordination.\n\nThat is the heart of the teleological argument. “Teleology” refers to purpose or goal-directedness. When different parts are fitted together to accomplish an end, intelligence is a known kind of cause capable of producing that result.\n\nThe argument should not be reduced to “I do not know how this happened, therefore God.” A positive design inference begins with what we do know about causal powers. Minds write instructions, plan toward goals, and arrange parts so they work together. The question is whether features of nature display patterns for which intelligent causation is a better explanation.\n\nAt the broadest level, nature is orderly enough to be described by stable mathematical laws. Living systems add layers of functional organization. The next two lessons make those observations more precise: cosmic fine-tuning asks about the life-permitting setup of the universe, and biological design asks about information and molecular machinery.\n\nNatural selection is relevant when biological design is discussed, but it should not erase the larger causal question by definition. If a proposed natural mechanism explains a feature, that counts in its favor. If intelligence has greater explanatory power for another feature, that also deserves consideration.",
       "facts": [
-        "Design arguments focus on purposeful arrangement and coordinated function, not complexity by itself.",
-        "Living systems contain many distinct structures whose activities converge on useful functions.",
-        "Intelligent agents are directly known to arrange parts, symbols, and processes toward intended ends.",
-        "That known causal power makes intelligence a positive explanatory candidate when functionally organized systems are encountered."
+        "Teleological means related to purpose, goal, or end.",
+        "Paley’s watch illustrates functional arrangement, not mere complexity.",
+        "A positive design inference appeals to a known causal power of intelligence rather than only to a gap in current knowledge.",
+        "Design arguments can be made at several levels: the order of nature, fine-tuning, and biological information or machinery.",
+        "The strength of a design argument depends on comparing relevant causes, not simply asserting that something looks impressive."
       ],
       "further": [
         [
@@ -484,25 +568,25 @@ const questions = [
         ]
       ]
     },
-    "why": "The question is not whether living things can change. It is whether unguided change is enough to explain systems whose parts fit together to do a job.",
+    "why": "The design argument asks whether organized purpose in nature is better explained as the product of mind or as the unintended result of impersonal processes.",
     "core": [
-      "Look for organized function, not mere complexity.",
-      "Living systems contain many parts whose different jobs converge on a common end.",
-      "Intelligence is a known cause of goal-directed organization because minds can choose an end and arrange means to reach it.",
-      "The design inference therefore asks whether the pattern is better explained by mind or by unguided processes with no foresight.",
-      "In the cumulative case, purposeful organization fits naturally with a universe whose ultimate source is intelligent."
+      "Do not argue from complexity alone. Look for parts arranged together to accomplish a function.",
+      "We know from ordinary experience that intelligent agents can produce functionally organized systems.",
+      "Nature contains stable laws, mathematical order, and living systems whose parts work together toward ends.",
+      "A design argument compares causes: does intelligence or an unguided process better explain the relevant pattern?",
+      "This lesson gives the general design inference; fine-tuning and biological information make the argument more specific in the next studies."
     ],
     "pressure": [
       [
-        "“Doesn’t natural selection explain apparent design?”",
-        "Natural selection is part of the evolutionary explanation offered for biological adaptation. The design argument asks the further causal question: do unguided mechanisms adequately account for the origin of the coordinated systems and information being explained? Study 7 takes that question inside the cell."
+        "“Natural selection explains design.”",
+        "Natural selection is an important proposed explanation for biological adaptations. The apologetic task is to ask what it can actually explain and then compare it with design for the specific feature under discussion."
       ],
       [
-        "“Why say mind fits better?”",
-        "Because minds are independently known to produce functionally specified arrangements. We are not inferring design merely because something is complicated; we are comparing the kind of effect with causes known to produce that kind of organization."
+        "“This is just an argument from ignorance.”",
+        "It would be an argument from ignorance if the case were only “science has no answer.” A stronger design argument points to positive features associated with intelligent causation and compares competing causes."
       ]
     ],
-    "limits": "Stay focused on organized function. Study 7 will look more closely at information and molecular machinery inside the cell.",
+    "limits": "Keep this lesson general. Fine-tuning and biological design deserve their own evidence rather than being squeezed into one all-purpose design argument.",
     "practice": "Someone says, “Natural selection explains apparent design, so purposeful organization gives us no reason at all to think of a Designer.” How would you state the positive design inference?",
     "model": "I’d start with the positive point. The argument is not just that organisms are complicated. It is that parts are coordinated toward functions, and intelligence is a cause we already know can arrange parts toward a goal. Natural selection is real, but whether it fully explains the origin of major integrated systems is a separate question. That is why purposeful organization still matters as evidence for design.",
     "sources": [
@@ -520,39 +604,57 @@ const questions = [
       ]
     ],
     "evidence": {
-      "claim": "The evidence is straightforward: different parts work together to do a clear job. The eye is an easy example, and we already know that minds can build systems like that.",
-      "establishes": "Living organisms exhibit coordinated, goal-directed function, and intelligent agents are independently known to produce functionally organized systems. That supplies the positive basis for a design inference. Evolutionary explanations belong in the comparison of causes, but they do not need to occupy the center of the lesson.",
-      "caution": "Do not reduce the argument to 'this is complicated, therefore God.' The relevant pattern is specified, coordinated function and the comparative causal question of what best explains it.",
+      "claim": "Christian treatments of the teleological argument consistently center on order, function, purpose, and intelligent causation rather than complexity alone.",
+      "establishes": "Ligonier presents Paley’s watch and the inference from coordinated function to design. Impact Apologetics teaches a teleological argument before its lessons on evolution, and Stand to Reason frames design as a comparison between accidental and intelligent explanations.",
+      "caution": "A general design argument is strongest when the feature being explained is specified clearly and rival causes are actually compared.",
       "resources": [
         {
-          "type": "Scholarship",
-          "title": "Stanford Encyclopedia of Philosophy | Teleological Arguments",
-          "why": "Explains design arguments as inferences from structure, function, purpose, and interconnectedness, and discusses natural selection as the major competing biological explanation.",
-          "url": "https://plato.stanford.edu/entries/teleological-arguments/"
+          "type": "Teaching",
+          "title": "Ligonier | The Teleological Argument",
+          "why": "Uses Paley’s watch and the coordinated function of nature to explain the classic design inference.",
+          "url": "https://learn.ligonier.org/podcasts/simply-put/the-teleological-argument"
         },
         {
-          "type": "Reference",
-          "title": "Internet Encyclopedia of Philosophy | Design Arguments",
-          "why": "Shows how Paley's argument turns on parts fitted to a purpose and why Darwinian natural selection became the central rival explanation.",
-          "url": "https://iep.utm.edu/design-arguments-for-existence-of-god/"
+          "type": "Curriculum",
+          "title": "Impact Apologetics | Teleological Argument",
+          "why": "Lesson 4 treats design, the heavens, and human design before moving into evolution.",
+          "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
         },
         {
-          "type": "Scholarship",
-          "title": "Stanford Encyclopedia of Philosophy | Teleological Notions in Biology",
-          "why": "Explains how biology uses functional language and how evolutionary theory accounts for function without literal foresight.",
-          "url": "https://plato.stanford.edu/entries/teleology-biology/"
+          "type": "Apologetics",
+          "title": "Stand to Reason | Answering the New Atheists",
+          "why": "Compares design in physics and biology with accidental naturalistic explanations.",
+          "url": "https://www.str.org/w/answering-the-new-atheists-part-1"
+        },
+        {
+          "type": "Curriculum",
+          "title": "Biola | Introduction to Christian Apologetics",
+          "why": "Includes evidence for God within a broader natural-theology section.",
+          "url": "https://learn.biola.edu/courses/introduction-to-christian-apologetics"
         }
       ]
     },
-    "thoughts": [
-      "What makes purposeful organization different from mere complexity?",
-      "Why is intelligence relevant as a known cause of goal-directed arrangements?",
-      "What must an unguided explanation show if it claims to build a major integrated system?"
-    ],
     "remember": "Selection can sort inherited variation, but it cannot plan ahead. When many parts work together for one job, ask whether unguided processes have shown a workable path or whether mind fits the pattern better.",
-    "conclusion": "Living things contain parts fitted together for useful ends, and minds are a known cause of that kind of organization. That makes design a positive clue that mind is behind nature rather than merely a late accident within it.",
+    "conclusion": "The design argument begins with a simple causal insight: minds are known to arrange parts toward goals. Nature gives us real examples where that kind of explanation deserves to be considered.",
     "thread": "So far we have asked why the universe exists and whether it began. Now look at the way it is put together.",
-    "bigIdea": "Purposeful arrangement is evidence of mind when intelligence explains that arrangement better than unguided alternatives."
+    "bigIdea": "Purposeful, functionally organized systems are the kind of effects intelligence is known to produce. That makes design a real explanation of nature’s order.",
+    "checkpoints": [
+      {
+        "after": "core",
+        "question": "What is more important to the design argument than sheer complexity?",
+        "answer": "Functional organization: parts arranged together so that they accomplish a purpose."
+      },
+      {
+        "after": "body",
+        "question": "Why is the argument not simply “we do not know, therefore God”?",
+        "answer": "Because it makes a positive causal comparison. Intelligence is already known to produce organized function, instructions, and goal-directed arrangements."
+      },
+      {
+        "after": "facts",
+        "question": "What two later lessons make the general design argument more specific?",
+        "answer": "Fine-tuning of the universe and biological information or molecular machinery."
+      }
+    ]
   },
   {
     "id": 6,
@@ -561,13 +663,14 @@ const questions = [
     "title": "Why is the universe life-permitting?",
     "teaser": "The basic settings of the universe allow stars, chemistry, and life. Why are they in the right range?",
     "lesson": {
-      "heading": "The universe did not have to be life-permitting",
-      "body": "Fine-tuning sounds technical, but the basic idea is simple. The universe has basic physical settings. If some of them were very different, you would not merely get different kinds of life. You could lose long-lived stars, stable atoms, useful chemistry, or complex life altogether.\n\nGravity is one example. Change it enough and stars form differently or do not last long enough. The force that holds atomic nuclei together is another. Change it enough and the kinds of atoms that can exist also change. The early universe also had to develop in a way that allowed matter to form galaxies and stars.\n\nThat gives us something to explain: why does the universe have a life-permitting setup at all? We do not need a dramatic probability number to ask that question.\n\nMaybe the settings had to be this way. Maybe there is no deeper reason. Maybe many universes exist and ours happens to support life. Or maybe the universe was intentionally ordered. Fine-tuning is one more piece of the larger case: a life-permitting universe makes good sense if reality ultimately comes from a mind with purpose.",
+      "heading": "What exactly is fine-tuned?",
+      "body": "Fine-tuning is more specific than saying that the universe is impressive. Physicists describe nature using laws and constants whose values determine what kinds of structures can exist. The early universe also began with particular conditions. Change some of these enough and you lose long-lived stars, stable nuclei, useful chemistry, or other requirements for complex life.\n\nCommon examples include the strength of gravity, the strength of the strong nuclear force, the cosmological constant, and the early distribution of matter and energy. The exact probability calculations are debated, so an introductory argument does not need dramatic one-in-a-trillion numbers to make the point.\n\nA common Christian formulation asks whether fine-tuning is best explained by physical necessity, chance, or design. Physical necessity says the values could not have been otherwise. Chance says a life-permitting set happened without purpose. Multiverse theories attempt to strengthen the chance option by proposing a very large number of universes with varying conditions.\n\nThe anthropic observation—“we could only observe a universe compatible with observers”—is true, but selection effects alone do not explain why a life-permitting universe exists. A multiverse, if independently supported, may change the probability calculation, but it also raises questions about the mechanism that generates universes and whether it actually produces the needed distribution.\n\nDesign says a rational mind intentionally chose a life-permitting order. Fine-tuning is not meant to carry the entire case for God. It sits beside contingency, Kalam, and the broader design argument as another line of evidence.",
       "facts": [
-        "Fine-tuning concerns the laws of nature, physical constants, and early conditions of the universe, not merely whether Earth happens to be habitable.",
-        "Physicists and philosophers discuss examples involving gravity, the strong nuclear force, the cosmological constant, and conditions in the early universe.",
-        "The argument does not require one dramatic probability number. Exact probabilities are disputed.",
-        "The question is explanatory: why does the universe have a basic setup that permits complex life at all?"
+        "Fine-tuning usually includes physical laws, constants, and initial conditions.",
+        "Life-permitting does not mean “comfortable for humans everywhere”; it means the physical possibility of complex embodied life.",
+        "The standard explanatory comparison is necessity, chance, or design.",
+        "The anthropic principle explains an observer-selection effect but is not automatically a causal explanation of fine-tuning.",
+        "Multiverse models are relevant alternatives and should be evaluated on their own evidence and explanatory power."
       ],
       "further": [
         [
@@ -584,24 +687,25 @@ const questions = [
         ]
       ]
     },
-    "why": "Fine-tuning gives us a real feature of the universe to explain: its basic setup allows the kind of stable matter and chemistry needed for complex life.",
+    "why": "Fine-tuning turns the general design question into a specific one: why does the physical setup of the universe permit stable matter, stars, chemistry, and embodied life?",
     "core": [
-      "Start with the evidence: several basic features of physics have to fall within life-permitting ranges for complex matter, stars, chemistry, and life to exist.",
-      "Ask what explains that fact. Did the settings have to be this way? Are they simply unexplained? Are there many universes? Or was the universe designed?",
-      "Do not treat every answer as equally strong. Ask what evidence supports it and whether it really explains why the universe is life-permitting.",
-      "Theism already has support from the earlier case for a necessary foundation, a cause of the universe, and evidence of purpose. Fine-tuning fits naturally with that picture because a mind can choose conditions for an end."
+      "Fine-tuning concerns the life-permitting ranges of physical laws, constants, and initial conditions.",
+      "The argument does not require claiming that the universe was designed specifically for modern humans; it asks why complex embodied life is physically possible at all.",
+      "A common formulation compares three broad explanations: physical necessity, chance, or design.",
+      "If the values are not physically necessary, chance must explain why a life-permitting set is realized; multiverse proposals are one way of developing that option.",
+      "Design becomes stronger if a life-permitting universe is more expected on theism than on unguided naturalism."
     ],
     "pressure": [
       [
-        "“We are here, so of course the universe permits life.”",
-        "Of course we could only live in a universe where life is possible. But that does not explain why a life-permitting universe exists in the first place. It describes our situation; it does not explain the universe’s settings."
+        "“A multiverse explains it.”",
+        "A multiverse is a genuine alternative to consider. Ask what independent evidence supports it, what mechanism generates the universes, and whether the model predicts a life-permitting universe better than design does."
       ],
       [
-        "“Maybe there are countless universes, and one of them was bound to permit life.”",
-        "If many universes really exist with different settings, then it would be less surprising that at least one permits life. The problem is that we do not directly observe those other universes, and multiverse ideas are very hard to test. So the multiverse cannot simply be assumed because fine-tuning exists. It needs evidence of its own and some reason to think it can actually produce universes with different settings."
+        "“Fine-tuning assumes that life was the purpose of the universe.”",
+        "It does not need that stronger claim. The argument starts from the physical fact that complex embodied life requires restricted conditions and asks what best explains that fact."
       ]
     ],
-    "limits": "Do not make fine-tuning carry the whole case by itself. Use it as another clue that the universe looks purposeful rather than accidental.",
+    "limits": "Avoid shaky probability slogans. The important evidence is the sensitivity of life-permitting conditions and the comparison of explanatory hypotheses.",
     "practice": "Someone says, “Of course the universe permits life. If it didn’t, we’d not be here to notice.” How would you explain why that observation doesn’t remove the fine-tuning question?",
     "model": "That observation only tells us why observers would find themselves in a life-permitting universe. It does not tell us why a life-permitting universe exists in the first place. Fine-tuning asks why the laws, constants, and initial conditions fall in ranges that allow complex life. Design is one explanation, and it fits the larger theistic case we have already built.",
     "sources": [
@@ -619,35 +723,36 @@ const questions = [
       ]
     ],
     "evidence": {
-      "claim": "The evidence is that several basic features of physics fall within ranges that allow stable matter, long-lived stars, chemistry, galaxies, and complex life.",
-      "establishes": "This gives us a real explanatory question. Fine-tuning is not simply 'life exists.' It is the fact that the deeper physical setup has the kind of values and conditions under which life can exist at all. Examples discussed in the scientific and philosophical literature include the relative strength of gravity, the strong nuclear force, the cosmological constant, and conditions in the early universe.",
-      "caution": "Fine-tuning does not tell us everything about God, and we should avoid pretending we know exact probabilities that physicists themselves debate. Its strength is that it adds to an earlier case for mind and purpose rather than standing alone.",
+      "claim": "Major Christian treatments formulate fine-tuning as an explanatory comparison among necessity, chance, and design.",
+      "establishes": "Reasonable Faith states the three-option argument explicitly. Stand to Reason presents the same comparison, while Biola treatments distinguish the fine-tuning data from the later inference to design.",
+      "caution": "Precise probabilities and multiverse physics are technically contested. The introductory argument should focus on the existence of sensitive life-permitting conditions and fair comparison of explanations.",
       "resources": [
         {
-          "type": "Scholarship",
-          "title": "Stanford Encyclopedia of Philosophy | Fine-Tuning",
-          "why": "Current scholarly overview of the evidence for fine-tuning and the main responses, including necessity, multiverse proposals, and design.",
-          "url": "https://plato.stanford.edu/entries/fine-tuning/"
-        },
-        {
-          "type": "Scientific review",
-          "title": "Luke Barnes | The Fine-Tuning of the Universe for Intelligent Life",
-          "why": "Reviews examples involving laws, constants, initial conditions, stars, chemistry, and cosmology.",
-          "url": "https://arxiv.org/abs/1112.4647"
+          "type": "Apologetics",
+          "title": "Reasonable Faith | What Is the Fine-Tuning Argument?",
+          "why": "States the simple necessity/chance/design formulation.",
+          "url": "https://www.reasonablefaith.org/videos/interviews-panels/what-is-the-fine-tuning-argument-for-the-existence-of-god-bobby-conway/"
         },
         {
           "type": "Apologetics",
-          "title": "Reasonable Faith | Fine-Tuning",
-          "why": "Accessible Christian presentation of the explanatory comparison between design and rival proposals.",
-          "url": "https://www.reasonablefaith.org/videos/video-lectures/the-origin-and-fine-tuning-of-the-universe-worldview-apologetics-conference/"
+          "title": "Stand to Reason | A Finely-Tuned Universe: Necessity, Chance, or Design?",
+          "why": "Presents the same three-way explanatory comparison.",
+          "url": "https://www.str.org/w/a-finely-tuned-universe-necessity-chance-or-design-"
+        },
+        {
+          "type": "Biola",
+          "title": "Biola | Is Fine-Tuning Question-Begging?",
+          "why": "Separates the neutral fine-tuning evidence from the inference to the best explanation.",
+          "url": "https://www.biola.edu/blogs/good-book-blog/2015/is-fine-tuning-question-begging"
+        },
+        {
+          "type": "Curriculum",
+          "title": "Impact Apologetics | Teleological Argument",
+          "why": "Treats cosmic design as part of its cumulative case for God.",
+          "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
         }
       ]
     },
-    "thoughts": [
-      "What is being fine-tuned in the fine-tuning argument?",
-      "Why does the observer-selection point not explain why a life-permitting universe exists?",
-      "Why does design fit the cumulative theistic case developed earlier?"
-    ],
     "terms": [
       [
         "Fine-tuning",
@@ -662,9 +767,26 @@ const questions = [
         "The proposal that many universes exist, perhaps with different physical conditions."
       ]
     ],
-    "conclusion": "The universe has basic settings that make complex life possible. Fine-tuning gives us positive reason to ask whether those settings reflect purpose, and it fits naturally with the Creator already indicated by the earlier arguments.",
+    "conclusion": "Fine-tuning gives the design case a precise target: the universe has a physical setup that permits complex life, and design is one serious explanation of why.",
     "thread": "Design gets more specific here. The question is not only whether nature is ordered, but whether the universe’s basic setup looks hospitable to life on purpose.",
-    "bigIdea": "The life-permitting structure of the universe is evidence that fits naturally with design."
+    "bigIdea": "The laws, constants, and initial conditions of the universe fall within life-permitting ranges. The main explanatory options are necessity, chance, or design.",
+    "checkpoints": [
+      {
+        "after": "core",
+        "question": "What three kinds of things are normally discussed under fine-tuning?",
+        "answer": "The laws of nature, the values of physical constants, and the universe’s initial conditions."
+      },
+      {
+        "after": "body",
+        "question": "What are the three common explanatory options?",
+        "answer": "Physical necessity, chance, or design."
+      },
+      {
+        "after": "facts",
+        "question": "Why does “we could only observe a life-permitting universe” not settle the argument?",
+        "answer": "Because it explains why observers would find themselves only where observation is possible, but it does not by itself explain why a life-permitting universe exists."
+      }
+    ]
   },
   {
     "id": 7,
@@ -1512,42 +1634,42 @@ const questions = [
       "establishes": "The sources support Jesus’ death as a very strong historical conclusion. They also support the burial and empty tomb as significant but more debated parts of the case.",
       "caution": "Do not treat the empty tomb as equally undisputed with the crucifixion, and do not present a missing body as resurrection by itself.",
       "resources": [
-              {
-                      "type": "Ancient source",
-                      "title": "Tacitus | Annals 15.44",
-                      "why": "A non-Christian Roman reference connecting Christus’s execution with Pontius Pilate.",
-                      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Tac.+Ann.+15.44"
-              },
-              {
-                      "type": "Primary Christian source",
-                      "title": "1 Corinthians 15:3–8",
-                      "why": "Paul’s early summary includes Jesus’ death and burial as part of the message he had received and passed on.",
-                      "url": "https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A3-8&version=ESV"
-              },
-              {
-                      "type": "Primary Christian source",
-                      "title": "Mark 15–16",
-                      "why": "Mark reports Jesus’ crucifixion and burial, names Joseph of Arimathea, and says women knew where Jesus was laid before returning to the tomb.",
-                      "url": "https://www.biblegateway.com/passage/?search=Mark%2015-16&version=ESV"
-              },
-              {
-                      "type": "Medical history",
-                      "title": "PubMed | Execution by Crucifixion: History, Methods and Cause of Death",
-                      "why": "Provides medical and historical background on crucifixion as a method of execution.",
-                      "url": "https://pubmed.ncbi.nlm.nih.gov/7561527/"
-              },
-              {
-                      "type": "Peer-reviewed study",
-                      "title": "Cambridge NTS | The Historicity of the Empty Tomb of Jesus",
-                      "why": "A scholarly treatment of the main arguments surrounding the empty-tomb tradition.",
-                      "url": "https://www.cambridge.org/core/journals/new-testament-studies/article/abs/historicity-of-the-empty-tomb-of-jesus1/39C53623AC0517088951E31CF346B540"
-              },
-              {
-                      "type": "Peer-reviewed study",
-                      "title": "John Granger Cook | Resurrection and the Question of an Empty Tomb",
-                      "why": "Explores how ancient resurrection language bears on the physical question of what happened to Jesus’ body.",
-                      "url": "https://www.cambridge.org/core/journals/new-testament-studies/article/resurrection-in-paganism-and-the-question-of-an-empty-tomb-in-1-corinthians-15/EF4DE640BE9104A454C7847ECF899313"
-              }
+        {
+          "type": "Ancient source",
+          "title": "Tacitus | Annals 15.44",
+          "why": "A non-Christian Roman reference connecting Christus’s execution with Pontius Pilate.",
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Tac.+Ann.+15.44"
+        },
+        {
+          "type": "Primary Christian source",
+          "title": "1 Corinthians 15:3–8",
+          "why": "Paul’s early summary includes Jesus’ death and burial as part of the message he had received and passed on.",
+          "url": "https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A3-8&version=ESV"
+        },
+        {
+          "type": "Primary Christian source",
+          "title": "Mark 15–16",
+          "why": "Mark reports Jesus’ crucifixion and burial, names Joseph of Arimathea, and says women knew where Jesus was laid before returning to the tomb.",
+          "url": "https://www.biblegateway.com/passage/?search=Mark%2015-16&version=ESV"
+        },
+        {
+          "type": "Medical history",
+          "title": "PubMed | Execution by Crucifixion: History, Methods and Cause of Death",
+          "why": "Provides medical and historical background on crucifixion as a method of execution.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/7561527/"
+        },
+        {
+          "type": "Peer-reviewed study",
+          "title": "Cambridge NTS | The Historicity of the Empty Tomb of Jesus",
+          "why": "A scholarly treatment of the main arguments surrounding the empty-tomb tradition.",
+          "url": "https://www.cambridge.org/core/journals/new-testament-studies/article/abs/historicity-of-the-empty-tomb-of-jesus1/39C53623AC0517088951E31CF346B540"
+        },
+        {
+          "type": "Peer-reviewed study",
+          "title": "John Granger Cook | Resurrection and the Question of an Empty Tomb",
+          "why": "Explores how ancient resurrection language bears on the physical question of what happened to Jesus’ body.",
+          "url": "https://www.cambridge.org/core/journals/new-testament-studies/article/resurrection-in-paganism-and-the-question-of-an-empty-tomb-in-1-corinthians-15/EF4DE640BE9104A454C7847ECF899313"
+        }
       ]
     },
     "thoughts": [
@@ -1658,54 +1780,54 @@ const questions = [
       "establishes": "The sources support the early date of the resurrection proclamation, Paul’s use of received tradition, the appearance claims, the bodily meaning of resurrection language, and the historical method of comparing explanations. The course then argues, within the prior theistic case, that resurrection best explains the combined pattern.",
       "caution": "The final resurrection conclusion goes beyond merely listing historical data. It is an explanatory judgment, and not all historians accept a supernatural explanation.",
       "resources": [
-              {
-                      "type": "Primary Christian source",
-                      "title": "1 Corinthians 15:3–8",
-                      "why": "Paul says he received and passed on the death-resurrection-appearance message and names individuals and groups said to have seen Jesus alive.",
-                      "url": "https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A3-8&version=ESV"
-              },
-              {
-                      "type": "Primary Christian source",
-                      "title": "Galatians 1:13–24",
-                      "why": "Paul describes his earlier persecution of the church, his change of course, and his later contact with Peter and James.",
-                      "url": "https://www.biblegateway.com/passage/?search=Galatians%201%3A13-24&version=ESV"
-              },
-              {
-                      "type": "Later Gospel narratives",
-                      "title": "Luke 24:36–43; John 20:24–29",
-                      "why": "These later accounts describe physical encounters with the risen Jesus and can be used as supporting evidence alongside Paul’s earlier appearance list.",
-                      "url": "https://www.biblegateway.com/passage/?search=Luke%2024%3A36-43%3B%20John%2020%3A24-29&version=ESV"
-              },
-              {
-                      "type": "Peer-reviewed study",
-                      "title": "Cambridge NTS | The Resurrection of Jesus in the Pre-Pauline Formula",
-                      "why": "Examines the early material in 1 Corinthians 15 and the scholarly debate over its resurrection language.",
-                      "url": "https://www.cambridge.org/core/journals/new-testament-studies/article/resurrection-of-jesus-in-the-prepauline-formula-of-1-cor-1535/B98A7CB0EDE64897CAFEE83263BE6289"
-              },
-              {
-                      "type": "Primary Christian source",
-                      "title": "Mark 15–16",
-                      "why": "Provides the earliest Gospel narrative of Jesus’ death, burial, and the women finding the tomb empty.",
-                      "url": "https://www.biblegateway.com/passage/?search=Mark%2015-16&version=ESV"
-              },
-              {
-                      "type": "Peer-reviewed study",
-                      "title": "Cambridge NTS | The Historicity of the Empty Tomb of Jesus",
-                      "why": "Surveys major historical arguments concerning the empty-tomb tradition.",
-                      "url": "https://www.cambridge.org/core/journals/new-testament-studies/article/abs/historicity-of-the-empty-tomb-of-jesus1/39C53623AC0517088951E31CF346B540"
-              },
-              {
-                      "type": "Historical method",
-                      "title": "Stanford Encyclopedia of Philosophy | Abduction",
-                      "why": "Explains inference to the best explanation, the method used here to compare resurrection and rival hypotheses.",
-                      "url": "https://plato.stanford.edu/entries/abduction/"
-              },
-              {
-                      "type": "Classical apologetics reading",
-                      "title": "Reasonable Faith | The Resurrection of Jesus",
-                      "why": "An example of the cumulative Christian argument for the resurrection.",
-                      "url": "https://www.reasonablefaith.org/writings/popular-writings/jesus-of-nazareth/the-resurrection-of-jesus/"
-              }
+        {
+          "type": "Primary Christian source",
+          "title": "1 Corinthians 15:3–8",
+          "why": "Paul says he received and passed on the death-resurrection-appearance message and names individuals and groups said to have seen Jesus alive.",
+          "url": "https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A3-8&version=ESV"
+        },
+        {
+          "type": "Primary Christian source",
+          "title": "Galatians 1:13–24",
+          "why": "Paul describes his earlier persecution of the church, his change of course, and his later contact with Peter and James.",
+          "url": "https://www.biblegateway.com/passage/?search=Galatians%201%3A13-24&version=ESV"
+        },
+        {
+          "type": "Later Gospel narratives",
+          "title": "Luke 24:36–43; John 20:24–29",
+          "why": "These later accounts describe physical encounters with the risen Jesus and can be used as supporting evidence alongside Paul’s earlier appearance list.",
+          "url": "https://www.biblegateway.com/passage/?search=Luke%2024%3A36-43%3B%20John%2020%3A24-29&version=ESV"
+        },
+        {
+          "type": "Peer-reviewed study",
+          "title": "Cambridge NTS | The Resurrection of Jesus in the Pre-Pauline Formula",
+          "why": "Examines the early material in 1 Corinthians 15 and the scholarly debate over its resurrection language.",
+          "url": "https://www.cambridge.org/core/journals/new-testament-studies/article/resurrection-of-jesus-in-the-prepauline-formula-of-1-cor-1535/B98A7CB0EDE64897CAFEE83263BE6289"
+        },
+        {
+          "type": "Primary Christian source",
+          "title": "Mark 15–16",
+          "why": "Provides the earliest Gospel narrative of Jesus’ death, burial, and the women finding the tomb empty.",
+          "url": "https://www.biblegateway.com/passage/?search=Mark%2015-16&version=ESV"
+        },
+        {
+          "type": "Peer-reviewed study",
+          "title": "Cambridge NTS | The Historicity of the Empty Tomb of Jesus",
+          "why": "Surveys major historical arguments concerning the empty-tomb tradition.",
+          "url": "https://www.cambridge.org/core/journals/new-testament-studies/article/abs/historicity-of-the-empty-tomb-of-jesus1/39C53623AC0517088951E31CF346B540"
+        },
+        {
+          "type": "Historical method",
+          "title": "Stanford Encyclopedia of Philosophy | Abduction",
+          "why": "Explains inference to the best explanation, the method used here to compare resurrection and rival hypotheses.",
+          "url": "https://plato.stanford.edu/entries/abduction/"
+        },
+        {
+          "type": "Classical apologetics reading",
+          "title": "Reasonable Faith | The Resurrection of Jesus",
+          "why": "An example of the cumulative Christian argument for the resurrection.",
+          "url": "https://www.reasonablefaith.org/writings/popular-writings/jesus-of-nazareth/the-resurrection-of-jesus/"
+        }
       ]
     },
     "thoughts": [
