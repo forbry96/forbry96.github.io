@@ -997,7 +997,8 @@ const questions = [
     "thoughts": [
       "What is the difference between the physical cause of a belief and a reason that makes the belief rational?",
       "Why are survival and truth related but not identical?",
-      "How does theism explain the fit between rational minds and an intelligible universe?"    ],
+      "How does theism explain the fit between rational minds and an intelligible universe?"
+    ],
     "terms": [
       [
         "Naturalism",
@@ -1996,7 +1997,8 @@ const questions = [
       [
         "“This sounds circular: you are using the Bible to prove Jesus and then Jesus to prove the Bible.”",
         "The argument began by treating New Testament writings as historical documents, not as inspired Scripture. Historical use of a source is different from assuming its divine authority. Only after the resurrection case does the argument ask what Jesus’ authority implies about revelation."
-      ],      [
+      ],
+      [
         "“A miracle does not make every sentence someone says true.”",
         "Correct. The argument is not “miracle equals infallible.” It is that God’s act vindicates Jesus in the context of Jesus’ claims to unique divine authority and mission. That context is essential."
       ]
@@ -2995,7 +2997,8 @@ const lessonModules = [
           11,
           12,
           13
-        ]      },
+        ]
+      },
       {
         "title": "Resurrection and verdict",
         "studyIds": [
@@ -3994,7 +3997,8 @@ const sourceItems = [
     "Ligonier | Authority of the Apostles",
     "Christ’s delegated authority to the apostles.",
     "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-authority-of-the-apostles"
-  ],  [
+  ],
+  [
     "Ligonier | New Testament Canon",
     "Overview of apostolicity, early reception, and canon recognition.",
     "https://learn.ligonier.org/devotionals/new-testament-canon"
@@ -4520,3 +4524,4 @@ const contact = {
   "email": "reformedclassicalapologist@gmail.com",
   "subject": "Question about the apologetics site"
 };
+
