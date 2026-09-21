@@ -50,9 +50,9 @@ const questions = [
         "Logic alone does not prove Christianity. It only helps us see whether the reasons offered actually support a conclusion."
       ]
     ],
-    "limits": "Logic can show whether the reasoning works. It cannot make a weak premise true, so evidence still matters.",
-    "practice": "Someone says, “Miracles cannot happen, so the resurrection did not happen.” How would you identify the argument and show where the real disagreement begins?",
-    "model": "I would separate the conclusion from the premise. The conclusion is that the resurrection did not happen, but the key premise is that miracles cannot happen. I would ask why that premise should be accepted before we ever debate the resurrection evidence.",
+    "limits": "Logic can show whether the reasoning works. It can’t make a weak premise true, so evidence still matters.",
+    "practice": "Someone says, “Miracles can’t happen, so the resurrection didn’t happen.” How would you identify the argument and show where the real disagreement begins?",
+    "model": "I’d separate the conclusion from the premise. The conclusion is that the resurrection did not happen. The key premise is that miracles cannot happen. Before we debate the resurrection evidence, I’d ask why that premise should be accepted.",
     "sources": [
       [
         "Stanford Encyclopedia of Philosophy | Informal Logic",
@@ -122,7 +122,7 @@ const questions = [
       ]
     ],
     "conclusion": "Find the conclusion, find the reasons, and test both. That simple habit keeps the rest of the course from becoming a pile of slogans.",
-    "thread": "We begin with the tools. Before asking whether Christianity is true, we need to know how a reason can actually support a conclusion.",
+    "thread": "Before we argue about God or the resurrection, we need one basic habit: know what a claim is trying to prove and whether its reasons actually get us there.",
     "bigIdea": "Good apologetics begins by knowing what an argument is actually claiming and whether its reasons support it."
   },
   {
@@ -169,8 +169,8 @@ const questions = [
       ]
     ],
     "limits": "The point here is to learn a fair way to judge claims, not to decide Christianity in advance.",
-    "practice": "Someone says, “You were not there two thousand years ago, so you cannot know anything about Jesus.” How would you explain why historical knowledge can still be rational?",
-    "model": "We know many past events without seeing them ourselves. We use early documents, testimony, physical evidence, corroboration, and competing explanations. The right question is not whether I personally witnessed the event, but whether the surviving evidence is strong enough to justify the conclusion.",
+    "practice": "Someone says, “You were not there two thousand years ago, so you can’t know anything about Jesus.” How would you explain why historical knowledge can still be rational?",
+    "model": "We know many past events without seeing them ourselves. We use early documents, testimony, physical evidence, corroboration, and competing explanations. The right question isn’t whether I personally witnessed the event, but whether the surviving evidence is strong enough to justify the conclusion.",
     "sources": [
       [
         "Stanford Encyclopedia of Philosophy | Epistemology",
@@ -223,8 +223,8 @@ const questions = [
         "Complete absence of doubt. Many reasonable beliefs do not reach this level."
       ]
     ],
-    "conclusion": "You do not need mathematical certainty before you can know something reasonably. Match your confidence to the kind and strength of the evidence.",
-    "thread": "Now that we can follow an argument, we need a fair standard for evidence. That standard will guide everything that follows.",
+    "conclusion": "You don’t need mathematical certainty before you can know something reasonably. Match your confidence to the kind and strength of the evidence.",
+    "thread": "Good reasoning still needs evidence. So before we ask whether God exists, we need to know what counts as a fair reason for believing something.",
     "bigIdea": "We can have rational knowledge without absolute certainty when the evidence fits the kind of claim being made."
   },
   {
@@ -271,9 +271,9 @@ const questions = [
         "The argument is not that everything has a cause. It argues that dependent reality requires an ultimate non-dependent foundation."
       ]
     ],
-    "limits": "Keep the question simple: what ultimately explains dependent reality? Later lessons build from that answer toward the fuller Christian case.",
-    "practice": "A friend says, “Maybe the universe has always existed, so God is unnecessary.” How would you use the contingency argument to show why that does not answer the deeper question?",
-    "model": "I would distinguish age from dependence. Something could exist forever and still depend on something else for its existence. The contingency argument asks why dependent reality exists at all and argues that an endless collection of dependent things still points to a non-dependent foundation.",
+    "limits": "The main question is simple: what ultimately explains dependent reality? Later lessons build from that answer toward the fuller Christian case.",
+    "practice": "A friend says, “Maybe the universe has always existed, so God is unnecessary.” How would you use the contingency argument to show why that doesn’t answer the deeper question?",
+    "model": "I’d separate age from dependence. Something could exist forever and still depend on something else for its existence. The contingency argument asks why dependent reality exists at all. An endless collection of dependent things still leaves us asking what ultimately holds it all up.",
     "sources": [
       [
         "Stanford Encyclopedia of Philosophy | Cosmological Argument",
@@ -332,8 +332,8 @@ const questions = [
         "An argument that reasons from features of the universe or dependent reality to an ultimate cause or explanation."
       ]
     ],
-    "conclusion": "Dependent things do not explain their own existence. The contingency argument points to a self-existent reality that does not borrow existence from anything else. That is the kind of reality Christians mean by God.",
-    "thread": "With the tools in place, we turn to the world itself: why is there anything here to investigate at all?",
+    "conclusion": "Dependent things don’t explain their own existence. The contingency argument points to a self-existent reality that doesn’t borrow existence from anything else. That is the kind of reality Christians mean by God.",
+    "thread": "Now we turn from the tools to reality itself. Why is there anything here at all?",
     "bigIdea": "Things that depend on something else for their existence point to a reality that does not depend on anything else."
   },
   {
@@ -389,7 +389,7 @@ const questions = [
     ],
     "limits": "Do not turn the age of the universe into a premise of the Kalam. The argument is about whether the universe began and therefore needs a cause.",
     "practice": "A friend says, “The Kalam only works if you accept an old universe.” How would you explain the argument without taking a position on young-earth versus old-earth chronology?",
-    "model": "I would separate age from beginning. The Kalam says that whatever begins to exist has a cause, that the universe began to exist, and therefore that the universe has a cause. Christians can disagree about the chronology of creation and still make that argument. The main apologetic question is whether the universe is self-existing or created.",
+    "model": "I’d keep the age question separate from the argument itself. Kalam says that whatever begins to exist has a cause, the universe began to exist, and therefore the universe has a cause. Christians can disagree about the chronology of creation and still make that argument. The bigger question is whether the universe is self-existing or created.",
     "sources": [
       [
         "NASA Science | Universe Overview",
@@ -465,7 +465,7 @@ const questions = [
       ]
     ],
     "conclusion": "The Kalam is an argument for a Creator, not for a particular age of creation. If the physical universe began, its cause must be beyond the physical universe itself.",
-    "thread": "The contingency argument asked why anything exists. The Kalam adds a second clue: the physical universe itself appears to have a finite history and therefore calls for a cause beyond itself.",
+    "thread": "Contingency asks why reality exists. Kalam asks a different question: did the universe itself have a beginning?",
     "bigIdea": "If the universe began to exist, it requires a cause beyond the physical universe; that conclusion does not depend on choosing a young-earth or old-earth chronology."
   },
   {
@@ -516,9 +516,9 @@ const questions = [
         "Because minds are independently known to produce functionally specified arrangements. We are not inferring design merely because something is complicated; we are comparing the kind of effect with causes known to produce that kind of organization."
       ]
     ],
-    "limits": "Keep the argument focused on organized function. Study 7 will look more closely at information and molecular machinery inside the cell.",
+    "limits": "Stay focused on organized function. Study 7 will look more closely at information and molecular machinery inside the cell.",
     "practice": "Someone says, “Natural selection explains apparent design, so purposeful organization gives us no reason at all to think of a Designer.” How would you state the positive design inference?",
-    "model": "I would say the argument is not merely that organisms are complicated. It is that parts are coordinated toward functions, and intelligence is a cause we already know can arrange parts toward a goal. Natural selection is a real process, but whether it fully explains the origin of major integrated systems is a further question. Purposeful organization therefore remains relevant evidence in an inference to the best explanation.",
+    "model": "I’d start with the positive point. The argument is not just that organisms are complicated. It is that parts are coordinated toward functions, and intelligence is a cause we already know can arrange parts toward a goal. Natural selection is real, but whether it fully explains the origin of major integrated systems is a separate question. That is why purposeful organization still matters as evidence for design.",
     "sources": [
       [
         "Stanford Encyclopedia of Philosophy | Teleological Arguments",
@@ -565,7 +565,7 @@ const questions = [
     ],
     "remember": "Selection can sort inherited variation, but it cannot plan ahead. When many parts work together for one job, ask whether unguided processes have shown a workable path or whether mind fits the pattern better.",
     "conclusion": "Living things contain parts fitted together for useful ends, and minds are a known cause of that kind of organization. That makes design a positive clue that mind is behind nature rather than merely a late accident within it.",
-    "thread": "The case is narrowing. We have asked why anything exists and why the universe began. Now we ask whether the world itself makes more sense if mind comes first rather than appearing only at the end.",
+    "thread": "So far we have asked why the universe exists and whether it began. Now look at the way it is put together.",
     "bigIdea": "Purposeful arrangement is evidence of mind when intelligence explains that arrangement better than unguided alternatives."
   },
   {
@@ -616,8 +616,8 @@ const questions = [
       ]
     ],
     "limits": "Do not make fine-tuning carry the whole case by itself. Use it as another clue that the universe looks purposeful rather than accidental.",
-    "practice": "Someone says, “Of course the universe permits life. If it did not, we would not be here to notice.” How would you explain why that observation does not remove the fine-tuning question?",
-    "model": "It explains why observers can only find themselves in a life-permitting universe, but it does not explain why a life-permitting universe exists. Fine-tuning asks why the laws, constants, and initial conditions fall in ranges that allow complex life. Design is one explanation of that fact and fits the broader theistic case already developed.",
+    "practice": "Someone says, “Of course the universe permits life. If it didn’t, we’d not be here to notice.” How would you explain why that observation doesn’t remove the fine-tuning question?",
+    "model": "That observation only tells us why observers would find themselves in a life-permitting universe. It does not tell us why a life-permitting universe exists in the first place. Fine-tuning asks why the laws, constants, and initial conditions fall in ranges that allow complex life. Design is one explanation, and it fits the larger theistic case we have already built.",
     "sources": [
       [
         "Stanford Encyclopedia of Philosophy | Fine-Tuning",
@@ -677,7 +677,7 @@ const questions = [
       ]
     ],
     "conclusion": "The universe has basic settings that make complex life possible. Fine-tuning gives us positive reason to ask whether those settings reflect purpose, and it fits naturally with the Creator already indicated by the earlier arguments.",
-    "thread": "Studies 3–5 gave reasons to think mind and purpose lie behind reality. Study 6 asks whether the basic physical setup of the universe fits that same picture.",
+    "thread": "Design gets more specific here. The question is not only whether nature is ordered, but whether the universe’s basic setup looks hospitable to life on purpose.",
     "bigIdea": "The life-permitting structure of the universe is evidence that fits naturally with design."
   },
   {
@@ -730,9 +730,9 @@ const questions = [
         "Not if the argument is made positively. The claim is not merely that an unguided pathway is unknown. It is that intelligence is already known to produce information-rich instructions and integrated machinery, so those features can count as positive evidence for intelligent causation."
       ]
     ],
-    "limits": "Keep the positive case first. Evolutionary pathways can be examined as competing explanations, but they should not crowd out the design argument itself.",
-    "practice": "Someone says, “DNA is just chemistry, so calling it information does not support design.” How would you explain why the sequence and function of biological information matter to the design argument?",
-    "model": "I would say that DNA contains functional sequences and cells contain machinery that reads, copies, repairs, and uses that information. We know minds can produce instructions and coordinated machines. So the question is whether unguided processes have shown a workable path to those systems or whether intelligent design better explains the pattern.",
+    "limits": "Lead with the positive case. Evolutionary pathways can be examined as competing explanations, but they shouldn’t crowd out the design argument itself.",
+    "practice": "Someone says, “DNA is just chemistry, so calling it information doesn’t support design.” How would you explain why the sequence and function of biological information matter to the design argument?",
+    "model": "I’d start with what the cell actually contains: functional DNA sequences and machinery that reads, copies, repairs, and uses that information. Minds are known to produce instructions and coordinated machines. So the real question is whether unguided processes have shown a workable path to these systems, or whether intelligent design better explains the pattern.",
     "sources": [
       [
         "Discovery Institute | What Is Intelligent Design?",
@@ -802,7 +802,7 @@ const questions = [
       ]
     ],
     "conclusion": "The cell contains functional information and coordinated machinery. Because intelligence is a known cause of both, biological design gives the creationist a positive argument to make.",
-    "thread": "Study 5 introduced design from purposeful organization, and Study 6 looked at the universe’s life-permitting setup. Study 7 brings the same causal question inside the cell, where information and molecular machinery make the issue more concrete.",
+    "thread": "Now take the design question inside the cell. DNA, molecular machines, and coordinated systems make the issue much more concrete.",
     "bigIdea": "Biological information and integrated molecular machinery are positive evidence of intelligent design because intelligence is a known cause of information-rich, coordinated systems."
   },
   {
@@ -854,9 +854,9 @@ const questions = [
         "That might explain why people have certain moral feelings. But it does not tell us whether those feelings are true. If our history had led us to approve of cruelty, cruelty would not suddenly become good. Explaining where a belief came from is not the same as explaining why it is true."
       ]
     ],
-    "limits": "Use the moral argument to ask what best grounds objective moral truth, duty, human worth, and accountability. It is a grounding argument, not a claim that unbelievers cannot behave morally.",
-    "practice": "Someone says, “We do not need God for morality. People can be good without believing in Him.” How would you distinguish moral behavior from the moral argument itself?",
-    "model": "I agree that atheists can recognize and do genuinely good things. The moral argument is about the foundation of objective moral truth and obligation, not who behaves better. If some things are really right or wrong regardless of opinion, Christianity explains that by grounding goodness in God’s character and duty in His rightful authority.",
+    "limits": "Use the moral argument to ask what best grounds objective moral truth, duty, human worth, and accountability. It is a grounding argument, not a claim that unbelievers can’t behave morally.",
+    "practice": "Someone says, “We don’t need God for morality. People can be good without believing in Him.” How would you distinguish moral behavior from the moral argument itself?",
+    "model": "Sure, atheists can recognize and do genuinely good things. That is not what the moral argument is about. The question is what makes objective moral truth and obligation real in the first place. Christianity grounds goodness in God’s character and our duty in His rightful authority.",
     "sources": [
       [
         "Stanford Encyclopedia of Philosophy | Moral Arguments for the Existence of God",
@@ -916,7 +916,7 @@ const questions = [
       ]
     ],
     "conclusion": "If some things are truly right or wrong no matter what people think, morality must be bigger than human opinion. A perfectly good personal God explains why goodness is real, why we should do what is right, why people have worth, and why our choices matter. That makes morality another strong part of the case for God.",
-    "thread": "The universe has looked dependent, ordered, fine-tuned, and designed. Moral experience adds another feature: reality also seems to contain real good and evil, obligation, dignity, and accountability.",
+    "thread": "The world does not only look ordered. It also confronts us with real duties, dignity, guilt, justice, and evil.",
     "bigIdea": "Objective moral duties fit naturally with a personal, perfectly good God who grounds goodness and has authority over us."
   },
   {
@@ -963,8 +963,8 @@ const questions = [
       ]
     ],
     "limits": "Use this as a big-picture argument. Theism gives a natural reason why human minds can know truth; naturalism still has to explain why unguided causes produced reason that reaches beyond survival to logic, mathematics, history, and truth itself.",
-    "practice": "A naturalist says, “Evolution gave us reliable brains because creatures that reason badly do not survive.” How would you explain what the argument from reason is still asking?",
-    "model": "Reliable thinking can aid survival, but the argument asks why a process selected for survival should also give us access to truth about logic, mathematics, metaphysics, and realities far removed from survival. Christianity gives a direct explanation: the world is rationally ordered because it comes from a rational God, and human minds are made to know that world, though imperfectly.",
+    "practice": "A naturalist says, “Evolution gave us reliable brains because creatures that reason badly don’t survive.” How would you explain what the argument from reason is still asking?",
+    "model": "Survival matters, but that does not answer the whole question. Why should a process selected for survival also give us access to truths about logic, mathematics, metaphysics, and things far removed from survival? Christianity gives a straightforward answer: the world is rationally ordered because it comes from a rational God, and human minds are made to know that world, even if imperfectly.",
     "sources": [
       [
         "Stanford Encyclopedia of Philosophy | Naturalism",
@@ -1014,7 +1014,7 @@ const questions = [
       ]
     ],
     "conclusion": "Brain activity can tell us how a thought happened, but not whether the thought is true. Theism gives a simple reason minds and an orderly world fit together: both come from a rational Creator.",
-    "thread": "Step 1 ends by turning the question back on the tool we have used throughout the course: reason itself. Why should our minds be able to know the world?",
+    "thread": "One last Step 1 question turns the spotlight on us: why should human reason be able to know truth at all?",
     "bigIdea": "Theism gives a coherent foundation for reason: a rational God, an orderly world, and minds capable of knowing truth."
   },
   {
@@ -1065,7 +1065,7 @@ const questions = [
     ],
     "limits": "This lesson establishes possibility, not occurrence: if a Creator exists, miracles are possible in principle. The next step is to ask whether the historical evidence supports a particular miracle claim.",
     "practice": "Someone says, “Dead people stay dead, so the resurrection is impossible before we even look at the evidence.” How would you answer at the bridge between natural theology and Christian evidence?",
-    "model": "I agree that dead people do not rise by ordinary natural processes. That is exactly why resurrection would be a miracle. If there is good reason to believe a Creator exists, then God is not limited to what nature does on its own. The question becomes whether there is good historical evidence that God acted in this case.",
+    "model": "Of course dead people stay dead by ordinary natural processes. That is exactly why a resurrection would be a miracle. If there is good reason to believe a Creator exists, then God is not limited to what nature does on its own. At that point the question is historical: is there good evidence that God acted in this case?",
     "sources": [
       [
         "Stanford Encyclopedia of Philosophy | Miracles",
@@ -1117,7 +1117,7 @@ const questions = [
       ]
     ],
     "conclusion": "Nature is regular, and that is why a resurrection would be remarkable. But if the Creator exists, a miracle is possible. The next question is whether there is good reason to think God actually acted.",
-    "thread": "The course now moves from the case for God to the case for Jesus. If a Creator exists, the resurrection cannot be dismissed before the historical evidence is heard.",
+    "thread": "We have a case for a Creator. That changes how we approach miracles: we no longer get to rule them out before hearing the evidence.",
     "bigIdea": "If God created nature, miracles are possible; a miracle claim should be judged by evidence rather than ruled out in advance."
   },
   {
@@ -1188,9 +1188,9 @@ const questions = [
         "A source having beliefs or purposes does not make it historically useless. Ancient sources are evaluated by date, access to information, genre, corroboration, consistency, and explanatory value. Bias is something to assess, not a reason to discard a source automatically."
       ]
     ],
-    "limits": "Keep two questions separate: manuscripts help us know what the authors wrote; historical investigation asks whether what they wrote is true.",
+    "limits": "Two questions need to stay separate: manuscripts help us know what the authors wrote; historical investigation asks whether what they wrote is true.",
     "practice": "Someone says, “Using the New Testament to learn about Jesus is circular because the New Testament is the Christian Bible.” How would you answer without assuming inspiration?",
-    "model": "I can use a document as a historical source before deciding whether it is inspired. We have early Christian writings, we can recover their text well, and outside writers confirm parts of the setting. So I can ask what these sources say about Jesus and how well their claims fit the evidence before I ever make an argument for inspiration.",
+    "model": "Using a document historically is not the same as assuming it is inspired. We have early Christian writings, we can recover their text well, and outside writers confirm parts of the setting. So we can ask what these sources say about Jesus and how well their claims fit the evidence before making any argument for inspiration.",
     "sources": [
       [
         "Cambridge | Manuscripts and the Making of the New Testament",
@@ -1303,8 +1303,8 @@ const questions = [
         "Another source supporting part of the same historical picture."
       ]
     ],
-    "conclusion": "We do not have to assume the Bible is inspired before investigating Jesus. We have recoverable, early sources that can be tested historically. Inspiration comes later in the argument.",
-    "thread": "Study 10 showed that if God exists, miracles cannot be ruled out before looking at the evidence. Study 11 now turns to the historical foundation: do we have early, recoverable sources that let us investigate Jesus as a real person in real history?",
+    "conclusion": "We don’t have to assume the Bible is inspired before investigating Jesus. We have recoverable, early sources that can be tested historically. Inspiration comes later in the argument.",
+    "thread": "Now we can ask the historical question. What sources do we actually have for Jesus, and can we use them before assuming the Bible is inspired?",
     "bigIdea": "The New Testament can be used as historical evidence before anyone assumes that it is inspired Scripture."
   },
   {
@@ -1366,7 +1366,7 @@ const questions = [
     ],
     "limits": "Do not hang the whole case on one verse or one title. Look at the larger pattern of Jesus’ words, actions, claims, and authority.",
     "practice": "Someone says, “Jesus never claimed to be God. That was added by later Christians.” Give a cumulative answer rather than relying on one proof text.",
-    "model": "I would look at the whole pattern. Jesus forgives sins, claims authority over the Sabbath, uses the Daniel 7 Son of Man language, puts our response to him at the center of judgment, and speaks of a unique relationship with the Father. John makes the claims even more explicit. The point is not one magic verse. Jesus’ identity runs through his whole ministry.",
+    "model": "I’d look at the whole pattern. Jesus forgives sins, claims authority over the Sabbath, uses the Daniel 7 Son of Man language, puts our response to him at the center of judgment, and speaks of a unique relationship with the Father. John makes the claims even more explicit. You do not need one magic verse; Jesus’ identity runs through his whole ministry.",
     "sources": [
       [
         "Reasonable Faith | Rediscovering the Historical Jesus",
@@ -1439,8 +1439,8 @@ const questions = [
         "An argument in which several pieces of evidence support the conclusion together."
       ]
     ],
-    "conclusion": "Jesus’ identity is not a side issue added later to his teaching. His words, actions, titles, and authority repeatedly make the question of who he is unavoidable.",
-    "thread": "Study 11 established that the New Testament can be examined as early historical evidence. Study 12 now asks what those sources say about Jesus himself before we turn to his death, the tomb, and the resurrection.",
+    "conclusion": "Jesus’ identity isn’t a side issue added later to his teaching. His words, actions, titles, and authority repeatedly make the question of who he is unavoidable.",
+    "thread": "If the sources are historically usable, the next question is obvious: what did Jesus actually claim about himself?",
     "bigIdea": "Jesus’ words, actions, titles, and claimed authority together present him as far more than a merely human teacher."
   },
   {
@@ -1500,9 +1500,9 @@ const questions = [
         "Correct. That is why the course does not stop at the empty tomb. Its significance appears when it is combined with Jesus’ death, the early resurrection proclamation, and the reported appearances."
       ]
     ],
-    "limits": "Jesus’ death is the strongest point here. The burial and empty tomb are important supporting pieces, but they should not be asked to prove the resurrection on their own.",
+    "limits": "Jesus’ death is the strongest point here. The burial and empty tomb are important supporting pieces, but they shouldn’t be asked to prove the resurrection on their own.",
     "practice": "Someone says, “Maybe Jesus survived the crucifixion, or maybe nobody knew what happened to his body.” How would you establish the physical starting point of the resurrection case?",
-    "model": "I would start with Jesus’ death, which is very well attested. Then I would point to the specific burial tradition and the reports that the tomb was later found empty. The empty tomb does not prove the resurrection by itself, but it gives any explanation of what happened next a real physical problem to solve.",
+    "model": "I’d start with Jesus’ death, which is very well attested. Then I’d point to the burial tradition and the reports that the tomb was later found empty. The empty tomb does not prove the resurrection on its own, but it gives any explanation of what happened next a real physical problem to solve.",
     "sources": [
       [
         "Cambridge | Pontius Pilate in History and Interpretation",
@@ -1596,7 +1596,7 @@ const questions = [
       ]
     ],
     "conclusion": "The resurrection case begins with a real death. The burial and empty-tomb evidence then raise the next question: what happened after Jesus was buried?",
-    "thread": "Study 12 established that Jesus made extraordinary claims about his identity and authority. Study 13 now fixes the physical setting: he was executed, buried, and there is a serious case that the tomb was later empty.",
+    "thread": "Those claims matter because Jesus was not merely debated; he was executed. Before asking whether he rose, we need the physical starting point.",
     "bigIdea": "The resurrection claim begins with a real death and a serious historical case for a known burial and an empty tomb."
   },
   {
@@ -1656,7 +1656,7 @@ const questions = [
     ],
     "limits": "Do not build the case on one fact. Put the evidence together, then compare which explanation handles the whole pattern best.",
     "practice": "A friend says, “The disciples could have had visions, the body could have been moved, and legends could have grown.” How would you compare those explanations with the resurrection hypothesis?",
-    "model": "I would ask which explanation handles the whole pattern: Jesus really died, resurrection was proclaimed very early, different people and groups reported appearances, Paul changed from opponent to missionary, and there is a serious case for an empty tomb. Natural explanations can address pieces of that, but resurrection explains the set as a whole. And because we already have reason to believe God exists, divine action is a real option rather than something ruled out in advance.",
+    "model": "I’d ask which explanation handles the whole pattern: Jesus really died, resurrection was proclaimed very early, different people and groups reported appearances, Paul changed from opponent to missionary, and there is a serious case for an empty tomb. Natural explanations may address pieces of that. The resurrection explains the set as a whole, and because we already have reason to believe God exists, divine action is not ruled out before the comparison begins.",
     "sources": [
       [
         "Reasonable Faith | The Resurrection of Jesus",
@@ -1746,7 +1746,7 @@ const questions = [
       ]
     ],
     "conclusion": "The resurrection case is cumulative. Jesus’ death, the early message, the reported appearances, Paul’s conversion, and the tomb evidence fit together. The Christian claim is that resurrection explains that whole pattern better than the alternatives.",
-    "thread": "Study 13 established the physical starting point. Study 14 now asks the central historical question: what best explains the early resurrection message, the reported appearances, and the tomb evidence together?",
+    "thread": "Jesus is dead and the tomb evidence is on the table. Now comes the central question: what happened next?",
     "bigIdea": "The resurrection best explains the combined evidence of Jesus’ death, the early resurrection proclamation, reported appearances, and the empty tomb within the theistic worldview already established."
   },
   {
@@ -1794,8 +1794,8 @@ const questions = [
       ]
     ],
     "limits": "Use the trilemma after the historical groundwork. Then use the resurrection as the positive reason for concluding that Jesus’ claims were true.",
-    "practice": "Someone says, “I think Jesus taught many good things, but I do not believe he was Lord.” How would you use the liar-lunatic-Lord argument without treating it as a slogan?",
-    "model": "I would start with Jesus’ own claims. If he knowingly made false claims about divine authority, then calling him simply an admirable teacher does not fit. If he sincerely made those claims and they were false, he was deeply mistaken about himself. If they were true, then Lord fits. The resurrection is the main reason the Christian case chooses that third option. If someone thinks Jesus never made the claims, we can go back and examine that historical question first.",
+    "practice": "Someone says, “I think Jesus taught many good things, but I don’t believe he was Lord.” How would you use the liar-lunatic-Lord argument without treating it as a slogan?",
+    "model": "I’d start with Jesus’ own claims. If he knowingly made false claims about divine authority, “just a good teacher” does not fit very well. If he sincerely made those claims and they were false, he was deeply mistaken about himself. If they were true, then Lord fits. The resurrection is the main reason the Christian case lands on that third option. If someone thinks Jesus never made the claims, then we go back and examine that historical question first.",
     "sources": [
       [
         "Reasonable Faith | Historical Jesus",
@@ -1840,8 +1840,8 @@ const questions = [
         "Putting several earlier lines of evidence together to see what overall conclusion they support."
       ]
     ],
-    "conclusion": "If Jesus made the claims we have examined, simply admiring his teaching while rejecting his authority is not a comfortable middle ground. The resurrection is the major reason the Christian case concludes that his claims were true.",
-    "thread": "Study 14 argued that Jesus rose from the dead. Study 15 now uses the classic trilemma to sharpen the identity question before Study 16 explains what God’s raising of Jesus means.",
+    "conclusion": "If Jesus made the claims we have examined, simply admiring his teaching while rejecting his authority isn’t a comfortable middle ground. The resurrection is the major reason the Christian case concludes that his claims were true.",
+    "thread": "If Jesus really made those claims and rose from the dead, “good teacher but not Lord” becomes hard to hold. This lesson puts that tension into a memorable form.",
     "bigIdea": "If Jesus substantially made the divine claims attributed to him, merely admiring him as a teacher is not a stable option: his claims must be false or true, and the resurrection bears directly on which."
   },
   {
@@ -1893,9 +1893,9 @@ const questions = [
         "The earlier course argued for a personal Creator, and the resurrection hypothesis itself is that God acted. The historical evidence by itself does not identify a mechanism; the theological interpretation comes from the prior case for God plus Jesus’ own context."
       ]
     ],
-    "limits": "Keep the event and Jesus’ claims together. That combination is what gives the resurrection its force as God’s vindication of Jesus.",
+    "limits": "Keep Jesus’ claims tied to the event. That combination is what gives the resurrection its force as God’s vindication of Jesus.",
     "practice": "Someone says, “Even if Jesus rose from the dead, that only proves something strange happened.” How would you explain why the resurrection functions as God’s vindication of Jesus?",
-    "model": "Jesus had already made extraordinary claims about his identity and authority. If the Creator then raised him from the dead, that is not just a strange event; it is a powerful confirmation of the person whose claims were in question. That is why the resurrection gives us reason to receive Jesus as the vindicated Lord.",
+    "model": "The key is who Jesus had already claimed to be. If the Creator raised that man from the dead, the resurrection is not just a strange event. It is a powerful confirmation of the person whose claims were already on the table. That is why the resurrection gives us reason to receive Jesus as the vindicated Lord.",
     "sources": [
       [
         "Ligonier | The Purpose of Miracles",
@@ -1951,7 +1951,7 @@ const questions = [
       ]
     ],
     "conclusion": "The resurrection matters because of who Jesus claimed to be. If God raised him, God has given us strong reason to trust Jesus rather than dismiss his claims.",
-    "thread": "Study 15 compared the remaining explanations of Jesus. Study 16 now draws out what the resurrection means: God’s act gives us strong reason to receive Jesus as a divinely authorized Lord and teacher.",
+    "thread": "If Jesus rose, the question changes. We are no longer asking only what happened to him; we have to ask what God was saying by raising him.",
     "bigIdea": "God’s raising of Jesus vindicates Jesus in the context of his extraordinary claims and mission."
   },
   {
@@ -2005,7 +2005,7 @@ const questions = [
     ],
     "limits": "This study establishes Jesus as a trustworthy authority. The next studies follow his teaching to the Old Testament and to the apostles.",
     "practice": "Someone says, “You are still just using the Bible to prove the Bible.” How would you explain the move from the resurrection to trusting Jesus’ teaching?",
-    "model": "The argument did not begin by assuming the New Testament was inspired. It used those documents as historical sources to reach the resurrection. If God raised Jesus, I now have a reason to trust Jesus as a divine authority. Then I can ask what Jesus teaches about Scripture and about the people he authorized to speak in his name.",
+    "model": "We did not start by assuming the New Testament was inspired. We used those documents as historical sources to reach the resurrection. If God raised Jesus, then I have a reason to trust Jesus as a divine authority. From there I can ask what Jesus teaches about Scripture and about the people he authorized to speak in his name.",
     "sources": [
       [
         "Bible reference | John 12:44–50",
@@ -2056,8 +2056,8 @@ const questions = [
         "The work of understanding what a text or speaker actually means."
       ]
     ],
-    "conclusion": "If God has vindicated Jesus, then Jesus is not just another religious voice. His teaching about God and revelation carries authority, and that is what leads us to Scripture.",
-    "thread": "Study 16 argued that the resurrection vindicates Jesus. Study 17 now makes the next inference clear: a divinely vindicated Lord is a trustworthy authority about God and revelation.",
+    "conclusion": "If God has vindicated Jesus, then Jesus isn’t just another religious voice. His teaching about God and revelation carries authority, and that is what leads us to Scripture.",
+    "thread": "If God vindicated Jesus, his teaching carries a different kind of weight. So what does Jesus say about God and revelation?",
     "bigIdea": "A Jesus vindicated by God is a trustworthy divine authority, so what he teaches about revelation matters decisively."
   },
   {
@@ -2113,9 +2113,9 @@ const questions = [
         "If the previous argument has established Jesus as the divinely vindicated Lord, then treating him as simply mistaken about revelation creates a serious conflict with the authority just established."
       ]
     ],
-    "limits": "Keep the main point clear: Jesus treats Israel’s Scriptures as God’s authoritative Word. Detailed canon questions can come afterward.",
+    "limits": "The main point is straightforward: Jesus treats Israel’s Scriptures as God’s authoritative Word. Detailed canon questions can come afterward.",
     "practice": "Someone says, “I could accept Jesus without accepting the Old Testament.” How would you explain why Jesus’ own view of Scripture matters?",
-    "model": "If Jesus is the vindicated Lord, I should take his view of Scripture seriously. He repeatedly treats Israel’s Scriptures as decisive, speaks of written Scripture as God’s speech, and says Scripture cannot be broken. So trusting Jesus gives me a strong reason to receive the Old Testament as the authoritative Word he himself received.",
+    "model": "If Jesus is the vindicated Lord, then his view of Scripture matters. He repeatedly treats Israel’s Scriptures as decisive, speaks of written Scripture as God’s speech, and says Scripture cannot be broken. Trusting Jesus therefore gives me a strong reason to receive the Old Testament as the authoritative Word he himself received.",
     "sources": [
       [
         "The Gospel Coalition | Jesus’s View of the Old Testament",
@@ -2176,8 +2176,8 @@ const questions = [
         "The claim that Scripture rightly governs belief and obedience because it is God’s Word."
       ]
     ],
-    "conclusion": "Jesus does not treat the Old Testament as optional religious advice. He receives Israel’s Scriptures as God’s authoritative Word, and his authority gives Christians reason to do the same.",
-    "thread": "Study 17 established why Jesus’ teaching deserves trust. Study 18 asks what Jesus says and does with the Scriptures he inherited, giving the argument its first direct bridge to the Bible.",
+    "conclusion": "Jesus doesn’t treat the Old Testament as optional religious advice. He receives Israel’s Scriptures as God’s authoritative Word, and his authority gives Christians reason to do the same.",
+    "thread": "Start with the Scriptures Jesus already had. How did he treat the Old Testament?",
     "bigIdea": "Jesus consistently receives Israel’s Scriptures as God’s authoritative Word, giving Christians reason to receive the Old Testament on his authority."
   },
   {
@@ -2236,7 +2236,7 @@ const questions = [
     ],
     "limits": "The canon has a real history. The main apologetic point is that New Testament authority rests on Christ’s authorization of the apostolic witness, not on a later church vote creating that authority.",
     "practice": "Someone says, “The church chose the New Testament centuries later, so its authority is just a church decision.” How would you explain the apostolic bridge from Jesus to the New Testament?",
-    "model": "Jesus did not personally name a finished list of twenty-seven New Testament books. He did choose and authorize apostles to bear witness to him. The earliest churches treated that apostolic teaching as uniquely authoritative, and the New Testament was recognized as the written apostolic witness. The church recognized that authority; it did not create Christ’s authority by vote.",
+    "model": "Jesus did not personally hand us a finished list of twenty-seven New Testament books. He did choose and authorize apostles to bear witness to him. The earliest churches treated that apostolic teaching as uniquely authoritative, and the New Testament was recognized as the written apostolic witness. The church recognized that authority; it did not create Christ’s authority by vote.",
     "sources": [
       [
         "Ligonier | The Authority of the Apostles",
@@ -2303,8 +2303,8 @@ const questions = [
         "The historical process by which the church identified the writings it received as Scripture."
       ]
     ],
-    "conclusion": "Jesus did not hand over a finished New Testament table of contents. He authorized apostles, and the church received the New Testament as the written apostolic witness tied to that authority.",
-    "thread": "Study 18 showed how Jesus receives the Old Testament. Study 19 now completes the other side of the bridge by asking how Jesus’ authority reaches the apostolic witness that becomes the New Testament.",
+    "conclusion": "Jesus didn’t hand over a finished New Testament table of contents. He authorized apostles, and the church received the New Testament as the written apostolic witness tied to that authority.",
+    "thread": "Jesus receives the Old Testament, but he also commissions people to speak for him. That is the bridge to the New Testament.",
     "bigIdea": "Jesus established an authoritative apostolic witness, and the New Testament is received as the written form of that apostolic testimony."
   },
   {
@@ -2365,7 +2365,7 @@ const questions = [
     ],
     "limits": "The strength of the case comes from the links working together. Learn what each step contributes, then show how the steps connect without assuming inspiration at the beginning.",
     "practice": "A friend asks, “How do you get from ‘God exists’ to ‘Scripture is God’s Word’ without reasoning in a circle?” Give the whole classical-apologetic path in about a minute.",
-    "model": "I begin with reasons for believing a Creator exists. If God exists, miracles are possible. I then use New Testament documents historically, not as already inspired, to investigate Jesus. The case leads to his extraordinary claims, death, and resurrection. If God raised Jesus, God vindicated him, so Jesus is a trustworthy divine authority. Jesus receives the Old Testament as God’s Word and authorizes apostles whose witness stands behind the New Testament. That gives a reasoned path to receiving Scripture as God’s Word rather than assuming it at the start.",
+    "model": "I’d give the path like this: there are good reasons to believe a Creator exists. If God exists, miracles are possible. Then I use the New Testament historically, not as already inspired, to investigate Jesus. The case leads to his claims, death, and resurrection. If God raised Jesus, God vindicated him, so Jesus is a trustworthy divine authority. Jesus receives the Old Testament as God’s Word and authorizes apostles whose witness stands behind the New Testament. That is how the argument reaches Scripture without assuming inspiration at the start.",
     "sources": [
       [
         "Ligonier | The Purpose of Miracles",
@@ -2431,7 +2431,7 @@ const questions = [
       ]
     ],
     "conclusion": "The path is now visible: Creator → miracles are possible → Jesus can be investigated → Jesus made extraordinary claims → Jesus died and rose → God vindicated Jesus → Jesus speaks with authority → Jesus receives the Old Testament and authorizes the apostles → God has spoken in Scripture.",
-    "thread": "This is the end of the core path. Part 1 asked whether God exists. Part 2 asked whether that God has spoken. The course’s answer is yes: decisively in Christ, and through the Scriptures Christ receives and authorizes.",
+    "thread": "Now put the chain together from beginning to end. The point is not a slogan; it is a reasoned path from Creator to Scripture.",
     "bigIdea": "The classical case reaches its destination when the God whose existence is established is shown to have spoken through Christ and Scripture."
   },
   {
@@ -2487,9 +2487,9 @@ const questions = [
         "Agreed. Free will mainly helps with evil caused by people. Natural suffering is a different question. Christians also point to a stable world with regular natural processes, our limited knowledge, and the biblical teaching that creation itself is broken and awaiting restoration. None of that gives us permission to guess why one person suffered."
       ]
     ],
-    "limits": "In debate, answer the argument. In grief, care for the person. The same response is not right for every moment.",
-    "practice": "Someone argues, “A perfectly good and all-powerful God cannot exist because evil and suffering exist.” How would you answer the argument while still taking suffering seriously?",
-    "model": "I would first distinguish a logical contradiction from an evidential challenge. To prove a contradiction, the critic would have to show that a good and powerful God could have no morally sufficient reason for allowing any evil. That has not been established. The amount and severity of suffering can still be raised as evidence against God, and that must be weighed with the positive case for God. Christianity also says evil is genuinely evil, God entered suffering in Christ, evil will be judged, and death will be defeated rather than having the final word.",
+    "limits": "In debate, answer the argument. In grief, care for the person. The same response isn’t right for every moment.",
+    "practice": "Someone argues, “A perfectly good and all-powerful God can’t exist because evil and suffering exist.” How would you answer the argument while still taking suffering seriously?",
+    "model": "First I’d ask what kind of objection is being made. A logical contradiction would require showing that a good and powerful God could have no morally sufficient reason for allowing any evil, and that has not been shown. The amount and severity of suffering can still count as evidence against God, and Christians should take that seriously. But it has to be weighed alongside the positive case for God. Christianity also says evil is truly evil, God entered suffering in Christ, evil will be judged, and death will not get the final word.",
     "sources": [
       [
         "Stanford Encyclopedia of Philosophy | The Problem of Evil",
@@ -2562,8 +2562,8 @@ const questions = [
         "Suffering from things such as disease, disasters, and other natural events."
       ]
     ],
-    "conclusion": "Evil is a serious problem, but it is not a simple disproof of God. Christianity says evil is real, God entered our suffering in Christ, and evil and death will not have the final word.",
-    "thread": "The main course built a positive case for God and the resurrection. This bonus study asks whether the reality of suffering overturns that case, and how a Christian should answer without losing sight of the person who is hurting.",
+    "conclusion": "Evil is a serious problem, but it isn’t a simple disproof of God. Christianity says evil is real, God entered our suffering in Christ, and evil and death won’t have the final word.",
+    "thread": "The positive case is built. Now ask the hard question many people feel most deeply: what do we do with evil and suffering?",
     "bigIdea": "Evil is a serious challenge, but it is not a logical disproof of God; Christianity provides both philosophical answers and a redemptive answer centered on Christ."
   },
   {
@@ -2573,7 +2573,7 @@ const questions = [
     "title": "How should a Christian think about creation, Darwinian evolution, and worldview?",
     "teaser": "Christians can disagree about the age of creation while still asking the more basic apologetic question: is life best explained by intentional creation or by unguided naturalism?",
     "why": "This lesson keeps the main issue from being buried under the age debate. Christians can disagree about chronology and still make the same basic case for intentional creation over naturalism.",
-    "limits": "Keep the chronology debate secondary. The point here is to compare creation and naturalism as explanations of the whole picture.",
+    "limits": "Don’t let the chronology debate take over. The point here is to compare creation and naturalism as explanations of the whole picture.",
     "terms": [
       [
         "Natural selection",
@@ -2654,7 +2654,7 @@ const questions = [
       "How can worldview shape the interpretation of evidence such as common genetic architecture?"
     ],
     "practice": "Someone says, “Whether the earth is young or old, evolution has made a Creator unnecessary.” How would you explain why the creation-versus-naturalism question is different from the age question?",
-    "model": "I would separate the questions. Christians can disagree about the age of the earth and universe while agreeing that God intentionally created reality. Mutation, selection, adaptation, and speciation are not the same claim as universal common ancestry, and neither of those claims proves that unguided processes are enough to explain the origin of life, biological information, and integrated systems. The bigger question is which worldview best explains the whole picture: the universe, fine-tuning, life, reason, and morality. The Christian case is that a rational Creator does.",
+    "model": "I’d separate the questions. Christians can disagree about the age of the earth and universe while agreeing that God intentionally created reality. Mutation, selection, adaptation, and speciation are not the same claim as universal common ancestry, and none of those claims by themselves show that unguided processes are enough to explain the origin of life, biological information, and integrated systems. The bigger question is which worldview best explains the whole picture: the universe, fine-tuning, life, reason, and morality. The Christian case is that a rational Creator does.",
     "evidence": {
       "claim": "The cumulative evidence of the course supports intentional creation over philosophical naturalism while leaving young-earth versus old-earth chronology as a separate Christian debate.",
       "establishes": "Creationist sources show that Christians who disagree over chronology can still affirm God as intentional Creator. Mainstream evolutionary sources are useful for accurately understanding the mechanisms and common-ancestry arguments that creationists must answer. Philosophy-of-science sources help distinguish a scientific convention of seeking natural mechanisms from the worldview claim that nature is all that exists. These sources serve the main apologetic comparison rather than becoming the main lesson.",
@@ -2699,7 +2699,7 @@ const questions = [
       ]
     },
     "conclusion": "Do not let the age debate swallow the bigger question. Young-earth and old-earth creationists can disagree about chronology while making the same basic case: reality is better explained by a rational Creator than by unguided naturalism.",
-    "thread": "The earlier studies argued from existence, beginning, design, fine-tuning, biological information, morality, and reason toward a Creator. This bonus study shows how to keep that cumulative creation case in view when Darwinian evolution is raised as an objection.",
+    "thread": "Origins can easily swallow the whole conversation. This lesson keeps the bigger issue in view: creation or unguided naturalism?",
     "bigIdea": "The central apologetic contrast is creation versus naturalism, not young earth versus old earth: observed biological change does not establish universal common ancestry or the sufficiency of unguided processes."
   },
   {
@@ -2753,7 +2753,7 @@ const questions = [
     ],
     "limits": "A conversation method is a tool, not a script: identify the real issue, answer it clearly, and keep the person more important than displaying how much you know.",
     "practice": "Someone says, “Christianity is obviously false because science disproved God.” What would you say first, and how would you decide which argument from this course to use next?",
-    "model": "I would begin with a question: ‘What scientific finding do you think disproves God?’ Then I would listen and ask how that finding leads to the conclusion. If the issue is the beginning of the universe, design, evolution, miracles, or something else, I now know which argument is relevant. The goal is to answer the real objection one step at a time rather than unloading a speech.",
+    "model": "I’d start with a question: “What scientific finding do you think disproves God?” Then I’d listen and ask how that finding is supposed to lead to the conclusion. If the issue is the beginning of the universe, design, evolution, miracles, or something else, I now know which argument is relevant. The goal is to answer the real objection one step at a time, not unload a speech.",
     "sources": [
       [
         "Bible reference | 1 Peter 3:15–16",
@@ -2817,7 +2817,7 @@ const questions = [
       ]
     ],
     "conclusion": "Listen first. Ask what the person means and why they believe it. Answer one real issue at a time, and keep the conversation human.",
-    "thread": "The course ends where apologetics is actually used: in ordinary conversations. The arguments are tools; the goal is to use them truthfully, clearly, and with gentleness.",
+    "thread": "At some point the arguments have to leave the page. This last study is about using them with real people.",
     "bigIdea": "Good apologetics begins by identifying the real claim or objection, then answering that point clearly and graciously."
   }
 ];
