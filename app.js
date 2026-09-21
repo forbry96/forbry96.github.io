@@ -234,53 +234,10 @@ const memorableBigIdeas = {
 };
 
 
-function memoryVisualHtml(id){
-  const visuals = {
-    7: {
-      title: 'A simple way to picture the design argument',
-      type: 'flow',
-      items: [
-        ['DNA information','Sequence matters to function'],
-        ['Reading systems','The cell copies and uses the instructions'],
-        ['Molecular machinery','Parts are assembled and coordinated'],
-        ['Design inference','Intelligence is a known cause of information and machines']
-      ]
-    },
-    14: {
-      title: 'Keep the resurrection case in one line',
-      type: 'flow',
-      items: [
-        ['Jesus died','The claim begins with a genuinely dead Jesus'],
-        ['Early proclamation','Resurrection belief appears very early'],
-        ['Reported appearances','Individuals and groups are reported as seeing him alive'],
-        ['Tomb evidence','The body is not produced and the empty-tomb case matters'],
-        ['Best explanation','Ask which explanation accounts for the whole pattern']
-      ]
-    },
-    19: {
-      title: 'How Jesus’ authority reaches the New Testament',
-      type: 'flow',
-      items: [
-        ['Jesus','The risen Lord has authority'],
-        ['Apostles','He commissions authorized witnesses'],
-        ['Apostolic witness','Their teaching carries delegated authority'],
-        ['New Testament','Apostolic writings are received as that authoritative witness']
-      ]
-    },
-    22: {
-      title: 'Keep three different questions separate',
-      type: 'columns',
-      items: [
-        ['What we observe','Mutation, selection, adaptation, population change, and speciation'],
-        ['What we infer about history','Common ancestry and proposed pathways for biological change'],
-        ['What worldview claim is added','Whether unguided nature is sufficient, or creation better explains the whole picture']
-      ]
-    }
-  };
-  const v = visuals[id];
-  if(!v) return '';
-  const cls = v.type === 'columns' ? 'memory-map memory-columns' : 'memory-map memory-flow';
-  return `<div class="${cls}"><div class="memory-map-heading"><span class="lesson-kicker">MEMORY MAP</span><h4>${esc(v.title)}</h4></div><div class="memory-map-items">${v.items.map((x,i)=>`<div class="memory-map-item"><span class="memory-map-no">${String(i+1).padStart(2,'0')}</span><strong>${esc(x[0])}</strong><p>${esc(x[1])}</p></div>`).join('')}</div></div>`;
+function checkpointHtml(q, after){
+  const items = (q.checkpoints || []).filter(c => c.after === after);
+  if(!items.length) return '';
+  return items.map(c => `<details class="inline-checkpoint"><summary><span class="check-label">CHECK YOUR UNDERSTANDING</span><strong>${esc(c.question)}</strong><span class="check-action">Show answer</span></summary><div class="checkpoint-answer"><span>ANSWER</span><p>${esc(c.answer)}</p></div></details>`).join('');
 }
 
 function openQuestion(id){
@@ -294,31 +251,24 @@ function openQuestion(id){
   html += `<section class="learning-phase big-idea-block"><div class="phase-badge">1</div><div><span class="lesson-kicker">THE IDEA</span><h3>${esc(bigIdea)}</h3><p>${esc(q.why)}</p></div></section>`;
 
   if(q.terms?.length){
-    html += `<details class="terms-details"><summary><div><span class="lesson-kicker">KEY TERMS</span><strong>Open the words you need for this study</strong></div><span class="details-mark" aria-hidden="true">+</span></summary><div class="terms-grid">${q.terms.map(([term,definition])=>`<div class="term-item"><strong>${esc(term)}</strong><p>${esc(definition)}</p></div>`).join('')}</div></details>`;
+    html += `<details class="terms-details"><summary><div><span class="lesson-kicker">KEY TERMS</span><strong>Open the words you need for this study</strong></div><span class="details-mark" aria-hidden="true">+</span></summary><div class="terms-list">${q.terms.map(([term,definition])=>`<div class="term-item"><strong>${esc(term)}</strong><p>${esc(definition)}</p></div>`).join('')}</div></details>`;
   }
 
-  html += `<section class="learning-phase evidence-teaching-block"><div class="phase-badge">2</div><div class="phase-content">`;
-  if(q.id===4){
-    html += `<span class="lesson-kicker">BUILD YOUR CASE</span><h3>Lay out the Kalam clearly</h3><ol class="steps evidence-steps">${q.core.map(x=>`<li>${esc(x)}</li>`).join('')}</ol>`;
-    if(q.lesson){
-      html += `<div class="kalam-evidence-separator"><span class="lesson-kicker">THE EVIDENCE</span><h3>${esc(q.lesson.heading)}</h3>${q.lesson.body.split('\n').filter(Boolean).map(p=>p.startsWith('## ')?`<h5 class="lesson-subhead">${esc(p.slice(3))}</h5>`:`<p>${esc(p)}</p>`).join('')}</div><div class="fact-grid memory-facts">${q.lesson.facts.map((x,i)=>`<div class="fact"><span>${String(i+1).padStart(2,'0')}</span><p>${esc(x)}</p></div>`).join('')}</div>`;
+  html += `<section class="learning-phase evidence-teaching-block"><div class="phase-badge">2</div><div class="phase-content"><span class="lesson-kicker">THE EVIDENCE</span><h3>Build the case</h3><ol class="steps evidence-steps">${q.core.map(x=>`<li>${esc(x)}</li>`).join('')}</ol>`;
+  html += checkpointHtml(q,'core');
+  if(q.lesson){
+    html += `<div class="plain-explanation"><h4>${esc(q.lesson.heading)}</h4>${q.lesson.body.split('\n').filter(Boolean).map(p=>p.startsWith('## ')?`<h5 class="lesson-subhead">${esc(p.slice(3))}</h5>`:`<p>${esc(p)}</p>`).join('')}</div>`;
+    html += checkpointHtml(q,'body');
+    if(q.lesson.facts?.length){
+      html += `<div class="evidence-points"><h4>Evidence to remember</h4><ul>${q.lesson.facts.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></div>`;
     }
-  } else {
-    html += `<span class="lesson-kicker">THE EVIDENCE</span><h3>Build the case</h3><ol class="steps evidence-steps">${q.core.map(x=>`<li>${esc(x)}</li>`).join('')}</ol>`;
-    if(q.lesson){
-      html += `<div class="plain-explanation"><h4>${esc(q.lesson.heading)}</h4>${q.lesson.body.split('\n').filter(Boolean).map(p=>p.startsWith('## ')?`<h5 class="lesson-subhead">${esc(p.slice(3))}</h5>`:`<p>${esc(p)}</p>`).join('')}</div><div class="fact-grid memory-facts">${q.lesson.facts.map((x,i)=>`<div class="fact"><span>${String(i+1).padStart(2,'0')}</span><p>${esc(x)}</p></div>`).join('')}</div>`;
-    }
+    html += checkpointHtml(q,'facts');
   }
-  html += memoryVisualHtml(q.id);
   if(q.conclusion) html += `<div class="remember-box"><span>REMEMBER THIS</span><p>${esc(q.conclusion)}</p></div>`;
   if(q.synthesis) html += `<div class="synthesis-block"><div class="lesson-kicker">PUT IT TOGETHER</div><h3>${esc(q.synthesis.title)}</h3><p>${esc(q.synthesis.body)}</p>${q.synthesis.points?.length?`<ul>${q.synthesis.points.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`:''}</div>`;
   html += `</div></section>`;
 
-  html += `<section class="learning-phase practice-phase"><div class="phase-badge">3</div><div class="phase-content"><span class="lesson-kicker">PRACTICE</span><h3>Use the idea in a real conversation</h3><div class="practice-box embedded-practice"><p><strong>${esc(q.practice)}</strong></p><textarea id="practiceInput" placeholder="Write your answer before checking the model..."></textarea><button class="button light practice-btn" id="revealModel">Show one model response</button><div id="modelHolder"></div></div></div></section>`;
-
-  if(q.thoughts?.length){
-    html += `<section class="comprehension-block"><span class="lesson-kicker">COMPREHENSION CHECK</span><h3>Can you explain it without looking back?</h3><p class="retrieval-note">Answer these in your own words. The goal is recall and understanding, not memorizing the wording.</p><ol>${q.thoughts.map(x=>`<li>${esc(x)}</li>`).join('')}</ol></section>`;
-  }
+  html += `<section class="learning-phase practice-phase"><div class="phase-badge">3</div><div class="phase-content"><span class="lesson-kicker">PRACTICE</span><h3>Put it into your own words</h3><div class="practice-box embedded-practice"><p><strong>${esc(q.practice)}</strong></p><textarea id="practiceInput" placeholder="Write your answer before checking the model..."></textarea><button class="button light practice-btn" id="revealModel">Show one model response</button><div id="modelHolder"></div></div></div></section>`;
 
   html += `<details class="challenges-details"><summary><div><span class="lesson-kicker">COMMON OBJECTIONS</span><strong>Open the main challenges and responses</strong></div><span class="details-mark" aria-hidden="true">+</span></summary><div class="challenges-body">${q.pressure.map(x=>`<div class="pressure"><strong>${esc(x[0])}</strong><span>${esc(x[1])}</span></div>`).join('')}</div></details>`;
   if(q.limits) html += `<div class="limitations-note"><span>KEEP THE CLAIM CLEAR</span><p>${esc(q.limits)}</p></div>`;
