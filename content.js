@@ -2446,14 +2446,14 @@ const questions = [
     "title": "What about the New Testament?",
     "teaser": "Jesus did not hand the church a completed 27-book New Testament. He did something more basic first: he chose, commissioned, and promised help to authoritative apostolic witnesses.",
     "lesson": {
-      "heading": "Christ authorized witnesses who speak in his name",
-      "body": "Jesus’ authority reaches the New Testament through the apostles he chose and sent.\n\nDuring his ministry, Jesus appointed apostles to be with him, learn from him, and later speak in his name. After the resurrection, they became the public witnesses to what Jesus had said and done. In John’s farewell teaching, Jesus promises the apostolic group that the Spirit will bring his teaching to their remembrance and guide them in the truth they still needed.\n\nThe earliest churches therefore treated apostolic teaching as uniquely authoritative. Writings from apostles, or closely tied to their witness, were read and circulated among the churches. Over time, the church recognized the twenty-seven books of the New Testament through a real historical process. Some books were discussed longer than others.\n\nThe key distinction is between recognizing authority and creating it. On the Christian understanding, the church did not make these books Christ’s Word by voting them into existence. It received them because they carried the authorized apostolic witness to Christ.\n\nSo the line is: Jesus authorizes the apostles; the apostles bear authoritative witness to Jesus; that witness is preserved in the New Testament. That is how Christ’s authority reaches the New Testament writings.",
+      "heading": "From Christ’s apostles to the recognized New Testament",
+      "body": "The bridge begins with people, not a table of contents. Jesus chose the Twelve, made them witnesses of his ministry, and after the resurrection commissioned them to teach the nations. The New Testament also records Jesus promising the Spirit’s help in their witness and remembrance.\n\nThat apostolic authority shows up immediately in the early church. Acts describes believers devoting themselves to “the apostles’ teaching.” Paul expects his apostolic instruction to be received with authority. Other New Testament writings speak of the church being built on the foundation of apostles and prophets.\n\nThe canon question is the historical question of which writings authentically belong to that apostolic witness. Early Christians did not use one mechanical checklist, but several features repeatedly mattered: apostolic authorship or close apostolic connection, agreement with the received Christian faith, the writing’s own spiritual and theological qualities, and widespread reception in the churches.\n\nRecognition was neither instant nor hopelessly late. The four Gospels and most Pauline letters formed an early core. Some shorter books such as 2 Peter, 2–3 John, James, Jude, Hebrews, and Revelation were discussed longer in some places. That history is evidence of discernment, not evidence that a fourth-century council invented the canon.\n\nThe popular claim that the Council of Nicaea chose the books of the Bible is simply historically wrong. Nicaea dealt primarily with the Arian controversy and the identity of Christ. Later councils and lists witnessed to a canon that had already been functioning in the churches.\n\nThe apologetic conclusion is therefore modest but strong: the authority of the New Testament is rooted in Christ’s authorized apostolic witness. The church’s role is receptive and recognitional, not creative.",
       "facts": [
-        "Jesus chose apostles and sent them as authorized witnesses and teachers.",
-        "John 14:26 promises the Spirit will remind the apostles of Jesus’ teaching.",
-        "John 16:12–15 promises further guidance into truth in the immediate apostolic setting.",
-        "The early church gave special weight to apostolic origin or connection when recognizing New Testament books.",
-        "Recognition of the twenty-seven-book canon developed over time, with a strong core received early and some books discussed longer."
+        "Apostolic authority comes from Christ before there is a completed New Testament canon.",
+        "The earliest churches treated apostolic teaching as foundational and binding.",
+        "Canon recognition involved apostolic connection, doctrinal coherence, spiritual qualities, and broad church reception.",
+        "Most New Testament books belonged to an early recognized core, while a smaller number were disputed longer.",
+        "The Council of Nicaea did not vote the New Testament canon into existence."
       ],
       "further": [
         [
@@ -2474,28 +2474,28 @@ const questions = [
         ]
       ]
     },
-    "why": "This avoids the inaccurate claim that Jesus handed the church a finished twenty-seven-book table of contents. His authority reaches the New Testament through the apostles he authorized.",
+    "why": "The New Testament question is not “Which council made these books authoritative?” It is how Christ’s authority reaches the apostolic witness and how the church recognized that witness in written form.",
     "core": [
-      "Jesus deliberately chose and commissioned apostles to be his authoritative witnesses and teachers.",
-      "Jesus promised the Spirit’s help in remembering his teaching and guiding the apostolic witness.",
-      "The earliest churches treated apostolic teaching as uniquely authoritative and received writings tied to that apostolic foundation.",
-      "Apostolic origin or close connection became a central criterion in recognizing New Testament books.",
-      "The canon was recognized through history rather than invented by a later vote; recognition identifies authority that comes from Christ through his apostles.",
-      "The New Testament is therefore received as the written apostolic witness authorized by the risen Jesus."
+      "Jesus chose apostles as authorized witnesses to his life, teaching, death, and resurrection.",
+      "He promised the Spirit’s help for their witness and sent them to teach in his name.",
+      "The earliest church treated apostolic teaching as foundational and uniquely authoritative.",
+      "New Testament writings were received in relation to apostolic origin or close apostolic connection, consistency with the received rule of faith, and broad use among the churches.",
+      "A substantial core of New Testament books was recognized very early; some books at the edges were discussed longer in particular regions.",
+      "The church recognized the canon; it did not create the authority of apostolic writings by a late vote, and the Council of Nicaea did not choose the New Testament books."
     ],
     "pressure": [
       [
-        "“The church chose the Bible centuries later.”",
-        "The church did have to recognize and discuss the books, and some were debated longer than others. But a substantial core was received early, and apostolicity was a major criterion. Recognition is not the same thing as inventing the authority from nothing."
+        "“The church chose the books centuries later.”",
+        "The church did make historical judgments about disputed books, but the evidence shows an early core of Gospels and apostolic letters in use long before the fourth century. Later councils recognized a collection whose authority was tied to the apostolic witness."
       ],
       [
-        "“Why trust Paul if he was not one of the Twelve?”",
-        "Paul’s apostleship has its own historical and theological case: he claimed an appearance of the risen Jesus, was known to the Jerusalem leaders, and his mission was recognized rather than carried on in isolation. This lesson does not need to pretend every apostolic question is simple."
+        "“Why trust a canon with disputed books?”",
+        "Disagreement at the edges does not erase agreement at the center. Historical recognition can be gradual without being arbitrary, and the disputed books were examined precisely because the churches cared about apostolic authority."
       ]
     ],
-    "limits": "The canon has a real history. The main apologetic point is that New Testament authority rests on Christ’s authorization of the apostolic witness, not on a later church vote creating that authority.",
-    "practice": "Someone says, “The church chose the New Testament centuries later, so its authority is just a church decision.” How would you explain the apostolic bridge from Jesus to the New Testament?",
-    "model": "Jesus did not personally hand us a finished list of twenty-seven New Testament books. He did choose and authorize apostles to bear witness to him. The earliest churches treated that apostolic teaching as uniquely authoritative, and the New Testament was recognized as the written apostolic witness. The church recognized that authority; it did not create Christ’s authority by vote.",
+    "limits": "Do not claim Jesus personally named all 27 books or that canon history was effortless. The stronger case is Christ → apostles → apostolic writings → historical recognition.",
+    "practice": "Someone says, “The church voted on the Bible centuries later, so the New Testament only has authority because the church gave it authority.” How would you answer?",
+    "model": "I’d start before the councils. Jesus authorized apostles to teach and bear witness in his name, and the earliest churches treated that apostolic teaching as foundational. The canon question was which writings genuinely carried that apostolic witness. Most books formed an early core, while a few were discussed longer. Later councils recognized that collection; they did not manufacture Christ’s authority or invent the New Testament at Nicaea.",
     "sources": [
       [
         "Ligonier | The Authority of the Apostles",
@@ -2507,47 +2507,42 @@ const questions = [
       ]
     ],
     "evidence": {
-      "claim": "Jesus authorized apostles to teach and bear witness in his name, and apostolicity became central to the church’s recognition of New Testament Scripture.",
-      "establishes": "The sources support the special authority of the apostles, Jesus’ promises concerning their witness, and the historical role of apostolic origin and reception in canon recognition.",
-      "caution": "Jesus did not directly name a completed 27-book New Testament. The exact canon was recognized through a historical process, and some books were debated longer than others.",
+      "claim": "Christian canon treatments commonly distinguish the source of authority from the later process of recognition and emphasize apostolicity, orthodoxy, reception, and an early core canon.",
+      "establishes": "Michael Kruger’s canon curriculum and writings stress that the church recognized rather than created the canon. Ligonier likewise distinguishes canon authority from church decree, while Biola connects the New Testament to Jesus’ authorization of the apostles.",
+      "caution": "Historical canon formation was complex. The case is stronger when it admits disputed books and regional variation rather than pretending the final list appeared all at once.",
       "resources": [
         {
-          "type": "Reformed theology",
-          "title": "Ligonier | The Authority of the Apostles",
-          "why": "Explains delegated apostolic authority as authority received from Christ.",
-          "url": "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-authority-of-the-apostles"
+          "type": "Curriculum",
+          "title": "The Gospel Coalition | The Origins of the New Testament Canon",
+          "why": "Michael Kruger’s course covers apostolic origins, early core books, disputed books, criteria, and common canon myths.",
+          "url": "https://www.thegospelcoalition.org/course/origins-new-testament-canon/"
         },
         {
-          "type": "Primary Christian source",
-          "title": "John 14:25–26",
-          "why": "Jesus promises the Spirit will bring his teaching to the apostles’ remembrance.",
-          "url": "https://www.biblegateway.com/passage/?search=John%2014%3A25-26&version=ESV"
+          "type": "Teaching",
+          "title": "Ligonier | Authority and the Canon",
+          "why": "Explains that the church recognizes the authority of Scripture rather than creating it.",
+          "url": "https://learn.ligonier.org/articles/authority-and-the-canon"
         },
         {
-          "type": "Primary Christian source",
-          "title": "John 16:12–15",
-          "why": "Promises further guidance in the immediate apostolic setting.",
-          "url": "https://www.biblegateway.com/passage/?search=John%2016%3A12-15&version=ESV"
+          "type": "Teaching",
+          "title": "Ligonier | Did the Church Decide the Canon?",
+          "why": "Directly addresses the claim that church councils made the Bible authoritative.",
+          "url": "https://learn.ligonier.org/qas/did-the-church-decide-the-canon"
         },
         {
-          "type": "Canon history",
-          "title": "Ligonier | The New Testament Canon",
-          "why": "Summarizes early consensus, debated books, and the role of apostolicity in recognizing the canon.",
-          "url": "https://learn.ligonier.org/devotionals/new-testament-canon"
+          "type": "Apologetics",
+          "title": "Michael J. Kruger | Ten Basic Facts about the New Testament Canon",
+          "why": "Summarizes early recognition, disputed books, and why Nicaea did not create the canon.",
+          "url": "https://michaeljkruger.com/10-basic-facts-about-the-nt-canon-that-every-christian-should-memorize/"
         },
         {
-          "type": "New Testament introduction",
-          "title": "The Gospel Coalition | Introduction to the New Testament",
-          "why": "Explains apostolicity, orthodoxy, and widespread church use in canon recognition.",
-          "url": "https://www.thegospelcoalition.org/essay/introduction-to-the-new-testament/"
+          "type": "Biola",
+          "title": "Biola | From Belief in Jesus to Belief in the New Testament",
+          "why": "Connects Jesus’ authorization of the apostles with the authority of their witness and writings.",
+          "url": "https://www.biola.edu/blogs/good-book-blog/2021/from-belief-in-jesus-to-belief-in-the-new-testament"
         }
       ]
     },
-    "thoughts": [
-      "What authority did Jesus give the apostles?",
-      "Why are the promises of the Spirit important to the apostolic witness?",
-      "What is the difference between the church recognizing canonical books and creating their authority?"
-    ],
     "terms": [
       [
         "Apostle",
@@ -2562,9 +2557,26 @@ const questions = [
         "The historical process by which the church identified the writings it received as Scripture."
       ]
     ],
-    "conclusion": "Jesus didn’t hand over a finished New Testament table of contents. He authorized apostles, and the church received the New Testament as the written apostolic witness tied to that authority.",
+    "conclusion": "The New Testament reaches us through a real historical process, but its claimed authority is not created by that process. It rests on the apostolic witness authorized by Christ.",
     "thread": "Jesus receives the Old Testament, but he also commissions people to speak for him. That is the bridge to the New Testament.",
-    "bigIdea": "Jesus established an authoritative apostolic witness, and the New Testament is received as the written form of that apostolic testimony."
+    "bigIdea": "Jesus did not hand the church a finished 27-book list. He authorized apostles to bear witness to him, and the early church received writings tied to that apostolic witness as Scripture.",
+    "checkpoints": [
+      {
+        "after": "core",
+        "question": "Where does New Testament authority begin in this argument?",
+        "answer": "With Jesus’ authorization of the apostles as witnesses and teachers in his name."
+      },
+      {
+        "after": "body",
+        "question": "Did the early church treat every book as equally certain from the first day?",
+        "answer": "No. There was an early core, while a smaller group of books was discussed longer in some regions. That history reflects recognition and discernment."
+      },
+      {
+        "after": "facts",
+        "question": "What is wrong with saying “the church made the Bible authoritative at Nicaea”?",
+        "answer": "Nicaea did not choose the New Testament canon, and apostolic writings were already functioning as authoritative in the churches long before later councils listed the canon."
+      }
+    ]
   },
   {
     "id": 20,
@@ -2573,14 +2585,14 @@ const questions = [
     "title": "So, has God spoken?",
     "teaser": "Put the whole second step together: the God argued for in Part 1 acts in history, vindicates Jesus, and gives us reason to receive Scripture as his Word.",
     "lesson": {
-      "heading": "Follow the chain all the way to Scripture",
-      "body": "Classical apologetics is not meant to leave you with a pile of separate arguments. The pieces are supposed to connect.\n\nWe began by asking whether reality gives us good reason to believe in a necessary, intelligent, moral Creator. Then we asked whether such a God could act in history.\n\nFrom there, we treated the New Testament as historical evidence rather than simply assuming it was inspired. We asked what Jesus claimed, whether he really died, and what best explains the early resurrection message, the reported appearances, and the tomb evidence. The Christian case is that God raised Jesus from the dead.\n\nIf God raised Jesus, then Jesus is vindicated. If Jesus is vindicated, his teaching about God and revelation deserves our trust. Jesus receives the Old Testament as authoritative Scripture and authorizes apostles to bear witness in his name. The New Testament comes to us through that apostolic foundation.\n\nThat gives us the final step: if Scripture is God’s Word, and God is truthful, then what God reveals is true. Christians can still misunderstand Scripture, and hard passages do not disappear. But the authority question has changed. We now have a reasoned path from the existence of God to confidence that God has spoken in Christ and in Scripture.",
+      "heading": "The whole argument in one chain",
+      "body": "The course began without assuming the Bible was inspired. It first asked whether reason and the world give us grounds for believing in God. Contingency, beginning, design, fine-tuning, biological information, morality, and reason were treated as a cumulative natural-theology case.\n\nIf that case succeeds, miracles are possible in principle. We then turned to the New Testament as ancient historical evidence and asked what can be known about Jesus without yet treating those writings as divinely inspired.\n\nThat historical case led to Jesus’ claims, his death, the tomb evidence, the early resurrection proclamation, and the appearance traditions. Resurrection was then compared with rival explanations. If God raised Jesus, the event vindicates the Jesus who had claimed extraordinary authority.\n\nOnly at that point did the argument turn explicitly to revelation. The vindicated Jesus treats Israel’s Scriptures as God’s authoritative Word and commissions apostles as authorized witnesses. The early church receives writings connected with that apostolic witness as Scripture.\n\nThat gives us a non-circular apologetic route to biblical authority. It does not mean every Christian interpretation is automatically correct. God’s truthfulness belongs to the source of revelation; interpretation belongs to fallible human readers. Textual criticism, translation, exegesis, theology, and the life of the church still matter.\n\nThe conclusion is therefore stronger than “the Bible is a useful religious book” but more careful than “every thought I have about the Bible is infallible.” The Christian receives Scripture because of the authority of the God who speaks through Christ and his authorized witnesses.",
       "facts": [
-        "The course deliberately distinguishes historical use of the New Testament from later acceptance of its divine authority.",
-        "The resurrection is the hinge because it links the historical Jesus with divine vindication.",
-        "Jesus’ authority is then used to ground confidence in the Old Testament and the apostolic witness.",
-        "The New Testament canon step is mediated through apostolic authority and historical recognition, not a claim that Jesus named all 27 books directly.",
-        "If God is truthful and Scripture is God’s Word, then Scripture is truthful in what it teaches even though human interpretations can still be mistaken."
+        "The course’s order matters: God → possibility of miracles → historical Jesus → resurrection → vindication → Jesus’ authority → Scripture.",
+        "The argument avoids a simple circle by not assuming inspiration when first using New Testament documents historically.",
+        "Divine authority belongs to the revelation itself, not to every translation, commentary, sermon, or individual interpretation.",
+        "A reasoned case for Scripture does not remove the need for careful interpretation.",
+        "Classical apologetics is cumulative: later conclusions depend on the earlier links rather than on one isolated proof."
       ],
       "further": [
         [
@@ -2601,30 +2613,29 @@ const questions = [
         ]
       ]
     },
-    "why": "This final study lets you see the whole argument at once, so you can explain how the case moves from Creator to Christ to Scripture.",
+    "why": "This final core lesson is not another new argument. It shows how the earlier arguments connect without smuggling biblical inspiration into the beginning.",
     "core": [
-      "There is good reason to believe a Creator exists.",
-      "If God exists, miracles are possible and must be judged by evidence rather than ruled out in advance.",
-      "The New Testament can be investigated historically before inspiration is assumed.",
-      "The sources present Jesus making extraordinary claims, and the resurrection case gives strong reason to think God raised him.",
-      "The resurrection therefore vindicates Jesus and gives strong reason to trust his divine authority.",
-      "Jesus receives the Old Testament as God’s authoritative Scripture and authorizes apostles to teach and witness in his name.",
-      "The New Testament is received through that apostolic foundation and the historical recognition of apostolic writings.",
-      "Because God is truthful, God’s Word is true. The remaining task is careful interpretation, not deciding whether God can lie."
+      "Natural theology gives reasons to believe in a necessary, rational, moral Creator and makes divine action possible in principle.",
+      "The New Testament can first be investigated historically rather than assumed to be inspired.",
+      "The historical case leads to Jesus’ extraordinary claims, real death, and resurrection.",
+      "Resurrection in that context functions as God’s vindication of Jesus and gives reason to trust his authority.",
+      "Jesus receives Israel’s Scriptures as God’s authoritative Word and authorizes apostles to bear witness in his name.",
+      "The church recognizes the apostolic writings as New Testament Scripture, giving a reasoned path from Creator to Christian revelation.",
+      "If God is truthful and Scripture is God’s Word, what Scripture teaches is true; human readers, translations, and interpretations remain fallible."
     ],
     "pressure": [
       [
-        "“This still ends with the Bible. Isn’t that circular?”",
-        "A circular argument would assume biblical inspiration as the premise that proves biblical inspiration. This course did not do that. It began with natural theology and then used New Testament documents historically before arguing to Jesus’ authority and only then to Scripture."
+        "“This still depends on documents from the Bible.”",
+        "Using a document as historical evidence is not the same as granting it divine authority. The argument changes the role of the documents only after reaching the authority of Jesus."
       ],
       [
-        "“What if I disagree with one link in the chain?”",
-        "Then that is exactly where the conversation should focus. A cumulative argument is useful because the point of disagreement can be identified rather than hidden."
+        "“If interpretation can be wrong, what good is an infallible Bible?”",
+        "Fallible interpretation does not make communication useless. The solution to possible misunderstanding is careful reading, comparison, context, and correction—not denying that the speaker can communicate truth."
       ]
     ],
-    "limits": "The strength of the case comes from the links working together. Learn what each step contributes, then show how the steps connect without assuming inspiration at the beginning.",
-    "practice": "A friend asks, “How do you get from ‘God exists’ to ‘Scripture is God’s Word’ without reasoning in a circle?” Give the whole classical-apologetic path in about a minute.",
-    "model": "I’d give the path like this: there are good reasons to believe a Creator exists. If God exists, miracles are possible. Then I use the New Testament historically, not as already inspired, to investigate Jesus. The case leads to his claims, death, and resurrection. If God raised Jesus, God vindicated him, so Jesus is a trustworthy divine authority. Jesus receives the Old Testament as God’s Word and authorizes apostles whose witness stands behind the New Testament. That is how the argument reaches Scripture without assuming inspiration at the start.",
+    "limits": "This lesson summarizes the argument. It does not replace the detailed historical, theological, and interpretive work done in the earlier studies.",
+    "practice": "A friend asks, “Give me the shortest version of how you get from believing in God to believing Scripture is God’s Word without going in a circle.” What would you say?",
+    "model": "I’d say there are good reasons to believe a Creator exists. If God exists, miracles are possible. I can then use the New Testament historically to investigate Jesus without assuming inspiration. The evidence leads to his claims, death, and resurrection. If God raised Jesus, Jesus is vindicated and deserves to be trusted. Jesus receives the Old Testament as God’s Word and authorizes apostles whose witness stands behind the New Testament. That is the path from God to Scripture rather than assuming Scripture at the start.",
     "sources": [
       [
         "Ligonier | The Purpose of Miracles",
@@ -2640,41 +2651,36 @@ const questions = [
       ]
     ],
     "evidence": {
-      "claim": "The classical apologetic can move non-circularly from natural theology, through the historical Jesus and resurrection, to Christ’s authority and then to Scripture.",
-      "establishes": "The sources and previous studies supply the individual links: miracles as authentication, resurrection as vindication, Jesus’ view of the Old Testament, apostolic authority, and canon recognition.",
-      "caution": "This is a cumulative argument. Its conclusion is only as strong as the combined links, and receiving Scripture as true does not make every interpreter automatically correct.",
+      "claim": "Classical apologetics commonly proceeds from natural theology to Christian evidences and then to the authority of Christ and Scripture.",
+      "establishes": "Biola explicitly moves from God to Christianity and historical Scripture. Reasonable Faith defines classical apologetics as natural theology followed by Christian evidences. Impact Apologetics follows truth → God → miracles → New Testament → Jesus → conclusion.",
+      "caution": "Different classical apologists arrange the final Scripture step differently, and a full doctrine of inspiration requires more biblical and theological work than an introductory apologetics course can provide.",
       "resources": [
         {
-          "type": "Classical apologetics",
-          "title": "Ligonier | The Purpose of Miracles",
-          "why": "Shows how miracles function as authentication after God’s existence is established.",
-          "url": "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-purpose-of-miracles"
+          "type": "Curriculum",
+          "title": "Biola | Introduction to Christian Apologetics",
+          "why": "Moves from worldview and the existence of God to Christianity and historical trustworthiness of Scripture.",
+          "url": "https://learn.biola.edu/courses/introduction-to-christian-apologetics"
         },
         {
-          "type": "Biblical studies",
-          "title": "The Gospel Coalition | Jesus’s View of the Old Testament",
-          "why": "Supports the claim that Jesus treats Israel’s Scriptures as divine and authoritative.",
-          "url": "https://www.thegospelcoalition.org/essay/jesuss-view-old-testament/"
+          "type": "Curriculum",
+          "title": "Impact Apologetics | Why I Still Don’t Have Enough Faith to Be an Atheist",
+          "why": "Follows truth, cosmological/design/moral arguments, miracles, New Testament reliability, Jesus, and a conclusion.",
+          "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
         },
         {
-          "type": "Reformed theology",
-          "title": "Ligonier | The Authority of the Apostles",
-          "why": "Explains Christ’s delegated authority to the apostles.",
-          "url": "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-authority-of-the-apostles"
+          "type": "Method",
+          "title": "Reasonable Faith | Apologetics Seminar",
+          "why": "Describes positive apologetics as natural theology followed by Christian evidences.",
+          "url": "https://www.reasonablefaith.org/videos/video-lectures/apologetics-seminar/"
         },
         {
-          "type": "Canon history",
-          "title": "Ligonier | The New Testament Canon",
-          "why": "Summarizes the historical recognition of the apostolic New Testament writings.",
-          "url": "https://learn.ligonier.org/devotionals/new-testament-canon"
+          "type": "Biola",
+          "title": "Biola | From Belief in Jesus to Belief in the New Testament",
+          "why": "Shows the final bridge from resurrection and Jesus’ authority to Scripture.",
+          "url": "https://www.biola.edu/blogs/good-book-blog/2021/from-belief-in-jesus-to-belief-in-the-new-testament"
         }
       ]
     },
-    "thoughts": [
-      "What are the major links from God’s existence to Scripture?",
-      "Why is the resurrection the hinge between historical evidence and divine authority?",
-      "How do Jesus’ authority and apostolic authority lead to the Old and New Testaments?"
-    ],
     "terms": [
       [
         "Revelation",
@@ -2689,9 +2695,26 @@ const questions = [
         "A connected case whose strength comes from several supported steps working together."
       ]
     ],
-    "conclusion": "The path is now visible: Creator → miracles are possible → Jesus can be investigated → Jesus made extraordinary claims → Jesus died and rose → God vindicated Jesus → Jesus speaks with authority → Jesus receives the Old Testament and authorizes the apostles → God has spoken in Scripture.",
+    "conclusion": "The course ends where Christian revelation begins: the Creator has not remained silent. He has acted in Christ and given authoritative Scripture through the history Christ himself receives and authorizes.",
     "thread": "Now put the chain together from beginning to end. The point is not a slogan; it is a reasoned path from Creator to Scripture.",
-    "bigIdea": "The classical case reaches its destination when the God whose existence is established is shown to have spoken through Christ and Scripture."
+    "bigIdea": "The cumulative classical-apologetic path reaches a Christian conclusion: the Creator has acted in Jesus, vindicated him by resurrection, and given authoritative revelation through the Scriptures Jesus received and the apostles he authorized.",
+    "checkpoints": [
+      {
+        "after": "core",
+        "question": "At what point does the course begin treating Jesus as an authority rather than merely a historical subject?",
+        "answer": "After the resurrection is argued as God’s vindication of Jesus."
+      },
+      {
+        "after": "body",
+        "question": "How does the course avoid simply saying “the Bible is true because the Bible says so”?",
+        "answer": "It first uses New Testament writings as historical sources, reaches Jesus’ vindication, and only then follows Jesus’ authority to Scripture."
+      },
+      {
+        "after": "facts",
+        "question": "If Scripture is God’s Word, does that make every reader’s interpretation infallible?",
+        "answer": "No. Divine truthfulness belongs to God’s revelation; human interpretation still requires careful study and can be mistaken."
+      }
+    ]
   },
   {
     "id": 21,
@@ -2700,14 +2723,14 @@ const questions = [
     "title": "If God is good and powerful, why is there so much evil and suffering?",
     "teaser": "Suffering can be an argument against God, but it can also be a cry of pain. Christians should know the difference.",
     "lesson": {
-      "heading": "Start by hearing the question behind the question",
-      "body": "The problem of evil comes in two main forms, and it helps to know which one a person means.\n\nThe logical problem says that a perfectly good, all-powerful God and evil cannot both exist. But that contradiction only follows if a good and powerful God could never have a good reason for allowing any evil. If God could have morally sufficient reasons, then the strict contradiction disappears.\n\nThe evidential problem is harder. It says that the amount and severity of suffering make God less likely. That has to be weighed against the positive reasons for believing in God. We should also ask whether God could have reasons for allowing suffering, such as human freedom, a stable world with regular natural laws, moral growth, judgment, or purposes we cannot see.\n\nChristianity also says more than a bare philosophical defense. Evil is really evil. The world is fallen. God entered suffering in Christ. Jesus rose from the dead. Evil will be judged, death will be defeated, and creation will be restored. Christianity does not call suffering good; it says God will finally overcome it.\n\nIn a real conversation, though, do not confuse an argument with a wound. A grieving person may need compassion before philosophy. Have the answer ready, but know when the loving response is simply to listen.",
+      "heading": "Three different problems often get mixed together",
+      "body": "The logical problem of evil is the strongest-sounding form: if God is all-powerful and perfectly good, evil should not exist; evil exists; therefore God does not exist. But the contradiction is not complete until another premise is added, such as “a good God would have no morally sufficient reason to allow any evil.” If even one possible morally sufficient reason exists, the strict logical contradiction fails.\n\nAlvin Plantinga’s free-will defense is a famous example. It does not claim to explain every instance of suffering. It shows how God and moral evil could be logically compatible if significant creaturely freedom is a genuine good and free creatures can misuse it.\n\nThe evidential problem is harder in another way. It points to the sheer amount and distribution of suffering and asks whether a good God is still likely. Here the Christian can appeal to possible goods such as freedom, moral formation, stable natural order, justice, and redemption, while also admitting that we often do not know why a particular tragedy was permitted.\n\nHuman cognitive limits matter. If God’s knowledge spans every person, every consequence, and all of history, we should be cautious about the inference “I cannot see a sufficient reason, therefore there is no sufficient reason.” That is not a complete answer, but it weakens claims of confident pointlessness.\n\nThe moral argument also creates a tension for some forms of the objection. Calling evil objectively evil assumes a real moral standard. Naturalism must explain that standard too. This does not make suffering disappear or prove Christianity, but it means evil can point toward a moral reality even while being used as evidence against God.\n\nFinally, there is the personal problem. A grieving person may not need a philosophical defense first. Christianity’s distinctive answer is not that suffering is trivial: God enters it in the cross, defeats death in the resurrection, promises judgment, and promises a world in which evil is finally removed.",
       "facts": [
-        "The logical problem asks whether God and evil can exist together at all.",
-        "The evidential problem asks whether the amount and kinds of suffering make God less likely.",
-        "Free will helps explain some human wrongdoing, but it does not explain every disease, disaster, or tragedy.",
-        "Not knowing why God allowed one event is different from proving that no good reason could exist.",
-        "Christianity does not call evil good. It promises judgment, resurrection, and final restoration."
+        "Logical and evidential problems of evil are different arguments and should not be answered as though they were the same.",
+        "A defense only needs to show that God and evil are logically compatible; a theodicy attempts to identify God’s actual reasons.",
+        "Plantinga’s free-will defense is aimed primarily at logical compatibility, not at explaining every natural disaster or illness.",
+        "Skeptical theism appeals to our limited ability to judge whether God could have morally sufficient reasons beyond our perspective.",
+        "Pastoral suffering calls for presence, compassion, and Christian hope, not merely argument."
       ],
       "further": [
         [
@@ -2728,27 +2751,28 @@ const questions = [
         ]
       ]
     },
-    "why": "Evil is one of the strongest objections to belief in God, but it is also often a deeply personal question. A good apologetic answer needs both truth and wisdom.",
+    "why": "This is one of the most common and emotionally weighty objections to Christianity. A useful response must be philosophically clear without becoming cold toward suffering.",
     "core": [
-      "The logical problem of evil claims contradiction; it succeeds only if a good and powerful God could have no morally sufficient reason to permit evil.",
-      "The evidential problem argues from the amount or apparent pointlessness of suffering and therefore has to be weighed against the total evidence for and against God.",
-      "Human freedom can explain some moral evil, while a stable law-governed world and other possible goods help address natural suffering; no single defense explains every individual tragedy.",
-      "Our inability to see God’s reason for a particular event is not the same as evidence that no such reason could exist.",
-      "Christianity answers evil not only philosophically but through the cross, resurrection, judgment, and promised restoration."
+      "The logical problem claims that an all-good, all-powerful God and evil cannot both exist. That contradiction only follows if God could have no morally sufficient reason for allowing evil.",
+      "The free-will defense shows at least one possible reason God could allow moral evil: a world with significantly free creatures includes the possibility of misuse of that freedom.",
+      "The evidential problem is different: the amount, intensity, and apparently pointless character of suffering may count as evidence against God even if no contradiction exists.",
+      "A finite human perspective may be unable to see every good God could bring about or every evil He could prevent without losing other goods; that does not prove God has a reason, but it limits claims that no reason could exist.",
+      "The positive case for God still matters. Evidence from evil must be weighed alongside the independent evidence for God rather than treated in isolation.",
+      "Christianity also gives a redemptive answer: God enters suffering in Christ, judges evil, promises resurrection, and says evil will not have the final word."
     ],
     "pressure": [
       [
-        "“If God is good and all-powerful, suffering should not exist.”",
-        "That would follow only if a good God could never have a good reason to allow suffering for a time. We may not know God’s reason in a particular case, but our not seeing one is not the same as proving there could be none."
+        "“Some suffering seems completely pointless.”",
+        "That is the heart of the evidential problem and should be taken seriously. The Christian can question whether our limited perspective justifies confidence that no sufficient reason exists while also weighing evil against the positive case for God."
       ],
       [
-        "“Free will does not explain cancer, earthquakes, or children suffering.”",
-        "Agreed. Free will mainly helps with evil caused by people. Natural suffering is a different question. Christians also point to a stable world with regular natural processes, our limited knowledge, and the biblical teaching that creation itself is broken and awaiting restoration. None of that gives us permission to guess why one person suffered."
+        "“Free will does not explain earthquakes, disease, or childhood suffering.”",
+        "Correct. The free-will defense mainly addresses moral evil and logical compatibility. Natural suffering requires broader considerations such as stable natural order, human finitude, fallen creation, providence, and the limits of our knowledge."
       ]
     ],
-    "limits": "In debate, answer the argument. In grief, care for the person. The same response isn’t right for every moment.",
-    "practice": "Someone argues, “A perfectly good and all-powerful God can’t exist because evil and suffering exist.” How would you answer the argument while still taking suffering seriously?",
-    "model": "First I’d ask what kind of objection is being made. A logical contradiction would require showing that a good and powerful God could have no morally sufficient reason for allowing any evil, and that has not been shown. The amount and severity of suffering can still count as evidence against God, and Christians should take that seriously. But it has to be weighed alongside the positive case for God. Christianity also says evil is truly evil, God entered suffering in Christ, evil will be judged, and death will not get the final word.",
+    "limits": "Do not use a philosophical answer as though it explains a particular person’s tragedy. The argument can remove a contradiction without telling us God’s specific reason for every instance of suffering.",
+    "practice": "Someone says, “A good and all-powerful God cannot exist because of horrific suffering.” How would you first clarify the argument and then answer without minimizing suffering?",
+    "model": "I’d first ask whether they mean evil makes God logically impossible or simply much harder to believe in. For a logical contradiction, they would have to show that God could have no morally sufficient reason for allowing any evil; the free-will defense alone shows that is too strong. The evidential question is harder and has to be weighed with the positive evidence for God and our limited perspective. And if this is personal suffering, I would not treat the person like a debate problem. Christianity says God entered suffering in Christ and promises that evil and death will finally be judged and defeated.",
     "sources": [
       [
         "Stanford Encyclopedia of Philosophy | The Problem of Evil",
@@ -2768,41 +2792,36 @@ const questions = [
       ]
     ],
     "evidence": {
-      "claim": "The existence of suffering raises a serious challenge, but it is not a simple logical contradiction of a good and powerful God.",
-      "establishes": "Philosophers distinguish between the claim that God and evil are logically incompatible and the broader claim that the amount of suffering counts as evidence against God. The first requires showing that God could have no good reason for allowing suffering. The second remains a real debate and must be weighed with the rest of the case for and against God.",
-      "caution": "A philosophical answer does not tell us why God allowed a particular tragedy. The Christian claims about the fall, the cross, resurrection, judgment, and restoration are theological claims that give the suffering question a larger setting.",
+      "claim": "Christian apologetics treatments consistently distinguish logical, evidential, and emotional/pastoral forms of the problem of evil.",
+      "establishes": "Reasonable Faith’s apologetics curriculum explicitly separates logical, evidential, and emotional problems. Ligonier uses free will, providence, and God’s sovereignty in its classical evidences treatment, while Stand to Reason emphasizes clarifying the objection before answering it.",
+      "caution": "No philosophical defense should be presented as though it reveals God’s specific reason for a particular tragedy.",
       "resources": [
         {
-          "type": "Scholarship",
-          "title": "Stanford Encyclopedia of Philosophy | The Problem of Evil",
-          "why": "Explains the logical and evidential forms of the problem and the major responses.",
-          "url": "https://plato.stanford.edu/entries/evil/"
+          "type": "Curriculum",
+          "title": "Reasonable Faith | Apologetics Seminar: The Problem of Evil",
+          "why": "Separates logical, evidential, and emotional forms and presents free-will and probability responses.",
+          "url": "https://www.reasonablefaith.org/videos/video-lectures/apologetics-seminar/"
         },
         {
-          "type": "Scholarship",
-          "title": "Internet Encyclopedia of Philosophy | Logical Problem of Evil",
-          "why": "A readable overview of the alleged contradiction between God and evil.",
-          "url": "https://iep.utm.edu/evil-log/"
+          "type": "Teaching series",
+          "title": "Ligonier | The Problem of Evil",
+          "why": "Treats evil within a Christian evidences framework and addresses sovereignty, freedom, and providence.",
+          "url": "https://learn.ligonier.org/series/defending-your-faith/the-problem-of-evil"
         },
         {
-          "type": "Primary Christian source",
-          "title": "Romans 8:18–25",
-          "why": "Describes creation as groaning now while waiting for future restoration.",
-          "url": "https://www.biblegateway.com/passage/?search=Romans%208%3A18-25&version=ESV"
+          "type": "Apologetics",
+          "title": "Stand to Reason | The Problem of Evil",
+          "why": "A practical Christian response emphasizing clarification of the objection and moral grounding.",
+          "url": "https://www.str.org/w/the-problem-of-evil"
         },
         {
-          "type": "Primary Christian source",
-          "title": "Revelation 21:1–5",
-          "why": "Describes the Christian hope of the end of death, mourning, and pain.",
-          "url": "https://www.biblegateway.com/passage/?search=Revelation%2021%3A1-5&version=ESV"
+          "type": "Apologetics",
+          "title": "Reasonable Faith | The Problem of Evil",
+          "why": "A concise treatment of logical compatibility, evidential probability, and Christian hope.",
+          "url": "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-god/the-problem-of-evil"
         }
       ]
     },
-    "thoughts": [
-      "What is the difference between the logical and evidential problems of evil?",
-      "Why does ‘I cannot see a good reason’ not equal ‘there can be no good reason’?",
-      "What specifically Christian claims address evil beyond a philosophical defense?"
-    ],
     "terms": [
       [
         "Logical problem of evil",
@@ -2821,9 +2840,26 @@ const questions = [
         "Suffering from things such as disease, disasters, and other natural events."
       ]
     ],
-    "conclusion": "Evil is a serious problem, but it isn’t a simple disproof of God. Christianity says evil is real, God entered our suffering in Christ, and evil and death won’t have the final word.",
+    "conclusion": "Evil remains painful and intellectually serious, but it does not simply erase the case for God. Christianity gives both philosophical resources and a redemptive story in which God confronts evil rather than ignoring it.",
     "thread": "The positive case is built. Now ask the hard question many people feel most deeply: what do we do with evil and suffering?",
-    "bigIdea": "Evil is a serious challenge, but it is not a logical disproof of God; Christianity provides both philosophical answers and a redemptive answer centered on Christ."
+    "bigIdea": "Evil is a serious challenge, but it is not a simple contradiction of God. The logical, evidential, and personal problems of evil need different kinds of answers.",
+    "checkpoints": [
+      {
+        "after": "core",
+        "question": "What is the difference between the logical and evidential problems of evil?",
+        "answer": "The logical problem claims God and evil are contradictory. The evidential problem says the amount or kind of evil makes God less likely even if no strict contradiction exists."
+      },
+      {
+        "after": "body",
+        "question": "What does the free-will defense accomplish?",
+        "answer": "It gives a possible morally sufficient reason for God to allow moral evil, which is enough to answer the claim of strict logical contradiction."
+      },
+      {
+        "after": "facts",
+        "question": "Why might a pastoral response differ from a debate response?",
+        "answer": "A person in grief may need presence, compassion, prayer, and hope before or instead of a philosophical argument."
+      }
+    ]
   },
   {
     "id": 22,
@@ -2831,8 +2867,8 @@ const questions = [
     "tag": "Origins",
     "title": "How should a Christian think about creation, Darwinian evolution, and worldview?",
     "teaser": "Christians can disagree about the age of creation while still asking the more basic apologetic question: is life best explained by intentional creation or by unguided naturalism?",
-    "why": "This lesson keeps the main issue from being buried under the age debate. Christians can disagree about chronology and still make the same basic case for intentional creation over naturalism.",
-    "limits": "Don’t let the chronology debate take over. The point here is to compare creation and naturalism as explanations of the whole picture.",
+    "why": "Origins discussions often collapse several different claims into the single word “evolution.” Separating them lets Christians engage the evidence more carefully and keep the worldview question visible.",
+    "limits": "Do not deny well-established observed change or caricature mainstream evolutionary evidence. The stronger creationist case distinguishes observation, historical inference, causal sufficiency, and worldview.",
     "terms": [
       [
         "Natural selection",
@@ -2860,23 +2896,23 @@ const questions = [
       ]
     ],
     "core": [
-      "Separate observed biological change from universal common ancestry and from the claim that unguided processes are sufficient for all biological origins.",
-      "Keep chronology separate from the main apologetic contrast: young-earth and old-earth creationists can both affirm intentional creation over philosophical naturalism.",
-      "Recognize worldview interpretation: evidence such as common DNA is not self-interpreting, and a common Designer is a genuine explanatory framework rather than an afterthought.",
-      "Bring the whole cumulative case to the origins question: a Creator explains why there is a universe, why it is ordered and life-permitting, why life contains information-rich systems, and why rational persons exist.",
-      "Use Darwinian mechanisms as claims to evaluate and answer, not as assumptions that define what explanations are allowed from the start.",
-      "Keep abiogenesis separate: natural selection cannot explain the first reproducing system because selection presupposes reproduction and heredity."
+      "Observed biological change includes mutation, selection, adaptation, population change, and speciation. Creationists do not need to deny that organisms change.",
+      "Universal common ancestry is a historical claim that all living organisms descend from common ancestral populations. Mainstream biology argues for it from multiple lines of evidence, including genetic and anatomical patterns.",
+      "Darwinian sufficiency is a further causal claim: that mutation, selection, drift, duplication, co-option, and related unguided processes are enough to explain the major innovations and information of life.",
+      "Abiogenesis is another separate question: how the first self-reproducing life and its information-processing system arose from nonliving chemistry.",
+      "Methodological naturalism is a rule used in much scientific practice to seek natural causes; philosophical naturalism is the worldview claim that nature is all that exists. The first does not logically prove the second.",
+      "Common biological patterns can be interpreted within common-ancestry models or within a common-design framework. The disagreement is not over whether the data exist but over which historical and causal explanation best accounts for them.",
+      "The age of the earth or universe is a secondary chronology question. Christians who disagree about age can still argue that reality is intentionally created rather than ultimately unguided."
     ],
     "lesson": {
-      "heading": "Creation versus naturalism is the main apologetic question",
-      "body": "The word evolution can mean several different things, and that is where many conversations get confused. Mutation, natural selection, adaptation, genetic drift, and changes within populations are observed processes. Speciation can also occur. Those facts are not the same claim as universal common ancestry, and neither claim is the same as saying unguided processes are enough to explain all of life.\n\nFor apologetics, the first question is not “young earth or old earth?” It is “creation or naturalism?” Young-earth and old-earth creationists disagree about chronology, but both say the universe and life are intentionally created by God. That shared claim is more basic than their disagreement over age.\n\nWorldview matters because evidence does not interpret itself. Mainstream biology argues for common ancestry from several lines of evidence, including genetic similarities, fossils, anatomy, and biogeography. Creationists dispute that historical inference without needing to deny the observations themselves. Common genetic architecture can be read as inheritance from common ancestry or, within a creation framework, as common design and shared architecture. The question is which larger explanation makes the best sense of the whole picture.\n\nThe creation case is also bigger than biology. The universe is dependent, a beginning points beyond nature, fine-tuning suggests purpose, cells contain information and machinery, and human reason and morality fit a rational personal source. Darwinian mechanisms should be represented fairly, but observed mutation, selection, and speciation do not by themselves prove that unguided processes produced the first life, all biological information, and every major integrated system. The origin of life is a separate problem because natural selection already assumes reproduction and heredity.\n\nSo keep the categories straight. Agree with what is actually observed. Ask what larger conclusion really follows. A Christian can debate the age of creation separately while still arguing that a rational Creator explains the whole picture better than philosophical naturalism.",
+      "heading": "Separate the claims before arguing about them",
+      "body": "“Evolution” can refer to several very different things. Populations change. Mutations occur. Natural selection changes the frequency of traits. Speciation has been observed. None of those observations, by itself, is identical to the claim that every form of life descends from one universal common ancestor or that unguided mechanisms are sufficient to explain all biological innovation.\n\nMainstream evolutionary biology argues for universal common ancestry from converging evidence such as nested similarities, comparative anatomy, the fossil record, shared genetic features, and phylogenetic patterns. A creationist should represent that case accurately rather than pretending common ancestry is accepted only because scientists assume atheism.\n\nThe apologetic dispute comes at the level of explanation. Are the observed patterns best understood as common ancestry, common design, or some combination of ancestry within created groupings? And even if common ancestry were granted for the sake of argument, would that show that unguided processes are causally sufficient for the origin of new biological information and integrated systems? Those are distinct questions.\n\nAbiogenesis must also be kept separate. Natural selection requires reproduction and heredity, so it cannot simply be invoked before the first replicating life exists. Origin-of-life research proposes chemical pathways, but the origin of the first information-bearing, self-maintaining system remains a different problem from diversification after life begins.\n\nWorldview matters, but use that point carefully. Methodological naturalism tells science to seek natural mechanisms. Philosophical naturalism concludes that no Creator exists. The method does not prove the worldview. A Christian is therefore free to ask whether the total evidence—including the universe’s beginning, fine-tuning, biological information, morality, and reason—is better explained by a rational Creator.\n\nOn common DNA, avoid saying “same DNA proves design” as though the evidence has only one interpretation. Similar genetic architecture fits common ancestry naturally, but common engineering principles also produce reuse of successful designs. The task is to compare the total explanatory package rather than treating one datum as worldview-neutral proof.\n\nThe creationist conclusion of this course is positive: the universe and life are intentionally the work of God, and intelligent causation is a better ultimate explanation than philosophical naturalism. Christians can then debate chronology and the extent of biological ancestry without making those secondary questions the foundation of the apologetic case.",
       "facts": [
-        "Observed mutation, natural selection, adaptation, genetic drift, population change, and speciation are not the same claim as universal common ancestry.",
-        "Universal common ancestry is a historical interpretation of multiple lines of evidence; the sufficiency of unguided mechanisms for all biological innovation is a further causal claim.",
-        "Young-earth and old-earth creationists disagree about chronology but share the foundational claim that God intentionally created the universe and life.",
-        "Common genetic architecture can be interpreted within a common-ancestry model or considered in light of common design; worldview assumptions help shape which explanation is expected.",
-        "The positive creation case is cumulative: contingency, beginning, fine-tuning, biological information, reason, morality, and Christian revelation fit together under a rational Creator.",
-        "Abiogenesis is distinct from evolution after life exists because natural selection requires reproduction and heredity before it can operate."
+        "Mutation, selection, adaptation, and speciation are observed processes; universal common ancestry is a broader historical inference from many lines of evidence.",
+        "Common ancestry and the causal sufficiency of unguided evolutionary mechanisms are separate claims.",
+        "Abiogenesis concerns the origin of the first life and precedes ordinary Darwinian selection.",
+        "Methodological naturalism is a scientific practice rule; philosophical naturalism is a metaphysical worldview.",
+        "Creationists should address the strongest evolutionary evidence fairly while arguing that common design and intelligent causation remain genuine explanatory categories."
       ],
       "further": [
         [
@@ -2899,67 +2935,73 @@ const questions = [
     },
     "pressure": [
       [
-        "“Evolution is an observed fact, so creation is unnecessary.”",
-        "Observed biological change is real, but that statement can hide several larger claims. Mutation, selection, adaptation, and speciation do not by themselves demonstrate universal common ancestry or prove that unguided processes are sufficient for the origin of all biological information and integrated systems. The creation question remains."
+        "“Genetic similarities prove common ancestry.”",
+        "They are important evidence used in the common-ancestry case and should not be dismissed. The creationist asks whether all such patterns uniquely require universal ancestry or whether common design, functional constraints, and limited ancestry can also explain parts of the pattern."
       ],
       [
-        "“Science only allows natural explanations, so design cannot be considered.”",
-        "That is a rule of methodological naturalism, not an experimental proof that philosophical naturalism is true. A method can choose to investigate natural mechanisms without proving that nature is all that exists or that intelligent causation is absent from origins."
+        "“Evolution makes a Creator unnecessary.”",
+        "Even a successful account of biological diversification would not answer why there is a universe, why its laws are life-permitting, how the first life and information arose, why reason tracks truth, or why moral reality exists. The worldview question is larger than one biological mechanism."
       ]
     ],
-    "thoughts": [
-      "What is the difference between observed biological change, universal common ancestry, and philosophical naturalism?",
-      "Why can young-earth and old-earth creationists make the same basic apologetic case for a Creator?",
-      "How can worldview shape the interpretation of evidence such as common genetic architecture?"
-    ],
-    "practice": "Someone says, “Whether the earth is young or old, evolution has made a Creator unnecessary.” How would you explain why the creation-versus-naturalism question is different from the age question?",
-    "model": "I’d separate the questions. Christians can disagree about the age of the earth and universe while agreeing that God intentionally created reality. Mutation, selection, adaptation, and speciation are not the same claim as universal common ancestry, and none of those claims by themselves show that unguided processes are enough to explain the origin of life, biological information, and integrated systems. The bigger question is which worldview best explains the whole picture: the universe, fine-tuning, life, reason, and morality. The Christian case is that a rational Creator does.",
+    "practice": "Someone says, “Evolution is a fact, so creation is unnecessary.” How would you ask what they mean by evolution and then keep the larger creation-versus-naturalism question clear?",
+    "model": "I’d first ask what claim they mean. If they mean mutation, natural selection, adaptation, or speciation, Christians do not need to deny those. If they mean universal common ancestry, that is a broader historical inference from several lines of evidence. If they mean unguided mechanisms are sufficient to explain all of life, that is an even stronger causal and worldview claim. None of those by itself answers the origin of the universe, fine-tuning, first life, biological information, reason, or morality. The Christian case is that the whole picture fits a rational Creator better than philosophical naturalism.",
     "evidence": {
-      "claim": "The cumulative evidence of the course supports intentional creation over philosophical naturalism while leaving young-earth versus old-earth chronology as a separate Christian debate.",
-      "establishes": "Creationist sources show that Christians who disagree over chronology can still affirm God as intentional Creator. Mainstream evolutionary sources are useful for accurately understanding the mechanisms and common-ancestry arguments that creationists must answer. Philosophy-of-science sources help distinguish a scientific convention of seeking natural mechanisms from the worldview claim that nature is all that exists. These sources serve the main apologetic comparison rather than becoming the main lesson.",
-      "caution": "Do not present the course as neutral between creation and philosophical naturalism. It is creationist. The neutrality is only on the secondary chronology question: young earth versus old earth.",
+      "claim": "Christian origins treatments commonly separate observable change from universal ancestry, distinguish origin of life from diversification, and make worldview assumptions explicit.",
+      "establishes": "Impact Apologetics teaches observed change, biological information, irreducible complexity, and macroevolution questions. Discovery Institute separates common ancestry from the question of intelligent causation. Answers in Genesis and Creation Ministries International frame evidence through a creationist worldview and common-design model.",
+      "caution": "Mainstream biology supports common ancestry from multiple empirical lines. A creationist lesson should engage those arguments rather than attributing them merely to philosophical bias.",
       "resources": [
         {
-          "type": "Creationist overview",
-          "title": "Answers in Genesis | Evolution",
-          "why": "Represents a young-earth creationist critique of Darwinian origins and emphasizes interpretation of evidence within a biblical worldview.",
-          "url": "https://answersingenesis.org/evolution/"
+          "type": "Curriculum",
+          "title": "Impact Apologetics | Evolution Parts 1–2",
+          "why": "A Christian curriculum separating information, mechanisms, irreducible complexity, and limits of evolutionary change.",
+          "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
         },
         {
-          "type": "Creationist overview",
-          "title": "Creation Ministries International",
-          "why": "Provides creationist discussions of common design, biological change, the fossil record, and evolutionary mechanisms from a young-earth perspective.",
-          "url": "https://creation.com/"
-        },
-        {
-          "type": "Old-earth creation perspective",
-          "title": "Reasons to Believe | Old-Earth Creationism",
-          "why": "Shows that an old-earth chronology can still be explicitly creationist and skeptical of unguided macroevolution, reinforcing that age and creation are separate questions.",
-          "url": "https://reasons.org/creation/earth/old-earth-creationism"
+          "type": "Curriculum",
+          "title": "Discovery Institute | TrueU: Does God Exist? / DNA by Design",
+          "why": "Curriculum material distinguishing biological information and intelligent causation from mere appeals to gaps.",
+          "url": "https://www.discovery.org/m/2018/12/Does-God-Exist-Guide-3.0.2.pdf"
         },
         {
           "type": "Intelligent design",
-          "title": "Discovery Institute | Intelligent Design",
-          "why": "Presents the positive design argument from biological information and integrated systems and critiques the sufficiency of unguided mechanisms.",
-          "url": "https://www.discovery.org/id/"
+          "title": "Discovery Institute | Common Descent and Intelligent Design",
+          "why": "Explains why common descent and intelligent causation are logically distinct questions.",
+          "url": "https://www.discovery.org/a/10661/"
         },
         {
-          "type": "Mainstream evolutionary case",
-          "title": "National Academies | Evolution Resources",
-          "why": "Useful for understanding the mainstream common-ancestry and evolutionary case accurately so objections can be answered without caricature.",
-          "url": "https://www.nationalacademies.org/evolution-resources"
+          "type": "Creationist",
+          "title": "Answers in Genesis | Common Code, Common Designer?",
+          "why": "Develops the common-design interpretation of shared biological architecture.",
+          "url": "https://answersingenesis.org/genetics/dna-structure/common-code-common-designer/"
         },
         {
-          "type": "Philosophy of science",
-          "title": "Stanford Encyclopedia of Philosophy | Religion and Science",
-          "why": "Helps distinguish methodological naturalism from the philosophical claim that nature is all that exists.",
-          "url": "https://plato.stanford.edu/entries/religion-science/"
+          "type": "Creationist",
+          "title": "Creation Ministries International | Genetics Questions and Answers",
+          "why": "Surveys common design, mutation, variation, ancestry, and genetic evidence from a creationist perspective.",
+          "url": "https://creation.com/en/pages/genetics-questions-and-answers"
         }
       ]
     },
-    "conclusion": "Do not let the age debate swallow the bigger question. Young-earth and old-earth creationists can disagree about chronology while making the same basic case: reality is better explained by a rational Creator than by unguided naturalism.",
+    "conclusion": "Origins becomes much clearer once the claims are separated. Christians can acknowledge real biological change and engage ancestry evidence honestly while still arguing that creation by a rational God better explains the whole of reality than unguided naturalism.",
     "thread": "Origins can easily swallow the whole conversation. This lesson keeps the bigger issue in view: creation or unguided naturalism?",
-    "bigIdea": "The central apologetic contrast is creation versus naturalism, not young earth versus old earth: observed biological change does not establish universal common ancestry or the sufficiency of unguided processes."
+    "bigIdea": "The central apologetic contrast is intentional creation versus philosophical naturalism. Biological change is observable; universal common ancestry and the sufficiency of unguided mechanisms are larger historical and causal claims that must be argued.",
+    "checkpoints": [
+      {
+        "after": "core",
+        "question": "What is one biological change a creationist can accept without accepting universal common ancestry?",
+        "answer": "Mutation, natural selection, adaptation, population change, or speciation can all be observed without settling the larger ancestry question."
+      },
+      {
+        "after": "body",
+        "question": "Why is abiogenesis a separate question from Darwinian evolution?",
+        "answer": "Natural selection requires reproducing organisms. Abiogenesis asks how the first self-reproducing, information-bearing life arose before ordinary biological evolution could operate."
+      },
+      {
+        "after": "facts",
+        "question": "What is the difference between methodological and philosophical naturalism?",
+        "answer": "Methodological naturalism is a practice of seeking natural mechanisms in science; philosophical naturalism is the worldview claim that nature is all that exists."
+      }
+    ]
   },
   {
     "id": 23,
@@ -2968,14 +3010,14 @@ const questions = [
     "title": "Where should I begin in a real apologetics conversation?",
     "teaser": "You do not need a speech. Listen well, find the real question, and answer one thing at a time.",
     "lesson": {
-      "heading": "Talk with the person, not at them",
-      "body": "You can know every argument in this course and still have a bad conversation if you answer a question the other person was not asking. Good apologetics begins by listening.\n\nA simple rhythm is enough: listen, clarify, ask why, find the first real disagreement, answer one point, and then let the other person respond. You are not trying to unload everything you know. You are trying to understand what stands between this person and the truth.\n\nThe course gives you a map. If the question is whether God exists, go back to the arguments in Step 1. If the objection is that miracles are impossible, use Study 10. If the question is about Jesus or the resurrection, use Step 2. If the issue is suffering or origins, use the bonus studies.\n\nAnd if you do not know, say so. “I am not sure, but I want to look into that” is a better answer than bluffing. The goal is faithful, truthful witness, not winning every exchange.",
+      "heading": "A simple conversation pattern: clarify, reasons, respond",
+      "body": "Greg Koukl’s “Columbo” tactic captures a habit that appears across practical apologetics training: ask questions before giving speeches. The first question is clarification—“What do you mean by that?” If someone says “science disproved God,” you do not yet know whether they mean evolution, miracles, cosmology, suffering, or something else.\n\nThe second question asks for support: “How did you come to that conclusion?” This is not a trap. It simply makes the reasoning visible. Sometimes a person has strong reasons. Sometimes the slogan has never been examined. Either way, you now know what you are actually discussing.\n\nThen diagnose where the disagreement begins. If the person rejects objective truth, Study 2 may be relevant. If they think the universe needs no explanation, Studies 3–4. If they rule miracles out, Study 10. If they doubt New Testament sources, Study 11. If the issue is Jesus’ identity or resurrection, move there. Do not answer Study 14 when the person is stuck at Study 2.\n\nWhen you do answer, keep it small. Give one main reason and one piece of evidence. Ask, “Does that make sense?” or “What part of that do you think is weakest?” This keeps the exchange conversational instead of turning it into a lecture.\n\nQuestions can also expose assumptions. “What evidence would count against your view?” “Are you saying miracles are unlikely or literally impossible?” “Why should only natural explanations be allowed?” Used respectfully, questions help both people see the argument more clearly.\n\nFinally, remember the purpose. Christian apologetics is not performance. You do not have to close every conversation. Sometimes the best outcome is that the other person leaves with one question they had not considered and knows you actually listened to them.",
       "facts": [
-        "Listening first helps you answer the real objection instead of the one you expected to hear.",
-        "A good question can reveal what a person means and what reasons they are relying on.",
-        "One clear answer is usually easier to discuss than five arguments at once.",
-        "Saying “I do not know” can build trust when it is honest.",
-        "Christian apologetics should be joined with gentleness and respect, not treated as a contest."
+        "Clarifying questions prevent you from answering an objection the person did not actually make.",
+        "Asking for reasons keeps the burden of proof from falling automatically on the Christian.",
+        "The course sequence can function diagnostically: start at the earliest premise the person rejects.",
+        "Short responses followed by another question usually create more real dialogue than a long memorized speech.",
+        "Gentleness and respect are part of Christian apologetics, not optional presentation tricks."
       ],
       "further": [
         [
@@ -2992,27 +3034,29 @@ const questions = [
         ]
       ]
     },
-    "why": "Apologetics is meant to be used with real people. The aim is not to perform arguments but to understand the question, give a truthful answer, and point clearly to Christ.",
+    "why": "Knowing arguments is not enough. A person can have good evidence and still use it badly. Conversation skills help you understand the objection before choosing the right argument.",
     "core": [
-      "Listen before answering. Make sure you understand what the person actually means.",
-      "Ask one or two simple questions: “What do you mean?” and “What makes you think that?”",
-      "Find the first important disagreement. Do not chase every side issue at once.",
-      "Give one clear answer, then stop and let the other person respond.",
-      "If you do not know, say so and check it later. Accuracy matters more than looking impressive."
+      "Clarify first: ask “What do you mean by that?” before answering a vague slogan.",
+      "Ask for reasons: “How did you come to that conclusion?” or “What makes you think that is true?”",
+      "Identify the earliest disputed step in the course’s chain rather than unloading every argument you know.",
+      "Use questions to place the burden of proof where it belongs and to expose hidden assumptions without becoming combative.",
+      "Answer the actual issue briefly, then check whether the response addressed the person’s concern.",
+      "Know when to stop. A good conversation may leave one useful question to think about rather than forcing a conclusion.",
+      "Christian manner matters: speak with gentleness, respect, patience, and genuine interest in the person."
     ],
     "pressure": [
       [
-        "“Shouldn’t I give them all the evidence while I have the chance?”",
-        "Usually no. Too much at once can sound like a speech and makes it hard to know what the person actually disagrees with. Give the best answer to the question in front of you, then see where the conversation goes."
+        "“Asking questions sounds manipulative.”",
+        "It can be manipulative if questions are used only as traps. The Christian purpose should be genuine understanding and clarification. Be willing to answer questions about your own view too."
       ],
       [
-        "“What if they keep changing the subject?”",
-        "Bring the conversation back gently: “That is another good question. Can we finish this one first?” You do not have to answer five objections at once."
+        "“I need to have an answer for everything.”",
+        "No. It is better to say “I do not know; I want to look into that” than to improvise a weak answer. Good apologetics includes intellectual honesty."
       ]
     ],
-    "limits": "A conversation method is a tool, not a script: identify the real issue, answer it clearly, and keep the person more important than displaying how much you know.",
-    "practice": "Someone says, “Christianity is obviously false because science disproved God.” What would you say first, and how would you decide which argument from this course to use next?",
-    "model": "I’d start with a question: “What scientific finding do you think disproves God?” Then I’d listen and ask how that finding is supposed to lead to the conclusion. If the issue is the beginning of the universe, design, evolution, miracles, or something else, I now know which argument is relevant. The goal is to answer the real objection one step at a time, not unload a speech.",
+    "limits": "A tactic is not a script. Use questions to understand and clarify, not to score points or avoid ever giving your own reasons.",
+    "practice": "Someone says, “Christianity is obviously false because science disproved God.” What would you say first, and how would you decide where the conversation should go next?",
+    "model": "I’d start with, “What scientific finding do you have in mind when you say science disproved God?” Then I’d listen. If they mean evolution, miracles, the beginning of the universe, or something else, I can ask how that evidence is supposed to lead to the conclusion that God does not exist. Once the real claim is clear, I can choose the relevant argument instead of giving them a speech they never asked for.",
     "sources": [
       [
         "Bible reference | 1 Peter 3:15–16",
@@ -3028,35 +3072,42 @@ const questions = [
       ]
     ],
     "evidence": {
-      "claim": "Clear apologetics conversations usually begin by understanding what the other person means and why they believe it, then answering the first real point of disagreement.",
-      "establishes": "Christian apologetics training commonly emphasizes listening, questions, clarity, and gentleness. The pattern in this lesson is a simple conversation guide built from those ordinary skills rather than a branded script.",
-      "caution": "This is a practical tool, not a formula. Some people need evidence, some need time, some are mainly hurting, and some are not interested in a real conversation.",
+      "claim": "Practical Christian apologetics curricula consistently emphasize questions, clarification, burden of proof, listening, and relational manner.",
+      "establishes": "Stand to Reason’s Tactics curriculum teaches the Columbo questions and conversational burden-shifting. Impact Apologetics includes “quick shots” and Q&A throughout its curriculum. Biola’s apologetics program explicitly includes communication and evangelistic application.",
+      "caution": "Conversation techniques become manipulative if they are separated from honesty, mutual respect, and willingness to state one’s own reasons.",
       "resources": [
         {
-          "type": "Primary Christian source",
-          "title": "1 Peter 3:15–16",
-          "why": "Joins giving reasons for Christian hope with gentleness, respect, and good conduct.",
-          "url": "https://www.biblegateway.com/passage/?search=1%20Peter%203%3A15-16&version=ESV"
+          "type": "Curriculum",
+          "title": "Stand to Reason | Tactics Video Study",
+          "why": "A multi-session curriculum on Columbo questions, burden of proof, objections, and productive disagreement.",
+          "url": "https://store.str.org/p/tactics-video-study"
         },
         {
-          "type": "Primary Christian source",
-          "title": "Acts 17",
-          "why": "Shows Paul reasoning with people from their own setting while still clearly proclaiming God and the resurrection.",
-          "url": "https://www.biblegateway.com/passage/?search=Acts%2017&version=ESV"
+          "type": "Apologetics",
+          "title": "Stand to Reason | The Columbo Tactic",
+          "why": "Introduces the core questions: What do you mean? How did you come to that conclusion?",
+          "url": "https://www.str.org/w/the-columbo-tactic"
         },
         {
-          "type": "Training resource",
-          "title": "OCCA | Foundational Apologetics",
-          "why": "Beginner-oriented training for answering difficult questions in real conversations.",
-          "url": "https://theocca.org/foundational-apologetics/"
+          "type": "Apologetics",
+          "title": "Stand to Reason | Meaningful Conversations",
+          "why": "Applies questioning and listening to real apologetics conversations.",
+          "url": "https://www.str.org/w/meaningful-conversations"
+        },
+        {
+          "type": "Curriculum",
+          "title": "Impact Apologetics | Quick Shots and Q&A",
+          "why": "Uses concise answers and question-driven engagement throughout its apologetics curriculum.",
+          "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
+        },
+        {
+          "type": "Curriculum",
+          "title": "Biola | Introduction to Christian Apologetics",
+          "why": "Frames apologetics as both rational defense and communication of Christian truth.",
+          "url": "https://learn.biola.edu/courses/introduction-to-christian-apologetics"
         }
       ]
     },
-    "thoughts": [
-      "Why should you clarify a claim before choosing an argument?",
-      "What should you do when someone raises several objections at once?",
-      "How can the course map help you answer one real point at a time?"
-    ],
     "terms": [
       [
         "Clarifying question",
@@ -3075,9 +3126,26 @@ const questions = [
         "Giving reasons for Christian hope and answering objections."
       ]
     ],
-    "conclusion": "Listen first. Ask what the person means and why they believe it. Answer one real issue at a time, and keep the conversation human.",
+    "conclusion": "The goal is not to say everything you know. Listen, clarify, ask for reasons, answer the real issue, and leave the person with something worth thinking about.",
     "thread": "At some point the arguments have to leave the page. This last study is about using them with real people.",
-    "bigIdea": "Good apologetics begins by identifying the real claim or objection, then answering that point clearly and graciously."
+    "bigIdea": "Good apologetics conversations begin with listening and questions. Find the real claim, discover the person’s reasons, and answer one issue at a time.",
+    "checkpoints": [
+      {
+        "after": "core",
+        "question": "What are the first two questions you can ask before giving an apologetic answer?",
+        "answer": "First clarify what the person means. Then ask how they came to that conclusion or what reasons support it."
+      },
+      {
+        "after": "body",
+        "question": "Why should you find the earliest disputed step?",
+        "answer": "Because later arguments will not help if the person rejects an earlier premise they depend on. You want to answer the real disagreement rather than unload unrelated material."
+      },
+      {
+        "after": "facts",
+        "question": "What can count as a successful apologetics conversation even if nobody changes their mind immediately?",
+        "answer": "The other person was understood, one real issue was clarified, and they leave with a worthwhile reason or question to consider."
+      }
+    ]
   }
 ];
 
