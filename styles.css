@@ -218,17 +218,16 @@ input,select{padding:11px 12px}
 @media(max-width:680px){
   .lesson-panel{padding:22px 18px 19px}
   .lesson-panel>h3{font-size:28px}
-  .fact-grid{grid-template-columns:1fr}
 }
 
 /* Claim-level evidence and source cards */
 .evidence-panel{margin:28px 0 30px;padding:26px 24px 24px;border:1px solid var(--line);background:#fff}
 .evidence-panel>h3{font-family:var(--serif);font-size:30px;font-weight:500;line-height:1.12;margin:0 0 18px}
-.evidence-summary{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:18px}
+.evidence-summary{margin-bottom:18px}
 .evidence-summary>div{padding:16px;background:var(--paper);border:1px solid var(--line)}
 .evidence-summary strong,.claim-card strong{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.1em;margin-bottom:6px}
 .evidence-summary p,.claim-card p{margin:0;font-size:14px;color:var(--muted);line-height:1.6}
-.evidence-list{display:grid;gap:0;border-top:1px solid var(--line);margin-top:18px}
+.evidence-list{border-top:1px solid var(--line);margin-top:18px}
 .evidence-card{padding:16px 0;border-bottom:1px solid var(--line);background:transparent}
 .evidence-type{display:inline-block;font-size:9px;text-transform:uppercase;letter-spacing:.12em;color:var(--accent);font-weight:800;margin-bottom:7px}
 .evidence-card h4{font-family:var(--serif);font-size:21px;font-weight:500;line-height:1.18;margin:0 0 7px}
@@ -236,10 +235,10 @@ input,select{padding:11px 12px}
 .evidence-card a{font-size:12px;color:var(--accent);font-weight:750;text-decoration:underline;text-underline-offset:3px}
 .claim-card{margin-top:18px;padding:18px;background:var(--dark);color:#f8f5ed}
 .claim-card p{color:#d3d6d1}
-.claim-card-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
-.claim-card-grid>div{border-left:1px solid #4b554e;padding-left:14px}
+
+
 @media(max-width:680px){
-  .evidence-summary,.evidence-list,.claim-card-grid{grid-template-columns:1fr}
+  .evidence-summary{grid-template-columns:1fr}
   .evidence-panel{padding:22px 18px 19px}
   .evidence-panel>h3{font-size:27px}
 }
@@ -619,8 +618,6 @@ input,select{padding:11px 12px}
 @media(max-width:780px){
   .modal.lesson-mode .modal-panel{padding:34px 20px 48px;border:0}
   .modal.lesson-mode .close{right:14px;top:10px}
-  .memory-flow .memory-map-items,.memory-columns .memory-map-items{grid-template-columns:1fr}
-  .memory-flow .memory-map-item:not(:last-child)::after{content:'↓';right:auto;left:50%;top:auto;bottom:-15px;transform:translateX(-50%)}
 }
 
 /* In-study comprehension and simplified lesson points */
