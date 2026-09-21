@@ -435,7 +435,7 @@ const questions = [
     ],
     "limits": "Do not turn one cosmological theorem or model into the whole argument. The strength of Kalam comes from the simple causal form plus several independent reasons for a beginning.",
     "practice": "A friend says, “Even if the universe began, why think it needed a cause?” How would you defend the first premise of the Kalam?",
-    "model": "I’d start by correcting the premise. Kalam does not say everything needs a cause; it says whatever begins to exist has a cause. The universe began to exist, so it needs a cause. God is being proposed as the beginningless cause, not as another thing that began inside the chain.",
+    "model": "I’d start with the causal principle itself: things do not simply begin to exist from nothing without a cause. Nothing has no properties, powers, or potential to produce anything. Our ordinary experience also consistently confirms that beginnings have explanations. So if the universe really began to exist, asking what caused it is not a special rule invented for the universe. It follows from the same principle we use everywhere else.",
     "sources": [
       [
         "NASA Science | Universe Overview",
@@ -2763,7 +2763,7 @@ const questions = [
     ],
     "limits": "Do not use a philosophical answer as though it explains a particular person’s tragedy. The argument can remove a contradiction without telling us God’s specific reason for every instance of suffering.",
     "practice": "Someone argues, “A perfectly good and all-powerful God cannot exist because evil and suffering exist.” How would you first clarify the objection and then answer it?",
-    "model": "I’d first ask whether they mean evil makes God logically impossible or simply much harder to believe in. For a logical contradiction, they would have to show that God could have no morally sufficient reason for allowing any evil; the free-will defense alone shows that is too strong. The evidential question is harder and has to be weighed with the positive evidence for God and our limited perspective. And if this is personal suffering, I would not treat the person like a debate problem. Christianity says God entered suffering in Christ and promises that evil and death will finally be judged and defeated.",
+    "model": "I’d first ask whether they mean evil makes God logically impossible or simply much harder to believe in. For a logical contradiction, they would have to show that God could have no morally sufficient reason for allowing evil. A free-will defense gives one possible reason for allowing moral evil, so the contradiction is not automatic. Natural suffering raises additional questions. The evidential problem is harder and has to be weighed alongside the positive evidence for God and the limits of our perspective. And if this is personal suffering, I would not treat the person like a debate problem. Christianity says God entered suffering in Christ and promises that evil and death will finally be judged and defeated.",
     "sources": [
       [
         "Stanford Encyclopedia of Philosophy | The Problem of Evil",
