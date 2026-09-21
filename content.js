@@ -4351,15 +4351,15 @@ const tests = {
       "exp": "A deductive argument is sound when its structure is valid and its premises are true."
     },
     {
-      "q": "When evaluating a historical claim, what is the fairest standard?",
+      "q": "Which statement best describes objective truth?",
       "opts": [
-        "Accept it only if we have direct physical evidence.",
-        "Ask what evidence we should expect and how well it fits.",
-        "Reject it unless several eyewitness documents survive.",
-        "Treat testimony as weaker than every other kind of evidence."
+        "A belief that feels certain to the person holding it.",
+        "A claim that is true only for the culture that accepts it.",
+        "A claim that matches reality whether or not anyone prefers or believes it.",
+        "A claim supported by a majority of experts."
       ],
-      "a": 1,
-      "exp": "Historical reasoning asks what evidence is reasonable to expect and then weighs the quality of the evidence we actually have."
+      "a": 2,
+      "exp": "Objective truth is about how reality actually is; it does not become true or false because of a person’s preference, sincerity, or culture."
     },
     {
       "q": "Suppose the universe had always existed. What would a contingency argument still ask?",
@@ -4617,15 +4617,15 @@ const tests = {
       "exp": "Design reasoning is strongest when it compares causes using features that are actually diagnostic of intelligence, not mere complexity or current ignorance."
     },
     {
-      "q": "A friend says fine-tuning is just a coincidence. What is the strongest first response?",
+      "q": "A critic says, “Fine-tuning proves nothing because we could only observe a universe where observers can exist.” What is the best response?",
       "opts": [
-        "Any coincidence proves a Designer.",
-        "The issue is that multiple fundamental conditions fall within life-permitting ranges, so we should compare which explanation best accounts for that pattern rather than simply label it coincidence.",
-        "Science has proven that the constants could not have been different.",
-        "Fine-tuning means life could exist under almost any physical conditions."
+        "The observation is false because humans could live under any physical conditions.",
+        "The observation explains why observers only find themselves in a life-permitting universe, but does not by itself explain why such a universe exists; necessity, chance, and design still need comparison.",
+        "The anthropic principle proves a multiverse.",
+        "Fine-tuning is only about the location of Earth."
       ],
       "a": 1,
-      "exp": "The fine-tuning argument begins with the life-permitting pattern and asks what best explains it. Calling the pattern a coincidence names a possibility, but does not yet explain why those conditions obtain."
+      "exp": "Observer selection is real, but it does not by itself supply the causal explanation fine-tuning asks for. The competing explanations still need to be assessed."
     },
     {
       "q": "A cell contains coded genetic sequences, regulatory systems, and molecular machines that work together to perform specific functions. Why is this relevant to design?",
@@ -4760,15 +4760,15 @@ const tests = {
       "exp": "The evidence establishes Jesus’ view of Scripture while leaving separate canon and interpretation questions to be handled carefully."
     },
     {
-      "q": "Why is “Jesus named all 27 New Testament books” a weak claim?",
+      "q": "Someone says, “The Council of Nicaea chose the New Testament books and made them authoritative.” What is the best correction?",
       "opts": [
-        "Because the New Testament has more than 27 books.",
-        "Because Jesus instead authorized apostles and the completed canon was recognized through a later historical process.",
-        "Because apostles had no authority.",
-        "Because canon history has no evidence."
+        "That is accurate; no New Testament books were treated as authoritative before Nicaea.",
+        "Nicaea primarily addressed the Arian controversy, while apostolic writings were already used as authoritative and canon recognition developed through an earlier and broader historical process.",
+        "Every New Testament book was universally accepted from the moment it was written.",
+        "The church had no role at all in recognizing the canon."
       ],
       "a": 1,
-      "exp": "The stronger argument is Christ → apostles → apostolic writings and recognition, not an anachronistic claim about a completed table of contents."
+      "exp": "The authority claim runs from Christ to the apostles and their writings. The church recognized that apostolic canon over time; Nicaea did not create it."
     },
     {
       "q": "What is the final logical step once Scripture is reasonably received as God’s Word?",
