@@ -88,7 +88,7 @@ function renderProgress(){
   document.querySelector('#preScore').textContent = scoreLabel(progressState.pre);
   document.querySelector('#postScore').textContent = scoreLabel(progressState.post);
   document.querySelector('#practiceScore').textContent = `${progressState.practiced.length} topic${progressState.practiced.length===1?'':'s'}`;
-  document.querySelector('#startPreTest').textContent = progressState.pre ? 'Retake the pre-test' : 'Take the pre-test';
+  document.querySelector('#startPreTest').textContent = progressState.pre ? 'Retake the optional pre-test' : 'Take the optional pre-test';
   document.querySelector('#startPostTest').textContent = progressState.post ? 'Retake the post-test' : 'Take the post-test';
   updateCourseActions();
 }
@@ -233,6 +233,56 @@ const memorableBigIdeas = {
   23: "Good apologetics starts by finding the real point of disagreement before choosing an argument."
 };
 
+
+function memoryVisualHtml(id){
+  const visuals = {
+    7: {
+      title: 'A simple way to picture the design argument',
+      type: 'flow',
+      items: [
+        ['DNA information','Sequence matters to function'],
+        ['Reading systems','The cell copies and uses the instructions'],
+        ['Molecular machinery','Parts are assembled and coordinated'],
+        ['Design inference','Intelligence is a known cause of information and machines']
+      ]
+    },
+    14: {
+      title: 'Keep the resurrection case in one line',
+      type: 'flow',
+      items: [
+        ['Jesus died','The claim begins with a genuinely dead Jesus'],
+        ['Early proclamation','Resurrection belief appears very early'],
+        ['Reported appearances','Individuals and groups are reported as seeing him alive'],
+        ['Tomb evidence','The body is not produced and the empty-tomb case matters'],
+        ['Best explanation','Ask which explanation accounts for the whole pattern']
+      ]
+    },
+    19: {
+      title: 'How Jesus’ authority reaches the New Testament',
+      type: 'flow',
+      items: [
+        ['Jesus','The risen Lord has authority'],
+        ['Apostles','He commissions authorized witnesses'],
+        ['Apostolic witness','Their teaching carries delegated authority'],
+        ['New Testament','Apostolic writings are received as that authoritative witness']
+      ]
+    },
+    22: {
+      title: 'Keep three different questions separate',
+      type: 'columns',
+      items: [
+        ['What we observe','Mutation, selection, adaptation, population change, and speciation'],
+        ['What we infer about history','Common ancestry and proposed pathways for biological change'],
+        ['What worldview claim is added','Whether unguided nature is sufficient, or creation better explains the whole picture']
+      ]
+    }
+  };
+  const v = visuals[id];
+  if(!v) return '';
+  const cls = v.type === 'columns' ? 'memory-map memory-columns' : 'memory-map memory-flow';
+  return `<div class="${cls}"><div class="memory-map-heading"><span class="lesson-kicker">MEMORY MAP</span><h4>${esc(v.title)}</h4></div><div class="memory-map-items">${v.items.map((x,i)=>`<div class="memory-map-item"><span class="memory-map-no">${String(i+1).padStart(2,'0')}</span><strong>${esc(x[0])}</strong><p>${esc(x[1])}</p></div>`).join('')}</div></div>`;
+}
+
 function openQuestion(id){
   const q = byId(id); if(!q) return;
   const done = isComplete(q.id);
@@ -259,6 +309,7 @@ function openQuestion(id){
       html += `<div class="plain-explanation"><h4>${esc(q.lesson.heading)}</h4>${q.lesson.body.split('\n').filter(Boolean).map(p=>p.startsWith('## ')?`<h5 class="lesson-subhead">${esc(p.slice(3))}</h5>`:`<p>${esc(p)}</p>`).join('')}</div><div class="fact-grid memory-facts">${q.lesson.facts.map((x,i)=>`<div class="fact"><span>${String(i+1).padStart(2,'0')}</span><p>${esc(x)}</p></div>`).join('')}</div>`;
     }
   }
+  html += memoryVisualHtml(q.id);
   if(q.conclusion) html += `<div class="remember-box"><span>REMEMBER THIS</span><p>${esc(q.conclusion)}</p></div>`;
   if(q.synthesis) html += `<div class="synthesis-block"><div class="lesson-kicker">PUT IT TOGETHER</div><h3>${esc(q.synthesis.title)}</h3><p>${esc(q.synthesis.body)}</p>${q.synthesis.points?.length?`<ul>${q.synthesis.points.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`:''}</div>`;
   html += `</div></section>`;
@@ -270,7 +321,7 @@ function openQuestion(id){
   }
 
   html += `<details class="challenges-details"><summary><div><span class="lesson-kicker">COMMON OBJECTIONS</span><strong>Open the main challenges and responses</strong></div><span class="details-mark" aria-hidden="true">+</span></summary><div class="challenges-body">${q.pressure.map(x=>`<div class="pressure"><strong>${esc(x[0])}</strong><span>${esc(x[1])}</span></div>`).join('')}</div></details>`;
-  if(q.limits) html += `<div class="limitations-note"><span>ONE LIMIT TO REMEMBER</span><p>${esc(q.limits)}</p></div>`;
+  if(q.limits) html += `<div class="limitations-note"><span>KEEP THE CLAIM CLEAR</span><p>${esc(q.limits)}</p></div>`;
 
   html += evidenceHtml(q);
   if(!q.evidence && q.sources?.length){
@@ -283,7 +334,9 @@ function openQuestion(id){
   const previous = currentIndex>0 ? ordered[currentIndex-1] : null;
   const next = currentIndex<ordered.length-1 ? ordered[currentIndex+1] : null;
   html += `<div class="next-links"><span class="question-tag next-label">Keep going</span>${previous?`<button data-open-next="${previous.id}">← Previous: ${esc(previous.title)}</button>`:''}${next?`<button data-open-next="${next.id}">Next: ${esc(next.title)} →</button>`:''}</div>`;
-  showModal(html);
+  html = `<button class="lesson-back" id="lessonBack" type="button">← Back to course</button>${html}`;
+  showModal(html, 'lesson');
+  document.querySelector('#lessonBack').onclick = closeModal;
   document.querySelector('#revealModel').onclick = () => {
     const answer = document.querySelector('#practiceInput').value.trim();
     if(answer) markPracticed(q.id);
@@ -305,15 +358,28 @@ function openStep2QuickReference(){
   showModal(html);
 }
 
-function showModal(html){
+let lastFocusedBeforeModal = null;
+function showModal(html, mode='default'){
+  lastFocusedBeforeModal = document.activeElement;
   document.querySelector('#modalBody').innerHTML = html;
-  document.querySelector('#modal').classList.remove('hidden');
+  const modal = document.querySelector('#modal');
+  modal.classList.toggle('lesson-mode', mode==='lesson');
+  modal.classList.remove('hidden');
   document.body.style.overflow = 'hidden';
   document.querySelector('.modal-panel').scrollTop = 0;
+  requestAnimationFrame(()=>{
+    const first = mode==='lesson' ? document.querySelector('#lessonBack') : document.querySelector('#closeModal');
+    first?.focus();
+  });
 }
 function closeModal(){
-  document.querySelector('#modal').classList.add('hidden');
+  const modal = document.querySelector('#modal');
+  if(modal.classList.contains('hidden')) return;
+  modal.classList.add('hidden');
+  modal.classList.remove('lesson-mode');
   document.body.style.overflow = '';
+  if(lastFocusedBeforeModal && document.contains(lastFocusedBeforeModal)) lastFocusedBeforeModal.focus();
+  lastFocusedBeforeModal = null;
 }
 
 let promptIndex = Math.floor(Math.random()*questions.length);
@@ -497,9 +563,20 @@ document.addEventListener('click', e => {
   if(e.target.dataset.close) closeModal();
 });
 document.addEventListener('keydown', e => {
-  if((e.key==='Enter'||e.key===' ') && e.target.matches('[data-open-quick]')){ e.preventDefault(); e.target.dataset.openQuick === 'step2' ? openStep2QuickReference() : openStep1QuickReference(); }
-  if((e.key==='Enter'||e.key===' ') && e.target.matches('[data-open]')){ e.preventDefault(); openQuestion(e.target.dataset.open); }
-  if(e.key==='Escape') closeModal();
+  const modal = document.querySelector('#modal');
+  const modalOpen = !modal.classList.contains('hidden');
+  if(modalOpen && e.key==='Tab'){
+    const focusable = [...modal.querySelectorAll('a[href],button:not([disabled]),textarea:not([disabled]),input:not([disabled]),select:not([disabled]),summary,[tabindex]:not([tabindex="-1"])')]
+      .filter(el=>el.offsetParent!==null);
+    if(focusable.length){
+      const first=focusable[0], last=focusable[focusable.length-1];
+      if(e.shiftKey && document.activeElement===first){ e.preventDefault(); last.focus(); }
+      else if(!e.shiftKey && document.activeElement===last){ e.preventDefault(); first.focus(); }
+    }
+  }
+  if(!modalOpen && (e.key==='Enter'||e.key===' ') && e.target.matches('[data-open-quick]')){ e.preventDefault(); e.target.dataset.openQuick === 'step2' ? openStep2QuickReference() : openStep1QuickReference(); }
+  if(!modalOpen && (e.key==='Enter'||e.key===' ') && e.target.matches('[data-open]')){ e.preventDefault(); openQuestion(e.target.dataset.open); }
+  if(modalOpen && e.key==='Escape') closeModal();
 });
 document.querySelector('#closeModal').onclick = closeModal;
 
