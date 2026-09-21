@@ -795,14 +795,14 @@ const questions = [
     "title": "Does the information and machinery of life point to design?",
     "teaser": "Cells contain information-rich instructions and coordinated molecular machinery. Are those features better explained by unguided processes or by intelligence?",
     "lesson": {
-      "heading": "Information and molecular machines point beyond unguided chemistry",
-      "body": "Inside a cell, the design argument gets even more concrete. DNA contains ordered sequences used in building proteins and regulating what the cell does. Other systems copy those sequences, read them, check them, and put them to work.\n\nCells also contain tiny molecular machines. Their parts have to be made, brought to the right place, assembled, powered, and coordinated. The point is not simply that cells are complicated. Information and machinery have to work together for the cell to function.\n\nMichael Behe calls some systems irreducibly complex when their present basic function depends on several interacting parts. Remove a key part and that function breaks down. The challenge is historical: what workable step-by-step route produced the needed parts, their assembly, their regulation, and the final working system?\n\nEvolutionary biologists have proposed mechanisms such as mutation, selection, gene duplication, and co-option. Those proposals matter when we examine a particular system, but listing possible mechanisms is not the same as showing that they built the system in question. That detailed debate belongs in the deeper material.\n\nThe positive design point is easy to remember: minds are known to write instructions, encode information, build machines, and coordinate parts. Life contains those same kinds of features. That makes intelligent causation a serious explanation, not just a gap-filler for what science has not yet explained.",
+      "heading": "Information, molecular machines, and irreducible complexity",
+      "body": "One of the most common modern design arguments begins with biological information. DNA contains sequences that are used in building proteins and regulating cellular activity. A sequence matters because the order of the bases affects what the cell can build or control. The point is not that DNA is literally a human language, but that it stores functionally significant information.\n\nThat information only works because the cell contains an entire information-processing system. DNA is copied, transcribed into RNA, translated by ribosomes, checked and repaired, and coordinated with transport and regulation. A code without machinery to read it would not do much; machinery without instructions would not know what to build.\n\nA second argument concerns irreducible complexity, a term associated with Michael Behe. A system is irreducibly complex when its present basic function depends on several interacting parts and the removal of a key part destroys that function. The bacterial flagellum and blood-clotting systems are common examples in apologetics discussions.\n\nThe evolutionary reply is not simply “natural selection did it.” Biologists propose particular mechanisms such as mutation, duplication, co-option of parts that previously served other functions, and stepwise selectable intermediates. Those proposals should be examined on their merits. A possible mechanism is not yet a demonstrated history, but neither should the Christian pretend no mechanisms have been proposed.\n\nThat leaves a real causal question. Intelligence is known to generate instructions, symbolic codes, software, machines, and coordinated systems. The design argument asks whether that known causal power better explains the origin of biological information and integrated molecular machinery than unguided mechanisms do.",
       "facts": [
-        "DNA sequences can carry functionally specific biological information; the order of the sequence matters to what the cell can build or regulate.",
-        "Cells contain systems that copy, read, proofread, regulate, transport, assemble, and repair biological components.",
-        "Irreducible complexity asks how a multi-part function that depends on coordinated components could arise through selectable intermediate stages.",
-        "Intelligent agents are independently known to produce encoded information, instructions, machines, and coordinated systems.",
-        "Evolutionary pathways can be proposed and tested as competing explanations, but their existence does not by itself erase the positive design inference."
+        "Functional information concerns sequence patterns that accomplish biological work, not merely complexity or rarity.",
+        "DNA, RNA, ribosomes, proteins, regulatory networks, and repair systems form an interdependent information-processing system.",
+        "Irreducible complexity is about the dependence of a present function on multiple interacting parts.",
+        "Co-option and gene duplication are genuine evolutionary proposals and should be evaluated specifically rather than dismissed by name.",
+        "A strong design argument is positive: intelligence is a known cause of information-rich instructions and coordinated machinery."
       ],
       "further": [
         [
@@ -819,28 +819,27 @@ const questions = [
         ]
       ]
     },
-    "why": "This study takes the design argument inside the cell and asks what best explains biological information and tightly coordinated molecular systems.",
+    "why": "This lesson moves the general design argument into biology, where the evidence becomes more concrete: DNA stores functional sequences, cells process those sequences, and molecular systems must work together.",
     "core": [
-      "Life contains functionally specific information: the order of biological sequences matters to the jobs they perform.",
-      "Life also contains integrated molecular machinery whose components must be coordinated for a larger function.",
-      "Irreducible complexity highlights the challenge of building certain multi-part functions through a workable sequence of intermediate stages.",
-      "Intelligence is a known cause of encoded information, instructions, machines, and coordinated systems.",
-      "Design therefore offers a positive causal explanation for features we actually observe in cells.",
-      "The apologetic comparison is whether unguided mechanisms or intelligent causation better explain the origin of those information-rich, integrated systems."
+      "DNA is not merely a chemical molecule; the sequence of its bases carries functional information used to build and regulate living systems.",
+      "Cells contain machinery for copying, reading, translating, repairing, transporting, and using that information.",
+      "Irreducible complexity focuses on systems whose present basic function depends on several interacting parts.",
+      "Darwinian proposals include mutation, natural selection, gene duplication, co-option, and other mechanisms; the question is whether a detailed pathway can account for the origin and integration of the system under discussion.",
+      "The positive design inference is that minds are independently known to produce functional instructions and coordinated machinery."
     ],
     "pressure": [
       [
-        "“Evolutionary biologists have proposed pathways for complex molecular systems.”",
-        "Yes, and those proposals should be examined rather than ignored. The apologetic question is whether a proposed pathway actually accounts for the origin, regulation, assembly, and selectable function of the system in question. A model is evidence to evaluate, not a reason to rule design out before comparison."
+        "“Evolution has mechanisms such as mutation, selection, duplication, and co-option.”",
+        "Yes. The relevant question is whether a proposed pathway actually explains the origin of the needed information, parts, regulation, assembly, and selectable function for the system in question."
       ],
       [
-        "“Isn’t this just a God-of-the-gaps argument?”",
-        "Not if the argument is made positively. The claim is not merely that an unguided pathway is unknown. It is that intelligence is already known to produce information-rich instructions and integrated machinery, so those features can count as positive evidence for intelligent causation."
+        "“Calling DNA information is just a metaphor.”",
+        "There are metaphorical ways to talk about DNA, but the sequence still carries functionally specific instructions used by cellular machinery. The argument should focus on that measurable functional role rather than rely on loose wordplay."
       ]
     ],
-    "limits": "Lead with the positive case. Evolutionary pathways can be examined as competing explanations, but they shouldn’t crowd out the design argument itself.",
-    "practice": "Someone says, “DNA is just chemistry, so calling it information doesn’t support design.” How would you explain why the sequence and function of biological information matter to the design argument?",
-    "model": "I’d start with what the cell actually contains: functional DNA sequences and machinery that reads, copies, repairs, and uses that information. Minds are known to produce instructions and coordinated machines. So the real question is whether unguided processes have shown a workable path to these systems, or whether intelligent design better explains the pattern.",
+    "limits": "Do not claim that every unresolved biological question proves design. Focus on the positive evidence from functional information and integrated systems, then compare specific causal explanations.",
+    "practice": "Someone says, “Evolution has already explained things like DNA and molecular machines, so design is just a God-of-the-gaps argument.” How would you explain the positive biological-design case?",
+    "model": "I’d start with what needs explaining: functional DNA sequences and cellular machinery that copies, reads, repairs, and uses that information. Evolutionary mechanisms are real proposals, and they should be evaluated. But the design case is not just “we do not know.” Intelligence is a cause we already know can produce instructions and coordinated machines, so the question is which explanation actually has the stronger causal account of the systems we see.",
     "sources": [
       [
         "Discovery Institute | What Is Intelligent Design?",
@@ -860,41 +859,42 @@ const questions = [
       ]
     ],
     "evidence": {
-      "claim": "Cells contain functionally specific information and coordinated molecular machinery, features for which intelligence has demonstrated causal power.",
-      "establishes": "The supporting sources document the information-bearing and machine-like organization of cells, explain the irreducible-complexity argument, and provide evolutionary proposals that can be evaluated as competing explanations. The main apologetic claim remains positive: intelligent causation is a known source of information and coordinated systems, so biological design is a live and substantive inference.",
-      "caution": "Use evolutionary literature to understand and answer objections, not to make the lesson sound as though creation and unguided evolution are equally supported conclusions of the course.",
+      "claim": "Christian design treatments commonly emphasize biological information, molecular machinery, irreducible complexity, and the need to compare specific evolutionary mechanisms with intelligent causation.",
+      "establishes": "Impact Apologetics teaches “messages come from minds,” irreducible complexity, limits to change, and epigenetic information. Discovery Institute’s TrueU curriculum gives separate lessons to biological information and irreducible complexity. Creationist ministries add common-design and worldview analysis.",
+      "caution": "Design arguments are strongest when they engage actual evolutionary proposals rather than claiming that no mechanisms have been proposed.",
       "resources": [
         {
-          "type": "Design case",
-          "title": "Discovery Institute | What Is Intelligent Design?",
-          "why": "Presents the positive design inference from information and coordinated biological systems in accessible form.",
-          "url": "https://www.discovery.org/a/3093/"
+          "type": "Curriculum",
+          "title": "Impact Apologetics | Evolution Parts 1–2",
+          "why": "Covers biological information, “messages come from minds,” irreducible complexity, and evolutionary claims.",
+          "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
         },
         {
-          "type": "Design case",
-          "title": "Discovery Institute | Irreducible Complexity",
-          "why": "Explains why design advocates see multi-part systems as a challenge to gradual unguided pathways.",
-          "url": "https://www.discovery.org/f/45693/"
+          "type": "Curriculum",
+          "title": "Discovery Institute | TrueU: DNA by Design",
+          "why": "A lesson-based curriculum on biological information and the origin of life.",
+          "url": "https://www.discovery.org/m/2018/12/Does-God-Exist-Guide-3.0.2.pdf"
         },
         {
-          "type": "Evolutionary response",
-          "title": "Pallen & Matzke | From The Origin of Species to the Origin of Bacterial Flagella",
-          "why": "Presents a major evolutionary response to the flagellum argument and discusses proposed routes involving recruitment, duplication, and related mechanisms.",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/16953248/"
+          "type": "Intelligent design",
+          "title": "Discovery Institute | Evidence for Intelligent Design from Biochemistry",
+          "why": "Michael Behe’s classic presentation of irreducible complexity and biochemical systems.",
+          "url": "https://www.discovery.org/a/51/"
         },
         {
-          "type": "Evolutionary mechanism",
-          "title": "True & Carroll | Gene co-option in physiological and morphological evolution",
-          "why": "Explains how evolutionary biology uses co-option, regulatory change, and gene duplication to account for new functions.",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/12142278/"
+          "type": "Creationist",
+          "title": "Answers in Genesis | Common Code, Common Designer?",
+          "why": "Connects genetic information and molecular machinery with a common-design framework.",
+          "url": "https://answersingenesis.org/genetics/dna-structure/common-code-common-designer/"
+        },
+        {
+          "type": "Creationist",
+          "title": "Creation Ministries International | Genetics Questions and Answers",
+          "why": "A broad creationist resource on genetic information, mutations, common design, and ancestry claims.",
+          "url": "https://creation.com/en/pages/genetics-questions-and-answers"
         }
       ]
     },
-    "thoughts": [
-      "Why is DNA information more than simply 'a complicated chemical'?",
-      "What is the basic challenge raised by irreducible complexity?",
-      "Why is intelligence a positive causal explanation rather than merely a gap-filler?"
-    ],
     "terms": [
       [
         "Biological information",
@@ -909,9 +909,26 @@ const questions = [
         "A group of molecules that work together to carry out a cellular task."
       ]
     ],
-    "conclusion": "The cell contains functional information and coordinated machinery. Because intelligence is a known cause of both, biological design gives the creationist a positive argument to make.",
+    "conclusion": "Biological design is not just “cells are complicated.” Life joins functional information with molecular machinery, and intelligence is a known cause of both kinds of features.",
     "thread": "Now take the design question inside the cell. DNA, molecular machines, and coordinated systems make the issue much more concrete.",
-    "bigIdea": "Biological information and integrated molecular machinery are positive evidence of intelligent design because intelligence is a known cause of information-rich, coordinated systems."
+    "bigIdea": "Life contains functional information and tightly coordinated molecular systems. Intelligence is a known cause of information-rich instructions and integrated machines, so design deserves serious consideration.",
+    "checkpoints": [
+      {
+        "after": "core",
+        "question": "Why does the order of DNA bases matter to the design argument?",
+        "answer": "Because different sequences have different biological functions. The argument concerns functionally significant information, not DNA as mere chemistry."
+      },
+      {
+        "after": "body",
+        "question": "What does irreducible complexity actually claim?",
+        "answer": "That a system’s present basic function depends on several interacting parts, so removing a key part destroys that function. The historical question is how such a system arose."
+      },
+      {
+        "after": "facts",
+        "question": "What makes the design inference positive rather than a simple gap argument?",
+        "answer": "Intelligence is already known to produce instructions, codes, machines, and coordinated systems, so it is being proposed because of its known causal powers."
+      }
+    ]
   },
   {
     "id": 8,
@@ -920,14 +937,14 @@ const questions = [
     "title": "If right and wrong are real, what makes them real?",
     "teaser": "Most of us live as if some things are truly right or wrong, even when people or cultures disagree. What can make moral truth bigger than human opinion?",
     "lesson": {
-      "heading": "Start with something we already know",
-      "body": "Imagine a whole society saying that it is fine to torture an innocent child for fun. Would that make it right? Of course not. It would still be wrong even if everyone voted for it. That is the basic idea behind objective morality: some things are really right or wrong even when people disagree.\n\nIf morality is only personal taste, then saying cruelty is wrong is not much different from saying I dislike cruelty. If morality is only whatever society decides, then a society could make cruelty right just by approving it. But we do not really believe that. We believe whole societies can be wrong. So the standard for right and wrong has to be higher than our opinions or our laws.\n\nChristianity says that standard is God Himself. God does not invent goodness on a whim. He is perfectly good, and His commands flow from who He is. Because He made us, He has rightful authority over us. That explains both why goodness is real and why we are actually obligated to do what is right.\n\nThat is the heart of the moral argument. Morality feels personal because it deals with what people ought to do, guilt, responsibility, justice, and human worth. A personal and perfectly good God fits that kind of moral reality better than a rule that simply exists with no mind behind it.",
+      "heading": "Objective morality, grounding, and the Euthyphro question",
+      "body": "Start by defining “objective.” A moral claim is objective if its truth does not depend on what an individual or society happens to prefer. If torturing a child for fun is objectively wrong, it would remain wrong even if an entire society approved it.\n\nThat gives us the second premise: at least some moral truths and duties really are objective. Our moral experience includes obligations, guilt, praise, blame, justice, human dignity, and the conviction that whole cultures can be morally mistaken.\n\nThe first premise asks what kind of reality can ground those truths. Evolution may help explain why human beings developed certain moral feelings or cooperative behaviors, but a causal story about our beliefs is not automatically an account of why a moral statement is true or why we are genuinely obligated to obey it.\n\nThe Christian answer is not that God arbitrarily invents morality. That would raise the classic Euthyphro dilemma: is something good merely because God commands it, or does God command it because it is good by some standard above Him? Classical Christian theism answers that goodness is grounded in God’s unchanging character. God commands in accordance with who He is. Moral value is therefore neither arbitrary nor external to God.\n\nThis also explains why the argument is not about whether atheists can behave morally. Of course they can. The question is whether a naturalistic worldview can supply an objective standard, genuine obligation, human worth, and accountability that match the moral reality we all live as though we inhabit.",
       "facts": [
-        "Objective means true regardless of personal or cultural opinion.",
-        "If an entire society approved of cruelty, that approval would not make cruelty good.",
-        "The argument is about what makes moral truth and duty real, not about whether atheists can behave morally.",
-        "Evolutionary stories may try to explain why humans have certain moral feelings, but explaining a feeling is not the same as explaining whether the feeling points to a real moral truth.",
-        "The Christian answer grounds goodness in God's character and moral duty in God's rightful authority over His creatures."
+        "Objective morality is mind-independent with respect to human opinion or cultural agreement.",
+        "Moral epistemology = how we know moral truths. Moral ontology = what makes moral truths and duties real.",
+        "The argument is compatible with unbelievers knowing and doing genuinely good things.",
+        "Evolutionary accounts of moral belief may explain behavior or belief formation without grounding objective moral truth.",
+        "The Euthyphro dilemma is answered in classical theism by grounding goodness in God’s nature rather than in arbitrary commands or a standard above God."
       ],
       "further": [
         [
@@ -944,27 +961,27 @@ const questions = [
         ]
       ]
     },
-    "why": "The moral argument asks a simple question: if some things are truly right or wrong no matter what anyone thinks, what makes that true? Christianity says the best answer is a perfectly good God.",
+    "why": "The moral argument does not claim that unbelievers cannot be good. It asks a deeper question: what makes some things really right or wrong regardless of anyone’s opinion?",
     "core": [
-      "Some things really are right or wrong, even when people disagree.",
-      "If people and whole cultures can be wrong, then right and wrong cannot be created by opinion or majority vote.",
-      "Morality does not just describe what people do. It tells us what we ought to do and says we can be guilty when we refuse.",
-      "A perfectly good God explains both sides of morality: His character tells us what goodness is, and His authority explains why we should obey what is good.",
-      "This also fits the case we have already been building. The cause and designer of the universe is not only powerful and intelligent; the moral argument points toward a God who is also good and personal."
+      "Premise 1: If God does not exist, objective moral values and duties do not have an adequate personal foundation.",
+      "Premise 2: Objective moral values and duties do exist.",
+      "Conclusion: God is the best explanation, or in the deductive form the necessary ground, of objective morality.",
+      "Moral epistemology asks how we know right and wrong; moral ontology asks what makes right and wrong objectively real. The argument is mainly about ontology.",
+      "Christian theism grounds moral goodness in God’s perfectly good nature and moral duties in the authority of that good Creator."
     ],
     "pressure": [
       [
-        "“Atheists can be moral people.”",
-        "Yes. The argument is not that belief in God is required before someone can recognize or do what is right. The question is what makes right and wrong objectively true in the first place."
+        "“Evolution explains morality.”",
+        "Evolution can be relevant to why humans have moral instincts, but explaining why we hold a belief is different from explaining whether the belief is objectively true and binding."
       ],
       [
-        "“Morality is just something evolution gave us.”",
-        "That might explain why people have certain moral feelings. But it does not tell us whether those feelings are true. If our history had led us to approve of cruelty, cruelty would not suddenly become good. Explaining where a belief came from is not the same as explaining why it is true."
+        "“Couldn’t moral values just exist as brute facts?”",
+        "That is a possible philosophical position, but it leaves moral obligations, personal worth, and accountability without an obvious personal source. Theism offers a unified explanation in a perfectly good personal Creator."
       ]
     ],
-    "limits": "Use the moral argument to ask what best grounds objective moral truth, duty, human worth, and accountability. It is a grounding argument, not a claim that unbelievers can’t behave morally.",
-    "practice": "Someone says, “We don’t need God for morality. People can be good without believing in Him.” How would you distinguish moral behavior from the moral argument itself?",
-    "model": "Sure, atheists can recognize and do genuinely good things. That is not what the moral argument is about. The question is what makes objective moral truth and obligation real in the first place. Christianity grounds goodness in God’s character and our duty in His rightful authority.",
+    "limits": "Do not argue that atheists are immoral or that every moral disagreement proves God. Keep the issue on the grounding of objective value and obligation.",
+    "practice": "Someone says, “I do not need God to be a good person.” How would you explain the moral argument without insulting them or changing the subject?",
+    "model": "I’d agree that you do not have to believe in God to recognize or do good things. The moral argument asks a different question: if some things are really right or wrong regardless of human opinion, what makes that true and why are we genuinely obligated? Christianity says moral goodness is grounded in God’s character and our duties in His rightful authority as Creator.",
     "sources": [
       [
         "Stanford Encyclopedia of Philosophy | Moral Arguments for the Existence of God",
@@ -976,35 +993,42 @@ const questions = [
       ]
     ],
     "evidence": {
-      "claim": "We normally treat at least some things as really right or wrong, not just matters of taste or social agreement.",
-      "establishes": "The moral argument asks what best explains that. Christianity says a perfectly good God explains why goodness is real, why we have duties, why people matter, and why our choices have moral weight.",
-      "caution": "Some philosophers believe real moral truths can exist without God. The question is whether a moral truth with no mind or authority behind it explains duty, human worth, and accountability as well as a perfectly good personal God does.",
+      "claim": "The most common Christian formulation distinguishes objective moral values and duties from moral behavior and asks what grounds them.",
+      "establishes": "Reasonable Faith uses a simple three-step deductive argument. Biola treatments emphasize moral realism and distinguish alternatives. Stand to Reason stresses objective versus subjective morality, while Impact Apologetics teaches the moral standard as part of its core curriculum.",
+      "caution": "The argument requires defense of both moral realism and the claim that theism gives a better grounding than rival metaethical accounts.",
       "resources": [
         {
-          "type": "Scholarship",
-          "title": "Stanford Encyclopedia of Philosophy | Moral Arguments for the Existence of God",
-          "why": "Surveys arguments that reason from objective moral facts or obligations to God as their best explanation.",
-          "url": "https://plato.stanford.edu/entries/moral-arguments-god/"
+          "type": "Curriculum",
+          "title": "Reasonable Faith Equip | The Moral Argument",
+          "why": "A full course on objective values and duties, moral ontology, Euthyphro, Platonism, evolution, and objections.",
+          "url": "https://equip.reasonablefaith.org/courses/apologetics-203-the-moral-argument-2/"
+        },
+        {
+          "type": "Curriculum",
+          "title": "Impact Apologetics | The Moral Argument",
+          "why": "Lesson 7 asks what the standard for morality is and places the argument in the cumulative case for God.",
+          "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
+        },
+        {
+          "type": "Biola",
+          "title": "Biola | The Moral Argument for God",
+          "why": "Discusses moral realism, objective values and duties, evolution, and competing metaethical accounts.",
+          "url": "https://www.biola.edu/blogs/think-biblically/2026/the-moral-argument-for-god"
         },
         {
           "type": "Apologetics",
-          "title": "Reasonable Faith | Can We Be Good Without God?",
-          "why": "An introductory presentation of the distinction between behaving morally and grounding objective morality.",
-          "url": "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-god/can-we-be-good-without-god/"
+          "title": "Stand to Reason | God, Evolution, and Morality",
+          "why": "Distinguishes objective morality from subjective preference and evolutionary explanations.",
+          "url": "https://www.str.org/w/god-evolution-and-morality-part-1"
         },
         {
-          "type": "Scholarship",
-          "title": "Stanford Encyclopedia of Philosophy | Religion and Morality",
-          "why": "Provides background on the Euthyphro problem and major ways the relationship between God and morality has been understood.",
-          "url": "https://plato.stanford.edu/entries/religion-morality/"
+          "type": "Apologetics",
+          "title": "Stand to Reason | A Response to Atheistic Moral Platonism",
+          "why": "Engages the proposal that objective moral values exist as brute abstract facts without God.",
+          "url": "https://www.str.org/w/a-response-to-atheistic-moral-platonism"
         }
       ]
     },
-    "thoughts": [
-      "What does it mean for a moral truth to be objective?",
-      "Why is explaining moral feelings different from grounding moral truth?",
-      "How does God’s character and authority ground both moral value and moral duty?"
-    ],
     "terms": [
       [
         "Objective morality",
@@ -1023,9 +1047,26 @@ const questions = [
         "The challenge asking whether something is good because God commands it or God commands it because it is already good. The Christian response here is that goodness is rooted in God's own character."
       ]
     ],
-    "conclusion": "If some things are truly right or wrong no matter what people think, morality must be bigger than human opinion. A perfectly good personal God explains why goodness is real, why we should do what is right, why people have worth, and why our choices matter. That makes morality another strong part of the case for God.",
+    "conclusion": "The moral argument is about the reality beneath our moral experience. A perfectly good personal God gives a coherent foundation for objective goodness, duty, dignity, and accountability.",
     "thread": "The world does not only look ordered. It also confronts us with real duties, dignity, guilt, justice, and evil.",
-    "bigIdea": "Objective moral duties fit naturally with a personal, perfectly good God who grounds goodness and has authority over us."
+    "bigIdea": "If objective moral values and duties are real, they need an adequate foundation. A perfectly good personal God explains both moral value and moral obligation.",
+    "checkpoints": [
+      {
+        "after": "core",
+        "question": "What does “objective” mean in the moral argument?",
+        "answer": "It means that a moral truth does not become true or false merely because an individual or society approves or rejects it."
+      },
+      {
+        "after": "body",
+        "question": "Why does saying “atheists can be moral” not answer the moral argument?",
+        "answer": "Because the argument is about the foundation of objective moral truth and duty, not about who is capable of recognizing or doing good."
+      },
+      {
+        "after": "facts",
+        "question": "How does classical Christian theism answer the Euthyphro dilemma?",
+        "answer": "Goodness is grounded in God’s perfectly good nature, and His commands express that nature. Goodness is therefore neither arbitrary nor independent of God."
+      }
+    ]
   },
   {
     "id": 9,
@@ -1034,13 +1075,14 @@ const questions = [
     "title": "Why can we trust reason?",
     "teaser": "Our brains have physical causes. But what makes a thought reasonable, true, or worth believing?",
     "lesson": {
-      "heading": "A cause for a thought is not the same as a reason to believe it",
-      "body": "Suppose you ask why I think a bridge is unsafe. I could say, ‘because neurons fired in my brain.’ That may describe what happened physically, but it does not tell you whether my belief is reasonable. If I say, ‘because I saw a large crack in a support beam,’ now I have given you a reason.\n\nThat difference matters. Brain activity can explain how a thought happened. Logic and evidence tell us whether the thought makes sense. Some conclusions follow from the evidence and some do not. Contradictions are still contradictions no matter what brain produced them.\n\nThis creates a question for a worldview in which mind ultimately comes from matter that does not think. Why should a process filtered by survival and reproduction also give us minds that can discover truth about logic, mathematics, morality, the distant past, or the beginning of the universe? Survival and truth often overlap, but they are not the same thing.\n\nChristian theism gives a simple fit: a rational God made an orderly world and made human beings able to reason about it. Our minds are imperfect, but it is not surprising that mind can understand reality if both come from a rational source.",
+      "heading": "Cause, reason, truth, and reliable minds",
+      "body": "Suppose a neuroscientist gives a complete description of what your brain did while you solved a math problem. That would be a causal explanation of the event. It would not yet tell us whether your conclusion follows from the premises or whether the conclusion is true. Rational explanation and physical description answer different questions.\n\nC.S. Lewis used this distinction to challenge naturalism: if thoughts are only the inevitable effects of non-rational physical causes, where does rational inference fit? Contemporary defenders such as Victor Reppert develop this into an argument about the reality of reasons, logical relations, and mental content.\n\nAlvin Plantinga offers a different but related argument. Evolution selects for adaptive behavior. True beliefs often help survival, but a behavior can in principle arise from many combinations of true and false beliefs. Plantinga argues that if naturalism and unguided evolution make the reliability of our cognitive faculties doubtful, then naturalism undercuts confidence in the very faculties used to believe naturalism.\n\nThat argument is debated, and it should not be presented as a one-line refutation of evolution. Its apologetic value is to expose a worldview-level question: why should matter governed by non-rational causes produce minds that can discover logic, mathematics, metaphysics, and truths far removed from immediate survival?\n\nTheism has a direct answer. Reality comes from a rational God, the world has a knowable order, and human minds are designed to know truth. Human reason is fallible because humans are finite and fallen, but its basic trustworthiness is not an accident.",
       "facts": [
-        "A physical event in the brain can cause a belief without showing that the belief is true.",
-        "Good reasoning depends on standards such as truth, consistency, and evidence.",
-        "A belief can help survival without being true in every area of thought.",
-        "If reality comes from a rational God, it makes sense that the world is understandable and that human minds can discover truth about it."
+        "A causal explanation of why a belief occurred is different from a rational justification for believing it.",
+        "The evolutionary argument against naturalism targets the combination of naturalism and unguided evolution, not biological change by itself.",
+        "Adaptive behavior and true belief often correlate, but they are not conceptually identical.",
+        "Rational inference involves truth, logical relations, meaning, and reasons.",
+        "Theism explains the fit between rational minds and an intelligible universe by a common rational source."
       ],
       "further": [
         [
@@ -1053,26 +1095,27 @@ const questions = [
         ]
       ]
     },
-    "why": "We use reason in every other apologetics argument. This study asks why we should expect human reasoning to connect with truth at all.",
+    "why": "Every argument in this course relies on reason. The argument from reason asks whether a worldview can make sense of that very tool.",
     "core": [
-      "Our thoughts have physical causes in the brain, but causes do not tell us whether a belief is true or reasonable.",
-      "Reason follows standards. Evidence should matter. Contradictions should be rejected. A good conclusion should actually follow from the reasons given.",
-      "Naturalistic evolution may explain why useful thinking helps creatures survive, but survival by itself is not the same goal as discovering truth in every area.",
-      "A rational Creator gives a straightforward reason to expect both an orderly world and minds that can understand it."
+      "A physical cause of a belief is not the same thing as a rational reason for believing it.",
+      "Natural selection primarily rewards survival and reproduction, not abstract truth as such.",
+      "Plantinga’s evolutionary argument against naturalism asks whether naturalism plus unguided evolution gives us a strong reason to trust our cognitive faculties.",
+      "C.S. Lewis and Victor Reppert stress that rational inference involves logical relationships and meaning, not merely one physical event causing another.",
+      "Theism expects both an orderly world and minds capable of knowing it because both come from a rational Creator."
     ],
     "pressure": [
       [
-        "‘Evolution gave us brains that work.’",
-        "Useful thinking can certainly help survival. But the question goes further: why should a process driven by survival give us minds able to discover abstract truths about logic, mathematics, philosophy, and events far beyond anything needed for immediate survival?"
+        "“Evolution favors accurate thinking because false beliefs get you killed.”",
+        "Often true beliefs are adaptive, and that helps the naturalist’s case. The deeper question is whether survival selection alone explains reliable access to abstract truths and whether rational inference can be reduced to physical causation."
       ],
       [
-        "‘Are you saying atheists cannot reason?’",
-        "No. The argument is not about whether a naturalist can reason. Of course naturalists reason. The question is which worldview gives the better explanation for why rational thought can reach truth."
+        "“Christians reason badly too.”",
+        "Of course. The argument does not say theists are infallible. It asks which worldview better explains why rational standards and generally reliable cognitive faculties exist at all."
       ]
     ],
-    "limits": "Use this as a big-picture argument. Theism gives a natural reason why human minds can know truth; naturalism still has to explain why unguided causes produced reason that reaches beyond survival to logic, mathematics, history, and truth itself.",
-    "practice": "A naturalist says, “Evolution gave us reliable brains because creatures that reason badly don’t survive.” How would you explain what the argument from reason is still asking?",
-    "model": "Survival matters, but that does not answer the whole question. Why should a process selected for survival also give us access to truths about logic, mathematics, metaphysics, and things far removed from survival? Christianity gives a straightforward answer: the world is rationally ordered because it comes from a rational God, and human minds are made to know that world, even if imperfectly.",
+    "limits": "Treat this as a worldview-level argument, not as proof that every evolutionary account of cognition fails. Its force is the fit between reason, truth, and a rational source of reality.",
+    "practice": "A naturalist says, “Evolution selected for brains that track reality, so there is no problem explaining reason.” What question would you still ask?",
+    "model": "I’d grant that tracking reality often helps survival. Then I’d ask whether survival alone explains the whole thing: our ability to follow logical relations, do abstract mathematics, reason about metaphysics, and care whether beliefs are true rather than merely useful. Theism has a direct explanation for that fit because both the world and our minds come from a rational source.",
     "sources": [
       [
         "Stanford Encyclopedia of Philosophy | Naturalism",
@@ -1084,29 +1127,36 @@ const questions = [
       ]
     ],
     "evidence": {
-      "claim": "The argument from reason asks which worldview better explains why human minds can follow logic and discover truth about an orderly world.",
-      "establishes": "The evidence is not one laboratory result. It is the everyday fact that reasoning is answerable to truth and logic, together with the question of what kind of worldview makes that fact less surprising.",
-      "caution": "This is a worldview argument. It does not claim that brain science is false or that non-Christians cannot reason.",
+      "claim": "Christian arguments from reason commonly use C.S. Lewis’s cause-versus-ground distinction and Plantinga’s evolutionary argument against naturalism.",
+      "establishes": "Reasonable Faith summarizes Plantinga’s defeater argument and Victor Reppert’s argument from reason. Ligonier treatments of C.S. Lewis highlight his claim that naturalism struggles to ground rational thought. Impact Apologetics begins its curriculum with thinking and truth before theistic arguments.",
+      "caution": "Plantinga’s argument is philosophically contested and should be taught as a serious challenge to evolutionary naturalism, not as an empirical disproof of biological evolution.",
       "resources": [
         {
-          "type": "Theistic argument",
-          "title": "Reasonable Faith | Plantinga’s Evolutionary Argument against Naturalism",
-          "why": "Explores the tension between evolutionary naturalism and confidence in truth-directed thinking.",
+          "type": "Apologetics",
+          "title": "Reasonable Faith | Plantinga’s Evolutionary Argument Against Naturalism",
+          "why": "Presents the reliability-defeater argument in a step-by-step form.",
           "url": "https://www.reasonablefaith.org/writings/question-answer/plantingas-evolutionary-argument-against-naturalism-707/"
         },
         {
-          "type": "Background",
-          "title": "Stanford Encyclopedia of Philosophy | Naturalism",
-          "why": "Explains philosophical naturalism and the kinds of questions it raises about mind and knowledge.",
-          "url": "https://plato.stanford.edu/entries/naturalism/"
+          "type": "Apologetics",
+          "title": "Reasonable Faith | Blackwell Companion: Argument from Reason",
+          "why": "Summarizes Victor Reppert’s argument that naturalism struggles to account for truth-directed rational inference.",
+          "url": "https://www.reasonablefaith.org/media/reasonable-faith-podcast/blackwell-companion-book/"
+        },
+        {
+          "type": "Teaching",
+          "title": "Ligonier | God in the Dock: The Apologetics of C.S. Lewis",
+          "why": "Highlights Lewis’s critique that nature alone cannot explain rational thought, morality, and conscience.",
+          "url": "https://learn.ligonier.org/articles/god-dock"
+        },
+        {
+          "type": "Curriculum",
+          "title": "Impact Apologetics | Thinking Skill and Truth",
+          "why": "Places reasoning and truth at the foundation of the apologetic case.",
+          "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
         }
       ]
     },
-    "thoughts": [
-      "What is the difference between the physical cause of a belief and a reason that makes the belief rational?",
-      "Why are survival and truth related but not identical?",
-      "How does theism explain the fit between rational minds and an intelligible universe?"
-    ],
     "terms": [
       [
         "Naturalism",
@@ -1121,9 +1171,26 @@ const questions = [
         "The basic rules that help us tell whether a conclusion really follows from the reasons given."
       ]
     ],
-    "conclusion": "Brain activity can tell us how a thought happened, but not whether the thought is true. Theism gives a simple reason minds and an orderly world fit together: both come from a rational Creator.",
+    "conclusion": "Reason itself becomes part of the cumulative case. A rational Creator makes an intelligible world and truth-seeking minds far less surprising than a reality built only from non-rational causes.",
     "thread": "One last Step 1 question turns the spotlight on us: why should human reason be able to know truth at all?",
-    "bigIdea": "Theism gives a coherent foundation for reason: a rational God, an orderly world, and minds capable of knowing truth."
+    "bigIdea": "Naturalism has to explain not only why brains produce useful behavior, but why human reasoning is genuinely truth-directed. Theism gives a natural home for rational minds, logical laws, and an intelligible world.",
+    "checkpoints": [
+      {
+        "after": "core",
+        "question": "What is the difference between a cause of a belief and a reason for a belief?",
+        "answer": "A cause explains why the mental event occurred. A reason explains why the conclusion is rationally supported or true."
+      },
+      {
+        "after": "body",
+        "question": "What is Plantinga’s argument trying to show?",
+        "answer": "That if naturalism plus unguided evolution gives us a defeater for trusting our cognitive faculties, it also undermines confidence in naturalism itself."
+      },
+      {
+        "after": "facts",
+        "question": "What does theism add to the explanation of reason?",
+        "answer": "A rational Creator who is the source of both an orderly world and minds capable of knowing truth."
+      }
+    ]
   },
   {
     "id": 10,
@@ -1132,13 +1199,14 @@ const questions = [
     "title": "If God exists, are miracles possible?",
     "teaser": "If God created the natural world, then He is not trapped by it. A miracle should be tested by the evidence, not rejected before the case is heard.",
     "lesson": {
-      "heading": "Do not rule out miracles before looking at the evidence",
-      "body": "Christians are not saying that dead people normally come back to life. We agree that they do not. That is exactly why the resurrection would be a miracle.\n\nSo the first question is not, “Do dead people normally rise?” Of course they do not. The real question is, “If God exists, could the Creator act in the world he made?” The earlier studies have already built a case for a Creator who is beyond nature. If that case is sound, miracles cannot simply be ruled out before the evidence is heard.\n\nIf nature itself depends on God, then God is not trapped inside the ordinary course of nature. He can act in his creation. That does not mean every miracle story is true. It means miracle claims have to be judged by evidence rather than dismissed because our usual experience is that nature behaves regularly.\n\nFor the resurrection, that sends us to history. What happened to Jesus? What do our earliest sources say? Which explanation best fits the evidence?",
+      "heading": "Possibility first, occurrence second",
+      "body": "Christians sometimes talk as though believing in God means believing every miracle report. It does not. The first apologetic question is only whether miracles are possible in principle.\n\nIf naturalism is true and nature is all that exists, then no supernatural miracle can occur. But if the earlier arguments give us reason to believe in a Creator who brought nature into being, then that Creator is not imprisoned by the regular processes He sustains. Divine action becomes a live possibility.\n\nDavid Hume famously argued that our uniform experience of natural law makes testimony to a miracle too weak to believe. The problem is that “how unusual is this event naturally?” is not the only probability that matters. The question is whether the hypothesis “God acted here,” together with the specific evidence, explains the case better than deception, mistake, legend, or another natural explanation.\n\nThat does not mean miracles become easy to prove. Most strange events should probably receive ordinary explanations. A good miracle claim should have strong evidence, fit a meaningful religio-historical context, and resist better natural explanations.\n\nThis is why the course places miracles here. Step 1 has already argued that God exists. We can now approach the resurrection without silently assuming from the start that God is not allowed to act.",
       "facts": [
-        "The regular order of nature is what makes a miracle recognizable as unusual.",
-        "A law of nature describes how the physical world normally behaves; it does not prove that God cannot act.",
-        "If God created the universe, then He would not be just another object inside it.",
-        "A miracle claim still needs evidence. Believing God can act is not the same as proving that He acted in a particular case."
+        "Natural laws describe regular patterns in the created world; a miracle is exceptional precisely against that regular background.",
+        "Natural impossibility is not the same as impossibility for a Creator.",
+        "Hume’s argument is strongest as a warning to demand good evidence, not as an a priori rule that no evidence could ever justify belief in a miracle.",
+        "The prior plausibility of a miracle claim depends partly on worldview background information, including whether God exists.",
+        "Religious context matters: an isolated anomaly is harder to interpret than an event connected to prior claims and a coherent historical setting."
       ],
       "further": [
         [
@@ -1151,29 +1219,27 @@ const questions = [
         ]
       ]
     },
-    "why": "This lesson is the bridge between the case for God and the historical case for Jesus. It clears away the idea that the resurrection can be rejected before the evidence is even considered.",
+    "why": "Natural theology changes the prior question. A resurrection is naturally impossible, but it is not impossible for God if God exists.",
     "core": [
-      "Nature usually behaves in regular ways. Christians agree with that.",
-      "Those regular patterns tell us what nature does on its own. They do not tell us that no Creator can ever act.",
-      "Creation is already the first miracle in the Christian worldview: if God brought the universe into being, His action is not limited to the ordinary workings of nature.",
-      "Modern cosmology also describes the universe as having a finite age and a hot, dense early history. That does not prove creation from nothing, but it makes a cosmic beginning a serious idea rather than a uniquely religious one.",
-      "If God made the universe, then God is able to act in it.",
-      "So the right question is not, “Are miracles normal?” They are not. The question is, “Is there good evidence that God acted here?”",
-      "That is why the resurrection should be investigated historically rather than dismissed in advance."
+      "A miracle is an extraordinary act of God in the created order, not merely an event we do not yet understand.",
+      "The regularity of nature is what makes a miracle recognizable as extraordinary; Christians do not deny ordinary natural laws.",
+      "Hume’s classic challenge argues that miracle reports are always less probable than mistake or deception, but that comparison must include the specific evidence and the background question of whether God exists.",
+      "If there is independent reason to believe in a Creator, the prior probability of divine action is not the same as it would be under naturalism.",
+      "Each miracle claim still has to be evaluated on its own evidence and in its historical and theological context."
     ],
     "pressure": [
       [
-        "“Dead people stay dead, so resurrection is impossible.”",
-        "Dead people do stay dead naturally. Christianity agrees. The resurrection claim is that God acted. If God exists, the fact that resurrection does not happen naturally is not enough to show that it could never happen."
+        "“Dead people stay dead.”",
+        "Exactly. Resurrection is not being proposed as an ordinary natural event. The question is whether the Creator acted exceptionally and whether the historical evidence supports that claim."
       ],
       [
-        "“Science rules out miracles.”",
-        "Science is excellent at studying the regular workings of nature. But studying natural causes is not the same thing as proving that only natural causes can ever exist. That second claim is a worldview claim, not a scientific experiment."
+        "“Extraordinary claims require extraordinary evidence.”",
+        "The slogan can be useful if it means strong claims need strong evidence. It should not be used as a rule that no amount of evidence could ever support a miracle before the evidence is even considered."
       ]
     ],
-    "limits": "This lesson establishes possibility, not occurrence: if a Creator exists, miracles are possible in principle. The next step is to ask whether the historical evidence supports a particular miracle claim.",
-    "practice": "Someone says, “Dead people stay dead, so the resurrection is impossible before we even look at the evidence.” How would you answer at the bridge between natural theology and Christian evidence?",
-    "model": "Of course dead people stay dead by ordinary natural processes. That is exactly why a resurrection would be a miracle. If there is good reason to believe a Creator exists, then God is not limited to what nature does on its own. At that point the question is historical: is there good evidence that God acted in this case?",
+    "limits": "This lesson does not prove any particular miracle. It removes an a priori veto so the resurrection evidence can be heard on its merits.",
+    "practice": "Someone says, “Science shows dead people stay dead, so historians can never rationally conclude that Jesus rose.” How would you separate natural regularity from the possibility of divine action?",
+    "model": "I’d agree that dead people do not rise by ordinary natural causes. That is why resurrection would be a miracle, not a medical event. If there are good reasons to believe a Creator exists, then God is not limited to what nature does on its own. We still need strong historical evidence, but we cannot reject the conclusion before looking at that evidence.",
     "sources": [
       [
         "Stanford Encyclopedia of Philosophy | Miracles",
@@ -1181,35 +1247,36 @@ const questions = [
       ]
     ],
     "evidence": {
-      "claim": "If God exists, miracles cannot be rejected simply because they are outside the normal course of nature.",
-      "establishes": "Philosophical discussions of miracles distinguish between asking whether divine action is possible and asking whether a particular miracle actually happened. The second question has to be answered from the evidence.",
-      "caution": "Possible does not mean proven. The resurrection still needs a historical case, which is what the next studies will build.",
+      "claim": "Christian apologetics treatments typically answer Hume by distinguishing natural regularity from divine action and by insisting that miracle claims be evaluated with both background knowledge and specific evidence.",
+      "establishes": "Impact Apologetics devotes a full lesson to whether miracles are possible and objections to miracles. Reasonable Faith treats Hume’s probability argument and the role of background information. Ligonier’s presentations of C.S. Lewis defend supernaturalism against naturalism.",
+      "caution": "Rejecting an a priori ban on miracles is not the same as establishing that any specific miracle occurred.",
       "resources": [
         {
-          "type": "Scholarship",
-          "title": "Stanford Encyclopedia of Philosophy | Miracles",
-          "why": "A careful overview of what philosophers mean by a miracle and how miracle claims are evaluated.",
-          "url": "https://plato.stanford.edu/entries/miracles/"
+          "type": "Curriculum",
+          "title": "Impact Apologetics | Are Miracles Possible?",
+          "why": "Lesson 8 distinguishes miracle from unusual event and addresses major objections.",
+          "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
         },
         {
-          "type": "Christian apologetics",
-          "title": "Oxford Centre for Christian Apologetics | The Easter Miracle",
-          "why": "A Christian treatment of why the resurrection should be examined as a historical claim.",
-          "url": "https://theocca.org/resources/the-easter-miracle/"
+          "type": "Apologetics",
+          "title": "Reasonable Faith | Hume and Miracles",
+          "why": "Explains Hume’s challenge and why the specific evidence and background probability must both be considered.",
+          "url": "https://www.reasonablefaith.org/podcasts/defenders-podcast-series-3/s3-the-doctrine-of-creation/the-doctrine-of-creation-part-18/"
         },
         {
-          "type": "Classic objection",
-          "title": "David Hume | Of Miracles",
-          "why": "The classic skeptical argument about miracle testimony, useful for seeing the objection in its original form.",
-          "url": "https://davidhume.org/texts/e/10"
+          "type": "Apologetics",
+          "title": "Reasonable Faith | Leaping Lessing’s Ugly, Broad Ditch",
+          "why": "Argues that there is no a priori historical rule excluding miracles and that evidence must be assessed case by case.",
+          "url": "https://www.reasonablefaith.org/writings/question-answer/leaping-lessings-ugly-broad-ditch/"
+        },
+        {
+          "type": "Teaching",
+          "title": "Ligonier | God in the Dock: C.S. Lewis",
+          "why": "Surveys Lewis’s defense of supernaturalism and miracles against naturalism.",
+          "url": "https://learn.ligonier.org/articles/god-dock"
         }
       ]
     },
-    "thoughts": [
-      "Why does the regularity of nature not imply that a Creator cannot act?",
-      "What is the difference between a miracle being possible and a miracle being established?",
-      "Why is Study 10 the bridge from natural theology to the resurrection case?"
-    ],
     "terms": [
       [
         "Miracle",
@@ -1224,9 +1291,26 @@ const questions = [
         "The worldview that nature is all that exists and that there is no supernatural reality."
       ]
     ],
-    "conclusion": "Nature is regular, and that is why a resurrection would be remarkable. But if the Creator exists, a miracle is possible. The next question is whether there is good reason to think God actually acted.",
+    "conclusion": "Natural theology opens the door; history has to tell us whether God walked through it. The next studies ask whether the evidence for Jesus justifies a miracle claim.",
     "thread": "We have a case for a Creator. That changes how we approach miracles: we no longer get to rule them out before hearing the evidence.",
-    "bigIdea": "If God created nature, miracles are possible; a miracle claim should be judged by evidence rather than ruled out in advance."
+    "bigIdea": "If a Creator exists, miracles cannot be ruled out in advance. The right question is whether there is enough evidence that God acted in a particular case.",
+    "checkpoints": [
+      {
+        "after": "core",
+        "question": "Does believing God exists mean we should believe every miracle report?",
+        "answer": "No. It only means miracles are possible in principle. Each claim still needs evidence."
+      },
+      {
+        "after": "body",
+        "question": "What important background question does Hume’s argument often leave out?",
+        "answer": "Whether there is independent reason to think God exists and could act. That background affects how a miracle hypothesis should be evaluated."
+      },
+      {
+        "after": "facts",
+        "question": "Why does historical context matter when identifying a miracle?",
+        "answer": "Because an extraordinary event is easier to interpret when it occurs in a meaningful context connected to prior claims, rather than as an unexplained anomaly."
+      }
+    ]
   },
   {
     "id": 11,
@@ -1235,16 +1319,14 @@ const questions = [
     "title": "Can we investigate Jesus historically?",
     "teaser": "Do we have to prove the Bible is inspired before using it as historical evidence?",
     "lesson": {
-      "heading": "Treat the New Testament as ancient historical sources first",
-      "body": "If someone does not yet believe the Bible is God’s Word, we do not have to start by asking them to accept inspiration. We can start with history: what sources do we have for Jesus, how early are they, and what can they tell us?\n\nFirst, we can recover the New Testament text very well. Thousands of Greek manuscripts and fragments survive, and scholars compare them to identify copying differences and work back toward the earliest recoverable wording. That tells us what the authors wrote. It does not, by itself, tell us whether the events happened.\n\nSecond, our sources are early enough to investigate. Several letters of Paul come from the first decades of the Christian movement, and Paul personally knew Peter and James. The four Gospels are first-century works about Jesus. They were written to persuade readers, but having a purpose does not make a source useless for history.\n\nThird, non-Christian writers such as Tacitus and Josephus confirm parts of the same first-century setting. They do not prove the resurrection, but they help show that Jesus and the early Christian movement are ordinary subjects of ancient history, not figures floating outside it.\n\nFrom there, we ask normal historical questions: How early is the source? How close is it to the events? Does other evidence support it? What explanation best fits what we have? We can ask all of that before deciding whether the New Testament is inspired.",
+      "heading": "How historians actually use the New Testament",
+      "body": "The first distinction is essential. A large manuscript tradition can give us confidence about what a text originally said. It does not automatically prove that the events described in the text happened. Textual criticism and historical criticism answer different questions.\n\nOnce the text is in hand, the New Testament can be treated the way historians treat other ancient sources. Paul’s letters are especially important because several are widely accepted as early and genuinely Pauline. The Gospels are ancient biographies or biography-like narratives written to tell readers about Jesus. They are theological, but having a theological purpose does not make a source historically useless.\n\nHistorians then ask ordinary questions. How early is the source? Was the author or underlying tradition close to eyewitnesses? Is the same fact independently attested? Does it fit the known first-century Jewish and Roman setting? Is there material that would have been awkward for the early church to invent? Does outside evidence corroborate part of the picture?\n\nPopular apologetics sometimes turns those criteria into mechanical “proof rules.” They are not. Multiple attestation, embarrassment, Semitic features, and cultural fit can raise confidence, but each case still needs judgment.\n\nThe useful result is modest but important: we do not have to say “the Bible is true because the Bible says so.” We can first use these writings as historical evidence. Only later, after the argument reaches Jesus’ authority, will we ask whether they should also be received as Scripture.",
       "facts": [
-        "The INTF’s catalogue contains about 5,700 Greek New Testament witnesses; counting is complex because a ‘witness’ is not always identical to one physical artifact.",
-        "The earliest surviving New Testament fragments are dated to the second century, while complete major codices survive from the fourth century.",
-        "Textual variants exist because the books were copied by hand; comparing many witnesses is the normal scholarly method for reconstructing the text.",
-        "Several Pauline letters are widely accepted as genuine first-century writings and are among our earliest surviving Christian sources.",
-        "Paul reports personal contact with Peter and James, leaders of the earliest Jerusalem church.",
-        "The Gospels are widely studied as forms of ancient biography and can be used historically without first granting their theology.",
-        "Tacitus and Josephus provide non-Christian confirmation of parts of the historical setting."
+        "Manuscript quantity and quality primarily support recovery of the text, not the truth of every narrated event.",
+        "Paul’s undisputed letters are among the earliest surviving Christian writings.",
+        "The Gospels can be used as historical sources even by a historian who does not begin by assuming inspiration.",
+        "Independent early attestation, cultural fit, embarrassment, and corroboration are evidential considerations rather than automatic proof formulas.",
+        "Josephus and Tacitus provide limited outside corroboration for Jesus’ existence, execution, and the early Christian movement."
       ],
       "further": [
         [
@@ -1277,28 +1359,27 @@ const questions = [
         ]
       ]
     },
-    "why": "Before arguing for the resurrection, we need to show that Jesus and the earliest Christian claims can be investigated as real history.",
+    "why": "This prevents circular reasoning. We first ask what the documents are, how well their text is preserved, how early their traditions are, and what historical claims they can support.",
     "core": [
-      "Historical use of a New Testament document does not require assuming that the document is inspired.",
-      "About 5,700 catalogued Greek New Testament witnesses give scholars a large textual tradition for reconstructing what the authors wrote.",
-      "Textual preservation answers ‘What did the sources say?’; historical investigation separately asks ‘Did what they report happen?’",
-      "Paul’s undisputed letters are early first-century sources, and Paul knew Peter and James, linking him to the Jerusalem leadership.",
-      "The Gospels are first-century narratives widely studied as forms of ancient biography and therefore belong in historical investigation.",
-      "Tacitus and Josephus independently confirm important parts of the first-century setting around Jesus and the early Christian movement."
+      "Textual transmission and historical reliability are different questions: manuscripts help recover what an author wrote; history asks whether what the author wrote is true.",
+      "The New Testament contains multiple first-century sources, including undisputed Pauline letters and the canonical Gospels, that preserve traditions about Jesus.",
+      "Historians evaluate sources by date, access to events, independence, genre and intent, cultural fit, corroboration, embarrassment, and explanatory coherence.",
+      "Early traditions inside later documents matter; 1 Corinthians 15 preserves resurrection tradition Paul says he received and delivered.",
+      "External writers such as Josephus and Tacitus do not prove Christianity, but they corroborate basic facts about Jesus and the early movement."
     ],
     "pressure": [
       [
-        "“Using the Bible to prove the Bible is circular.”",
-        "It would be circular to assume inspiration in order to prove inspiration. That is not this step. We are treating individual New Testament writings as ancient sources first and asking ordinary historical questions before any conclusion about their divine authority."
+        "“Using the New Testament is circular because it is the Bible.”",
+        "A historian can use a document without first treating it as inspired. At this stage the New Testament is evidence to evaluate, not an authority assumed in advance."
       ],
       [
-        "“The writers were Christians, so they were biased.”",
-        "A source having beliefs or purposes does not make it historically useless. Ancient sources are evaluated by date, access to information, genre, corroboration, consistency, and explanatory value. Bias is something to assess, not a reason to discard a source automatically."
+        "“There are thousands of manuscripts, so the events must be true.”",
+        "That confuses two questions. Manuscripts help us recover the wording of the documents. Historical truth requires a separate evaluation of the claims in those documents."
       ]
     ],
-    "limits": "Two questions need to stay separate: manuscripts help us know what the authors wrote; historical investigation asks whether what they wrote is true.",
-    "practice": "Someone says, “Using the New Testament to learn about Jesus is circular because the New Testament is the Christian Bible.” How would you answer without assuming inspiration?",
-    "model": "Using a document historically is not the same as assuming it is inspired. We have early Christian writings, we can recover their text well, and outside writers confirm parts of the setting. So we can ask what these sources say about Jesus and how well their claims fit the evidence before making any argument for inspiration.",
+    "limits": "Do not make manuscript counts or one archaeological find prove the Gospels. The stronger historical case uses early sources, specific claims, and several converging kinds of evidence.",
+    "practice": "Someone says, “You cannot use the New Testament as evidence for Jesus because Christians put it in the Bible.” How would you explain the historical approach?",
+    "model": "I’d point out that putting a document in a Bible does not erase its status as an ancient source. Before asking whether the New Testament is inspired, we can ask ordinary historical questions about its date, sources, claims, cultural setting, and corroboration. That is the same kind of work historians do with other ancient writings.",
     "sources": [
       [
         "Cambridge | Manuscripts and the Making of the New Testament",
@@ -1330,65 +1411,42 @@ const questions = [
       ]
     ],
     "evidence": {
-      "claim": "The New Testament gives us early, recoverable historical sources about Jesus that can be investigated before inspiration is assumed.",
-      "establishes": "The manuscript evidence supports confidence that the New Testament text is recoverable for historical study; the early date of undisputed Pauline letters, the first-century Gospels, Paul’s contact with Peter and James, and external references from Tacitus and Josephus give historians multiple points of access to Jesus and the earliest Christian movement.",
-      "caution": "Textual confidence and historical truth are different questions. Knowing what a document said does not automatically prove that the event happened. It gives us a stable text to investigate historically.",
+      "claim": "Christian curricula commonly distinguish manuscript preservation from historical reliability and then appeal to early sources, eyewitness proximity, corroboration, and specific historical criteria.",
+      "establishes": "Impact Apologetics divides New Testament reliability into accurate text, early sources, eyewitness details, embarrassing material, external writers, and other corroboration. Reasonable Faith explicitly warns that manuscript abundance does not itself prove historical reliability and explains how specific Gospel facts are evaluated.",
+      "caution": "Historical criteria are probabilistic tools, not mechanical rules that make every Gospel detail equally certain.",
       "resources": [
         {
-          "type": "Manuscript catalogue",
-          "title": "INTF | How Many Greek New Testament Manuscripts Are There REALLY?",
-          "why": "Explains why manuscript counting is complex and reports roughly 5,700 catalogued Greek New Testament witnesses.",
-          "url": "https://ntvmr.uni-muenster.de/en_US/intfblog/-/blogs/1891824"
+          "type": "Curriculum",
+          "title": "Impact Apologetics | Is the New Testament True? Parts 1–2",
+          "why": "Covers accurate text, early sources, eyewitness details, embarrassing material, external writers, and corroboration.",
+          "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
         },
         {
-          "type": "Scholarship",
-          "title": "Cambridge | Manuscripts and the Making of the New Testament",
-          "why": "Explains the unusually rich surviving manuscript tradition of the New Testament.",
-          "url": "https://www.cambridge.org/core/books/abs/cambridge-history-of-ancient-christianity/manuscripts-and-the-making-of-the-new-testament/B7821109539EE202C6EDE185AC48A2C9"
+          "type": "Apologetics",
+          "title": "Reasonable Faith | Establishing the Gospels’ Reliability",
+          "why": "Separates manuscript transmission from historical reliability and lists criteria used for particular claims.",
+          "url": "https://www.reasonablefaith.org/writings/question-answer/establishing-the-gospels-reliability/"
         },
         {
-          "type": "Manuscript resource",
-          "title": "CSNTM | New Testament manuscripts and textual variants",
-          "why": "Introduces the manuscript evidence and how scholars compare textual variants.",
-          "url": "https://www.csntm.org/csntm-exhibit-guide-2/"
+          "type": "Apologetics",
+          "title": "Reasonable Faith | The Evidence for Jesus",
+          "why": "Treats the New Testament as primary historical sources and examines specific facts about Jesus.",
+          "url": "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-goddoes-god-exist1/rediscovering-the-historical-jesus-the-evidence-for-jesus/"
         },
         {
-          "type": "Scholarship",
-          "title": "Oxford Bibliographies | Pauline Letters",
-          "why": "Explains why the authentic Pauline letters are among the earliest surviving sources for the Jesus movement.",
-          "url": "https://academic.oup.com/reference/62341/reference-article-abstract/554111753"
+          "type": "Curriculum",
+          "title": "Biola | Introduction to Christian Apologetics",
+          "why": "Ends with historical evidence for the trustworthiness of Scripture after moving from God to Christianity.",
+          "url": "https://learn.biola.edu/courses/introduction-to-christian-apologetics"
         },
         {
-          "type": "Scholarship",
-          "title": "Oxford Academic | Gospels and ancient biography",
-          "why": "Summarizes the broad scholarly shift toward understanding the Gospels as forms of ancient biography.",
-          "url": "https://academic.oup.com/edited-volume/34334/chapter-abstract/291368485"
-        },
-        {
-          "type": "Scholarship",
-          "title": "Cambridge | John 5:2 and pre-70 dating",
-          "why": "Presents the argument that John’s present-tense description of the Pool of Bethesda supports an early date, while leaving room for the continuing scholarly debate.",
-          "url": "https://www.cambridge.org/core/journals/new-testament-studies/article/pre70-ce-dating-of-the-gospel-of-john-there-is-in-jerusalem-a-pool-which-has-five-porticoes-52/6EB521B72901E535E1BB31A1A1473C94"
-        },
-        {
-          "type": "Ancient source",
-          "title": "Tacitus | Annals 15.44",
-          "why": "A Roman historian connects Christus with execution under Pontius Pilate and the later Christian movement in Rome.",
-          "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html"
-        },
-        {
-          "type": "Ancient source",
-          "title": "Josephus | Antiquities 20",
-          "why": "Contains the comparatively secure reference to James as the brother of Jesus who was called Christ.",
-          "url": "https://penelope.uchicago.edu/josephus/ant-20.html"
+          "type": "Teaching",
+          "title": "Ligonier | The Preservation of Scripture",
+          "why": "Explains what manuscript preservation can and cannot establish about the New Testament text.",
+          "url": "https://learn.ligonier.org/devotionals/preservation-scripture"
         }
       ]
     },
-    "thoughts": [
-      "Why can a New Testament book be used historically before inspiration is assumed?",
-      "What does the manuscript tradition help us know, and what separate question remains?",
-      "Why are Paul’s early letters and the first-century Gospels important historical sources?"
-    ],
     "terms": [
       [
         "Textual variant",
@@ -1411,9 +1469,26 @@ const questions = [
         "Another source supporting part of the same historical picture."
       ]
     ],
-    "conclusion": "We don’t have to assume the Bible is inspired before investigating Jesus. We have recoverable, early sources that can be tested historically. Inspiration comes later in the argument.",
+    "conclusion": "We can investigate Jesus historically without assuming inspiration. That gives the Christian evidences section a non-circular starting point.",
     "thread": "Now we can ask the historical question. What sources do we actually have for Jesus, and can we use them before assuming the Bible is inspired?",
-    "bigIdea": "The New Testament can be used as historical evidence before anyone assumes that it is inspired Scripture."
+    "bigIdea": "The New Testament can be investigated as a collection of ancient historical sources before we decide whether it is inspired.",
+    "checkpoints": [
+      {
+        "after": "core",
+        "question": "What is the difference between textual reliability and historical reliability?",
+        "answer": "Textual reliability asks whether we can recover what the authors wrote. Historical reliability asks whether the events and claims they report are true."
+      },
+      {
+        "after": "body",
+        "question": "Why can a theological Gospel still be used historically?",
+        "answer": "Because having a theological purpose does not prevent a source from preserving real people, places, sayings, and events. Historians evaluate those claims rather than dismissing the source by genre alone."
+      },
+      {
+        "after": "facts",
+        "question": "Why are Paul’s letters especially useful historically?",
+        "answer": "Several are early and widely accepted as genuinely Pauline, so they provide first-generation evidence for what the earliest Christians proclaimed."
+      }
+    ]
   },
   {
     "id": 12,
@@ -1422,14 +1497,14 @@ const questions = [
     "title": "Who did Jesus claim to be?",
     "teaser": "Before asking what the resurrection means, first ask what Jesus said and did that made his identity such a serious question.",
     "lesson": {
-      "heading": "Read Jesus’ claims in their first-century setting",
-      "body": "Jesus did not need to use the exact modern sentence, “I am God,” for us to ask what he claimed about himself. The question is what his words, actions, and titles meant in the Jewish world in which he spoke.\n\nMark already gives us striking examples. Jesus pronounces sins forgiven and then heals the man when religious leaders object that only God can forgive sins. He calls himself Lord of the Sabbath. He speaks of himself as the Son of Man who will come with divine authority, drawing on Daniel 7, where that figure receives everlasting rule. At his trial he brings together Daniel 7 and Psalm 110 in a way that places his own identity at the center of the charge against him.\n\nThe pattern is wider than one title. Jesus makes a person’s response to him matter for final judgment, speaks of a unique relationship with the Father, and acts as though God’s kingdom is arriving through his own person and work. John states the claims even more openly, including Jesus’ pre-existence and unity with the Father.\n\nTaken together, this is not the picture of Jesus as merely one wise teacher among many. His identity is part of his message. That is why the resurrection matters so much: if God raised the man who made these claims, the event speaks directly to whether the claims were true.",
+      "heading": "The cumulative historical case for Jesus’ identity",
+      "body": "A skeptic may say, “Jesus never walked around using the modern sentence ‘I am God.’” That is true as far as the exact English wording goes, but it sets the wrong test. The historical question is what Jesus claimed and implied within his first-century Jewish setting.\n\nOne major line is the Son of Man. Jesus uses the title frequently, and at his trial the language of the Son of Man coming with the clouds and sitting at God’s right hand evokes Daniel 7. The Danielic figure receives authority and an everlasting kingdom from God.\n\nA second line is Jesus’ unique sonship. In the parable of the wicked tenants, the owner sends servants and finally his beloved son and heir, placing the son in a category beyond the prophets. In Matthew 11:27/Luke 10:22, Jesus claims a unique reciprocal knowledge between Father and Son and authority to reveal the Father.\n\nA third line comes from actions. Jesus pronounces forgiveness of sins, claims authority over the Sabbath, reorients Torah around his own authority, accepts devotion, and makes people’s response to him decisive for final judgment. Even before John’s more explicit language, the Synoptic portrait is difficult to reduce to “one more moral teacher.”\n\nJohn then intensifies what is already present: the “I am” sayings, pre-existence, unity with the Father, and claims to give life and judge humanity. The case should therefore be cumulative. It does not depend on one disputed verse.",
       "facts": [
-        "In Mark 2, Jesus pronounces a man’s sins forgiven and then heals him in a setting where his critics say that forgiving sins belongs to God.",
-        "Jesus repeatedly calls himself the Son of Man, including sayings that echo Daniel 7’s heavenly ruler who receives universal authority.",
-        "The Gospels present Jesus as claiming authority over the Sabbath, final judgment, and the kingdom of God.",
-        "John contains especially explicit statements about Jesus’ relationship to the Father and his pre-existence.",
-        "The strongest case is cumulative: titles, actions, prerogatives, and direct sayings belong together."
+        "“Son of Man” can carry an exalted Daniel 7 background, especially in sayings about clouds, judgment, and dominion.",
+        "The parable of the wicked tenants distinguishes the beloved son and heir from the servants who came before him.",
+        "Jesus’ authority to forgive sins and his claim to be lord of the Sabbath were striking in a Jewish monotheistic setting.",
+        "Matthew 11:27/Luke 10:22 presents Jesus as uniquely knowing the Father and uniquely revealing Him.",
+        "John contains the clearest explicit divine claims, but the argument does not depend on John alone."
       ],
       "further": [
         [
@@ -1454,27 +1529,27 @@ const questions = [
         ]
       ]
     },
-    "why": "Before the resurrection can confirm Jesus, we need to know what Jesus was claiming about himself and his authority.",
+    "why": "The resurrection only functions as vindication if we first know what kind of claims Jesus was making about himself.",
     "core": [
-      "Ask what Jesus claimed in his first-century Jewish setting, not whether he repeated one modern formula.",
-      "Jesus claims prerogatives associated with God: forgiving sins, authority over the Sabbath, final judgment, and a unique relationship with the Father.",
-      "Jesus’ Son of Man language draws especially on Daniel 7, where the heavenly figure receives universal and everlasting dominion.",
-      "John records even more explicit claims of pre-existence, unity with the Father, and divine honor.",
-      "The strongest case is cumulative: Jesus’ words, actions, titles, and authority make his identity central to his message."
+      "Jesus repeatedly called himself the Son of Man, a title that in key contexts echoes Daniel 7’s heavenly figure who receives everlasting dominion.",
+      "He portrayed himself as the unique Son and final messenger of God, not merely one prophet among many.",
+      "He acted with extraordinary divine prerogatives: forgiving sins, claiming lordship over the Sabbath, and placing himself at the center of judgment and salvation.",
+      "He taught with his own authority rather than merely citing earlier teachers, and he claimed a unique reciprocal knowledge of the Father.",
+      "John contains the most explicit claims, including “I am” sayings and unity with the Father, while the Synoptics already contain a high and distinctive self-understanding."
     ],
     "pressure": [
       [
-        "“Jesus never said the exact words, ‘I am God.’”",
-        "That exact English sentence is not the historical standard. The question is whether Jesus claimed divine authority or identity in the language and categories of his own setting. His forgiveness of sins, Son of Man claims, authority over sacred institutions, and statements about the Father all belong in that discussion."
+        "“Those divine claims were added later.”",
+        "That is a historical claim that has to be tested. Several exalted themes occur in material found across different Gospel traditions, not only in John, and early Pauline material already reflects an extraordinarily high view of Jesus."
       ],
       [
-        "“Maybe the church put those claims on Jesus later.”",
-        "That is a real historical objection, so the case should not rest only on the latest or most explicit saying. Claims to unusual authority appear across different Gospel traditions, including material in Mark as well as John."
+        "“Son of God can just mean a human king.”",
+        "The phrase can have different meanings in Jewish usage. That is why the argument does not rest on the title alone; it combines unique sonship with Jesus’ actions, authority, Danielic Son of Man claims, and role in judgment."
       ]
     ],
-    "limits": "Do not hang the whole case on one verse or one title. Look at the larger pattern of Jesus’ words, actions, claims, and authority.",
-    "practice": "Someone says, “Jesus never claimed to be God. That was added by later Christians.” Give a cumulative answer rather than relying on one proof text.",
-    "model": "I’d look at the whole pattern. Jesus forgives sins, claims authority over the Sabbath, uses the Daniel 7 Son of Man language, puts our response to him at the center of judgment, and speaks of a unique relationship with the Father. John makes the claims even more explicit. You do not need one magic verse; Jesus’ identity runs through his whole ministry.",
+    "limits": "Do not hang the entire identity case on one verse. The strongest introductory treatment shows how several independent strands fit together.",
+    "practice": "Someone says, “Jesus never claimed to be God; Christians made that up later.” Give a short cumulative response using more than one line of evidence.",
+    "model": "I’d avoid arguing from one magic verse. Jesus uses the Daniel 7 Son of Man language, puts himself in a unique Son-and-heir category, forgives sins, claims authority over the Sabbath, makes our response to him decisive in judgment, and speaks of a unique relationship with the Father. John makes the claims even more explicit. Put together, that is far more than the profile of an ordinary teacher.",
     "sources": [
       [
         "Reasonable Faith | Rediscovering the Historical Jesus",
@@ -1486,53 +1561,42 @@ const questions = [
       ]
     ],
     "evidence": {
-      "claim": "The Gospel sources present Jesus as making extraordinary claims to divine authority and a unique relationship with God.",
-      "establishes": "The passages below support a cumulative historical case from Jesus’ actions, titles, and sayings. They do not require every disputed saying to carry equal weight.",
-      "caution": "Historical Jesus scholarship is divided over Jesus’ self-understanding. The course is making a cumulative argument from several sayings and actions, not reporting a universal scholarly consensus.",
+      "claim": "Christian apologetics treatments commonly build Jesus’ self-understanding from the Son of Man, Son of God, forgiveness, judgment, unique authority, and explicit Johannine claims.",
+      "establishes": "Reasonable Faith argues historically from Son of Man, unique sonship, and Gospel criteria. Stand to Reason catalogs direct and indirect divine claims. Impact Apologetics includes “Who is Jesus?” after its New Testament reliability section.",
+      "caution": "Individual titles can carry more than one meaning, so the case should remain cumulative and context-sensitive.",
       "resources": [
         {
-          "type": "Historical Jesus resource",
-          "title": "Reasonable Faith | Rediscovering the Historical Jesus",
-          "why": "Surveys historical arguments concerning Jesus’ self-understanding and divine claims.",
+          "type": "Apologetics",
+          "title": "Reasonable Faith | The Evidence for Jesus",
+          "why": "Develops Jesus’ radical self-concept as the divine Son of God using historical criteria.",
           "url": "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-goddoes-god-exist1/rediscovering-the-historical-jesus-the-evidence-for-jesus/"
         },
         {
-          "type": "Primary Christian source",
-          "title": "Mark 2:1–12",
-          "why": "Jesus forgives sins in a dispute that makes the authority involved explicit.",
-          "url": "https://www.biblegateway.com/passage/?search=Mark%202%3A1-12&version=ESV"
+          "type": "Apologetics",
+          "title": "Reasonable Faith | Jesus the Son of God",
+          "why": "Uses the wicked tenants, Matthew 11:27, and other sayings to argue for Jesus’ unique sonship.",
+          "url": "https://www.reasonablefaith.org/writings/question-answer/jesus-the-son-of-god/"
         },
         {
-          "type": "Primary Christian source",
-          "title": "Mark 14:61–64",
-          "why": "Jesus links himself with the Daniel 7 Son of Man and is accused of blasphemy.",
-          "url": "https://www.biblegateway.com/passage/?search=Mark%2014%3A61-64&version=ESV"
+          "type": "Apologetics",
+          "title": "Stand to Reason | Jesus’ Unique Claims About Himself",
+          "why": "Catalogs Jesus’ titles, authority, forgiveness, judgment, and explicit identity claims.",
+          "url": "https://www.str.org/w/jesus-unique-claims-about-himself"
         },
         {
-          "type": "Primary Christian source",
-          "title": "John 8:48–59",
-          "why": "One of John’s strongest passages concerning Jesus’ pre-existence and identity.",
-          "url": "https://www.biblegateway.com/passage/?search=John%208%3A48-59&version=ESV"
+          "type": "Curriculum",
+          "title": "Impact Apologetics | What Did Jesus Say?",
+          "why": "Lesson 11 addresses who Jesus is and what he taught after the reliability lessons.",
+          "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
         },
         {
-          "type": "Primary Christian source",
-          "title": "John 10:22–39",
-          "why": "Shows the controversy surrounding Jesus’ claim of unity with the Father.",
-          "url": "https://www.biblegateway.com/passage/?search=John%2010%3A22-39&version=ESV"
-        },
-        {
-          "type": "Academic scholarship",
-          "title": "Oxford Academic | Jesus’ Son of Man self-designation and divinity",
-          "why": "Craig Evans argues that Jesus’ Son of Man language and activity contributed to early claims about his divinity, while the wider field remains debated.",
-          "url": "https://academic.oup.com/book/27347/chapter-abstract/197087305"
+          "type": "Teaching",
+          "title": "Ligonier | Teaching with Authority",
+          "why": "Explains the distinctive authority with which Jesus taught and why “merely a good teacher” is inadequate.",
+          "url": "https://learn.ligonier.org/devotionals/teaching-authority"
         }
       ]
     },
-    "thoughts": [
-      "What kinds of claims and actions make up the cumulative case for Jesus’ divine identity?",
-      "Why is the Daniel 7 Son of Man background important?",
-      "Why do Jesus’ claims matter when the resurrection is interpreted?"
-    ],
     "terms": [
       [
         "Son of Man",
@@ -1547,9 +1611,26 @@ const questions = [
         "An argument in which several pieces of evidence support the conclusion together."
       ]
     ],
-    "conclusion": "Jesus’ identity isn’t a side issue added later to his teaching. His words, actions, titles, and authority repeatedly make the question of who he is unavoidable.",
+    "conclusion": "Jesus made the identity question unavoidable. His claims and actions place him in a category that demands an explanation, and the resurrection will provide the central test of those claims.",
     "thread": "If the sources are historically usable, the next question is obvious: what did Jesus actually claim about himself?",
-    "bigIdea": "Jesus’ words, actions, titles, and claimed authority together present him as far more than a merely human teacher."
+    "bigIdea": "Jesus’ divine self-understanding is a cumulative case from his titles, actions, authority, relationship to the Father, and role in final judgment—not from one isolated proof text.",
+    "checkpoints": [
+      {
+        "after": "core",
+        "question": "Why is “Jesus never said the exact words ‘I am God’” not a decisive objection?",
+        "answer": "Because historical identity claims can be made through titles, actions, prerogatives, and context. The question is what Jesus was communicating in his Jewish setting."
+      },
+      {
+        "after": "body",
+        "question": "Why is the Son of Man title important?",
+        "answer": "In key sayings it echoes Daniel 7, where a heavenly figure comes with the clouds and receives everlasting authority and dominion."
+      },
+      {
+        "after": "facts",
+        "question": "What makes the case cumulative?",
+        "answer": "No single verse has to carry everything. Jesus’ titles, forgiveness of sins, Sabbath authority, unique sonship, role in judgment, and Johannine claims reinforce one another."
+      }
+    ]
   },
   {
     "id": 13,
