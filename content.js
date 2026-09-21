@@ -294,7 +294,7 @@ const questions = [
         {
           "type": "Classical apologetics reading",
           "title": "Reasonable Faith | Cosmological arguments",
-          "why": "A lay-accessible Christian defense of cosmological reasoning for further study.",
+          "why": "An accessible Christian defense of cosmological reasoning for further study.",
           "url": "https://www.reasonablefaith.org/"
         },
         {
@@ -341,17 +341,16 @@ const questions = [
     "cat": "god",
     "tag": "God",
     "title": "Did the universe begin to exist?",
-    "teaser": "The Kalam asks a simple question: if the universe began to exist, what caused it? The argument does not require settling young-earth versus old-earth chronology.",
+    "teaser": "The Kalam asks a simple question: if the universe began to exist, what caused it?",
     "lesson": {
       "heading": "Why take a beginning seriously?",
-      "body": "The Kalam is easy to state:\n\n1. Whatever begins to exist has a cause.\n2. The universe began to exist.\n3. Therefore, the universe has a cause.\n\nThe main debate is over the second step. Philosophically, Kalam defenders argue that the past cannot be an actually completed infinite series of events. Scientifically, modern cosmology also gives us reasons to take a finite cosmic past seriously: the universe is expanding, and the observable cosmos traces back to a much hotter, denser state.\n\nChristians disagree about how that scientific history should be fitted into a chronology of creation. Young-earth and old-earth creationists answer that question differently. The Kalam does not require us to settle it first. Its point is simpler: the physical universe is not an eternal, self-existing thing. If it began, it needs a cause beyond the physical order it brought into being.\n\nTechnical questions about Big Bang models, inflation, and the Borde-Guth-Vilenkin theorem are worth studying, but they belong in the deeper evidence section. The argument a layperson needs to remember is the three-step one above.",
+      "body": "The Kalam is easy to state:\n\n1. Whatever begins to exist has a cause.\n2. The universe began to exist.\n3. Therefore, the universe has a cause.\n\nThe key question is whether the universe really had a beginning. Kalam defenders give both philosophical and scientific reasons for taking that seriously. Philosophically, they argue that the past cannot be an actually completed infinite series of events. Scientifically, the observable universe is expanding and traces back to a much hotter, denser state.\n\nIf physical space, time, matter, and energy began, then their ultimate cause cannot simply be another physical thing inside the universe. The argument points beyond the physical order to a transcendent cause.\n\nTechnical questions about Big Bang models, inflation, and the Borde-Guth-Vilenkin theorem are worth studying, but they belong in the deeper evidence section. The three-step argument above is the part worth remembering.",
       "facts": [
-        "The Kalam itself does not require a particular young-earth or old-earth chronology; it requires a beginning.",
-        "Mainstream cosmology assigns an ancient chronology to the modeled expansion history of the universe. The course reports that model without adopting its chronology as a Christian conclusion.",
+        "The Kalam argues for a beginning, not a particular age of the universe.",
         "Cosmic expansion and the cosmic microwave background are major observations used in standard hot-Big-Bang cosmology.",
         "The Borde-Guth-Vilenkin theorem shows past-incompleteness for sufficiently expanding spacetimes under its stated condition; it does not by itself prove creation ex nihilo.",
         "Kalam defenders also use philosophical arguments against an actually infinite temporal past.",
-        "The central apologetic conclusion is Creator versus a self-existing natural order, not young earth versus old earth."
+        "If physical reality began, its ultimate cause must be beyond the physical reality being explained."
       ],
       "further": [
         [
@@ -373,23 +372,22 @@ const questions = [
       "Step 1: Whatever begins to exist has a cause of its beginning.",
       "Step 2: The universe began to exist.",
       "Step 3: Therefore, the universe has a cause of its beginning.",
-      "The age of creation is a separate question. The Kalam asks whether the universe had a beginning, not whether that beginning was thousands or billions of years ago.",
       "If physical space, time, matter, and energy began, their ultimate cause cannot simply be another physical object inside the same order.",
       "The argument therefore points to a transcendent and immensely powerful Creator."
     ],
     "pressure": [
       [
-        "“Doesn’t science say the universe is 13.8 billion years old?”",
-        "That is the age estimate within the standard cosmological model. Christians disagree about whether that chronology correctly reconstructs creation history. The Kalam does not require accepting or rejecting that estimate; its claim is that the physical universe is not an eternal, self-existing reality."
+        "“Who caused God?”",
+        "The Kalam does not say that everything has a cause. It says that whatever begins to exist has a cause. If the ultimate cause is beginningless, the first premise does not require a cause of that cause."
       ],
       [
         "“The Big Bang does not prove God.”",
         "Correct. The Christian case should not rest on treating one cosmological model as a proof of God. The Kalam combines a causal principle, reasons for a beginning, and the conclusion that a beginning of physical reality requires a cause beyond physical reality."
       ]
     ],
-    "limits": "Do not turn the age of the universe into a premise of the Kalam. The argument is about whether the universe began and therefore needs a cause.",
-    "practice": "A friend says, “The Kalam only works if you accept an old universe.” How would you explain the argument without taking a position on young-earth versus old-earth chronology?",
-    "model": "I’d keep the age question separate from the argument itself. Kalam says that whatever begins to exist has a cause, the universe began to exist, and therefore the universe has a cause. Christians can disagree about the chronology of creation and still make that argument. The bigger question is whether the universe is self-existing or created.",
+    "limits": "Do not make one scientific model carry the whole argument. The Kalam rests on a causal principle plus reasons for thinking the universe had a beginning.",
+    "practice": "A friend says, “Even if the universe began, why think it needed a cause?” How would you defend the first step of the Kalam?",
+    "model": "I’d start with the ordinary causal principle behind the argument: things do not simply pop into existence from nothing without a cause. If the universe began to exist, asking what caused it is not a special rule invented for God; it is the same kind of question we ask whenever something begins.",
     "sources": [
       [
         "NASA Science | Universe Overview",
@@ -405,9 +403,9 @@ const questions = [
       ]
     ],
     "evidence": {
-      "claim": "The evidence relevant to the Kalam supports a beginning of physical reality without requiring the course to adopt a particular age of creation.",
-      "establishes": "Philosophical arguments challenge an actually infinite temporal past. Observational cosmology supplies evidence of expansion and a hot, dense early state, while BGV shows past-incompleteness for sufficiently expanding spacetimes under its condition. Mainstream cosmology attaches an approximately 13.8-billion-year chronology to its model; young-earth creationists dispute that chronology. The apologetic conclusion here is narrower and more important: nature does not explain its own beginning, so the case points beyond nature to a Creator.",
-      "caution": "Do not turn the 13.8-billion-year estimate into a premise of the Kalam or a doctrine of the course. It is a mainstream model estimate included for context. The course’s claim is creation over self-existing naturalism, with chronology left open.",
+      "claim": "The evidence relevant to the Kalam gives philosophical and scientific reasons for taking a finite cosmic past seriously.",
+      "establishes": "Philosophical arguments challenge an actually infinite temporal past. Observational cosmology supplies evidence of expansion and a hot, dense early state, while BGV shows past-incompleteness for sufficiently expanding spacetimes under its stated condition. None of those points proves Christianity by itself, but together they support the premise that physical reality is not an eternal, self-existing order.",
+      "caution": "Big Bang cosmology and BGV should not be presented as though either one, by itself, proves creation from nothing. They are pieces of the case for a beginning, not substitutes for the whole argument.",
       "resources": [
         {
           "type": "Philosophy",
@@ -426,24 +424,12 @@ const questions = [
           "title": "NASA Science | Hubble and the Big Bang",
           "why": "Shows how mainstream cosmology interprets expansion and the hot early universe. Its age estimate is presented as the standard model’s chronology, not as the course’s doctrinal position.",
           "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/"
-        },
-        {
-          "type": "Young-earth creation perspective",
-          "title": "Answers in Genesis | The Big-Bang God or the God of Scripture?",
-          "why": "Represents a young-earth creationist critique of using Big Bang chronology as a Christian premise, illustrating why the course keeps chronology separate from the Kalam.",
-          "url": "https://answersingenesis.org/big-bang/the-big-bang-god-or-the-god-of-scripture/"
-        },
-        {
-          "type": "Old-earth creation perspective",
-          "title": "Reasons to Believe | Old-Earth Creationism",
-          "why": "Represents a creationist view that accepts an old chronology while affirming God as Creator, showing that creation versus naturalism is a different question from young versus old earth.",
-          "url": "https://reasons.org/creation/earth/old-earth-creationism"
         }
       ]
     },
     "thoughts": [
       "State the Kalam in three steps.",
-      "Why does the Kalam not require you to settle the age of the universe first?",
+      "Why does the first premise not imply that God also needs a cause?",
       "If the physical universe began, why must its ultimate cause be beyond the physical universe?"
     ],
     "terms": [
@@ -464,9 +450,9 @@ const questions = [
         "Beyond or not contained within the physical universe being explained."
       ]
     ],
-    "conclusion": "The Kalam is an argument for a Creator, not for a particular age of creation. If the physical universe began, its cause must be beyond the physical universe itself.",
+    "conclusion": "If the physical universe began, it cannot be the cause of its own beginning. The Kalam points beyond nature to a transcendent Creator.",
     "thread": "Contingency asks why reality exists. Kalam asks a different question: did the universe itself have a beginning?",
-    "bigIdea": "If the universe began to exist, it requires a cause beyond the physical universe; that conclusion does not depend on choosing a young-earth or old-earth chronology."
+    "bigIdea": "If the universe began to exist, it requires a cause beyond the physical universe."
   },
   {
     "id": 5,
@@ -652,7 +638,7 @@ const questions = [
         {
           "type": "Apologetics",
           "title": "Reasonable Faith | Fine-Tuning",
-          "why": "Lay Christian presentation of the explanatory comparison between design and rival proposals.",
+          "why": "Accessible Christian presentation of the explanatory comparison between design and rival proposals.",
           "url": "https://www.reasonablefaith.org/videos/video-lectures/the-origin-and-fine-tuning-of-the-universe-worldview-apologetics-conference/"
         }
       ]
@@ -881,7 +867,7 @@ const questions = [
         {
           "type": "Apologetics",
           "title": "Reasonable Faith | Can We Be Good Without God?",
-          "why": "A lay-level presentation of the distinction between behaving morally and grounding objective morality.",
+          "why": "An introductory presentation of the distinction between behaving morally and grounding objective morality.",
           "url": "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-god/can-we-be-good-without-god/"
         },
         {
@@ -2832,7 +2818,7 @@ const step1QuickReference = {
     ],
     [
       "Kalam",
-      "If the universe began, it requires a cause beyond the physical universe. This argument does not depend on settling young-earth versus old-earth chronology."
+      "If the universe began, it requires a cause beyond the physical universe."
     ],
     [
       "Design",
@@ -4459,14 +4445,6 @@ const tests = {
 
 const conversationTips = [
   {
-    "title": "Keep the chronology question separate",
-    "body": "The Kalam argues for a beginning and a Creator, not for a particular age of creation. Young-earth and old-earth Christians disagree about chronology, but you do not have to settle that debate before making the causal argument.",
-    "source": [
-      "SEP | Cosmological Argument",
-      "https://plato.stanford.edu/entries/cosmological-argument/"
-    ]
-  },
-  {
     "title": "When someone asks, “Who created God?”",
     "body": "First restate the argument correctly. The Kalam does not say that everything has a cause; it says that whatever begins to exist has a cause. A contingency argument is different again: it asks what dependent reality ultimately rests on. The objection only works if it actually addresses the argument being made.",
     "source": [
@@ -4502,7 +4480,7 @@ const conversationTips = [
 
 const about = {
   "title": "Why I built this site",
-  "mission": "I am a lay Christian myself. I spent a lot of time searching for apologetics material, studying arguments, checking sources, and sometimes struggling to understand how all the pieces fit together. I built this site for people like me: Christians who want to understand why they believe, learn the strongest arguments carefully, and be able to explain them in ordinary conversation. My hope is that this gives you a clearer starting point than I had, while still encouraging you to check the sources, keep studying, and stay rooted in Scripture and the local church.",
+  "mission": "I spent a lot of time searching for apologetics material, studying arguments, checking sources, and sometimes struggling to understand how all the pieces fit together. I built this site for people like me: Christians who want to understand why they believe, learn the strongest arguments carefully, and be able to explain them in ordinary conversation. My hope is that this gives you a clearer starting point than I had, while still encouraging you to check the sources, keep studying, and stay rooted in Scripture and the local church.",
   "approach": [
     "Teach the positive case first. Make the main point clear before opening the objections and qualifications.",
     "Use primary and scholarly sources where they matter, then explain them in ordinary language.",
@@ -4512,7 +4490,7 @@ const about = {
     "Give learners practice answering real apologetic questions in their own words."
   ],
   "boundaries": [
-    "This is a lay resource, not a seminary course or academic journal.",
+    "This is an introductory resource, not a seminary course or academic journal.",
     "It does not replace Scripture, the local church, prayer, or mature Christian counsel.",
     "It will not treat every disagreement as a debate to be won.",
     "Where the evidence is mixed or scholarship is unsettled, the site should say that plainly."
