@@ -637,3 +637,30 @@ input,select{padding:11px 12px}
   .memory-flow .memory-map-items,.memory-columns .memory-map-items{grid-template-columns:1fr}
   .memory-flow .memory-map-item:not(:last-child)::after{content:'↓';right:auto;left:50%;top:auto;bottom:-15px;transform:translateX(-50%)}
 }
+
+/* In-study comprehension and simplified lesson points */
+.terms-list{display:grid;gap:0;border-top:1px solid var(--line);margin-top:14px}
+.terms-list .term-item{display:grid;grid-template-columns:minmax(120px,180px) 1fr;gap:18px;padding:13px 0;border-bottom:1px solid var(--line)}
+.terms-list .term-item strong{font-family:var(--serif);font-size:17px}
+.terms-list .term-item p{margin:0;color:var(--muted);line-height:1.55}
+.evidence-points{margin:22px 0;padding:18px 20px;border-left:3px solid var(--accent);background:var(--soft)}
+.evidence-points h4{margin:0 0 10px;font-family:var(--serif);font-size:20px}
+.evidence-points ul{margin:0;padding-left:1.25rem}
+.evidence-points li{line-height:1.6}
+.evidence-points li+li{margin-top:8px}
+.inline-checkpoint{margin:18px 0;border:1px solid var(--line);border-radius:12px;background:var(--white);overflow:hidden}
+.inline-checkpoint summary{cursor:pointer;list-style:none;padding:15px 17px;display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:12px;align-items:center}
+.inline-checkpoint summary::-webkit-details-marker{display:none}
+.check-label{font-size:10px;letter-spacing:.11em;font-weight:800;color:var(--accent)}
+.inline-checkpoint summary strong{font-family:var(--serif);font-size:17px;line-height:1.35}
+.check-action{font-size:12px;font-weight:700;color:var(--accent);white-space:nowrap}
+.inline-checkpoint[open] .check-action{font-size:0}
+.inline-checkpoint[open] .check-action::after{content:'Hide answer';font-size:12px}
+.checkpoint-answer{padding:0 17px 16px 17px;margin-left:0}
+.checkpoint-answer span{font-size:10px;letter-spacing:.11em;font-weight:800;color:var(--accent)}
+.checkpoint-answer p{margin:5px 0 0;line-height:1.6}
+@media (max-width:640px){
+  .terms-list .term-item{grid-template-columns:1fr;gap:5px}
+  .inline-checkpoint summary{grid-template-columns:1fr;gap:6px}
+  .check-action{justify-self:start}
+}
