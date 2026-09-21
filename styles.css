@@ -609,3 +609,31 @@ input,select{padding:11px 12px}
 .quick-reference-list article{border:1px solid var(--line);padding:14px 16px;background:var(--paper)}
 .quick-reference-list strong{font-family:var(--serif);font-size:18px}
 .quick-reference-list p{margin:5px 0 0;color:var(--muted);line-height:1.55}
+
+/* Full lesson reading view */
+.modal.lesson-mode{place-items:stretch;background:var(--white)}
+.modal.lesson-mode .backdrop{display:none}
+.modal.lesson-mode .modal-panel{width:min(1040px,100%);height:100vh;max-height:none;margin:0 auto;overflow:auto;padding:48px 64px 64px;box-shadow:none;border-left:1px solid var(--line);border-right:1px solid var(--line)}
+.modal.lesson-mode .close{position:fixed;top:14px;right:max(18px,calc((100vw - 1040px)/2 + 18px));z-index:4;background:var(--white);border:1px solid var(--line);width:38px;height:38px;line-height:32px;border-radius:50%}
+.lesson-back{border:0;background:transparent;color:var(--accent);font-weight:750;padding:0;margin:0 0 20px;cursor:pointer}
+.lesson-back:hover{text-decoration:underline}
+
+/* Memory maps: visual summaries, not additional evidence */
+.memory-map{margin:26px 0;padding:22px;border:1px solid var(--line);background:var(--paper)}
+.memory-map-heading h4{font-family:var(--serif);font-size:24px;font-weight:500;margin:4px 0 16px}
+.memory-map-items{display:grid;gap:10px}
+.memory-flow .memory-map-items{grid-template-columns:repeat(auto-fit,minmax(145px,1fr));align-items:stretch}
+.memory-map-item{position:relative;background:var(--white);border:1px solid var(--line);padding:16px}
+.memory-flow .memory-map-item:not(:last-child)::after{content:'→';position:absolute;right:-13px;top:50%;transform:translateY(-50%);z-index:2;font-weight:800;color:var(--accent);background:var(--paper);padding:2px}
+.memory-map-no{display:block;font-size:10px;letter-spacing:.12em;color:var(--accent);font-weight:800;margin-bottom:7px}
+.memory-map-item strong{display:block;font-family:var(--serif);font-size:19px;font-weight:600;margin-bottom:6px}
+.memory-map-item p{font-size:13px;line-height:1.45;margin:0;color:var(--muted)}
+.memory-columns .memory-map-items{grid-template-columns:repeat(3,1fr)}
+.test-card h3 small{font-family:var(--sans);font-size:12px;font-weight:700;color:var(--muted)}
+
+@media(max-width:780px){
+  .modal.lesson-mode .modal-panel{padding:34px 20px 48px;border:0}
+  .modal.lesson-mode .close{right:14px;top:10px}
+  .memory-flow .memory-map-items,.memory-columns .memory-map-items{grid-template-columns:1fr}
+  .memory-flow .memory-map-item:not(:last-child)::after{content:'↓';right:auto;left:50%;top:auto;bottom:-15px;transform:translateX(-50%)}
+}
