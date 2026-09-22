@@ -246,6 +246,9 @@ function openQuestion(id){
   const bigIdea = q.bigIdea || memorableBigIdeas[q.id] || q.evidence?.claim || q.lesson?.heading || q.teaser;
   let html = `<p class="detail-kicker">${esc(module?.label || q.tag)} · Study ${String(q.id).padStart(2,'0')}</p><h2 id="modalTitle">${esc(q.title)}</h2><p class="wide-copy">${esc(q.teaser)}</p><div class="where-fit"><span>Where this fits</span><strong>${esc(module?.title || q.tag)}</strong><p>${esc(module?.description || '')}</p></div>`;
   if(q.thread) html += `<div class="thread-note"><span>THE THREAD</span><p>${esc(q.thread)}</p></div>`;
+  if(q.story?.lines?.length){
+    html += `<section class="jordan-story"><div class="jordan-story-label">A WALK WITH JORDAN</div><h3>${esc(q.story.title || 'The conversation continues')}</h3><div class="jordan-story-copy">${q.story.lines.map(line=>`<p>${esc(line)}</p>`).join('')}</div></section>`;
+  }
 
   html += `<section class="learning-phase big-idea-block"><div class="phase-badge">1</div><div><span class="lesson-kicker">THE IDEA</span><h3>${esc(bigIdea)}</h3><p>${esc(q.why)}</p></div></section>`;
 
@@ -267,7 +270,7 @@ function openQuestion(id){
   if(q.synthesis) html += `<div class="synthesis-block"><div class="lesson-kicker">PUT IT TOGETHER</div><h3>${esc(q.synthesis.title)}</h3><p>${esc(q.synthesis.body)}</p>${q.synthesis.points?.length?`<ul>${q.synthesis.points.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`:''}</div>`;
   html += `</div></section>`;
 
-  html += `<section class="learning-phase practice-phase"><div class="phase-badge">3</div><div class="phase-content"><span class="lesson-kicker">PRACTICE</span><h3>Put it into your own words</h3><div class="practice-box embedded-practice"><p><strong>${esc(q.practice)}</strong></p><textarea id="practiceInput" placeholder="Write your answer before checking the model..."></textarea><button class="button light practice-btn" id="revealModel">Show one model response</button><div id="modelHolder"></div></div></div></section>`;
+  html += `<section class="learning-phase practice-phase"><div class="phase-badge">3</div><div class="phase-content"><span class="lesson-kicker">PRACTICE · NEW SCENARIO</span><h3>Use what you learned in a different situation</h3><div class="practice-box embedded-practice"><p><strong>${esc(q.practice)}</strong></p><textarea id="practiceInput" placeholder="Write your answer before checking the model..."></textarea><button class="button light practice-btn" id="revealModel">Show one model response</button><div id="modelHolder"></div></div></div></section>`;
 
   html += `<details class="challenges-details"><summary><div><span class="lesson-kicker">COMMON OBJECTIONS</span><strong>Open the main challenges and responses</strong></div><span class="details-mark" aria-hidden="true">+</span></summary><div class="challenges-body">${q.pressure.map(x=>`<div class="pressure"><strong>${esc(x[0])}</strong><span>${esc(x[1])}</span></div>`).join('')}</div></details>`;
   if(q.limits) html += `<div class="limitations-note"><span>KEEP THE CLAIM CLEAR</span><p>${esc(q.limits)}</p></div>`;
