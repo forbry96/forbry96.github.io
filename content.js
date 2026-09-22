@@ -3043,7 +3043,7 @@ const questions = [
     "checkpoints": [
       {
         "after": "core",
-        "question": "Jordan says, “I cannot see a good reason God would allow this suffering, so there cannot be one.” What assumption should be examined?",
+        "question": "Someone says, “I cannot see a good reason God would allow this suffering, so there cannot be one.” What assumption should be examined?",
         "answer": "Whether our inability to see a sufficient reason means no sufficient reason could exist. Our perspective may be too limited to justify that conclusion."
       },
       {
@@ -3195,7 +3195,7 @@ const questions = [
     "checkpoints": [
       {
         "after": "core",
-        "question": "Jordan says “evolution” disproves a Creator. What should you clarify before answering?",
+        "question": "Someone says “evolution” disproves a Creator. What should you clarify before answering?",
         "answer": "Which claim he means: observed biological change, common ancestry, the sufficiency of unguided mechanisms, origin of life, or a philosophical naturalistic conclusion."
       },
       {
@@ -3343,12 +3343,12 @@ const questions = [
       ]
     ],
     "conclusion": "The goal is not to say everything you know. Listen, clarify, ask for reasons, answer the real issue, and leave the person with something worth thinking about.",
-    "thread": "The core classical case is complete. This first bonus study moves the arguments off the page and into a real conversation, then prepares you to use the same method on the harder objections that follow.",
+    "thread": "The core classical case is complete. The bonus section now turns from the guided course to application: use the method in real conversations and in whatever additional objections or topics are added here over time.",
     "bigIdea": "Good apologetics conversations begin with listening and questions. Find the real claim, discover the person’s reasons, and answer one issue at a time.",
     "checkpoints": [
       {
         "after": "core",
-        "question": "Jordan asks where to begin when someone says Christianity is obviously false. What should he do before choosing an argument?",
+        "question": "Someone tells you Christianity is obviously false. What should you do before choosing an argument?",
         "answer": "Clarify what the person actually means and ask why they believe it. The real disagreement determines which argument is relevant."
       },
       {
@@ -3557,37 +3557,14 @@ const jordanStoryOverrides = {
       "He continues the chain aloud. “Then resurrection gives you a reason to take Jesus’ authority seriously, Jesus receives the Old Testament, and his authority reaches the apostles whose witness stands behind the New Testament.”",
       "Jordan looks at the Bible again. “But when you put the whole chain together, does it really get us all the way from ‘there is a Creator’ to the claim that God has actually spoken?”"
     ]
-  },
-  "21": {
-    "title": "A harder kind of question",
-    "lines": [
-      "On the next walk, Jordan remembers the challenge you promised him. Before he can say anything, an ambulance passes with its lights on. He watches it disappear down the road and grows quiet.",
-      "After a moment he says, “All right. Here is the hard one. If God is good and powerful, why is there so much suffering? And please do not just tell me everything happens for a reason.”",
-      "You ask whether he means that evil makes God logically impossible, that the amount of suffering makes God unlikely, or that the question is personal because someone is hurting. Jordan thinks. “Probably the second, but sometimes the third too.”",
-      "He looks down the road where the ambulance disappeared. “How can a perfectly good, all-powerful God fit with the kind of suffering we actually see?”"
-    ]
-  },
-  "22": {
-    "title": "What do you mean by evolution?",
-    "lines": [
-      "Back in the park on another walk, Jordan says, “I have one more objection I hear all the time. We somehow made it through God, miracles, Jesus, resurrection, and the Bible without really talking about evolution.”",
-      "He gestures toward the trees and birds around you. “If life developed through natural processes, does that not make a Creator unnecessary? Science can explain how living things change without putting God into the mechanism.”",
-      "You ask what he means by evolution. Jordan rolls his eyes. “You are doing the definition thing again.” He starts listing what he has in mind: mutation, natural selection, common ancestry, new biological structures, and even the origin of life.",
-      "Then he pauses. “Those are not all the same claim, are they? So what exactly does evolutionary evidence establish, and does it really remove the need for an intelligent Creator?”"
-    ]
-  },
-  "23": {
-    "title": "Jordan takes your side of the conversation",
-    "lines": [
-      "On the next walk, Jordan returns to the last thing he said at his house. “I still have objections, but I understand the case. Now suppose I am the Christian and somebody starts throwing objections at me. What do I actually do?”",
-      "You tell him to imagine someone saying, “Christianity is obviously false.” Jordan immediately starts reaching for arguments about God, the resurrection, and Scripture, then stops himself. “That is probably too much.”",
-      "He tries again. “Maybe I ask what they mean by false. But what if they say science disproves God, or religion causes harm, or miracles are impossible, or the Bible is unreliable? I know a lot more arguments now, which almost makes it harder to know where to start.”",
-      "Jordan laughs. “So how do I figure out which part of the whole case to use first without turning every conversation into a twenty-minute speech?”"
-    ]
   }
 };
 
-questions.forEach(q => { if (jordanStoryOverrides[q.id]) q.story = jordanStoryOverrides[q.id]; });
+const jordanCoreStoryIds = new Set(Array.from({length:20}, (_,i)=>i+1));
+questions.forEach(q => {
+  if (jordanStoryOverrides[q.id]) q.story = jordanStoryOverrides[q.id];
+  if (!jordanCoreStoryIds.has(q.id)) delete q.story;
+});
 
 const jordanResolutions = {
   "1": {
@@ -3743,35 +3720,12 @@ const jordanResolutions = {
     ]
   },
   "20": {
-    "title": "Yes: the cumulative case reaches the claim that God has spoken",
+    "title": "The walk reaches its destination",
     "lines": [
       "You answer Jordan by walking through the chain one final time. Natural theology gives reasons for a rational, personal Creator. If God exists, miracles are possible. Historical evidence then gives reasons to investigate Jesus’ claims, death, and resurrection.",
       "If God raised Jesus, Jesus is vindicated. The vindicated Jesus receives the Old Testament as God’s Word and authorizes apostles whose witness stands behind the New Testament. That is how the argument moves from a Creator to Christian revelation without assuming inspiration at the beginning.",
-      "Jordan looks down at the Bible. “So the destination is not merely ‘God probably exists.’ It is ‘the God who exists has acted and spoken.’” Exactly. He adds, “I still have objections.” You smile. “Good. Now we can talk about how to handle them.”"
-    ]
-  },
-  "21": {
-    "title": "The answer depends on which problem of evil is actually being raised",
-    "lines": [
-      "You tell Jordan that the logical, evidential, and personal problems should not be collapsed into one response. The logical claim is too strong if it is possible that God has morally sufficient reasons to permit evil; a free-will defense is one way to show that strict contradiction does not follow.",
-      "The evidential problem is harder. Limited human knowledge means “I cannot see a sufficient reason” is not the same as “there cannot be one,” and the objection must be weighed alongside the positive case for God. Christianity also locates suffering inside a larger story of the cross, resurrection, judgment, and promised restoration.",
-      "Jordan is quiet. “So you are not claiming to know why every tragedy happened.” “No. And if this were your grief rather than an argument, I would start by being with you, not by giving you a syllogism.”"
-    ]
-  },
-  "22": {
-    "title": "Evolutionary evidence does not by itself establish philosophical naturalism",
-    "lines": [
-      "You answer Jordan by separating the claims hidden inside the word “evolution.” Mutation, natural selection, adaptation, population change, and speciation are observed processes. Universal common ancestry is a larger historical inference, the sufficiency of unguided mechanisms for all biological novelty is a further causal claim, and the origin of first life is a separate question again.",
-      "Mainstream biology argues for common ancestry from multiple lines of evidence. A creationist response should engage that evidence rather than deny it, while asking whether common design and intelligent causation better explain some patterns, especially functional information and integrated systems. Methodological naturalism as a scientific rule also does not prove philosophical naturalism, the claim that nature is all that exists.",
-      "Jordan looks around the park. “So observing natural mechanisms does not automatically settle the worldview question.” Exactly. The course ends where the walks began: define the claim, examine the evidence, compare explanations, and do not smuggle a conclusion into the starting assumptions."
-    ]
-  },
-  "23": {
-    "title": "Find the real disagreement before choosing the tool",
-    "lines": [
-      "You answer Jordan with a simple rhythm: listen, clarify, ask why, find the earliest important disagreement, then answer one issue and let the person respond.",
-      "If someone says science disproves God, ask what scientific finding they mean and how it leads to that conclusion. If they grant God but reject miracles, start at the miracle bridge. If they are asking about Jesus, do not drag them backward through every argument unless the earlier step is actually disputed.",
-      "Jordan says, “So the course is a map, not a speech.” Exactly. “Use the part that addresses the real question.” He smiles. “All right. Give me a hard one.” You nod. “Next walk: if God is good and powerful, why is there so much suffering?”"
+      "Jordan looks down at the Bible. “So we really did get all the way from ‘Why believe anything?’ to ‘God has spoken.’” You smile. “That was the idea.”",
+      "He puts the Bible back on the shelf. “I still have questions.” “You should.” The two of you have spent a lot of miles working through the case. Jordan has not been handed a script or an answer to every objection. He has learned something more useful: how the pieces fit together, how to follow the evidence, and where to begin when another question comes."
     ]
   }
 };
