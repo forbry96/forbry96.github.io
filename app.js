@@ -143,6 +143,42 @@ function markPracticed(id){
   }
 }
 
+const studySearchAliases = {
+  1: "logic argument premise conclusion valid sound reasoning disagreement",
+  2: "truth certainty know knowledge evidence true for you relative relativism",
+  3: "creator self creator own creator self-created self created universe created itself universe cause itself brute fact does not need a creator need a creator necessary being contingent dependent why something rather than nothing",
+  4: "universe beginning cause big bang first cause who caused god creator kalam",
+  5: "design designer watch purpose order teleological",
+  6: "fine tuning fine-tuning constants multiverse life permitting universe",
+  7: "dna information cell molecular machine irreducible complexity evolution design",
+  8: "morality moral objective right wrong good evil atheists moral",
+  9: "reason mind brain naturalism evolution trust thinking logic",
+  10: "miracle miracles possible dead people resurrection hume supernatural",
+  11: "bible reliable reliability manuscripts historical source eyewitness new testament",
+  12: "jesus god deity son of man son of god claims",
+  13: "jesus died crucifixion burial empty tomb swoon survived crucifixion",
+  14: "resurrection appearances hallucination conspiracy legend paul james risen",
+  15: "liar lunatic lord great teacher legend trilemma",
+  16: "resurrection vindication what does resurrection mean jesus authority",
+  17: "jesus authority teaching trust scripture circular",
+  18: "old testament scripture jesus bible authority canon",
+  19: "new testament canon council nicaea apostles apostolic 2 peter church chose bible",
+  20: "god spoken scripture inspiration revelation whole case",
+  21: "conversation talk skeptic objection questions columbo apologetics practice",
+  22: "evil suffering problem evil free will pain tragedy why god allows evil",
+  23: "evolution darwin common ancestry common descent creation creator dna naturalism abiogenesis origins"
+};
+
+function studySearchText(q){
+  const objectionText=(q.pressure||[]).flat().join(' ');
+  const terms=(q.terms||[]).flat().join(' ');
+  const core=(q.core||[]).join(' ');
+  return [
+    q.title,q.teaser,q.tag,q.why,q.lesson?.heading,q.lesson?.body,q.conclusion,
+    q.practice,q.model,objectionText,terms,core,studySearchAliases[q.id]||''
+  ].filter(Boolean).join(' ').toLowerCase();
+}
+
 function renderQuestions(){
   const search = document.querySelector('#search');
   const category = document.querySelector('#category');
@@ -153,7 +189,7 @@ function renderQuestions(){
 
   const modules = lessonModules.filter(m => stage === 'all' || m.key === stage);
   const html = modules.map(module => {
-    const items = module.studyIds.map(byId).filter(Boolean).filter(q => `${q.title} ${q.teaser} ${q.tag}`.toLowerCase().includes(term));
+    const items = module.studyIds.map(byId).filter(Boolean).filter(q => studySearchText(q).includes(term));
     if(!items.length) return '';
     const cards = items.map(q => {
       const done = isComplete(q.id);
