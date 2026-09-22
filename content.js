@@ -3381,7 +3381,7 @@ const jordanResolutions = {
     "lines": [
       "You tell Jordan that a good argument has two separate jobs: the reasoning has to work, and the important premises have to be true.",
       "You explain validity and soundness, then point out that historical questions often require comparing explanations rather than using a strict deduction.",
-      "Jordan nods. “Okay. So something can sound smart and still fail if the reasoning is bad or one of the main claims is false.” That is enough to give the rest of the conversations a starting point."
+      "Jordan nods. “Okay. So something can sound smart and still fail if the reasoning is bad or one of the main claims is false.” You tell him that is the basic habit you want to keep using as the two of you work through the rest."
     ]
   },
   "2": {
@@ -3436,7 +3436,7 @@ const jordanResolutions = {
     "title": "Morality is more than preference",
     "lines": [
       "You make one thing clear first: the argument is not that atheists cannot know right from wrong or behave morally.",
-      "The question is what makes moral value and obligation objective rather than something created by personal preference or social agreement. The Christian answer grounds them in a necessarily good personal God.",
+      "The question is what makes moral value and obligation objective rather than something created by personal preference or social agreement. The Christian answer is that they ultimately rest in the character and authority of a necessarily good personal God.",
       "Jordan glances back toward the intersection. “So when I said the driver was really wrong, I was saying more than ‘I did not like that.’”"
     ]
   },
@@ -3444,7 +3444,7 @@ const jordanResolutions = {
     "title": "Explaining a belief is not the same as justifying it",
     "lines": [
       "You grant that accurate perception and cooperation can help survival. Evolutionary explanations can therefore tell us something about why certain mental tendencies might develop.",
-      "But that still leaves Jordan’s other question: why should the reasoning itself count as valid, and why should abstract logical or mathematical truths be trusted?",
+      "But that still leaves Jordan’s other question: why should the reasoning itself count as valid, and why should we trust our minds when we move beyond basic survival and start thinking about logic, math, or truth itself?",
       "Jordan says, “I get the distinction. I am not sure it gets you all the way to God, but explaining why a brain produced a thought is not the same thing as showing the thought is true.”"
     ]
   },
@@ -3475,7 +3475,7 @@ const jordanResolutions = {
   "13": {
     "title": "Start with the death, then ask what happened to the body",
     "lines": [
-      "You begin with the strongest point: Jesus’ death by Roman crucifixion is historically very difficult to avoid. The survival theory has to explain how someone survived the execution and then produced the kind of resurrection belief that followed.",
+      "You begin with the strongest point: the evidence that Jesus really died by Roman crucifixion is extremely strong. The survival theory still has to explain how someone survived the execution and then produced the kind of resurrection belief that followed.",
       "Burial and the empty tomb matter too, but you tell Jordan they should not be presented as though every detail has the same level of certainty.",
       "He says, “That seems fair. So the case gets stronger or weaker piece by piece instead of pretending every part is equally certain.”"
     ]
@@ -3500,7 +3500,7 @@ const jordanResolutions = {
     "title": "The resurrection matters because of the context",
     "lines": [
       "You agree that one miracle, considered by itself, would not prove every claim someone ever made.",
-      "What makes Jesus’ resurrection different is the context: his public claims, his mission, his rejection, and his execution. If God raises that person, the event has something to say about the verdict against him.",
+      "What makes Jesus’ resurrection different is the context: his public claims, his mission, his rejection, and his execution. If God raises that person from the dead, then the resurrection gives us strong reason to believe that God is vindicating Jesus rather than leaving the human verdict against him in place.",
       "Jordan says, “That makes more sense than ‘miracle happened, therefore everything is true.’ You are saying the resurrection confirms Jesus in the middle of a dispute about who he was.”"
     ]
   },
