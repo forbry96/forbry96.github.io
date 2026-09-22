@@ -278,6 +278,102 @@ const memorableBigIdeas = {
 };
 
 
+const thinkAboutChecks = {
+  "1": {
+    "q": "What is the difference between a possible alternative and a good alternative in a historical argument?",
+    "a": "A possible alternative only shows that we can imagine something else happening. A good alternative still needs evidence, and it has to explain the facts at least as well as the explanation it is trying to replace."
+  },
+  "2": {
+    "q": "Why can testimony count as evidence even when you did not see the event yourself?",
+    "a": "Because we can reasonably learn from people who were in a position to know what happened and who have reason to be trusted. We use testimony all the time. The question is not whether it is testimony, but how good the testimony is."
+  },
+  "3": {
+    "q": "Why would an eternal universe not automatically be a necessary universe?",
+    "a": "Because eternal and necessary are different ideas. Something could exist without a first moment and still depend on conditions beyond itself. The contingency argument is asking whether the universe exists in and of itself, not simply how long it has existed."
+  },
+  "4": {
+    "q": "If the Kalam says the universe needs a cause, why does it not also say God needs a cause?",
+    "a": "Because the argument does not say everything needs a cause. It says whatever begins to exist has a cause. If the universe began to exist, then it needs a cause. The cause being argued for is not another thing that began inside the physical universe, so asking “Who caused God?” changes the first premise of the argument."
+  },
+  "5": {
+    "q": "Why would a complicated pile of rocks not count as evidence of design just because it is complicated?",
+    "a": "Because complexity by itself is not the point. The stronger clue is when parts are arranged in a specific way to accomplish something. The design argument is interested in functionally organized patterns, not just things that have a lot of pieces."
+  },
+  "6": {
+    "q": "Why does saying, “Of course we observe a life-permitting universe, because otherwise we would not be here,” not fully explain fine-tuning?",
+    "a": "It explains why we should not be surprised to find ourselves in a life-permitting universe once one exists. It does not explain why life-permitting conditions exist in the first place. That is still the question the fine-tuning argument is asking."
+  },
+  "7": {
+    "q": "If one part of a biological system had another use before becoming part of the system, why would that not by itself explain how the whole system arose?",
+    "a": "Because having a possible earlier use for one part still leaves the larger problem. The parts have to be produced, changed where necessary, regulated, assembled, and coordinated into a working system, with useful steps along the way."
+  },
+  "8": {
+    "q": "If atheists can be kind and moral people, does that answer the moral argument?",
+    "a": "No. The moral argument is not saying atheists cannot know right from wrong or live good lives. It is asking what makes right and wrong objectively real in the first place and why those moral duties actually apply to us."
+  },
+  "9": {
+    "q": "What is the difference between explaining what caused a thought and explaining why the thought is reasonable?",
+    "a": "Brain activity may explain how the thought happened. It does not tell us whether the thought is true or whether the conclusion follows from good reasons. Those are questions about logic, evidence, and truth."
+  },
+  "10": {
+    "q": "Why does the regularity of nature not by itself show that God could never act in the world?",
+    "a": "The regular patterns of nature tell us how nature normally behaves. They do not show that a Creator, if one exists, is unable to act in the world He made. That is a separate question."
+  },
+  "11": {
+    "q": "Why is recovering what an ancient document said different from proving that the events in it happened?",
+    "a": "Textual evidence can give us good reason to know what the author wrote. Historical evidence asks a second question: whether what the author wrote about the past is true. A well-preserved text gives us something reliable to investigate, but it does not make every claim in the text true automatically."
+  },
+  "12": {
+    "q": "Why is asking, “Did Jesus ever say the exact words ‘I am God’?” too narrow?",
+    "a": "Because people make claims about themselves in more ways than one exact sentence. We have to look at Jesus’ words, actions, titles, claimed authority, and the roles He takes for Himself. The case is cumulative rather than resting on one verse."
+  },
+  "13": {
+    "q": "If the tomb was empty, why would that not prove the resurrection by itself?",
+    "a": "Because an empty tomb only tells us the body is gone. By itself, it does not tell us why. The resurrection case becomes stronger when the tomb is put together with Jesus’ death, the appearance reports, the early resurrection message, and the other evidence."
+  },
+  "14": {
+    "q": "Why does an early resurrection message matter if people can believe something false very early?",
+    "a": "Because earliness does not prove the belief is true. What it does is make a slow, much-later legend explanation harder to fit. The resurrection still has to be argued from the whole body of evidence."
+  },
+  "15": {
+    "q": "Why is “legend” different from liar, lunatic, and Lord?",
+    "a": "Liar, lunatic, and Lord ask what follows if Jesus really made the extraordinary claims attributed to Him. Legend challenges that earlier historical premise by saying those claims may have developed later. That is why the historical work has to come first."
+  },
+  "16": {
+    "q": "Why does the earlier case for God matter when we interpret the resurrection as God vindicating Jesus?",
+    "a": "Because the earlier case gives us independent reason to think God exists and can act. Then, when we reach the resurrection evidence, divine action is already a live explanation rather than something introduced only because the event is difficult to explain."
+  },
+  "17": {
+    "q": "Why does Jesus’ authority not mean we can simply attach any later Christian claim to Him?",
+    "a": "Because we still have to establish what Jesus actually taught and whom He actually authorized. His authority gives weight to His teaching, but it does not excuse us from doing the historical and interpretive work carefully."
+  },
+  "18": {
+    "q": "Why does Jesus’ high view of the Old Testament not settle every later question about the exact canon or the interpretation of every passage?",
+    "a": "Because this lesson establishes how Jesus treated Israel’s Scriptures as authoritative revelation. Questions about the exact boundaries of the canon, genre, textual issues, and the interpretation of particular passages still require their own work."
+  },
+  "19": {
+    "q": "Why is the Council of Nicaea not the point where the New Testament first became authoritative?",
+    "a": "Because apostolic writings were already being written, circulated, read in churches, and treated as authoritative long before Nicaea. The church later recognized the boundaries of the canon; it did not create apostolic authority by voting it into existence."
+  },
+  "20": {
+    "q": "If Scripture is God’s Word, why does that not mean every Christian interpretation of Scripture is automatically right?",
+    "a": "Because the authority and truth belong to God’s Word, not to every reader. Human beings can misunderstand a true message. Receiving Scripture as authoritative still leaves us responsible to interpret it carefully."
+  },
+  "21": {
+    "q": "Why can saying, “I do not know, but I will look into that,” be a better apologetic answer than trying to bluff through a question?",
+    "a": "Because apologetics is supposed to be truthful. Admitting what you do not know protects accuracy, keeps the conversation honest, and gives you the chance to come back with a real answer instead of defending something you made up on the spot."
+  },
+  "22": {
+    "q": "What is the difference between the logical problem of evil and the evidential problem of evil?",
+    "a": "The logical problem says God and evil cannot possibly exist together. The evidential problem makes a different claim: that the amount or apparent pointlessness of suffering counts as evidence against God. Answering one does not automatically answer the other."
+  },
+  "23": {
+    "q": "Why can the same DNA similarities be interpreted differently depending on the worldview someone brings to the evidence?",
+    "a": "Similarity is real evidence, but it does not interpret itself. A naturalistic framework will look for an explanation entirely within natural ancestry, while a theistic framework can also consider common design. The explanations still have to be compared with the rest of the evidence rather than treating one worldview as if it had no assumptions."
+  }
+};
+
+
 const evidenceTermAliases = {
   "Valid / Sound": ["valid", "sound", "soundness"],
   "Kalam cosmological argument": ["Kalam"],
@@ -358,7 +454,12 @@ function evidenceNarrativeHtml(q){
     ? '<p class="evidence-bottom-line"><strong>Bottom line:</strong> ' + weaveDefinitions(q.conclusion, q, seen) + '</p>'
     : '';
 
-  return '<div class="evidence-narrative">' + paragraphs + bottomLine + '</div>';
+  const check = thinkAboutChecks[q.id];
+  const thinkAbout = check
+    ? '<details class="inline-checkpoint think-about-check"><summary><span class="check-label">THINK ABOUT IT</span><strong>' + esc(check.q) + '</strong><span class="check-action">Reveal answer</span></summary><div class="checkpoint-answer"><span>ANSWER</span><p>' + esc(check.a) + '</p></div></details>'
+    : '';
+
+  return '<div class="evidence-narrative">' + paragraphs + bottomLine + thinkAbout + '</div>';
 }
 function openQuestion(id){
   const q = byId(id); if(!q) return;
