@@ -713,3 +713,38 @@ input,select{padding:11px 12px}
   .evidence-narrative p{font-size:15px;line-height:1.68}
   .inline-term-definition{width:min(280px,calc(100vw - 36px))}
 }
+
+
+/* Practice Lab, progressive difficulty and deeper debrief */
+.practice-difficulty-control{margin-top:22px;display:flex;align-items:end;gap:14px;flex-wrap:wrap}
+.practice-difficulty-control label{display:grid;gap:4px;max-width:620px}
+.practice-difficulty-control label strong{font-family:var(--serif);font-size:1.04rem}
+.practice-difficulty-control label span{font-size:.92rem;opacity:.82;line-height:1.45}
+.practice-difficulty-control select{min-width:180px;border:1px solid rgba(255,255,255,.24);background:rgba(255,255,255,.08);color:inherit;border-radius:10px;padding:10px 12px;font:inherit}
+.practice-difficulty-control select option{color:#111;background:#fff}
+.diagnose-why{margin-top:.7rem;opacity:.9}
+.conversation-progress{font-size:.78rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;opacity:.72;margin-bottom:10px}
+.practice-microcopy{margin:.85rem 0 0;font-size:.86rem;opacity:.72}
+.route-debrief-list{display:grid;gap:12px;margin:18px 0}
+.route-debrief-item{padding:14px;border:1px solid var(--line);border-radius:12px;background:var(--paper)}
+.route-debrief-head{display:flex;justify-content:space-between;gap:12px;align-items:center;font-size:.8rem;text-transform:uppercase;letter-spacing:.06em}
+.route-debrief-item.strong .route-debrief-head strong{font-weight:800}
+.route-debrief-item.mixed .route-debrief-head strong,.route-debrief-item.weak .route-debrief-head strong{text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:3px}
+.route-debrief-response{font-weight:700;margin:.65rem 0 .35rem}
+.route-debrief-note{margin:0;line-height:1.55;opacity:.88}
+.build-history{display:grid;gap:12px;margin-bottom:18px}
+.build-prior-turn{padding:13px 14px;border-left:3px solid currentColor;background:var(--soft);border-radius:0 10px 10px 0}
+.build-prior-turn span,.model-turn span{font-size:.76rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;opacity:.7}
+.build-prior-question{font-weight:700;margin:.35rem 0}
+.build-prior-answer{margin:.35rem 0 0;line-height:1.55}
+.build-self-check{display:grid;gap:10px;margin:18px 0;padding:18px;border:1px solid var(--line);border-radius:14px;background:var(--paper);color:var(--ink)}
+.build-self-check h4{margin:0 0 4px}
+.build-self-check label{display:flex;gap:10px;align-items:flex-start;line-height:1.45}
+.build-self-check input{margin-top:.25rem}
+.model-turn{padding:14px 0;border-top:1px solid var(--line)}
+.model-turn:first-of-type{border-top:0}
+.model-question{font-weight:700;margin:.4rem 0}
+.build-compare{margin-top:16px;padding:15px;border-radius:12px;background:var(--soft)}
+.build-compare p:last-child{margin-bottom:0}
+.practice-input-needed{outline:2px solid currentColor;outline-offset:2px}
+@media(max-width:640px){.practice-difficulty-control{align-items:stretch}.practice-difficulty-control select{width:100%}.route-debrief-head{align-items:flex-start;flex-direction:column;gap:4px}}
