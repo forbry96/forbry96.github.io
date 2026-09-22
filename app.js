@@ -270,6 +270,11 @@ function openQuestion(id){
   if(q.synthesis) html += `<div class="synthesis-block"><div class="lesson-kicker">PUT IT TOGETHER</div><h3>${esc(q.synthesis.title)}</h3><p>${esc(q.synthesis.body)}</p>${q.synthesis.points?.length?`<ul>${q.synthesis.points.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`:''}</div>`;
   html += `</div></section>`;
 
+  const jordanResolution = (typeof jordanResolutions !== 'undefined' && jordanResolutions[q.id]) ? jordanResolutions[q.id] : q.resolution;
+  if(jordanResolution?.lines?.length){
+    html += `<section class="jordan-story jordan-resolution"><div class="jordan-story-label">BACK ON THE WALK</div><h3>${esc(jordanResolution.title || 'Jordan’s question answered')}</h3><div class="jordan-story-copy">${jordanResolution.lines.map(line=>`<p>${esc(line)}</p>`).join('')}</div></section>`;
+  }
+
   html += `<section class="learning-phase practice-phase"><div class="phase-badge">3</div><div class="phase-content"><span class="lesson-kicker">PRACTICE · NEW SCENARIO</span><h3>Use what you learned in a different situation</h3><div class="practice-box embedded-practice"><p><strong>${esc(q.practice)}</strong></p><textarea id="practiceInput" placeholder="Write your answer before checking the model..."></textarea><button class="button light practice-btn" id="revealModel">Show one model response</button><div id="modelHolder"></div></div></div></section>`;
 
   html += `<details class="challenges-details"><summary><div><span class="lesson-kicker">COMMON OBJECTIONS</span><strong>Open the main challenges and responses</strong></div><span class="details-mark" aria-hidden="true">+</span></summary><div class="challenges-body">${q.pressure.map(x=>`<div class="pressure"><strong>${esc(x[0])}</strong><span>${esc(x[1])}</span></div>`).join('')}</div></details>`;
