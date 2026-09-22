@@ -3369,7 +3369,8 @@ const questions = [
         "“Your turn for what?” you ask. Jordan says, “Suppose I am the Christian now. Somebody tells me Christianity is obviously false. Where do I start?”",
         "You ask, “What do they mean by false?” Jordan laughs. “You really do always start with a question.” You tell him that this is the point. If the person means science disproves God, that may require one kind of conversation. If they already believe in God but reject Jesus, starting with the Kalam would waste time. If their problem is suffering, giving a speech about manuscripts would miss the issue.",
         "Jordan says, “So apologetics is not a twenty-minute presentation I memorize and unload on somebody.”",
-        "Right. Listen first. Clarify the claim. Ask why they believe it. Find the earliest real disagreement. Then use the part of the case that actually addresses that disagreement. Jordan nods. “I think I finally understand the method, not just the arguments.”\n        "Jordan glances down the road. “Then give me a hard one.” You smile. “All right. Next time, let’s start with the question people often feel before they ever phrase it as an argument: if God is good, why is there so much suffering?”"
+        "Right. Listen first. Clarify the claim. Ask why they believe it. Find the earliest real disagreement. Then use the part of the case that actually addresses that disagreement. Jordan nods. “I think I finally understand the method, not just the arguments.”",
+        "Jordan glances down the road. “Then give me a hard one.” You smile. “All right. Next time, let’s start with the question people often feel before they ever phrase it as an argument: if God is good, why is there so much suffering?”"
       ]
     }
   }
