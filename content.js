@@ -123,7 +123,7 @@ const questions = [
         "Valid means the conclusion follows if the premises are true. Sound means the argument is valid and its premises are true."
       ]
     ],
-    "conclusion": "So, a good argument needs two things: the conclusion has to follow, and the premises have to be true.",
+    "conclusion": "A good argument needs two things: the conclusion has to follow, and the premises have to be true.",
     "thread": "Before we argue about God or the resurrection, we need one basic habit: know what a claim is trying to prove and whether its reasons actually get us there.",
     "bigIdea": "A good argument gives reasons that actually support a conclusion. First test the reasoning, then test whether the reasons are true.",
     "checkpoints": [
