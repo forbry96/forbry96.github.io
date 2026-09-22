@@ -4412,7 +4412,7 @@ const practiceScenarios = [
       },
       "goodend": {
         "end": true,
-        "summary": "You treated the alternative fairly and used inference to the best explanation instead of pretending one objection automatically proves resurrection."
+        "summary": "You treated the alternative fairly and asked which explanation best accounts for the whole set of evidence instead of pretending one objection settles the resurrection."
       },
       "mixedend": {
         "end": true,
@@ -4420,7 +4420,7 @@ const practiceScenarios = [
       },
       "weakend": {
         "end": true,
-        "summary": "Avoid absolute psychological claims you cannot support. Compare explanatory scope and power across the evidence."
+        "summary": "Avoid making claims about what people must have been thinking when we cannot know that. Compare each explanation by how well it accounts for the whole set of evidence."
       }
     }
   },
