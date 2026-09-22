@@ -6,7 +6,7 @@ const questions = [
     "title": "How do arguments actually work?",
     "teaser": "Learn how to find what an argument is claiming and whether its reasons really support it.",
     "lesson": {
-      "heading": "Five reasoning tools you will use throughout the course",
+      "heading": "How to evaluate an argument well",
       "body": "Apologetics is not mainly about memorizing clever answers. It is about learning to see what a person is claiming, what reasons are being offered, and whether those reasons actually support the claim.\n\nStart with the conclusion: what is this argument trying to prove? Then identify the premises: what reasons are supposed to get us there? In a deductive argument, validity asks whether the conclusion follows if the premises are true. Soundness adds the second question: are the premises actually true?\n\nHistory often works differently. A historian may have several pieces of evidence and several possible explanations. The question becomes which explanation has the best explanatory scope, explanatory power, plausibility, and fit with what we already know. That is the kind of reasoning we will later use with the resurrection.\n\nOne more habit matters: do not confuse a possible alternative with a good alternative. Saying “maybe something else happened” is not enough. The alternative needs evidence and should explain the facts at least as well as the view it is meant to replace.",
       "facts": [
         "Validity is about logical structure; soundness adds true premises.",
