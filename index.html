@@ -162,8 +162,17 @@
     <div class="shell">
       <div class="practice-lab-head">
         <p class="kicker">PRACTICE LAB</p>
-        <h2 id="practice-lab-title">Practice the method, not a memorized speech.</h2>
-        <p>Use three short modes: identify where the disagreement begins, work through a branching conversation, or write your own response and compare it with a model.</p>
+        <h2 id="practice-lab-title">Practice the conversation, not the answer key.</h2>
+        <p>Start with Guided while you are learning the map. Move up when the right move starts feeling obvious. By Pressure and Mixed, the other answers are supposed to sound reasonable too. The goal is to listen, find the real disagreement, answer one thing well, and know when you need to clarify or concede.</p>
+        <div class="practice-difficulty-control">
+          <label for="practiceDifficulty"><strong>Difficulty</strong><span id="practiceDifficultyHelp">Learn the map with a little more help.</span></label>
+          <select id="practiceDifficulty">
+            <option value="guided">Guided</option>
+            <option value="applied">Applied</option>
+            <option value="pressure">Pressure</option>
+            <option value="mixed">Mixed</option>
+          </select>
+        </div>
       </div>
       <div class="practice-tabs" role="tablist" aria-label="Practice modes">
         <button class="practice-tab active" type="button" role="tab" aria-selected="true" data-practice-mode="diagnose">1 · Diagnose</button>
@@ -171,16 +180,16 @@
         <button class="practice-tab" type="button" role="tab" aria-selected="false" data-practice-mode="build">3 · Build an answer</button>
       </div>
       <div class="practice-panel active" id="diagnosePanel" data-practice-panel="diagnose">
-        <div class="practice-panel-copy"><span class="test-label">WHERE DO YOU BEGIN?</span><h3>Diagnose the real disagreement.</h3><p>Choose the earliest point in the classical method that actually needs attention.</p></div>
+        <div class="practice-panel-copy"><span class="test-label">WHERE DO YOU BEGIN?</span><h3>Diagnose the real disagreement.</h3><p>Do not just match a keyword to a lesson. Decide whether you have enough information yet, then find the earliest issue that actually needs attention.</p></div>
         <div id="diagnoseCard" class="practice-interactive-card"></div>
       </div>
       <div class="practice-panel" id="conversationPanel" data-practice-panel="conversation" hidden>
-        <div class="practice-panel-copy"><span class="test-label">BRANCHING PRACTICE</span><h3>Work through a realistic conversation.</h3><p>Pick a scenario. Your choices change what the other person says next.</p></div>
+        <div class="practice-panel-copy"><span class="test-label">BRANCHING PRACTICE</span><h3>Stay with the conversation when it pushes back.</h3><p>Every choice should sound at least plausible. You will not see the grading until the end. Some of the best moves are clarifying a claim, conceding a fair point, or admitting that you stated an argument too strongly.</p></div>
         <div class="scenario-picker"><label for="scenarioSelect">Choose a scenario</label><select id="scenarioSelect"></select><button class="button light" id="startScenario" type="button">Start conversation</button></div>
         <div id="conversationPractice" class="practice-interactive-card" aria-live="polite"></div>
       </div>
       <div class="practice-panel" id="buildPanel" data-practice-panel="build" hidden>
-        <div class="practice-panel-copy"><span class="test-label">YOUR OWN WORDS</span><h3>Write before you look at the model.</h3><p>Answer as you would with a friend. Then compare your response with one possible model answer.</p><button class="button light" id="randomPrompt" type="button">Give me another question</button></div>
+        <div class="practice-panel-copy"><span class="test-label">YOUR OWN WORDS</span><h3>Build an answer under pressure.</h3><p>You will answer the opening claim, then two follow-ups before seeing a model. At the end, check whether you answered the real issue, used the right evidence, avoided overclaiming, and left room for the other person to respond.</p><button class="button light" id="randomPrompt" type="button">Give me another scenario</button></div>
         <div id="promptCard" class="prompt-card"></div>
       </div>
     </div>
@@ -243,6 +252,7 @@
 
 <div class="modal hidden" id="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><div class="backdrop" data-close="1"></div><div class="modal-panel"><button class="close" id="closeModal" aria-label="Close">×</button><div id="modalBody"></div></div></div>
 <script src="content.js"></script>
+<script src="data-practiceScenarios.js"></script>
 <script src="app.js"></script>
 </body>
 </html>
