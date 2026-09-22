@@ -3534,7 +3534,7 @@ const jordanResolutions = {
       "You go back through the chain with Jordan one last time, but more briefly than before. The earlier arguments give reasons for a Creator. If God exists, miracles are possible. The historical case then focuses on Jesus and the resurrection.",
       "If God raised Jesus, Jesus is vindicated. Jesus receives the Old Testament as God’s Word and authorizes apostles whose witness stands behind the New Testament. That is how the argument reaches revelation without assuming inspiration at the beginning.",
       "Jordan looks down at the Bible. “So that is the route. I still have questions, but I see why the Bible is not just where you started because you already believed it.”",
-      "He puts it back on the shelf. “I am probably going to think of five more objections after you leave.” You laugh. “Good. Then we will have something to talk about on the next walk.”"
+      "He sets it back on the shelf, then pauses. “I am probably going to think of five more objections after you leave,” he says with a small laugh. “But maybe next time, instead of just another argument, you can tell me more about Jesus himself.” He hesitates for a second, then adds, “And if you are going to church Sunday, I would come with you.” You smile. “I would like that.”"
     ]
   }
 };
