@@ -146,7 +146,7 @@ function markPracticed(id){
 const studySearchAliases = {
   1: "logic argument premise conclusion valid sound reasoning disagreement",
   2: "truth certainty know knowledge evidence true for you relative relativism",
-  3: "creator self creator own creator self-created self created universe created itself universe cause itself brute fact does not need a creator need a creator necessary being contingent dependent why something rather than nothing",
+  3: "creator self creator own creator self-created self created universe created itself universe cause itself brute fact does not need a creator doesn’t need a creator does not need creator universe does not need creator need a creator necessary being contingent dependent why something rather than nothing",
   4: "universe beginning cause big bang first cause who caused god creator kalam",
   5: "design designer watch purpose order teleological",
   6: "fine tuning fine-tuning constants multiverse life permitting universe",
@@ -162,10 +162,10 @@ const studySearchAliases = {
   16: "resurrection vindication what does resurrection mean jesus authority",
   17: "jesus authority teaching trust scripture circular",
   18: "old testament scripture jesus bible authority canon",
-  19: "new testament canon council nicaea apostles apostolic 2 peter church chose bible",
+  19: "new testament canon council nicaea apostles apostolic 2 peter church chose bible church chose the bible church made the bible who picked the books",
   20: "god spoken scripture inspiration revelation whole case",
   21: "conversation talk skeptic objection questions columbo apologetics practice",
-  22: "evil suffering problem evil free will pain tragedy why god allows evil",
+  22: "evil suffering problem evil free will pain tragedy why god allows evil why is there suffering why does god allow suffering why bad things happen",
   23: "evolution darwin common ancestry common descent creation creator dna naturalism abiogenesis origins"
 };
 
