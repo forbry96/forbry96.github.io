@@ -7,7 +7,7 @@ const questions = [
     "teaser": "Learn how to find what an argument is claiming and whether its reasons really support it.",
     "lesson": {
       "heading": "How to evaluate an argument well",
-      "body": "Apologetics is not mainly about memorizing clever answers. It is about learning to see what a person is claiming, what reasons are being offered, and whether those reasons actually support the claim.\n\nStart with the conclusion: what is this argument trying to prove? Then identify the premises: what reasons are supposed to get us there? In a deductive argument, validity asks whether the conclusion follows if the premises are true. Soundness adds the second question: are the premises actually true?\n\nHistory often works differently. A historian may have several pieces of evidence and several possible explanations. The question becomes which explanation has the best explanatory scope, explanatory power, plausibility, and fit with what we already know. That is the kind of reasoning we will later use with the resurrection.\n\nOne more habit matters: do not confuse a possible alternative with a good alternative. Saying “maybe something else happened” is not enough. The alternative needs evidence and should explain the facts at least as well as the view it is meant to replace.",
+      "body": "When I use the word argument here, I do not mean two people getting angry with each other. An argument is simply a set of reasons given in support of a claim. The conclusion is what the person is trying to prove, and the premises are the reasons they are giving for believing it.\n\nOne way to look at this is to separate two questions. First, does the conclusion actually follow from the premises? That is what validity is asking. Second, are the premises themselves true? When an argument is valid and its premises are true, it is sound.\n\nHere is the problem: an argument can be valid and still be wrong because one of its premises is false. For example, if I said that all dogs can fly, my Labrador is a dog, therefore my Labrador can fly, the conclusion follows from the premises, but the argument is obviously not sound because the first premise is false. Given this, we cannot only ask whether the reasoning works. We also have to ask whether there is good evidence for the premises.\n\nNot every argument in apologetics will work like a strict deduction. Historical questions often require us to compare several explanations and ask which one best accounts for the evidence. We will do this later with the resurrection. If one explanation accounts for more of the evidence with fewer problems than the alternatives, then we have better reason to accept it.\n\nSo simply saying, “Maybe something else happened,” is not enough to answer an argument. A possible alternative is not automatically a good alternative. It still needs evidence, and it needs to explain the facts at least as well as the explanation it is trying to replace.",
       "facts": [
         "Validity is about logical structure; soundness adds true premises.",
         "A premise should have some reason or evidence behind it rather than merely restating the conclusion.",
@@ -33,7 +33,7 @@ const questions = [
         ]
       ]
     },
-    "why": "Apologetics depends on arguments, but an argument is not a slogan or a debate trick. Learning a few basic reasoning tools lets you see exactly where agreement or disagreement really lies.",
+    "why": "Before we can make a case for Christianity, we need to know what actually makes an argument good. Otherwise, it is easy to hear something that sounds convincing and assume it must be true. What I mean is that we need to know what conclusion is being argued for, what reasons are being used to support it, and whether those reasons actually get us to the conclusion.",
     "core": [
       "An argument gives reasons (premises) for a claim (the conclusion).",
       "In a deductive argument, ask two questions: does the conclusion follow, and are the premises true?",
@@ -123,7 +123,7 @@ const questions = [
         "Valid means the conclusion follows if the premises are true. Sound means the argument is valid and its premises are true."
       ]
     ],
-    "conclusion": "Find the claim, find the reasons, test the connection, then test the reasons. That habit will carry you through the entire course.",
+    "conclusion": "So, when someone makes an argument, I want to know what they are trying to prove, what reasons they are giving, whether the reasoning actually follows, and whether the reasons themselves are true. We will use that same process throughout the rest of the course.",
     "thread": "Before we argue about God or the resurrection, we need one basic habit: know what a claim is trying to prove and whether its reasons actually get us there.",
     "bigIdea": "A good argument gives reasons that actually support a conclusion. First test the reasoning, then test whether the reasons are true.",
     "checkpoints": [
@@ -157,7 +157,7 @@ const questions = [
     "teaser": "Learn how evidence can justify belief even when absolute certainty is impossible.",
     "lesson": {
       "heading": "Truth, certainty, and historical knowledge",
-      "body": "Before asking whether Christianity is true, we need a workable idea of truth and knowledge. Truth is not simply “what works for me” or “what my group believes.” A statement is true when it describes reality correctly.\n\nThat is why contradiction matters. If one person says Jesus rose from the dead and another says Jesus did not rise from the dead, both claims cannot be true in the same sense. We may not yet know which is true, but the disagreement is about reality, not merely preference.\n\nKnowledge also does not require seeing everything with our own eyes. You know much of history through testimony and documents. You know ordinary facts through memory and the reports of trustworthy people. You use inference when evidence points beyond what you can directly observe. The question is not “Did I personally see it?” but “Do I have good enough reasons to believe it?”\n\nThat gives us a fair standard for the rest of the course: define the claim, look at the evidence that would bear on it, consider alternatives, and match your confidence to the strength of the case.",
+      "body": "Truth is not whatever I sincerely believe or whatever a group of people agrees to believe. What I mean is that a statement is true when it matches reality. I can sincerely believe something and still be wrong.\n\nFor example, if one person says Jesus rose from the dead and another person says Jesus did not rise from the dead, both claims cannot be true in the same sense. One of them describes what actually happened and the other does not. That does not mean we automatically know which person is right, but it does mean there is a real answer to the question.\n\nHere is another problem: people sometimes act as though we need absolute certainty before we can know anything. But that is not how we live. We know all kinds of things that we did not personally see. We rely on evidence, testimony, documents, memory, and inference every day. Testimony is simply information given to us by another person, and it can be good evidence when that person is in a position to know what happened and has reason to be trusted.\n\nJustification is the reason we have for believing something is true. The stronger the evidence, the stronger our justification can be. Certainty is different. I may not be able to prove a historical claim in an absolute sense, but that does not mean I have no good reason to believe it.\n\nGiven this, I do not think Christianity needs to be proven beyond every possible doubt before it can reasonably be believed. The better question is whether the evidence is strong enough to justify belief. Maybe not beyond all doubt, but beyond reasonable doubt. That is the standard I want to use as we look at the evidence for God and Christianity.",
       "facts": [
         "The law of non-contradiction is basic to meaningful reasoning.",
         "Testimony can be rational evidence when the source is in a position to know and has reason to be trusted.",
@@ -175,7 +175,7 @@ const questions = [
         ]
       ]
     },
-    "why": "Before weighing evidence for God or Jesus, we need a workable view of truth and knowledge. Otherwise every disagreement can collapse into “that is true for you.”",
+    "why": "Before we can weigh evidence for God or Christianity, we have to be clear about what we mean by truth and what counts as knowing something. Otherwise, every disagreement can be dismissed by saying, “That is true for you,” which does not actually help us figure out what is true.",
     "core": [
       "Truth is about reality: a claim is true if it matches the way things actually are.",
       "Two contradictory claims cannot both be true in the same sense at the same time.",
@@ -255,7 +255,7 @@ const questions = [
         "Complete absence of doubt. Many reasonable beliefs do not reach this level."
       ]
     ],
-    "conclusion": "Truth is not created by belief, and knowledge does not require omniscience. That gives us room to investigate God and Christianity as real questions about reality.",
+    "conclusion": "So the fact that people disagree does not make truth relative, and the fact that we are not absolutely certain does not mean we cannot know anything. We can look at the evidence, compare explanations, and believe what the evidence gives us good reason to believe.",
     "thread": "Good reasoning still needs evidence. So before we ask whether God exists, we need to know what counts as a fair reason for believing something.",
     "bigIdea": "Truth is about reality, not preference. We can know many things reasonably without having absolute certainty.",
     "checkpoints": [
@@ -288,7 +288,7 @@ const questions = [
     "teaser": "If dependent things do not explain themselves, what ultimately explains reality?",
     "lesson": {
       "heading": "The argument from contingency",
-      "body": "The contingency argument starts with an ordinary observation: many things could have failed to exist. Trees, planets, people, and even the particular arrangement of the universe depend on conditions beyond themselves. Philosophers call such things contingent.\n\nThe question is deeper than “What caused this event?” It is: why does this whole dependent reality exist at all? Saying that each contingent thing depends on another contingent thing only moves the question back. Even an endless chain of borrowed existence would still be a chain of things that do not explain why there is anything to borrow in the first place.\n\nA common formulation says that everything that exists has an explanation of its existence, either in the necessity of its own nature or in an external cause. The universe exists. If the universe is contingent, its explanation must finally rest in something that does not receive existence from anything else.\n\nThat is what “necessary being” means here: not merely something very old or powerful, but a reality that does not depend on another reality for its existence.",
+      "body": "One way to look at the contingency argument is to start with the things around us. Trees, people, planets, and just about everything we experience depend on something else in order to exist. Philosophers call these things contingent. A contingent thing exists, but it did not have to exist and it does not contain the full reason for its own existence within itself.\n\nFor example, a tree depends on the seed it came from, the soil, water, sunlight, and a whole series of conditions outside itself. I depend on my parents and on many conditions that had to be in place before I ever existed. We can keep tracing these explanations backward, but each explanation is still pointing to another dependent thing.\n\nHere is the problem: if every explanation only points to something else that is also contingent, we have still not explained why there is any contingent reality at all. We have explained how one dependent thing relates to another, but not why the whole collection exists in the first place.\n\nOne response is to say that the universe is simply a brute fact, meaning that it exists without any further explanation. You can say that, but it does not really answer the question. It is simply deciding to stop asking for an explanation at the universe.\n\nThe contingency argument says that dependent reality ultimately needs to rest on something that is not dependent in the same way. That is what necessary means here. A necessary being does not receive its existence from something else and does not exist only because some outside condition happened to produce it.\n\nGiven this, the argument points beyond contingent reality to a necessary foundation for everything else that exists. This does not yet give us every Christian belief about God, and it is not meant to. It is one part of the larger case, and the next lessons will continue asking what this ultimate foundation would have to be like.",
       "facts": [
         "Leibniz famously framed the question as why there is something rather than nothing.",
         "Contingency is about dependence, not age; something could be eternal and still contingent.",
@@ -306,7 +306,7 @@ const questions = [
         ]
       ]
     },
-    "why": "The contingency argument asks the deepest explanatory question: why is there any dependent reality at all rather than nothing?",
+    "why": "The contingency argument asks a very basic question that I think is hard to avoid once we start looking at reality: why is anything here at all? We can explain one dependent thing by pointing to another, but eventually we still have to ask why there is any dependent reality in the first place.",
     "core": [
       "Contingent things exist, but they do not contain the reason for their existence within themselves.",
       "The contingency argument asks why contingent reality exists at all rather than merely why one event caused another.",
@@ -386,7 +386,7 @@ const questions = [
         "An argument that reasons from features of the universe or dependent reality to an ultimate cause or explanation."
       ]
     ],
-    "conclusion": "Dependent reality points beyond itself. The contingency argument gives us a necessary, self-existent foundation rather than an unexplained universe that somehow exists on its own.",
+    "conclusion": "So the contingency argument is not simply asking what caused one thing after another. It is asking why dependent reality exists at all, and it argues that contingent things ultimately need a necessary foundation that does not depend on something else for its existence.",
     "thread": "Now we turn from the tools to reality itself. Why is there anything here at all?",
     "bigIdea": "Contingent things do not contain the reason for their existence in themselves. The dependent universe points to a necessary, self-existent foundation.",
     "checkpoints": [
@@ -3325,6 +3325,170 @@ const questions = [
     ]
   }
 ];
+
+const jordanResolutions = {
+  "1": {
+    "title": "What makes an argument good?",
+    "lines": [
+      "After working through the lesson, you return to Jordan’s question. “A good argument has two separate jobs,” you tell him. “The reasoning has to work, and the important premises have to be true.”",
+      "You explain that validity asks whether the conclusion follows if the premises are granted. Soundness adds the truth of those premises. In historical questions, you often compare explanations instead of using a strict deduction, but the same discipline remains: the evidence has to support the conclusion.",
+      "Jordan nods. “So a conclusion sounding reasonable is not enough. I have to test the path that gets me there.” Exactly. That is the habit the rest of the course will use."
+    ]
+  },
+  "2": {
+    "title": "Truth is about reality, and evidence can justify belief",
+    "lines": [
+      "Back at the crosswalk idea, you tell Jordan that belief and truth are not the same thing. People and cultures hold beliefs; a claim is true when it matches reality. Contradictory claims can both be sincerely held, but they cannot both describe the same reality correctly in the same sense.",
+      "You also answer his question about knowing things you did not see. Much of ordinary and historical knowledge comes through testimony, documents, memory, physical evidence, and inference. The standard is not personal eyewitness experience but whether the available reasons are strong enough to justify belief.",
+      "Jordan says, “Then religious disagreement does not make truth disappear. It means we have to compare the reasons.” Right. Now the course can ask what reality itself tells us."
+    ]
+  },
+  "3": {
+    "title": "Dependent reality points beyond itself",
+    "lines": [
+      "You return to Jordan’s suggestion that the universe might simply be the stopping point. The contingency argument asks why dependent reality exists at all. If the things under discussion do not contain the sufficient reason for their own existence, merely collecting them together does not make the dependence disappear.",
+      "The argument therefore points toward a necessary foundation, something that does not receive or borrow its existence from something more basic in the same way dependent things do.",
+      "Jordan says, “So you are not yet giving me every Christian doctrine about God. You are saying dependent reality needs an ultimately non-dependent ground.” Exactly. Then he raises the next question: “What if the universe itself has always been that ground?”"
+    ]
+  },
+  "4": {
+    "title": "A beginning requires a cause beyond the physical beginning",
+    "lines": [
+      "You answer Jordan’s question by stating the argument carefully: it is not “everything has a cause.” It is that whatever begins to exist has a cause, and there are philosophical and scientific reasons to take a beginning of the universe seriously.",
+      "If physical space, time, matter, and energy begin with the universe, their ultimate cause cannot simply be an earlier event located inside that same physical spacetime. The cause would have to be beyond the physical order it brings into being.",
+      "Jordan says, “So ‘Who caused God?’ does not answer the premise, because the argument is not claiming God began.” Right. This still does not establish Christianity, but it strengthens the case for a transcendent cause."
+    ]
+  },
+  "5": {
+    "title": "Design is an inference from function and causal adequacy",
+    "lines": [
+      "You tell Jordan the watch was only an illustration of how a design inference works, not proof that nature is literally a manufactured object. The real question is whether a feature displays organized, functionally specified arrangement for which intelligence is a better causal explanation than the alternatives.",
+      "Complexity by itself is not enough. A pile of gravel can be complicated without being designed. The design argument becomes serious when the pattern involves coordinated parts, information, or precise arrangement toward a function and when known causes are compared.",
+      "Jordan looks at the watch again. “So I cannot just say ‘it looks designed,’ and you cannot just say ‘Designer.’ We have to ask what kind of cause best explains the feature.” Exactly."
+    ]
+  },
+  "6": {
+    "title": "Observer selection does not explain the life-permitting setup",
+    "lines": [
+      "You return to Jordan’s point that observers can only observe a universe compatible with observers. “That is true,” you say. “But it explains why we should not observe a life-forbidding universe. It does not by itself explain why a life-permitting set of conditions exists.”",
+      "The explanatory options have to be compared: perhaps the values are necessary, perhaps chance is enough, perhaps a multiverse changes the probability landscape, or perhaps the conditions reflect purposeful choice. Fine-tuning does not make every rival impossible, but it creates a real explanatory burden.",
+      "Jordan looks up again. “So the design claim is that purposeful choice fits the fine-tuning well, not that simply noticing fine-tuning proves God by itself.” Exactly."
+    ]
+  },
+  "7": {
+    "title": "The question is whether unguided mechanisms are causally sufficient",
+    "lines": [
+      "You answer Jordan’s chemistry objection first. DNA is chemistry, but describing the material does not exhaust the explanation of the functional sequence, just as describing ink does not explain why letters form meaningful instructions.",
+      "Then you separate the existence of evolutionary mechanisms from the larger question of causal sufficiency. Mutation, selection, duplication, and other processes are real mechanisms to consider, but the apologetic question is how well they account for the origin of functional information and tightly integrated molecular systems.",
+      "Jordan says, “So the dispute is not whether biology uses chemistry or whether organisms change. It is whether unguided processes fully explain the information and machinery.” Right. That is where the design argument has to do its work."
+    ]
+  },
+  "8": {
+    "title": "Objective morality needs more than personal preference",
+    "lines": [
+      "You return to the driver. “An atheist can recognize that what he did was wrong, and an atheist can behave morally. The moral argument is not about who can be a good person.”",
+      "The deeper issue is grounding. If some actions are objectively wrong and persons possess real moral worth, then those truths are not created by an individual’s feelings or a society’s vote. A necessarily good personal God provides a coherent ground for moral value, obligation, human worth, and accountability.",
+      "Jordan says, “Then when I said the driver really should not have done that, I was making a claim about reality, not just reporting my reaction.” Exactly."
+    ]
+  },
+  "9": {
+    "title": "A causal history of belief is not yet a justification of belief",
+    "lines": [
+      "You grant Jordan’s point that reliable perception and cooperation can aid survival. Evolutionary explanations can describe why certain cognitive tendencies would be selected.",
+      "But the question he raised about trust goes further. A physical account of why a belief occurred is not the same as an account of why the inference is logically warranted or true. Abstract laws of logic, mathematics, and rational obligation are norms by which thoughts are judged, not merely events the brain produces.",
+      "Jordan says, “So the argument is not that naturalists cannot reason. It is that a worldview should explain why rational minds, logical norms, and an intelligible world fit together at all.” Exactly. Theism gives that fit a rational source."
+    ]
+  },
+  "10": {
+    "title": "If a Creator exists, miracles are possible in principle",
+    "lines": [
+      "You answer Jordan by distinguishing the ordinary course of nature from what a Creator could do. Christianity agrees that dead people do not naturally rise. That is precisely why resurrection would be a miracle rather than a normal biological event.",
+      "If the universe ultimately depends on a Creator who is not limited to the powers of nature, then divine action cannot be ruled out merely because nature left to itself would not produce the event. That establishes possibility, not occurrence.",
+      "Jordan looks back at the cemetery. “So now you still owe me the historical case that Jesus actually rose.” Exactly. The miracle bridge removes the veto; history has to carry the next part of the argument."
+    ]
+  },
+  "11": {
+    "title": "The New Testament can be examined before inspiration is assumed",
+    "lines": [
+      "You tell Jordan that a source does not become historically useless because its author has convictions. Historians routinely study partisan, religious, political, and personally involved sources by asking about date, access to information, corroboration, consistency, genre, and explanatory fit.",
+      "So at this stage the New Testament is treated as a collection of ancient texts making historical claims. Inspiration is not assumed in order to ask when the material appeared, what it reports, and how it compares with other evidence.",
+      "Jordan says, “Then the argument is not ‘the Bible is true because the Bible says so.’ You are asking first whether these documents give us usable evidence about Jesus.” Exactly."
+    ]
+  },
+  "12": {
+    "title": "Jesus’ self-understanding is established cumulatively",
+    "lines": [
+      "You answer Jordan by refusing to make the case rest on one isolated title or one modern English sentence. The historical picture comes from several strands: Jesus’ authority to forgive, his relation to the Sabbath, his role in judgment, his kingdom claims, significant titles, and the way he speaks about the Father and himself.",
+      "Any one strand can be debated, and titles such as “Son of God” require context. But taken together, the material presents Jesus as making claims that go well beyond a merely admirable teacher.",
+      "Jordan says, “So before deciding what to do with Jesus, I have to explain the whole pattern of what he said and did.” Exactly. And that makes his death and the resurrection claim much more significant."
+    ]
+  },
+  "13": {
+    "title": "The resurrection case begins with a genuinely dead Jesus",
+    "lines": [
+      "You start with the strongest point: Jesus’ death by Roman crucifixion is widely regarded by historians as historically secure. The swoon alternative has to overcome what crucifixion was designed to do and the evidence that Jesus was treated as dead.",
+      "Burial and the empty tomb add a physical dimension to the case, though the evidence for each claim should be presented with its own level of confidence rather than pretending every detail is equally certain.",
+      "Jordan says, “Then the honest structure is death first, then burial and the body, then the resurrection explanations.” Right. A bodily resurrection claim has to begin with bodily facts."
+    ]
+  },
+  "14": {
+    "title": "Resurrection is argued as the best explanation of a cumulative case",
+    "lines": [
+      "You answer Jordan by comparing explanations against the same body of evidence rather than asking whether each rival can explain one isolated piece. Early proclamation, reported appearances, the disciples’ conviction, and the physical evidence all need to be considered together.",
+      "Hallucination, relocation of the body, fraud, and legendary development can address parts of the pattern, but each has to be tested for explanatory scope, plausibility, and the number of additional assumptions it requires. Because the miracle question was addressed earlier, resurrection is allowed into the comparison rather than excluded beforehand.",
+      "Jordan says, “So the Christian claim is not that alternatives are unimaginable. It is that resurrection explains the whole pattern better.” Exactly. That is the historical argument."
+    ]
+  },
+  "15": {
+    "title": "The trilemma presses the identity question after the historical work",
+    "lines": [
+      "You tell Jordan the trilemma is weakest when used as a shortcut and strongest when used after the earlier historical questions have been faced. If Jesus did not make the extraordinary claims, then the argument has the wrong premise and you go back to the evidence.",
+      "If he did make them, however, “great moral teacher and nothing more” becomes difficult to sustain. Deliberate deception, profound self-mistake, historical distortion, and truthful identity become competing explanations, and the resurrection bears directly on which explanation fits best.",
+      "Jordan says, “So ‘liar, lunatic, or Lord’ does not prove the case by itself. It forces me to stop treating Jesus’ identity as optional once the evidence is on the table.” Exactly."
+    ]
+  },
+  "16": {
+    "title": "In context, resurrection functions as divine vindication",
+    "lines": [
+      "You return to the courthouse image but keep the inference proportional. A resurrection of Jesus would not be a random miracle attached to an unknown person. It would occur in the context of his public claims, mission, condemnation, and execution.",
+      "If God raises the person whose authority and identity were precisely what was under dispute, that act gives strong reason to see God as overturning the human verdict and vindicating Jesus.",
+      "Jordan says, “That does not instantly give me every Christian doctrine, but it does tell me that Jesus’ authority now matters in a unique way.” Exactly. The next question is what the vindicated Jesus teaches."
+    ]
+  },
+  "17": {
+    "title": "Vindication gives Jesus’ established teaching decisive authority",
+    "lines": [
+      "You agree with Jordan that resurrection does not eliminate historical interpretation. You still have to ask what Jesus actually said and meant.",
+      "But once a teaching is reasonably established as Jesus’ teaching, divine vindication changes how it is received. It is no longer merely one ancient religious opinion among others; it carries the authority of the one God has vindicated.",
+      "Jordan says, “Then the argument now has a hinge: history establishes the teaching, and resurrection establishes why that teaching should govern what I believe about God and revelation.” Exactly."
+    ]
+  },
+  "18": {
+    "title": "Jesus consistently receives Israel’s Scriptures as divine authority",
+    "lines": [
+      "You answer Jordan’s question without overclaiming. Jesus does not hand his followers a modern table of contents, so this step alone does not settle every later canon question.",
+      "What it does establish is his settled posture toward Israel’s Scriptures: he appeals to them as authoritative, treats their words as carrying God’s authority, and reasons from them as binding revelation. If Jesus is the vindicated Lord, that posture matters.",
+      "Jordan says, “So accepting Jesus while dismissing the Scriptures he receives as God’s Word creates a serious tension.” Exactly. Then the remaining canon question is how his authority reaches the New Testament."
+    ]
+  },
+  "19": {
+    "title": "Christ’s authority reaches the New Testament through his apostles",
+    "lines": [
+      "You answer Jordan by locating authority before the later canon councils. Jesus commissions apostles as authorized witnesses and teachers. In the argument, their authority is derivative: it comes from Christ.",
+      "The church’s later historical task is therefore recognition, not creation. It has to discern which writings genuinely carry the apostolic witness Christ authorized. The process can involve discussion and uncertainty about some books without meaning a council invented their authority.",
+      "Jordan says, “So the question is not which council made a book Scripture, but which writings actually belong to the apostolic witness authorized by Jesus.” Exactly. That completes the bridge from Christ to the New Testament."
+    ]
+  },
+  "20": {
+    "title": "The walk reaches its destination",
+    "lines": [
+      "You answer Jordan by walking through the chain one final time. Natural theology gives reasons for a rational, personal Creator. If God exists, miracles are possible. Historical evidence then gives reasons to investigate Jesus’ claims, death, and resurrection.",
+      "If God raised Jesus, Jesus is vindicated. The vindicated Jesus receives the Old Testament as God’s Word and authorizes apostles whose witness stands behind the New Testament. That is how the argument moves from a Creator to Christian revelation without assuming inspiration at the beginning.",
+      "Jordan looks down at the Bible. “So we really did get all the way from ‘Why believe anything?’ to ‘God has spoken.’” You smile. “That was the idea.”",
+      "He puts the Bible back on the shelf. “I still have questions.” “You should.” The two of you have spent a lot of miles working through the case. Jordan has not been handed a script or an answer to every objection. He has learned something more useful: how the pieces fit together, how to follow the evidence, and where to begin when another question comes."
+    ]
+  }
+};
 
 const step1QuickReference = {
   "title": "Step 1 quick reference: Why believe God exists?",
