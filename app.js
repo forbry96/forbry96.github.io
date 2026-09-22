@@ -11,7 +11,7 @@ const bonusStudyIds = lessonModules.filter(m => !m.core).flatMap(m => m.studyIds
 const STORAGE_KEY = 'classicalApologeticsProgressV3';
 
 const defaultState = () => ({
-  version: 5,
+  version: 6,
   completed: [],
   practiced: [],
   pre: null,
@@ -25,20 +25,29 @@ function normalizeState(raw){
   const oldVersion = Number(raw.version || 0);
   const remapLegacyId = id => {
     id = Number(id);
-    // Preserve bonus-study progress as the core path expands in v5.
+
+    // v5 bonus numbering: 21 evil, 22 origins, 23 workshop.
+    if(oldVersion === 5){
+      if(id === 21) return 22;
+      if(id === 22) return 23;
+      if(id === 23) return 21;
+    }
+
     // v4: 17 evil, 18 origins, 19 workshop.
     if(oldVersion === 4){
-      if(id === 17) return 21;
-      if(id === 18) return 22;
-      if(id === 19) return 23;
+      if(id === 17) return 22;
+      if(id === 18) return 23;
+      if(id === 19) return 21;
     }
+
     // v3: 17 evil, 18 workshop.
     if(oldVersion === 3){
-      if(id === 17) return 21;
-      if(id === 18) return 23;
+      if(id === 17) return 22;
+      if(id === 18) return 21;
     }
+
     // Before v3, Study 17 was the conversation workshop.
-    if(oldVersion < 3 && id === 17) return 23;
+    if(oldVersion < 3 && id === 17) return 21;
     return id;
   };
   base.completed = Array.isArray(raw.completed) ? [...new Set(raw.completed.map(remapLegacyId).filter(id => ids.has(id)))] : [];
@@ -227,9 +236,9 @@ const memorableBigIdeas = {
   18: "We receive the Old Testament through the authority of the divinely vindicated Jesus.",
   19: "Jesus’ authority reaches the New Testament through the apostles he commissioned and the writings received as their witness.",
   20: "The destination of classical apologetics is not merely ‘God exists,’ but ‘the God who exists has spoken.’",
-  21: "The problem of evil raises both intellectual and personal questions, and those questions should not be confused.",
-  22: "Origins evidence is interpreted inside larger worldviews, so observations, historical inferences, and assumptions must be kept distinct.",
-  23: "Good apologetics starts by finding the real point of disagreement before choosing an argument."
+  21: "Good apologetics starts by finding the real point of disagreement before choosing an argument.",
+  22: "The problem of evil raises both intellectual and personal questions, and those questions should not be confused.",
+  23: "Origins evidence is interpreted inside larger worldviews, so observations, historical inferences, and assumptions must be kept distinct."
 };
 
 
