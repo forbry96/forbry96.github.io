@@ -445,48 +445,88 @@ function closeModal(){
   lastFocusedBeforeModal = null;
 }
 
-let promptIndex = Math.floor(Math.random()*questions.length);
+const practiceDifficultyMeta = {
+  guided: ['Guided','Learn the map with a little more help.'],
+  applied: ['Applied','The cues are thinner and the wrong answers are more believable.'],
+  pressure: ['Pressure','Longer conversations, fair pushback, and places where you need to concede a point.'],
+  mixed: ['Mixed','Several issues show up at once. Your first job is deciding what not to answer yet.']
+};
+let currentPracticeDifficulty = 'guided';
+let diagnosisIndex = 0;
+let currentScenario = null;
+let currentNodeId = 'start';
+let scenarioTrail = [];
+let buildScenarioIndex = 0;
+let buildStep = 0;
+let buildAnswers = [];
 
-function renderPrompt(){
-  const q = questions[promptIndex];
-  document.querySelector('#promptCard').innerHTML = `<div class="prompt-meta">QUESTION ${String(q.id).padStart(2,'0')} · ${esc(q.tag)}</div><div class="prompt-objection">${esc(q.practice)}</div><textarea id="promptAnswer" placeholder="Write your response in your own words..."></textarea><div class="prompt-actions"><button class="button light" id="showPromptModel">Show model</button><button class="button" id="nextPrompt">Another question</button></div><div id="promptModel"></div>`;
-  document.querySelector('#showPromptModel').onclick = () => {
-    const answer = document.querySelector('#promptAnswer').value.trim();
-    if(answer) markPracticed(q.id);
-    document.querySelector('#promptModel').innerHTML = `<div class="model"><h4>One possible response</h4><p>${esc(q.model)}</p>${answer?'':'<small>Write your own answer first if you want this question counted as practice.</small>'}</div>`;
-  };
-  document.querySelector('#nextPrompt').onclick = () => { promptIndex=(promptIndex+1)%questions.length; renderPrompt(); };
+function practicePool(){
+  const pool = practiceScenarios.filter(s=>s.level===currentPracticeDifficulty);
+  return pool.length ? pool : practiceScenarios;
+}
+function shufflePracticeChoices(items){
+  const a=[...items];
+  for(let i=a.length-1;i>0;i--){
+    const j=Math.floor(Math.random()*(i+1));
+    [a[i],a[j]]=[a[j],a[i]];
+  }
+  return a;
+}
+const diagnosisLabels = {
+  clarify: ['Ask first','There is not enough information yet. Clarify the claim before choosing an argument.'],
+  foundation: ['Foundation','Truth, reasoning, knowledge, or the standard of evidence'],
+  step1: ['Step 1','Whether God exists, or whether nature is all there is'],
+  bridge: ['Miracle bridge','Whether divine action is possible in principle'],
+  step2: ['Step 2','Jesus, resurrection, Scripture, or Christianity specifically']
+};
+
+function setPracticeDifficulty(level){
+  currentPracticeDifficulty = practiceDifficultyMeta[level] ? level : 'guided';
+  diagnosisIndex=0;
+  currentScenario=null;
+  currentNodeId='start';
+  scenarioTrail=[];
+  buildScenarioIndex=0;
+  buildStep=0;
+  buildAnswers=[];
+  const help=document.querySelector('#practiceDifficultyHelp');
+  if(help) help.textContent=practiceDifficultyMeta[currentPracticeDifficulty][1];
+  renderDiagnosis();
+  renderScenarioPicker();
+  const conversation=document.querySelector('#conversationPractice');
+  if(conversation) conversation.innerHTML='<p class="practice-placeholder">Choose a scenario above and start when you are ready.</p>';
+  renderBuildPrompt();
 }
 
-const diagnosisLabels = {
-  foundation: ['Foundation','Truth, reasoning, knowledge, or standards of evidence'],
-  step1: ['Step 1 · Natural theology','Whether God exists or nature is all there is'],
-  bridge: ['Bridge · Miracles','Whether divine action is possible in principle'],
-  step2: ['Step 2 · Christian evidences','Jesus, resurrection, Scripture, or Christianity specifically']
-};
-let diagnosisIndex = 0;
 function renderDiagnosis(){
   const card = document.querySelector('#diagnoseCard');
-  if(!card || !practiceScenarios.length) return;
-  const scenario = practiceScenarios[diagnosisIndex % practiceScenarios.length];
-  card.innerHTML = `<div class="diagnose-count">Scenario ${diagnosisIndex+1} of ${practiceScenarios.length}</div><blockquote>${esc(scenario.diagnose)}</blockquote><p class="practice-question">Where would you begin?</p><div class="diagnose-options">${Object.entries(diagnosisLabels).map(([key,v])=>`<button type="button" data-diagnose="${key}"><strong>${esc(v[0])}</strong><span>${esc(v[1])}</span></button>`).join('')}</div><div id="diagnoseFeedback" aria-live="polite"></div>`;
+  const pool=practicePool();
+  if(!card || !pool.length) return;
+  const scenario = pool[diagnosisIndex % pool.length];
+  const showHints=currentPracticeDifficulty==='guided';
+  const choices=shufflePracticeChoices(Object.entries(diagnosisLabels));
+  card.innerHTML = `<div class="diagnose-count">${esc(practiceDifficultyMeta[currentPracticeDifficulty][0])} · Scenario ${diagnosisIndex+1} of ${pool.length}</div><blockquote>${esc(scenario.diagnose)}</blockquote><p class="practice-question">Where would you begin?</p><div class="diagnose-options">${choices.map(([key,v])=>`<button type="button" data-diagnose="${key}"><strong>${esc(v[0])}</strong>${showHints?`<span>${esc(v[1])}</span>`:''}</button>`).join('')}</div><div id="diagnoseFeedback" aria-live="polite"></div>`;
   card.querySelectorAll('[data-diagnose]').forEach(button=>button.addEventListener('click',()=>{
     const selected=button.dataset.diagnose;
     const correct=selected===scenario.entryKey;
     card.querySelectorAll('[data-diagnose]').forEach(b=>{ b.disabled=true; if(b.dataset.diagnose===scenario.entryKey) b.classList.add('choice-correct'); });
     if(!correct) button.classList.add('choice-missed');
-    card.querySelector('#diagnoseFeedback').innerHTML=`<div class="practice-feedback ${correct?'strong':'mixed'}"><strong>${correct?'Good diagnosis.':'A better starting point:'}</strong><p>${esc(scenario.entry)}</p><button class="button light" type="button" id="nextDiagnosis">Next scenario</button></div>`;
-    card.querySelector('#nextDiagnosis').onclick=()=>{ diagnosisIndex=(diagnosisIndex+1)%practiceScenarios.length; renderDiagnosis(); };
+    card.querySelector('#diagnoseFeedback').innerHTML=`<div class="practice-feedback ${correct?'strong':'mixed'}"><strong>${correct?'Yes. Start there.':'Not quite. A better first move is:'}</strong><p>${esc(scenario.entry)}</p><p class="diagnose-why">${esc(scenario.diagnoseWhy||'')}</p><button class="button light" type="button" id="nextDiagnosis">Next scenario</button></div>`;
+    card.querySelector('#nextDiagnosis').onclick=()=>{ diagnosisIndex=(diagnosisIndex+1)%pool.length; renderDiagnosis(); };
   }));
 }
 
-let currentScenario = null;
-let currentNodeId = 'start';
-let scenarioGrades = [];
 function renderScenarioPicker(){
   const select=document.querySelector('#scenarioSelect');
   if(!select) return;
-  select.innerHTML=practiceScenarios.map(s=>`<option value="${esc(s.id)}">${esc(s.title)}</option>`).join('');
+  const pool=practicePool();
+  select.innerHTML=pool.map(s=>`<option value="${esc(s.id)}">${esc(s.title)}</option>`).join('');
+}
+
+function conversationGradeLabel(grade){
+  if(grade==='strong') return 'Strong move';
+  if(grade==='weak') return 'Needs work';
+  return 'Reasonable, but tighten it';
 }
 function renderConversationNode(){
   const box=document.querySelector('#conversationPractice');
@@ -494,29 +534,84 @@ function renderConversationNode(){
   const node=currentScenario.nodes[currentNodeId];
   if(!node) return;
   if(node.end){
-    const strong=scenarioGrades.filter(x=>x==='strong').length;
-    const mixed=scenarioGrades.filter(x=>x==='mixed').length;
-    const weak=scenarioGrades.filter(x=>x==='weak').length;
-    const quality=weak===0 && strong>=mixed ? 'You kept the conversation focused.' : strong>weak ? 'You made several useful moves.' : 'This route exposed a common conversational trap.';
-    box.innerHTML=`<div class="conversation-result"><span class="test-label">DEBRIEF</span><h4>${esc(quality)}</h4><p>${esc(node.summary)}</p><div class="route-summary"><span>Strong choices: <b>${strong}</b></span><span>Partial choices: <b>${mixed}</b></span><span>Common traps: <b>${weak}</b></span></div><p><strong>Best entry point:</strong> ${esc(currentScenario.entry)}</p><div class="prompt-actions"><button class="button light" type="button" id="restartScenario">Try this one again</button><button class="button" type="button" id="anotherScenario">Choose another scenario</button></div></div>`;
+    const strong=scenarioTrail.filter(x=>x.grade==='strong').length;
+    const mixed=scenarioTrail.filter(x=>x.grade==='mixed').length;
+    const weak=scenarioTrail.filter(x=>x.grade==='weak').length;
+    const quality=weak===0 && mixed===0 ? 'You kept the argument clean all the way through.' : weak===0 ? 'You stayed on the right issue, with a few places to sharpen.' : 'You found some good moves, and the debrief shows where the conversation drifted.';
+    const trailHtml=scenarioTrail.map((item,i)=>`<article class="route-debrief-item ${esc(item.grade)}"><div class="route-debrief-head"><span>Turn ${i+1}</span><strong>${conversationGradeLabel(item.grade)}</strong></div><p class="route-debrief-response">${esc(item.response)}</p><p class="route-debrief-note">${esc(item.note||'')}</p></article>`).join('');
+    box.innerHTML=`<div class="conversation-result"><span class="test-label">DEBRIEF</span><h4>${esc(quality)}</h4><p>${esc(node.summary)}</p><div class="route-summary"><span>Strong: <b>${strong}</b></span><span>Tighten: <b>${mixed}</b></span><span>Needs work: <b>${weak}</b></span></div><div class="route-debrief-list">${trailHtml}</div><p><strong>Best entry point:</strong> ${esc(currentScenario.entry)}</p><div class="prompt-actions"><button class="button light" type="button" id="restartScenario">Try this one again</button><button class="button" type="button" id="anotherScenario">Choose another scenario</button></div></div>`;
     box.querySelector('#restartScenario').onclick=()=>startScenario(currentScenario.id);
     box.querySelector('#anotherScenario').onclick=()=>{ box.innerHTML='<p class="practice-placeholder">Choose a scenario above and start when you are ready.</p>'; document.querySelector('#scenarioSelect').focus(); };
     return;
   }
-  box.innerHTML=`<div class="conversation-turn"><span>${esc(node.speaker || 'Other person')}</span><p>${esc(node.text)}</p></div><div class="response-choices"><p class="practice-question">What would you say next?</p>${(node.options||[]).map((opt,i)=>`<button type="button" data-response-index="${i}">${esc(opt.text)}</button>`).join('')}</div>`;
+  const options=shufflePracticeChoices(node.options||[]);
+  box.innerHTML=`<div class="conversation-progress">${esc(practiceDifficultyMeta[currentPracticeDifficulty][0])} · Turn ${scenarioTrail.length+1}</div><div class="conversation-turn"><span>${esc(node.speaker || 'Other person')}</span><p>${esc(node.text)}</p></div><div class="response-choices"><p class="practice-question">What would you say next?</p>${options.map((opt,i)=>`<button type="button" data-response-index="${i}">${esc(opt.text)}</button>`).join('')}</div><p class="practice-microcopy">You will see how each answer was graded in the debrief, not now.</p>`;
   box.querySelectorAll('[data-response-index]').forEach(button=>button.addEventListener('click',()=>{
-    const opt=node.options[Number(button.dataset.responseIndex)];
-    scenarioGrades.push(opt.grade || 'mixed');
+    const opt=options[Number(button.dataset.responseIndex)];
+    scenarioTrail.push({prompt:node.text,response:opt.text,grade:opt.grade||'mixed',note:opt.note||''});
     currentNodeId=opt.next;
     renderConversationNode();
   }));
 }
 function startScenario(id){
-  currentScenario=practiceScenarios.find(s=>s.id===id) || practiceScenarios[0];
+  currentScenario=practicePool().find(s=>s.id===id) || practicePool()[0];
   currentNodeId='start';
-  scenarioGrades=[];
+  scenarioTrail=[];
   renderConversationNode();
 }
+
+function currentBuildScenario(){
+  const pool=practicePool();
+  return pool[buildScenarioIndex % pool.length];
+}
+function buildQuestionForStep(build, step){
+  return step===0 ? build.prompt : build.followUps[step-1];
+}
+function renderBuildPrompt(){
+  const card=document.querySelector('#promptCard');
+  const scenario=currentBuildScenario();
+  if(!card || !scenario || !scenario.build) return;
+  const build=scenario.build;
+  const total=1+(build.followUps||[]).length;
+  const prompt=buildQuestionForStep(build,buildStep);
+  const prior=buildAnswers.map((answer,i)=>`<div class="build-prior-turn"><span>${i===0?'Opening':'Follow-up '+i}</span><p class="build-prior-question">${esc(buildQuestionForStep(build,i))}</p><p class="build-prior-answer">${esc(answer)}</p></div>`).join('');
+  card.innerHTML=`<div class="prompt-meta">${esc(practiceDifficultyMeta[currentPracticeDifficulty][0])} · ${esc(scenario.title)} · Response ${buildStep+1} of ${total}</div>${prior?`<div class="build-history">${prior}</div>`:''}<div class="prompt-objection">${esc(prompt)}</div><textarea id="promptAnswer" placeholder="Write what you would actually say..."></textarea><div class="prompt-actions"><button class="button" id="advanceBuild">${buildStep<total-1?'Continue conversation':'Finish and self-check'}</button><button class="button light" id="nextPrompt">Different scenario</button></div><div id="promptModel"></div>`;
+  card.querySelector('#advanceBuild').onclick=()=>{
+    const answer=card.querySelector('#promptAnswer').value.trim();
+    if(!answer){
+      card.querySelector('#promptAnswer').focus();
+      card.querySelector('#promptAnswer').classList.add('practice-input-needed');
+      return;
+    }
+    buildAnswers.push(answer);
+    if(buildStep<total-1){ buildStep++; renderBuildPrompt(); return; }
+    renderBuildSelfCheck();
+  };
+  card.querySelector('#nextPrompt').onclick=()=>{ buildScenarioIndex=(buildScenarioIndex+1)%practicePool().length; buildStep=0; buildAnswers=[]; renderBuildPrompt(); };
+}
+function renderBuildSelfCheck(){
+  const card=document.querySelector('#promptCard');
+  const scenario=currentBuildScenario();
+  const build=scenario.build;
+  const checks=[
+    'I answered the claim that was actually made, not the objection I expected.',
+    'I used the right part of the case instead of dumping everything I know.',
+    'I explained the reason, not just the Christian conclusion.',
+    'I did not claim more than the evidence establishes.',
+    'I conceded any fair point that should have been conceded.',
+    'I left room for the other person to answer rather than turning it into a speech.'
+  ];
+  const turns=buildAnswers.map((answer,i)=>`<div class="build-prior-turn"><span>${i===0?'Opening':'Follow-up '+i}</span><p class="build-prior-question">${esc(buildQuestionForStep(build,i))}</p><p class="build-prior-answer">${esc(answer)}</p></div>`).join('');
+  card.innerHTML=`<div class="prompt-meta">SELF-CHECK · ${esc(scenario.title)}</div><div class="build-history">${turns}</div><div class="build-self-check"><h4>Before you look at the model, check your own answer.</h4>${checks.map((c,i)=>`<label><input type="checkbox" id="selfCheck${i}"><span>${esc(c)}</span></label>`).join('')}</div><div class="prompt-actions"><button class="button" id="showPromptModel">Show model and debrief</button><button class="button light" id="retryBuild">Rewrite this one</button></div><div id="promptModel"></div>`;
+  card.querySelector('#retryBuild').onclick=()=>{buildStep=0;buildAnswers=[];renderBuildPrompt();};
+  card.querySelector('#showPromptModel').onclick=()=>{
+    if(build.studyId) markPracticed(build.studyId);
+    const modelTurns=(build.models||[]).map((model,i)=>`<article class="model-turn"><span>${i===0?'Opening':'Follow-up '+i}</span><p class="model-question">${esc(buildQuestionForStep(build,i))}</p><p>${esc(model)}</p></article>`).join('');
+    card.querySelector('#promptModel').innerHTML=`<div class="model build-model"><h4>One way to handle the whole exchange</h4>${modelTurns}<div class="build-compare"><strong>Compare, do not copy.</strong><p>What did your answer include that the model included? What did you miss? Did you say anything that was true but answered the wrong question? Could you say your version naturally in a real conversation?</p><p><strong>Review:</strong> ${esc(build.studies||'')}</p></div></div>`;
+    card.querySelector('#showPromptModel').disabled=true;
+  };
+}
+
 function setPracticeMode(mode){
   document.querySelectorAll('[data-practice-mode]').forEach(button=>{
     const active=button.dataset.practiceMode===mode;
@@ -597,7 +692,8 @@ document.querySelector('#category').addEventListener('change', renderQuestions);
 
 // Practice lab
 document.querySelectorAll('[data-practice-mode]').forEach(button=>button.addEventListener('click',()=>setPracticeMode(button.dataset.practiceMode)));
-document.querySelector('#randomPrompt').onclick = () => { promptIndex=Math.floor(Math.random()*questions.length); renderPrompt(); };
+document.querySelector('#practiceDifficulty').addEventListener('change',e=>setPracticeDifficulty(e.target.value));
+document.querySelector('#randomPrompt').onclick = () => { const pool=practicePool(); buildScenarioIndex=Math.floor(Math.random()*pool.length); buildStep=0; buildAnswers=[]; renderBuildPrompt(); };
 document.querySelector('#startScenario').onclick = () => startScenario(document.querySelector('#scenarioSelect').value);
 
 // Tests and progress
@@ -646,9 +742,9 @@ document.querySelector('#closeModal').onclick = closeModal;
 // Initial render
 renderQuestions();
 renderSources();
-renderPrompt();
 renderDiagnosis();
 renderScenarioPicker();
+renderBuildPrompt();
 renderConversationTips();
 renderAbout();
 renderProgress();
