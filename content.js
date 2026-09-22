@@ -44,11 +44,11 @@ const questions = [
     "pressure": [
       [
         "“Logic is just a Western way of thinking.”",
-        "Different cultures reason in different styles, but contradiction, valid inference, and the difference between a claim and its denial are not merely cultural preferences. Any argument against logic has to use reasoning to make its case."
+        "I understand that different cultures may express reasoning differently, but here is the problem: if logic were only a Western preference, you could not argue against it without using logic. A contradiction does not become true because a culture accepts it, and a conclusion still needs to follow from the reasons given."
       ],
       [
         "“Everyone has assumptions, so nobody is objective.”",
-        "Everyone begins with assumptions, but assumptions can still be compared. Ask whether they are internally consistent, fit the evidence, and explain reality better than the alternatives."
+        "That’s true, everyone has assumptions. But that does not mean every assumption is equally reasonable. We can compare them by asking whether they are consistent, whether they fit the evidence, and whether they explain reality better than the alternatives. Given this, having assumptions does not make objectivity impossible."
       ]
     ],
     "limits": "Logic tells us whether reasoning works. It does not make a weak premise true, so evidence still matters.",
@@ -123,7 +123,7 @@ const questions = [
         "Valid means the conclusion follows if the premises are true. Sound means the argument is valid and its premises are true."
       ]
     ],
-    "conclusion": "So, when someone makes an argument, I want to know what they are trying to prove, what reasons they are giving, whether the reasoning actually follows, and whether the reasons themselves are true. We will use that same process throughout the rest of the course.",
+    "conclusion": "So, a good argument needs two things: the conclusion has to follow, and the premises have to be true.",
     "thread": "Before we argue about God or the resurrection, we need one basic habit: know what a claim is trying to prove and whether its reasons actually get us there.",
     "bigIdea": "A good argument gives reasons that actually support a conclusion. First test the reasoning, then test whether the reasons are true.",
     "checkpoints": [
