@@ -281,7 +281,8 @@ function openQuestion(id){
   }
 
   html += `<div class="study-completion"><div><span class="about-label">PROGRESS</span><h3>${done?'Study completed':'Finished this study?'}</h3><p>${done?'You can mark it incomplete if you want to review it again as unfinished.':'Mark it complete when you can state the main idea, explain the evidence, and attempt the practice response.'}</p></div><button class="button ${done?'secondary':'primary'}" id="toggleComplete">${done?'Mark incomplete':'Mark study complete'}</button></div>`;
-  const ordered = [...questions].sort((x,y)=>x.id-y.id);
+  const courseOrderIds = lessonModules.flatMap(m => m.studyIds);
+  const ordered = courseOrderIds.map(byId).filter(Boolean);
   const currentIndex = ordered.findIndex(x=>x.id===q.id);
   const previous = currentIndex>0 ? ordered[currentIndex-1] : null;
   const next = currentIndex<ordered.length-1 ? ordered[currentIndex+1] : null;
