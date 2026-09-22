@@ -2605,16 +2605,17 @@ const questions = [
     "cat": "christianity",
     "tag": "Scripture",
     "title": "What about the New Testament?",
-    "teaser": "Jesus did not hand the church a completed 27-book New Testament. He did something more basic first: he chose, commissioned, and promised help to authoritative apostolic witnesses.",
+    "teaser": "Jesus authorized apostles to speak in His name. The New Testament question is how their authoritative witness came to be written, received, and recognized as Scripture.",
     "lesson": {
-      "heading": "From Christ’s apostles to the recognized New Testament",
-      "body": "The basic path is Jesus to the apostles to the apostolic writings. Jesus chose apostles and gave them a unique role as His authorized witnesses and teachers. In John’s Gospel, He promises the Spirit’s help in remembering and bearing witness to His teaching, and Acts describes the earliest church as devoted to the apostles’ teaching.\n\nThat authority did not remain only oral. Apostolic teaching was written down, circulated, and read in the churches. Paul expects his letters to be read publicly. Second Peter also refers to Paul’s letters alongside “the other Scriptures,” although the authorship and date of 2 Peter are disputed in modern scholarship. I would not make the whole canon argument depend on that one passage.\n\nHistorically, the important point is that Christian writings were being collected, read, and treated as authoritative before the fourth-century councils. At the same time, recognition was not instant or uniform. Some books were received very widely early on, while a smaller number were debated longer in particular regions.\n\nThe church therefore had a real historical role in recognizing the canon. Christians asked whether a writing was apostolic or closely tied to an apostle, consistent with the faith already received, and widely used among the churches.\n\nThe next step is theological rather than a neutral historical conclusion. In the Protestant view I am using here, the church does not create a book’s authority. If Christ authorized the apostles, then genuinely apostolic teaching carries authority because of its source, and the church recognizes that authority. Other Christian traditions describe the church’s role differently, so I do not want to pretend that “recognition, not creation” is simply a conclusion all historians or all Christians share.\n\nI still think the common claim that “the church invented the Bible centuries later” gives the wrong picture. The historical process was gradual, but it began with writings tied to the apostolic witness long before the final fourth-century lists.",
+      "heading": "From Christ to the apostles to the New Testament",
+      "body": "The New Testament begins with Jesus’ authority. Jesus chose apostles, commissioned them as His witnesses, and promised the Holy Spirit would help them remember His teaching and guide their witness. The apostles were not simply later Christian teachers giving their own opinions. They spoke as men Christ had authorized to represent Him.\n\nThat gives us the basic line of authority: God sends Christ, Christ commissions the apostles, and the apostles give the church their teaching. Ligonier puts the point very clearly: the authority of the apostles is delegated authority from Christ. If Jesus is the Lord whom God raised from the dead, then the teaching He authorized through His apostles carries His authority.\n\nThat apostolic teaching did not remain only oral. It was written, circulated, read in the churches, and treated as authoritative. Paul expects his letters to be read publicly. In 2 Peter 3:15–16, Peter refers to Paul’s letters alongside “the other Scriptures.” The New Testament itself therefore gives us evidence that apostolic writings were already being received as Scripture during the apostolic period.\n\nThe church’s later role was recognition, not creation. What I mean is that a council did not take ordinary Christian books and make them inspired by voting for them. The authority came from God through Christ and His apostles. The church had to recognize which writings genuinely carried that apostolic authority.\n\nThat is why apostolicity mattered so much. Was the book written by an apostle or closely connected to apostolic testimony? Did it agree with the faith already received from the apostles? Was it being read and received throughout the churches? Those questions helped the church distinguish the books that belonged to the apostolic witness from later Christian writings that could be useful without being Scripture.\n\nThere was very broad early agreement on the core of the New Testament, especially the four Gospels, Acts, Paul’s letters, 1 Peter, and 1 John. A smaller number of books were discussed longer in some parts of the church. I do not see that as evidence that the canon was arbitrary. If anything, it shows that the church was careful about what it received as the Word of God.\n\nThe Council of Nicaea did not choose the New Testament canon. The twenty-seven-book list was recognized formally over time, but the books did not suddenly become authoritative in the fourth century. The stronger historical picture is that apostolic writings were already functioning as Scripture, while the church gradually reached universal agreement about the boundaries of the collection.",
       "facts": [
+        "Jesus commissioned apostles to speak and teach in His name.",
         "Acts 2:42 shows the earliest church centered on the apostles’ teaching.",
-        "Paul’s letters circulated among churches and were read publicly.",
-        "2 Peter 3:15–16 refers to Paul’s letters in a way that places them with “the other Scriptures.”",
+        "Apostolic writings were circulated and read publicly in the churches.",
+        "2 Peter 3:15–16 places Paul’s letters alongside “the other Scriptures.”",
         "There was broad early agreement on most New Testament books, with longer discussion around a smaller group.",
-        "Nicaea in AD 325 did not decide the New Testament canon."
+        "The Council of Nicaea did not choose or create the New Testament canon."
       ],
       "further": [
         [
@@ -2622,12 +2623,16 @@ const questions = [
           "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-authority-of-the-apostles"
         ],
         [
-          "Ligonier | The New Testament Canon",
-          "https://learn.ligonier.org/devotionals/new-testament-canon"
+          "Ligonier | Authority and Canon",
+          "https://learn.ligonier.org/devotionals/authority-and-canon"
         ],
         [
-          "The Gospel Coalition | Introduction to the New Testament",
-          "https://www.thegospelcoalition.org/essay/introduction-to-the-new-testament/"
+          "Ligonier | What Is the Canon of Scripture?",
+          "https://learn.ligonier.org/articles/what-is-the-canon-of-scripture"
+        ],
+        [
+          "The Gospel Coalition | The Biblical Canon",
+          "https://www.thegospelcoalition.org/essay/the-biblical-canon/"
         ],
         [
           "Bible reference | John 14:25–26; 16:12–15",
@@ -2635,78 +2640,77 @@ const questions = [
         ]
       ]
     },
-    "why": "Jesus did not hand His disciples a list of twenty-seven New Testament books, so we need to explain how His authority reaches the New Testament. I also want to keep two questions separate: what happened historically as the canon developed, and the Protestant theological claim that the church recognized an authority the apostolic writings already had.",
+    "why": "If Jesus is the vindicated Lord, then His authority does not stop with the words He personally spoke during His earthly ministry. He chose apostles to represent Him, teach in His name, and bear authoritative witness to what He had done. The New Testament question is how that authority reaches the writings the church received as Scripture.",
     "core": [
-      "New Testament authority begins with Jesus’ authorization of apostles to be His witnesses and teachers.",
-      "Jesus promises the Spirit’s help for their witness and sends them to teach in His name.",
-      "The earliest church treats apostolic teaching as foundational, and apostolic writings begin functioning as authoritative Scripture within the New Testament period itself.",
-      "The canon was recognized over time; the church did not create apostolic authority by a late vote.",
-      "Apostolic connection, consistency with the received rule of faith, and widespread church use all mattered in recognition.",
-      "The Council of Nicaea did not choose the New Testament canon."
+      "New Testament authority begins with Jesus, who commissioned apostles to teach and bear witness in His name.",
+      "The apostles’ authority is delegated from Christ, not created by the later church.",
+      "Apostolic teaching was written, circulated, read publicly, and treated as authoritative within the apostolic period.",
+      "2 Peter 3:15–16 is an important example of apostolic writings being treated as Scripture.",
+      "The church recognized the canon by asking about apostolic connection, consistency with apostolic teaching, and widespread reception.",
+      "Most New Testament books were received very early; discussion focused on a smaller group.",
+      "Nicaea did not choose the New Testament canon, and later councils recognized rather than created its authority."
     ],
     "pressure": [
       [
         "“The church chose the books centuries later.”",
-        "The church did make real historical judgments about disputed books, and I would not minimize that. But that is different from saying Christians invented the New Testament in the fourth century. A core collection of Gospels and apostolic letters was already being read and treated as authoritative much earlier."
+        "That gives the later church too much authority and ignores the earlier evidence. The four Gospels and Paul’s letters were already being read and treated as authoritative long before the fourth century. Councils later recognized the collection more formally, but they did not turn ordinary books into Scripture."
       ],
       [
-        "“Why trust a canon with disputed books?”",
-        "That’s true, some books were disputed longer than others. I think that actually shows the process was serious rather than arbitrary. The churches were asking which writings genuinely belonged to the apostolic witness, not simply accepting every Christian text that circulated."
+        "“If some books were disputed, the canon must be arbitrary.”",
+        "I would draw the opposite conclusion. If the church accepted every Christian book without question, that would worry me more. The disputed books were examined because Christians cared whether they really belonged to the apostolic witness. Careful recognition is not the same thing as arbitrary selection."
+      ],
+      [
+        "“Jesus never gave us a list of twenty-seven books.”",
+        "That’s true, but He did something more foundational. He authorized apostles to teach and bear witness in His name. Once that authority is established, the canon question becomes which writings genuinely carry the apostolic witness Christ authorized."
       ]
     ],
-    "limits": "Do not claim Jesus personally named all 27 books or that canon history was effortless. The stronger case is Christ, then the apostles, then apostolic writings, and finally historical recognition.",
-    "practice": "A coworker says, “Christians debated some books for a long time, so the New Testament canon must be arbitrary.” How would you explain recognition without pretending the process was instant?",
-    "model": "I would acknowledge that canon recognition was gradual and that some books were disputed longer than others. Historically, Christian communities were already reading and collecting apostolic writings before the fourth-century councils. The further claim that the church recognized rather than created their authority is the Protestant theological conclusion based on Christ’s authorization of the apostles.",
+    "limits": "Do not pretend the final 27-book list appeared all at once. The apologetic case is stronger when it shows the actual process: Christ, the apostles, apostolic writings, early reception, careful recognition, and final agreement.",
+    "practice": "A coworker says, “The church picked the books of the Bible hundreds of years after Jesus, so the New Testament is basically a church-made collection.” How would you answer?",
+    "model": "I would start with Jesus, not with a later council. Jesus authorized apostles to teach and bear witness in His name. Their teaching was written down, circulated, and treated as authoritative very early. The church later had to recognize which writings genuinely carried that apostolic witness, but recognition is not the same thing as creating authority. Nicaea did not choose the New Testament, and a core collection was already functioning as Scripture long before the fourth century.",
     "sources": [
       [
-        "Ligonier | The Authority of the Apostles",
-        "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-authority-of-the-apostles"
+        "Ligonier | Authority and Canon",
+        "https://learn.ligonier.org/devotionals/authority-and-canon"
       ],
       [
-        "Ligonier | The New Testament Canon",
-        "https://learn.ligonier.org/devotionals/new-testament-canon"
+        "The Gospel Coalition | The Biblical Canon",
+        "https://www.thegospelcoalition.org/essay/the-biblical-canon/"
       ]
     ],
     "evidence": {
-      "claim": "These sources cover both the historical development of the New Testament canon and the Protestant argument that the church recognizes rather than creates scriptural authority.",
-      "establishes": "Kruger and Ligonier defend the recognition view, while the broader historical evidence shows an early core collection alongside longer disputes about some books.",
-      "caution": "The historical facts and the Protestant theological conclusion should not be confused. The authorship and date of 2 Peter are also disputed, so 2 Peter 3 should not carry the whole argument.",
+      "claim": "These resources make the standard apologetic case that New Testament authority runs from Christ to the apostles and that the church recognized rather than created the canon.",
+      "establishes": "Ligonier emphasizes delegated apostolic authority and the church’s reception of Scripture. Michael Kruger’s work emphasizes apostolic connection, divine qualities, and church-wide reception, while also showing that a large core of the New Testament was recognized early.",
+      "caution": "The recognition process was real and some books were discussed longer than others. The stronger apologetic does not hide that history; it explains why careful recognition is different from creating authority.",
       "resources": [
         {
-          "type": "Curriculum",
-          "title": "The Gospel Coalition | The Origins of the New Testament Canon",
-          "why": "Michael Kruger’s course covers apostolic origins, early core books, disputed books, criteria, and common canon myths.",
-          "url": "https://www.thegospelcoalition.org/course/origins-new-testament-canon/"
+          "type": "Teaching",
+          "title": "Ligonier | The Authority of the Apostles",
+          "why": "Explains that the apostles speak with authority delegated by Christ.",
+          "url": "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-authority-of-the-apostles"
         },
         {
           "type": "Teaching",
-          "title": "Ligonier | Authority and the Canon",
-          "why": "Explains that the church recognizes the authority of Scripture rather than creating it.",
+          "title": "Ligonier | Authority and Canon",
+          "why": "Explains the recognition-not-creation distinction and uses 2 Peter 3:15–16 as evidence that Paul’s letters were already being treated as Scripture.",
           "url": "https://learn.ligonier.org/devotionals/authority-and-canon"
         },
         {
           "type": "Teaching",
-          "title": "Ligonier | Did the Church Decide the Canon?",
-          "why": "Directly addresses the claim that church councils made the Bible authoritative.",
-          "url": "https://www.ligonier.org/posts/did-church-decide-which-books-made-it-bible"
+          "title": "Ligonier | What Is the Canon of Scripture?",
+          "why": "Walks through apostolic origin, early reception, doctrinal consistency, and the historical process of canon recognition.",
+          "url": "https://learn.ligonier.org/articles/what-is-the-canon-of-scripture"
+        },
+        {
+          "type": "Apologetics",
+          "title": "The Gospel Coalition | The Biblical Canon",
+          "why": "Michael Kruger summarizes the case for divine qualities, apostolic connection, early reception, and confidence in the canon.",
+          "url": "https://www.thegospelcoalition.org/essay/the-biblical-canon/"
         },
         {
           "type": "Apologetics",
           "title": "Michael J. Kruger | Ten Basic Facts about the New Testament Canon",
-          "why": "Summarizes early recognition, disputed books, and why Nicaea did not create the canon.",
+          "why": "Addresses common myths about late canon creation and explains why early disagreement over a few books does not make the canon arbitrary.",
           "url": "https://michaeljkruger.com/the-complete-series-ten-basic-facts-about-the-nt-canon-that-every-christian-should-memorize/"
-        },
-        {
-          "type": "Curriculum",
-          "title": "Ligonier | The Bible and Apologetics",
-          "why": "Course sequence on biblical authority after the case for God and Christ.",
-          "url": "https://learn.ligonier.org/series/defending-your-faith/the-bible-and-apologetics-part"
-        },
-        {
-          "type": "Academic",
-          "title": "Cambridge | 2 Peter: authorship and date",
-          "why": "Useful for seeing why the authorship and date of 2 Peter are disputed and why 2 Peter 3 should not carry the whole canon argument by itself.",
-          "url": "https://assets.cambridge.org/97810092/80938/excerpt/9781009280938_excerpt.pdf"
         }
       ]
     },
@@ -2717,31 +2721,31 @@ const questions = [
       ],
       [
         "Apostolicity",
-        "Connection to the apostles and their authorized teaching."
+        "A book’s connection to the apostles and the authoritative teaching Christ entrusted to them."
       ],
       [
         "Canon recognition",
-        "The historical process by which the church identified the writings it received as Scripture."
+        "The church’s historical recognition of the writings it received as God-given Scripture, rather than the church creating their authority."
       ]
     ],
-    "conclusion": "The New Testament canon developed through a real historical process; in the Protestant view, the church recognized apostolic authority rather than creating it.",
-    "thread": "Jesus receives the Old Testament, but he also commissions people to speak for him. That is the bridge to the New Testament.",
-    "bigIdea": "Jesus did not hand the church a finished 27-book list. He authorized apostles to bear witness to him, and the early church received writings tied to that apostolic witness as Scripture.",
+    "conclusion": "Christ authorized the apostles, their teaching became written Scripture, and the church recognized the New Testament rather than creating its authority.",
+    "thread": "Jesus receives the Old Testament as God’s Word and then authorizes apostles to speak in His name. That is the bridge to the New Testament.",
+    "bigIdea": "The New Testament’s authority comes from Christ through His apostles. The church’s job was to recognize the writings that carried that apostolic authority, not to create their authority later.",
     "checkpoints": [
       {
         "after": "core",
-        "question": "Jordan says a gradual canon-recognition process means the church created New Testament authority. What is the distinction?",
-        "answer": "The argument says authority came from Christ through the apostles, while the church’s historical task was to recognize which writings genuinely carried that apostolic witness."
+        "question": "Where does New Testament authority begin in this argument?",
+        "answer": "With Christ. Jesus authorizes the apostles, and their authority is delegated from Him."
       },
       {
         "after": "body",
-        "question": "Does a gradual recognition process mean the church created the books’ authority?",
-        "answer": "No. The argument is that apostolic authority came from Christ and the church gradually recognized which writings carried that authority."
+        "question": "What is the difference between recognizing the canon and creating it?",
+        "answer": "Recognition identifies writings that already carry apostolic and divine authority; creation would mean the church itself made them authoritative."
       },
       {
         "after": "facts",
         "question": "What is wrong with saying “Nicaea chose the Bible”?",
-        "answer": "The Council of Nicaea did not decide the New Testament canon, and apostolic writings were already treated as authoritative long before it."
+        "answer": "Nicaea did not decide the New Testament canon, and a large core of apostolic writings was already being received as Scripture long before it."
       }
     ],
     "story": {
@@ -3192,153 +3196,181 @@ const questions = [
     "id": 23,
     "cat": "origins",
     "tag": "Origins",
-    "title": "How should a Christian think about creation, Darwinian evolution, and worldview?",
-    "teaser": "Christians can disagree about the age of creation while still asking the more basic apologetic question: is life best explained by intentional creation or by unguided naturalism?",
-    "why": "Discussions about evolution become confusing very quickly because several different claims get packed into one word. I want to separate what biology actually observes and strongly supports from the larger philosophical claim that nature is all that exists. A Christian creationist response should engage the scientific evidence fairly rather than dismiss it as nothing more than naturalistic bias.",
-    "limits": "Do not deny well-established observed change or caricature mainstream evolutionary evidence. The stronger creationist case distinguishes observation, historical inference, causal sufficiency, and worldview.",
+    "title": "How should a Christian think about creation, evolution, and worldview?",
+    "teaser": "Observed biological change is real. The bigger question is whether that evidence proves universal common ancestry and whether unguided mechanisms can explain the information and machinery of life.",
+    "why": "The word evolution is used for several very different claims, and I think Christians get into trouble when we let all of them get treated as though they were the same thing. We can acknowledge observed change and natural selection without granting universal common ancestry, the sufficiency of unguided mechanisms, or philosophical naturalism. Those are separate claims and they need separate evidence.",
+    "limits": "Do not deny observed biological change, natural selection, adaptation, or speciation. The stronger creationist response is to show that those observations are not the same thing as universal common ancestry or proof that unguided mechanisms can build all of life.",
     "terms": [
       [
         "Natural selection",
-        "When heritable traits become more or less common because some organisms leave more offspring than others."
-      ],
-      [
-        "Common ancestry",
-        "The historical claim that different organisms came from shared ancestral populations."
+        "A real, observable process in which heritable traits become more or less common because some organisms leave more offspring than others."
       ],
       [
         "Universal common ancestry",
-        "The claim that all present life ultimately traces back to common ancestors."
+        "The historical claim that all present life ultimately descends from a common ancestral population."
+      ],
+      [
+        "Darwinian mechanism",
+        "The claim that unguided processes such as mutation and natural selection are sufficient to produce the major innovations and diversity of life."
       ],
       [
         "Abiogenesis",
-        "Research into how the first living or self-replicating systems could arise from nonliving chemistry."
+        "The separate origin-of-life question of how the first living or self-replicating system arose from nonliving chemistry."
       ],
       [
         "Methodological naturalism",
-        "The normal scientific practice of looking for natural causes. That working rule does not prove that nature is all that exists."
+        "A rule that restricts ordinary scientific explanations to natural causes; it is not the same claim as philosophical naturalism."
       ],
       [
         "Common design",
-        "The idea that similarities among living things can reflect the work of the same designer rather than ancestry alone."
+        "The creationist explanation that shared biological structures and genetic patterns can reflect reuse by the same Designer rather than ancestry alone."
+      ],
+      [
+        "Irreducible complexity",
+        "A system whose basic function depends on several interacting parts working together, raising the question of how the functioning system arose step by step."
       ]
     ],
     "core": [
-      "The central apologetic contrast is intentional creation versus philosophical naturalism, not a fight over every detail of chronology.",
-      "Observed biological change, adaptation, natural selection, and speciation are not the same claim as universal common ancestry.",
-      "Universal common ancestry is a historical inference from several lines of evidence; the causal sufficiency of unguided mechanisms for all biological novelty is a further question.",
-      "Origin of life is distinct again: natural selection presupposes life capable of reproduction and inheritance.",
-      "Similar structures and DNA fit naturally within a common-ancestry model, but creationists also appeal to common design and should compare how the competing models explain the full evidence.",
-      "Methodological naturalism is a rule for ordinary scientific practice; philosophical naturalism is the worldview claim that nature is all that exists.",
-      "The cumulative case from the rest of the course gives independent reasons to consider intelligent creation as a real explanatory framework."
+      "The word evolution can mean simple change over time, natural selection and adaptation, universal common ancestry, or the claim that unguided mechanisms can explain all biological complexity. Those are not the same claim.",
+      "Natural selection, mutation, adaptation, and even speciation can be observed without proving universal common ancestry.",
+      "Universal common ancestry is a historical inference from present evidence, not an observation of the entire history of life.",
+      "Similar anatomy and DNA are commonly used as evidence for common ancestry, but creationists argue that common design can also explain shared architecture.",
+      "Evidence for common ancestry is not automatically evidence that mutation and natural selection are sufficient to build new biological information and integrated molecular systems.",
+      "Biological information and irreducibly complex molecular machinery give a positive design argument because intelligence is a known cause of information-rich instructions and coordinated machines.",
+      "Abiogenesis is a separate problem because natural selection cannot operate until a reproducing, heritable system already exists.",
+      "Methodological naturalism can be useful as a scientific method, but it cannot logically establish philosophical naturalism or rule out a Creator.",
+      "The earlier case for God matters: if there are independent reasons to believe a Creator exists, intelligent causation cannot simply be excluded before the biological evidence is interpreted."
     ],
     "lesson": {
-      "heading": "Separate the claims before arguing about them",
-      "body": "The first thing I would separate is observed biological change from the larger philosophical conclusions people sometimes attach to it. Mutations happen, natural selection happens, populations adapt, and new species can arise. A Christian does not need to deny those observations in order to believe God intentionally created life.\n\nCommon ancestry is a different claim. Universal common ancestry says that present cellular life ultimately traces back through common descent. Within mainstream biology, common ancestry is not treated as a fringe possibility. It is a central and strongly supported scientific conclusion, with evidence drawn from fossils, comparative anatomy, biogeography, genetics, molecular similarities, and the shared features of cellular life. A creationist argument should acknowledge that standing before disagreeing with the inference.\n\nThe next question is what that scientific conclusion does and does not establish. Common ancestry, even if accepted, does not by itself prove philosophical naturalism or show that God did not create. Creationists who reject universal common ancestry often appeal to common design, meaning that shared structures can also reflect the work of the same Designer. That alternative has to be argued from the evidence rather than asserted as though the mainstream case does not exist.\n\nThere is also a separate causal question. Even if someone granted common ancestry for the sake of argument, that would not by itself settle whether unguided mechanisms are sufficient to produce all of the biological information, structures, and integrated systems needed throughout the history of life. Mutation, selection, duplication, co-option, drift, and other mechanisms still have to be evaluated for what they can actually explain.\n\nOrigin of life, or abiogenesis, is a separate question again. Natural selection requires a system that already reproduces and passes on heritable differences. It cannot explain the first reproducing life before reproduction exists.\n\nWorldview matters here as well. Methodological naturalism is the normal scientific practice of looking for natural mechanisms. Philosophical naturalism goes much further and says that nature is all that exists. Those are not the same claim.\n\nIf philosophical naturalism is assumed from the beginning, intelligent causation is excluded before the larger worldview question is even considered. But the opposite mistake is also possible: a Christian should not dismiss strong biological evidence simply because it fits common ancestry. The earlier arguments in this course are meant to give independent reasons for believing in a Creator, and that larger case should inform how we think about origins without replacing careful scientific argument.\n\nA Christian can therefore acknowledge the strong scientific standing of common ancestry, distinguish it from philosophical naturalism, and still ask whether intentional creation and intelligent causation better explain the whole of reality. The question is not whether science matters. The question is what each line of evidence actually establishes and what conclusions go beyond it.",
+      "heading": "Separate what we observe from what is being inferred",
+      "body": "When someone says, “Evolution is a fact,” the first thing I want to know is what they mean by evolution. If they mean that populations change over time, mutations happen, natural selection happens, organisms adapt, and new species can arise, then I do not need to argue with that. Those things are observed.\n\nHere is the problem: those observations are often treated as though they automatically prove a much larger claim, that all life descended from a universal common ancestor and that unguided natural processes are sufficient to build every major biological innovation along the way. That conclusion is not identical to the observations.\n\nUniversal common ancestry is a historical inference. Scientists look at fossils, anatomy, genetics, biogeography, and other present evidence and infer a history from it. Mainstream biology interprets many of those similarities as evidence of common descent. A creationist does not need to pretend those similarities do not exist. The question is whether common ancestry is the only reasonable explanation of them.\n\nOne way to look at this is common design. When the same engineer builds different machines, we expect repeated parts, repeated solutions, and a common design language. Creationists argue that similar body plans, biochemical systems, and genetic architecture can reflect the work of the same Designer. Answers in Genesis, Creation Ministries, and Stand to Reason all make this basic point: similarity is real, but similarity by itself does not tell you whether the ultimate explanation is common ancestry or common design.\n\nThere is another distinction that matters just as much. Common ancestry and the Darwinian mechanism are not the same claim. Even Discovery Institute writers who are open to common descent point out that common descent does not show that mutation and natural selection can generate the biological information and tightly integrated systems required for large-scale innovation.\n\nThat is where biological information and irreducible complexity matter. DNA is not random chemistry. The sequence is used in a system that stores, reads, copies, regulates, and translates functionally significant information. Cells also contain molecular machines whose basic function depends on multiple coordinated parts. The design argument asks what kind of cause is known to produce information-rich instructions and integrated machinery. Intelligence does.\n\nThis is not simply saying, “We do not know how evolution did it, therefore God.” The positive argument is that information, coding systems, and coordinated machines are effects we know intelligence can produce. At the same time, proposed evolutionary pathways still have to show how the necessary parts, regulation, assembly, and selectable function arose step by step.\n\nOrigin of life is another separate problem. Natural selection only begins once there is already a reproducing system with heritable differences. It cannot explain the first system before reproduction and inheritance exist. Abiogenesis therefore cannot be quietly folded into natural selection as though it were the same problem.\n\nWorldview also matters. Science normally uses methodological naturalism, meaning it looks for natural mechanisms. That can be a useful working method, but it cannot then be turned into the conclusion that only natural causes exist. If you begin by ruling out intelligence or a Creator by definition, you will naturally interpret every pattern within a purely naturalistic framework.\n\nThe earlier lessons in this course matter here. We have already given independent reasons for believing the universe has a Creator. If that case is good, then design is not a desperate explanation added after biology gets difficult. It is already a live explanation, and the biological evidence should be considered within that larger worldview.\n\nThe Christian does not need to deny real biological change. The issue is whether observed change proves universal common ancestry and whether unguided mechanisms are sufficient to explain the information, machinery, and origin of life. I do not think they are.",
       "facts": [
-        "Creationist ministries differ over chronology and some scientific models, but they share the claim that God intentionally created life.",
-        "Reasons to Believe explicitly frames common descent versus common design as a model comparison; Answers in Genesis and Creation Ministries also argue that similarity can be interpreted through common design.",
-        "Discovery Institute curricula separate criticism of modern evolutionary theory from the positive intelligent-design case.",
-        "Biological change within populations is evidence of evolution in a broad sense but does not, by itself, establish every larger historical claim.",
-        "A fair apologetic presentation should represent mainstream evidence for common ancestry accurately before explaining why the creationist disputes the inference or its naturalistic interpretation."
+        "Natural selection and biological variation are observable and are accepted by major creationist ministries.",
+        "Observed adaptation or speciation does not by itself establish universal common ancestry.",
+        "Homology and genetic similarity are commonly interpreted as evidence for common ancestry, while creationist resources argue that common design is a competing explanation.",
+        "Common descent and the sufficiency of Darwinian mechanisms are separate questions; even intelligent-design advocates who allow common descent make this distinction.",
+        "Irreducible complexity asks whether a functioning system requiring several coordinated parts can be built through a viable step-by-step pathway.",
+        "Natural selection presupposes reproduction and inheritance, so the origin of the first life is a separate problem.",
+        "Methodological naturalism is a scientific rule of method; philosophical naturalism is a worldview claim and does not follow automatically from the method."
       ],
       "further": [
         [
-          "National Academies | Science, Evolution, and Creationism",
-          "https://www.nationalacademies.org/publications/11876"
+          "Stand to Reason | Does Evolution Square with Christianity?",
+          "https://www.str.org/w/does-evolution-square-with-christianity-"
         ],
         [
-          "Stanford Encyclopedia of Philosophy | Religion and Science",
-          "https://plato.stanford.edu/entries/religion-science/"
+          "Stand to Reason | Common Descent or Common Design?",
+          "https://www.str.org/w/common-descent-or-common-design"
         ],
         [
-          "Pallen & Matzke | From The Origin of Species to the Origin of Bacterial Flagella",
-          "https://pubmed.ncbi.nlm.nih.gov/16953248/"
+          "Answers in Genesis | Understanding Natural Selection",
+          "https://answersingenesis.org/natural-selection/understanding-natural-selection/"
         ],
         [
-          "Discovery Institute | Intelligent Design",
-          "https://www.discovery.org/id/"
+          "Answers in Genesis | Common Design Means Common Ancestry?",
+          "https://answersingenesis.org/theory-of-evolution/evidence/common-design-means-common-ancestry/"
+        ],
+        [
+          "Discovery Institute | Intelligent Design and the Origin of Biological Information",
+          "https://www.discovery.org/a/17571/"
+        ],
+        [
+          "Discovery Institute | Irreducible Complexity",
+          "https://www.discovery.org/t/irreducible-complexity/"
+        ],
+        [
+          "Creation Ministries | Common Design and Common Ancestry",
+          "https://creation.com/en/articles/refuting-evolution-2-chapter-6-argument-common-design-points-to-common-ancestry"
         ]
       ]
     },
     "pressure": [
       [
-        "“Genetic similarities prove common ancestry.”",
-        "Genetic similarity is real evidence used in the common-ancestry case, and Christians should not pretend otherwise. The question is whether those similarities uniquely require universal common ancestry or whether common design, functional constraints, and more limited ancestry can explain at least some of the same patterns."
+        "“Natural selection and speciation have been observed, so evolution is proven.”",
+        "I would agree that natural selection and biological change are observed. The question is what those observations prove. Showing that populations change or that new species can arise does not by itself show that all life came from one universal ancestor or that unguided mechanisms can build every major biological innovation."
+      ],
+      [
+        "“Genetic similarity proves common ancestry.”",
+        "Genetic similarity is exactly the kind of evidence used for common ancestry, but the conclusion still has to be argued. A common Designer would also be expected to reuse successful structures, systems, and genetic architecture. Similarity is evidence that needs an explanation; it is not the same thing as the explanation itself."
+      ],
+      [
+        "“Scientists have proposed evolutionary pathways for complex systems, so irreducible complexity is dead.”",
+        "Proposing a pathway is not the same thing as demonstrating that the pathway can produce the system. The question is whether each step is viable, selectable, and capable of producing the parts, regulation, assembly, and final coordinated function that actually need to be explained."
       ],
       [
         "“Evolution makes a Creator unnecessary.”",
-        "Even if evolutionary theory gave a complete account of biological diversification, it would not explain why the universe exists, why its laws permit life, how the first life and biological information arose, why reason can know truth, or why objective morality exists. Evolution is a biological theory, not a complete worldview, so it cannot make a Creator unnecessary by itself."
+        "Even if someone granted common ancestry, that would not explain why the universe exists, why it is life-permitting, how the first life arose, where biological information ultimately comes from, why reason can know truth, or why objective morality exists. A biological theory cannot do the work of an entire worldview."
       ]
     ],
-    "practice": "A student says, “Humans and chimpanzees share a great deal of DNA, so common ancestry is proven and a Creator is disproven.” How would you separate the evidence from the larger conclusions?",
-    "model": "I would acknowledge that genetic similarity is real evidence for common ancestry and that common ancestry has strong standing in mainstream biology. Then I would separate that scientific conclusion from the larger worldview claim. Common ancestry does not by itself prove philosophical naturalism or show that there is no Creator. A creationist response still has to engage the biological evidence rather than dismiss it.",
+    "practice": "A biology student says, “We observe natural selection, species change, and genetic similarities, so we know all life came from a common ancestor through unguided evolution. There is no need for design.” How would you separate the claims and respond?",
+    "model": "I would agree with the part we actually observe: populations change, natural selection happens, and organisms can adapt. Then I would separate that from universal common ancestry and from the claim that unguided mechanisms can build all biological complexity. Genetic similarities can be interpreted as common descent, but a creationist can also ask whether common design explains shared architecture. Then I would move to the harder causal questions: where the first life came from, where functional biological information came from, and whether mutation and selection can actually build tightly integrated molecular systems. Those are not answered simply by saying that natural selection exists.",
     "evidence": {
-      "claim": "These sources let us compare the mainstream scientific case for common ancestry with Christian creationist and intelligent-design responses.",
-      "establishes": "The National Academies and current evolutionary research treat common ancestry as strongly supported by several independent lines of evidence. Creationist and design sources then raise different questions about interpretation, causal sufficiency, common design, and worldview.",
-      "caution": "A creationist lesson should not imply that common ancestry is accepted only because scientists assume naturalism. The evidence itself has to be represented and answered.",
+      "claim": "These apologetics resources consistently separate observed biological change from universal common ancestry and from the sufficiency of unguided evolutionary mechanisms.",
+      "establishes": "Stand to Reason distinguishes ordinary change over time from universal common descent. Answers in Genesis and Creation Ministries argue that natural selection and variation are real while challenging the move from observed change to universal ancestry. Discovery Institute separates common descent from the separate question of whether intelligent causation is needed to explain biological information and irreducibly complex systems.",
+      "caution": "Do not deny observations creationists themselves accept. The stronger argument is that observed change does not prove every larger historical and causal claim bundled under the word evolution.",
       "resources": [
         {
-          "type": "Science",
-          "title": "National Academies | Evidence for common descent",
-          "why": "Summarizes the fossil, anatomical, biogeographic, biochemical, and genetic evidence that gives common descent its strong standing in mainstream biology.",
-          "url": "https://nap.nationalacademies.org/read/1886/chapter/5"
+          "type": "Apologetics",
+          "title": "Stand to Reason | Does Evolution Square with Christianity?",
+          "why": "Separates change over time from universal common ancestry and Darwinian mechanisms, which is the basic distinction this lesson teaches.",
+          "url": "https://www.str.org/w/does-evolution-square-with-christianity-"
         },
         {
-          "type": "Science",
-          "title": "Nature Ecology & Evolution | The last universal common ancestor",
-          "why": "Shows how current evolutionary research treats common ancestry as a working scientific framework while continuing to debate the details of early life.",
-          "url": "https://www.nature.com/articles/s41559-024-02461-1"
-        },
-        {
-          "type": "Curriculum",
-          "title": "Impact Apologetics | Evolution Parts 1–2",
-          "why": "A Christian curriculum separating information, mechanisms, irreducible complexity, and limits of evolutionary change.",
-          "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
-        },
-        {
-          "type": "Curriculum",
-          "title": "Discovery Institute | TrueU: Does God Exist? / DNA by Design",
-          "why": "Curriculum material distinguishing biological information and intelligent causation from mere appeals to gaps.",
-          "url": "https://www.discovery.org/m/2018/12/Does-God-Exist-Guide-3.0.2.pdf"
-        },
-        {
-          "type": "Intelligent design",
-          "title": "Discovery Institute | Common Descent and Intelligent Design",
-          "why": "Explains why common descent and intelligent causation are logically distinct questions.",
-          "url": "https://www.discovery.org/a/10661/"
+          "type": "Apologetics",
+          "title": "Stand to Reason | Common Descent or Common Design?",
+          "why": "Presents common design as an alternative explanation for biological similarities and homologies.",
+          "url": "https://www.str.org/w/common-descent-or-common-design"
         },
         {
           "type": "Creationist",
-          "title": "Answers in Genesis | Common Code, Common Designer?",
-          "why": "Develops the common-design interpretation of shared biological architecture.",
-          "url": "https://answersingenesis.org/genetics/dna-structure/common-code-common-designer/"
+          "title": "Answers in Genesis | Understanding Natural Selection",
+          "why": "Affirms natural selection as observable while arguing that it does not establish universal evolutionary claims.",
+          "url": "https://answersingenesis.org/natural-selection/understanding-natural-selection/"
         },
         {
-          "type": "Curriculum",
-          "title": "Reasons Institute | Creation, Evolution, and Naturalism",
-          "why": "Eight-week course on origin of life, common descent vs. common design, fossils, and creation models.",
-          "url": "https://reasons.org/reasons-institute/courses"
+          "type": "Creationist",
+          "title": "Answers in Genesis | Common Design Means Common Ancestry?",
+          "why": "Challenges the claim that shared biological structures uniquely establish universal common ancestry.",
+          "url": "https://answersingenesis.org/theory-of-evolution/evidence/common-design-means-common-ancestry/"
+        },
+        {
+          "type": "Intelligent design",
+          "title": "Discovery Institute | Intelligent Design and the Origin of Biological Information",
+          "why": "Separates evidence for common ancestry from evidence that mutation and natural selection can generate biological information.",
+          "url": "https://www.discovery.org/a/17571/"
+        },
+        {
+          "type": "Intelligent design",
+          "title": "Discovery Institute | Irreducible Complexity",
+          "why": "Collects the positive design argument from molecular systems whose basic function depends on coordinated parts.",
+          "url": "https://www.discovery.org/t/irreducible-complexity/"
+        },
+        {
+          "type": "Creationist",
+          "title": "Creation Ministries | Common Design and Common Ancestry",
+          "why": "Develops the common-design response to homology and genetic similarity.",
+          "url": "https://creation.com/en/articles/refuting-evolution-2-chapter-6-argument-common-design-points-to-common-ancestry"
         }
       ]
     },
-    "conclusion": "Common ancestry has strong scientific support, but it does not by itself prove naturalism or rule out intentional creation.",
-    "thread": "Origins can easily swallow the whole conversation. This lesson keeps the bigger issue in view: creation or unguided naturalism?",
-    "bigIdea": "Mainstream biology strongly supports common ancestry, but common ancestry does not by itself establish philosophical naturalism or rule out a Creator. A creationist response has to engage the evidence rather than dismiss it.",
+    "conclusion": "Observed biological change is real, but it does not establish universal common ancestry or show that unguided mechanisms can explain the information, machinery, and origin of life.",
+    "thread": "Origins can easily become a debate about labels. This lesson keeps the claims separate so the evidence for observed change is not allowed to do more work than it actually does.",
+    "bigIdea": "Observed change and natural selection are real. Universal common ancestry and the sufficiency of unguided mechanisms are larger claims, and biological information, molecular machinery, common design, and origin-of-life evidence keep intelligent creation firmly in the discussion.",
     "checkpoints": [
       {
         "after": "core",
-        "question": "Someone says “evolution” disproves a Creator. What should you clarify before answering?",
-        "answer": "Which claim he means: observed biological change, common ancestry, the sufficiency of unguided mechanisms, origin of life, or a philosophical naturalistic conclusion."
+        "question": "Someone says, “Evolution has been observed.” What should you ask first?",
+        "answer": "What they mean by evolution: observed change and natural selection, universal common ancestry, or the claim that unguided mechanisms can explain all biological complexity."
       },
       {
         "after": "body",
-        "question": "What is the difference between methodological and philosophical naturalism?",
-        "answer": "Methodological naturalism is a working rule that looks for natural mechanisms; philosophical naturalism is the worldview claim that nature is all that exists."
+        "question": "Why does observing natural selection not settle universal common ancestry?",
+        "answer": "Natural selection shows that populations can change. Universal common ancestry is a much larger historical inference about the ancestry of all life."
       },
       {
         "after": "facts",
-        "question": "How should a creationist handle genetic or anatomical similarities?",
-        "answer": "Acknowledge that they are genuine evidence used for common ancestry, then compare whether common descent or common design better explains the full pattern within the larger worldview evidence."
+        "question": "What is the common-design response to biological similarity?",
+        "answer": "Shared structures and genetic patterns can be explained as reuse by the same Designer rather than being treated as uniquely diagnostic of common ancestry."
       }
     ]
   }
@@ -4675,19 +4707,29 @@ const sourceItems = [
     "https://academic.oup.com/book/27347/chapter-abstract/197087305"
   ],
   [
-    "Cambridge | 2 Peter: Authorship and Date",
-    "Academic discussion of why the authorship and date of 2 Peter remain disputed.",
-    "https://assets.cambridge.org/97810092/80938/excerpt/9781009280938_excerpt.pdf"
+    "Ligonier | What Is the Canon of Scripture?",
+    "A clear Reformed treatment of apostolicity, early reception, disputed books, and the church’s recognition of the canon.",
+    "https://learn.ligonier.org/articles/what-is-the-canon-of-scripture"
   ],
   [
-    "National Academies | Evidence for Common Descent",
-    "Mainstream scientific summary of fossil, anatomical, biogeographic, biochemical, and genetic evidence for common descent.",
-    "https://nap.nationalacademies.org/read/1886/chapter/5"
+    "TGC | The Biblical Canon",
+    "Michael Kruger’s concise case for apostolic connection, divine qualities, early reception, and confidence in the biblical canon.",
+    "https://www.thegospelcoalition.org/essay/the-biblical-canon/"
   ],
   [
-    "Nature | Last Universal Common Ancestor",
-    "Current evolutionary research using common ancestry as a scientific framework while investigating the nature and age of LUCA.",
-    "https://www.nature.com/articles/s41559-024-02461-1"
+    "Stand to Reason | Does Evolution Square with Christianity?",
+    "Separates simple biological change from universal common ancestry and the larger Darwinian mechanism.",
+    "https://www.str.org/w/does-evolution-square-with-christianity-"
+  ],
+  [
+    "Stand to Reason | Common Descent or Common Design?",
+    "A recent apologetics treatment of homology, common ancestry, and the common-design alternative.",
+    "https://www.str.org/w/common-descent-or-common-design"
+  ],
+  [
+    "Answers in Genesis | Understanding Natural Selection",
+    "A creationist explanation that accepts observable natural selection while distinguishing it from universal evolutionary claims.",
+    "https://answersingenesis.org/natural-selection/understanding-natural-selection/"
   ]
 ];
 
