@@ -141,9 +141,11 @@ const questions = [
     "story": {
       "title": "The first question",
       "lines": [
-        "Jordan is a friend of yours. He knows you are a Christian, but the two of you have never really talked about why you believe what you believe. Lately, you have started taking walks together every so often, usually through the neighborhood or a nearby park. Most of the time you talk about ordinary things, but on this walk the conversation turns in a different direction.",
-        "You and Jordan have only been walking a few minutes when he asks, “Why do you actually believe Christianity is true?”",
-        "You start thinking of answers: the resurrection, creation, the Bible, morality. Then you realize that before giving an argument, you need to know what would count as a good argument in the first place. You ask, “If I give you a reason, how would we know whether it is a good one?” Jordan shrugs. “I guess the conclusion has to actually follow.” That is where the conversation begins."
+        "Jordan is a friend of yours. He knows you are a Christian, but the two of you have never really talked about why you believe what you believe. Lately, you have started taking walks together every so often, usually through the neighborhood or a nearby park. Most of the time you talk about work, family, things you saw online, or whatever else comes up.",
+        "A few minutes into this walk, Jordan glances over and says, “Can I ask you something without you getting offended?” You laugh and tell him to go ahead. “Why do you actually believe Christianity is true?”",
+        "You immediately think of several answers: the resurrection, creation, the Bible, morality. You could start listing them, but something stops you. “Before I throw arguments at you, can I ask something first? What would count as a good reason?”",
+        "Jordan looks puzzled. “What do you mean?” You say, “If I give you an argument, we need some way to tell whether the reasoning actually works. Otherwise we are just trading opinions.” Jordan thinks for a moment. “I guess the conclusion has to follow from what you are saying.”",
+        "That is a good start. Before the two of you can argue about Christianity, you first need to know what makes an argument good, what a premise is, and why a conclusion does or does not follow."
       ]
     }
   },
@@ -271,9 +273,11 @@ const questions = [
     "story": {
       "title": "The crosswalk",
       "lines": [
-        "A few blocks later, Jordan says, “Christianity might be true for you. Somebody else has their truth.”",
-        "You reach a crosswalk as a car approaches. Both of you wait. You ask, “Could it be true for me that the car is coming, but true for you that there is no car?” Jordan laughs. “We would find out pretty quickly who was wrong.”",
-        "You make the point: people can sincerely believe different things, but contradictory claims cannot both describe reality correctly. The question is not whether Christianity feels true to someone, but whether it is true."
+        "A few blocks later, Jordan returns to the original question. “I still think religion is different. Christianity might be true for you, but somebody else has their truth.”",
+        "You reach a crosswalk as a car approaches. Both of you wait. You point toward it and ask, “Could it be true for me that the car is coming, but true for you that there is no car?” Jordan laughs. “Not if I want to make it across the street.”",
+        "You cross when the road clears. “That is all I mean. People can believe different things, and they can be completely sincere. But if two claims contradict each other, they cannot both describe reality correctly in the same way at the same time.”",
+        "Jordan pushes back. “But religion is not a car. People interpret spiritual things differently.” You agree that religious questions are harder to investigate, but harder to know does not mean truth disappears.",
+        "Jordan nods. “So before asking whether Christianity is true, we need to agree that there is such a thing as truth to begin with.” Exactly."
       ]
     }
   },
@@ -401,9 +405,11 @@ const questions = [
     "story": {
       "title": "Looking at what depends on what",
       "lines": [
-        "The two of you turn onto a street lined with houses, cars, and trees. Jordan asks why you would move from truth to God.",
-        "You point out that none of the things around you had to exist. Each one depends on other things and on conditions beyond itself. Jordan says, “Maybe the universe is just there.”",
-        "You answer, “Maybe, but that is the question. If everything we see is dependent, what ultimately explains why dependent reality exists at all?”"
+        "The two of you turn onto a quieter street lined with houses, parked cars, trees, and utility poles. Jordan says, “All right. Suppose truth is real. I still do not see why that gets us anywhere near God.”",
+        "“It does not by itself,” you answer. “We would need reasons.” You gesture toward the houses around you. None of them had to exist. Someone built them. The trees grew because countless conditions were already in place. The cars depend on factories, materials, fuel, roads, and people.",
+        "Jordan says, “Sure, but that just means things cause other things.” You explain that the deeper issue is dependence. These things do not contain the reason for their existence in themselves. They could have failed to exist, and they rely on realities beyond themselves.",
+        "Jordan shrugs. “Maybe when you get all the way down to the universe, you just stop. Maybe it is simply there.”",
+        "You keep walking. “Maybe. But saying ‘it is just there’ is not yet an explanation. If everything we encounter is dependent, the question is whether dependent reality ultimately rests on something that is not dependent in the same way.”"
       ]
     }
   },
@@ -552,9 +558,11 @@ const questions = [
     "story": {
       "title": "Could the universe have always been here?",
       "lines": [
-        "Jordan picks up the earlier question. “What if the universe has always existed? Then why bring God into it?”",
-        "You explain that existing forever would not automatically make the universe necessary or self-existent. Then you ask a second question: did the universe actually have a beginning?",
-        "Jordan says, “And if it did?” You answer, “Then we have to ask what caused it. Things do not simply begin to exist from nothing for no reason.”"
+        "Jordan picks up the conversation from the last walk. “What if the universe has always existed? If there was never a beginning, then maybe you do not need God at all.”",
+        "You remind him that the contingency question was about dependence, not age. Something could have existed forever and still depend on something else for its existence. Jordan accepts the distinction but says, “Fine. Then maybe the universe is eternal and dependent. What does that change?”",
+        "“It raises another question,” you say. “Did the universe actually have a beginning?” Jordan asks what difference that would make.",
+        "You answer, “If physical reality began to exist, then we have to ask what caused that beginning. The argument is not that everything needs a cause. It is that things that begin to exist do not simply appear from nothing for no reason.”",
+        "Jordan pauses. “So ‘Who caused God?’ would not actually answer that premise if you are talking about something beginning.” Right. Now the real work is to ask whether the universe did begin and what would follow if it did."
       ]
     }
   },
@@ -679,9 +687,11 @@ const questions = [
     "story": {
       "title": "The watch beside the path",
       "lines": [
-        "On your next walk through the park, Jordan notices a watch partly hidden beside the path. Without hesitation, he assumes someone made it and lost it.",
-        "You ask how he knows. Jordan says, “Because watches are designed.” You point out that certain arrangements of parts naturally lead us to consider intelligence because intelligence is a known cause of purposeful organization.",
-        "Jordan pushes back: “Nature is not a watch.” You agree. The watch is not the proof. The real question is whether nature contains features that give us a similar reason to infer intelligence."
+        "On your next walk through the park, Jordan slows down and points beside the path. A watch is partly hidden in the grass. He picks it up, looks around, and says, “Somebody must have dropped this.”",
+        "You ask, “How do you know somebody made it?” Jordan gives you a look. “Because it is a watch.” You ask what he actually means by that. He points to the face, hands, clasp, and internal parts. “The pieces are arranged to do something.”",
+        "You tell him that he has just made a design inference. He did not watch the manufacturer build it. He recognized a pattern of parts organized toward a function and connected that pattern with a kind of cause he already knows can produce it: intelligence.",
+        "Jordan immediately sees where you are going. “Do not tell me the universe is a giant watch. Nature is not the same thing as something we already know humans manufacture.”",
+        "You agree. “Good objection. The watch is not the proof. The real question is whether there are features in nature that give us a similar reason to consider intelligence as the best explanation.” Jordan slips the watch into his pocket so he can turn it in at the park office. “All right. Show me the difference between real design evidence and just saying something looks complicated.”"
       ]
     }
   },
@@ -825,9 +835,11 @@ const questions = [
     "story": {
       "title": "Looking up",
       "lines": [
-        "The walk runs late enough that stars begin to appear. Jordan looks up and says, “It is pretty incredible.”",
-        "You point out that the universe did not merely have to exist for the two of you to be standing there. It had to permit stable matter, stars, chemistry, planets, and complex embodied life.",
-        "Jordan says, “Of course we observe a universe that allows observers.” You agree, then ask the important question: does that explain why a life-permitting universe exists in the first place?"
+        "The walk goes longer than usual, and by the time you turn back the sky is dark enough for stars to appear. Jordan looks up through the trees and says, “I will give you this. It is incredible that any of this exists.”",
+        "You point out that existence alone is not the whole issue. For the two of you to stand there talking, the universe has to permit stable matter, long-lived stars, complex chemistry, planets, and a host of other conditions that allow embodied life.",
+        "Jordan says, “But of course we see a universe that allows life. If it did not, nobody would be here to notice.” You agree that observers can only observe conditions compatible with observers.",
+        "Then you ask, “But does that tell us why the conditions are life-permitting in the first place?” Jordan thinks for a moment. “No. It tells us why we would only notice a universe like this, not why there is one.”",
+        "Exactly. Now the discussion has shifted from merely noticing fine-tuning to comparing explanations for it: necessity, chance, perhaps a multiverse, or design."
       ]
     }
   },
@@ -976,9 +988,11 @@ const questions = [
     "story": {
       "title": "A leaf and a cell",
       "lines": [
-        "On another walk, Jordan brushes a leaf from his jacket and jokes that your intelligently designed tree attacked him.",
-        "You turn the leaf over and remind him that it is made of cells containing DNA, molecular machines, copying systems, repair systems, regulation, and transport. Jordan says, “But DNA is just chemistry.”",
-        "You agree. The design question is not whether DNA is chemical. It is why particular chemical sequences carry biological function and operate inside a coordinated information-processing system."
+        "On another walk through the park, Jordan brushes a leaf from his jacket and jokes, “Your intelligently designed tree is attacking me.” You take the leaf and turn it over in your hand.",
+        "“What are we actually looking at?” you ask. Jordan says, “A leaf.” You remind him that it is made of living cells containing DNA, systems that copy DNA, systems that read it, molecular machines that build proteins, repair mechanisms, regulation, and transport.",
+        "Jordan responds, “But DNA is just chemistry. Calling it information sounds like you are sneaking design into the description.”",
+        "You agree that DNA is made of ordinary chemicals. The question is not whether it is chemical but whether the sequence and the cellular machinery perform highly specific functions that require explanation. A sentence is made of ink, but knowing what the ink is made of does not explain why the letters are arranged as instructions.",
+        "Jordan pushes back again. “Is that where evolution comes in?” Yes. Mutation, selection, duplication, and other mechanisms are real proposals that need to be evaluated. The question is not whether mechanisms exist, but how much they can actually explain about the origin of functional information and integrated systems."
       ]
     }
   },
@@ -1122,9 +1136,11 @@ const questions = [
     "story": {
       "title": "That was wrong",
       "lines": [
-        "A driver cuts off a cyclist, nearly causing a crash, then shouts and makes an obscene gesture as he speeds away.",
-        "Jordan watches him go. “That was completely wrong.” You ask, “Wrong as in you personally dislike it, or wrong even if the driver thinks he did nothing wrong?”",
-        "Jordan groans because he sees where the conversation is going. But he has already made the key claim: some actions really ought not be done. Now the question is what makes that obligation real."
+        "As you reach an intersection, a driver cuts off a cyclist badly enough that the cyclist has to brake hard to avoid being hit. Instead of apologizing, the driver leans on the horn, shouts through the window, and makes an obscene gesture before speeding away.",
+        "Jordan stares after the car. “What a jerk. That was completely wrong.”",
+        "You wait a few steps before asking, “Wrong in what sense?” Jordan looks at you suspiciously. “Do not turn this into philosophy.” You laugh. “I am asking seriously. Do you mean you personally dislike what he did, or that he actually should not have done it even if he thought it was fine?”",
+        "Jordan answers immediately. “He actually should not have done it. He could have hurt somebody.”",
+        "“Then you are making more than a statement about your feelings,” you say. Jordan groans because he sees where this is heading. He has claimed there is something the driver really ought not do. The next question is what makes that moral obligation real and binding in the first place."
       ]
     }
   },
@@ -1260,9 +1276,11 @@ const questions = [
     "story": {
       "title": "Why trust the mind doing the arguing?",
       "lines": [
-        "Jordan suggests that morality and reasoning can both be explained by evolution because creatures that think badly do not survive.",
-        "You glance at the map on your phone. Both of you have spent several walks weighing evidence, following arguments, and trying to reach true conclusions.",
-        "You ask whether explaining what caused a belief is the same as explaining why that belief is rationally justified. Jordan admits survival and truth are related, but they are not simply the same thing."
+        "Jordan is still thinking about the moral argument when he says, “Could not evolution explain all of this? We developed moral instincts and reasoning because creatures that cooperate and think accurately survive better.”",
+        "You glance at the map on your phone to make sure you are still heading the right way. “Maybe evolutionary pressures help explain why we have certain mental abilities. But there are two different questions here.”",
+        "Jordan asks what you mean. You say, “One question is what caused a belief to occur in my brain. Another is whether I have a good reason for believing it is true. If you tell me exactly which neurons fired when I concluded two plus two equals four, you have described a cause. Have you yet explained why the conclusion is rationally justified?”",
+        "Jordan says, “Not exactly. But accurate beliefs usually help survival.”",
+        "You agree that truth often helps survival. The harder question is whether survival alone explains our confidence in abstract logic, mathematics, metaphysics, and our ability to judge one argument as actually better than another. The worldview you choose has to explain the mind doing all this reasoning too."
       ]
     }
   },
@@ -1389,9 +1407,11 @@ const questions = [
     "story": {
       "title": "The cemetery",
       "lines": [
-        "A shortcut takes you past an old cemetery. Jordan looks through the fence and says, “This is where Christianity loses me. Dead people stay dead.”",
-        "You agree that dead people do not rise by ordinary natural causes. That is exactly why resurrection would be a miracle.",
-        "Then you remind him where the conversation has gone. If there is good reason to believe a Creator exists, can we rule out beforehand that this Creator could act within creation? Jordan answers, “No, but that does not mean he did.” You agree. Now the historical question can begin."
+        "A shortcut takes you past an old cemetery. Jordan slows down and looks through the iron fence at the rows of headstones. After a moment he says, “This is where Christianity loses me. Dead people stay dead.”",
+        "You answer, “Normally, yes.” Jordan corrects you. “Not normally. They just do.”",
+        "You point out that Christianity agrees about the ordinary course of nature. Resurrection would be remarkable precisely because dead people do not naturally return to life. Jordan says, “Which is why I do not believe it.”",
+        "You remind him where the earlier walks have led. “Suppose there are good independent reasons to believe a Creator exists. Would that Creator be limited to what nature can do by itself?” Jordan looks back through the fence. “No. I guess not.”",
+        "Then he adds, “But showing God could raise somebody is nowhere near showing Jesus actually rose.” You agree completely. Possibility is only the bridge. Now, for the first time, the historical evidence can be considered without the conclusion being ruled out before the investigation even begins."
       ]
     }
   },
@@ -1576,9 +1596,11 @@ const questions = [
     "story": {
       "title": "You were not there",
       "lines": [
-        "A later walk takes you past a historical marker describing an event from more than a century ago. Jordan reads it and, a few minutes later, says, “Neither of us was there when Jesus lived.”",
-        "You ask whether he thinks the event on the marker happened. He says probably, because there could be records, testimony, newspapers, or other evidence.",
-        "You point out that history works the same way with Jesus. The New Testament is Christian Scripture, but before deciding whether it is inspired, its documents can still be examined as ancient historical sources."
+        "A later walk takes you past a historical marker describing an event that happened in town more than a century ago. Jordan stops to read it. A few minutes later, the resurrection comes up again and he says, “There is still a basic problem. Neither of us was there.”",
+        "You ask whether he believes the event on the marker happened. “Probably,” he says. You ask why. Jordan lists the kinds of things he would want: records, newspaper accounts, letters, photographs, maybe multiple witnesses.",
+        "“So not personally seeing something does not make knowledge of the past impossible,” you say. Jordan agrees, but points out that the New Testament is a religious book written by believers.",
+        "You tell him that this matters, but it does not make the documents historically useless. Historians regularly evaluate sources written by people with commitments. They ask when the source was written, what information the author had, whether claims are independently supported, and how well alternative explanations fit.",
+        "Jordan asks, “So you are saying we can temporarily set aside the question of inspiration and just investigate these documents as ancient sources?” Exactly. That is the next step."
       ]
     }
   },
@@ -1721,9 +1743,11 @@ const questions = [
     "story": {
       "title": "Was Jesus only a teacher?",
       "lines": [
-        "Jordan says he can understand studying Jesus historically, but maybe Jesus was simply a gifted religious teacher whose followers later exaggerated him.",
-        "Then he asks, “Did Jesus ever actually say the exact words, ‘I am God’?”",
-        "You explain that the historical question is larger than one modern sentence. You have to consider Jesus’ titles, actions, claimed authority, relationship to the Father, and the role he claimed in final judgment."
+        "Jordan says he is willing to investigate the New Testament historically, but he suspects Jesus was probably a gifted religious teacher whose followers exaggerated him after his death.",
+        "Then he asks, “Did Jesus ever actually say the sentence ‘I am God’?”",
+        "You tell him that if the entire case depended on finding one modern English sentence, it would be weak. The historical question is broader: What did Jesus do? What titles did he use? What authority did he claim? How did he speak about forgiveness, the Sabbath, judgment, the Father, and his own role in God’s purposes?",
+        "Jordan says, “But some titles can mean different things. ‘Son of God’ does not automatically mean God.” You agree. That is why the case should not rest on one title either.",
+        "The real question is cumulative. If several independent features of Jesus’ words and actions point toward an extraordinary self-understanding, then the learner has to ask what Jesus actually thought he was claiming about himself."
       ]
     }
   },
@@ -1886,9 +1910,11 @@ const questions = [
     "story": {
       "title": "What if Jesus did not die?",
       "lines": [
-        "Jordan asks, “What if Jesus never actually died on the cross?”",
-        "You answer that if Jesus merely survived, then there was no resurrection. A bodily resurrection case has to begin with a real bodily death.",
-        "That means the investigation should start with crucifixion and death, then move to burial and the evidence concerning the tomb."
+        "Jordan has been thinking about Jesus’ claims when he asks, “What if he never actually died? People survived terrible injuries in the ancient world.”",
+        "You tell him that this is exactly the kind of question the resurrection case has to answer. If Jesus merely survived the cross and later recovered, then there was no resurrection.",
+        "Jordan says, “So you cannot start with the empty tomb and skip the death.” You agree. A bodily resurrection requires a real bodily death first.",
+        "That means the historical investigation has to establish crucifixion and death, then ask about burial and what happened to the body afterward. Jordan adds, “And I assume the tomb is not as certain as the crucifixion itself.”",
+        "Right again. Different pieces of evidence can have different strengths. The goal is not to pretend every detail is equally certain, but to establish a strong physical starting point and then see what explanation best fits what happened next."
       ]
     }
   },
@@ -2037,9 +2063,11 @@ const questions = [
     "story": {
       "title": "Put all the evidence on the table",
       "lines": [
-        "You and Jordan stop for coffee. He asks for your single best proof of the resurrection.",
-        "You tell him the case is stronger when the evidence is considered together: Jesus’ death, early resurrection proclamation, reported appearances, Paul, James, the tomb evidence, and the sudden rise of resurrection belief.",
-        "Jordan begins offering alternatives. “Maybe hallucinations. Maybe someone moved the body.” You keep asking the same question: how much of the whole pattern does each explanation actually explain?"
+        "You and Jordan stop for coffee halfway through the walk. Once you sit down, he says, “All right. Give me your best proof that Jesus rose from the dead.”",
+        "You tell him that the wording of the question can be misleading. The case does not depend on one magical fact. You start laying out the pieces: Jesus’ death, very early resurrection proclamation, reported appearances to individuals and groups, the change in Paul, the change in James, and the evidence concerning the tomb.",
+        "Jordan begins testing alternatives. “Maybe the disciples hallucinated.” You ask how much that explains. “Maybe someone moved the body.” Again, how much does that explain? “Maybe they made the story up.” Same question.",
+        "Jordan leans back. “So you are not asking whether I can imagine some explanation for one fact. You want one explanation that handles the whole pattern.”",
+        "Exactly. Historical reasoning often works by comparing explanatory scope, fit, and the number of extra assumptions required. The question is which explanation best accounts for the evidence taken together."
       ]
     }
   },
@@ -2166,9 +2194,11 @@ const questions = [
     "story": {
       "title": "A great teacher?",
       "lines": [
-        "Leaving the coffee shop, Jordan says he could still respect Jesus as a great moral teacher without believing Jesus was Lord.",
-        "You ask whether that description really fits if Jesus substantially made the extraordinary claims you have been examining.",
-        "Jordan suggests Jesus might have been wrong about himself. You agree that this is one possible answer. The point is that the comfortable middle position now has to face the identity question rather than simply ignore it."
+        "As you leave the coffee shop, Jordan says, “I can still admire Jesus as a great moral teacher without believing he was God.”",
+        "You ask whether that description really fits the Jesus you have been investigating. “Suppose he substantially made the kinds of extraordinary claims we just discussed. Can you simply ignore those and keep the moral teaching?”",
+        "Jordan thinks for a moment. “Maybe he was sincerely wrong about himself.”",
+        "You agree that this is a possible answer. Another possibility would be that he knowingly made false claims. Another would be that the claims are historically distorted, which would send the conversation back to the historical evidence. And another possibility is that the claims were true.",
+        "Jordan says, “So the argument is not that three words magically prove Jesus is Lord.” Exactly. The point is that once the historical premise is in place, “great teacher and nothing more” is not a comfortable stopping point. The identity question has to be faced."
       ]
     }
   },
@@ -2302,9 +2332,11 @@ const questions = [
     "story": {
       "title": "The overturned verdict",
       "lines": [
-        "The two of you pass the courthouse. Jordan asks why a resurrection would prove anything about Jesus beyond the fact that a miracle happened.",
-        "You point to the setting of the event. Jesus made extraordinary claims, was rejected and executed, and then, on the Christian account, God raised him.",
-        "Jordan says, “So you are saying God overturned the verdict.” That is the idea. The resurrection matters not merely as a miracle, but as God’s vindication of the person whose authority was under dispute."
+        "The two of you pass the courthouse on the way home. Jordan looks at the building and asks, “Suppose I granted the resurrection for the sake of argument. Why would that prove anything about Jesus beyond the fact that God performed a miracle?”",
+        "You point toward the courthouse. “Think about the context. Jesus made extraordinary claims, was rejected, condemned, and executed. Then, on the Christian account, God raised him.”",
+        "Jordan looks back at the building. “So you are saying God overturned the verdict.”",
+        "“That is a good way to put it.” The resurrection is not an unexplained miracle attached to a random person. It happens to the person whose authority and identity were under dispute.",
+        "Jordan says, “That still does not instantly prove every Christian doctrine.” You agree. The inference should stay proportional. But if God raised Jesus, the question changes from merely “What happened?” to “What does God’s action tell us about who Jesus is?”"
       ]
     }
   },
@@ -2434,9 +2466,11 @@ const questions = [
     "story": {
       "title": "The hinge",
       "lines": [
-        "On the next walk, Jordan says, “I think I see the logic. If God raised Jesus, that tells us something about Jesus.”",
-        "You explain that this is the hinge between the historical case and revelation. You did not begin by assuming the Bible was inspired. You argued toward the resurrection historically.",
-        "If God vindicated Jesus, then Jesus is no longer merely one ancient religious voice among many. His teaching about God and revelation deserves unique authority."
+        "On the next walk, Jordan says, “I think I finally see the structure. You did not start by saying the Bible is inspired. You used the documents historically, argued for the resurrection, and then said the resurrection vindicates Jesus.”",
+        "You tell him that this is the hinge of the course. If the historical case succeeds, Jesus is no longer just one religious teacher among many whose opinions about God have equal weight.",
+        "Jordan pushes back. “But that does not mean every sentence somebody later attributed to Jesus is automatically authentic.”",
+        "You agree. Historical interpretation still matters. The resurrection does not eliminate the need to establish what Jesus actually taught. What it changes is the authority you give that teaching once it is established.",
+        "Jordan says, “So now the question is what the vindicated Jesus himself taught about God, revelation, and Scripture.” Exactly. That is the bridge from Christian evidences to the authority question."
       ]
     }
   },
@@ -2575,9 +2609,11 @@ const questions = [
     "story": {
       "title": "What did Jesus think of Scripture?",
       "lines": [
-        "Jordan asks the obvious next question: “So what did Jesus actually think about the Bible?”",
-        "You begin with the Scriptures Jesus already had. Throughout the Gospels he appeals to what is written, treats Scripture as carrying God’s authority, and understands his mission as fulfilling it.",
-        "Jordan says, “So if I accept Jesus’ authority, I have to take his view of the Old Testament seriously too.” That is exactly the argument."
+        "Jordan asks the obvious next question. “If Jesus is the authority in your argument, what did Jesus actually think about the Bible?”",
+        "You tell him to begin with the Scriptures Jesus already had, what Christians call the Old Testament. Throughout the Gospels, Jesus appeals to what is written, treats Scripture as something that carries God’s authority, and understands his own mission in relation to its fulfillment.",
+        "Jordan asks, “Does that mean Jesus gave us a complete modern table of contents?” You say no. The question of exact canon boundaries involves additional historical work.",
+        "“Then what does the argument establish?” he asks.",
+        "It establishes Jesus’ settled posture toward Israel’s Scriptures. If the resurrection gives good reason to trust Jesus as the vindicated Lord, then his treatment of Scripture matters. Jordan nods. “So accepting Jesus while dismissing the Scriptures he treats as God’s Word creates a problem.” That is the issue the lesson now examines."
       ]
     }
   },
@@ -2722,9 +2758,11 @@ const questions = [
     "story": {
       "title": "But Jesus never handed us twenty-seven books",
       "lines": [
-        "Jordan sees another problem. “Jesus never handed the disciples a New Testament.”",
-        "You agree. The argument moves through the people Jesus authorized. He chose apostles as witnesses and teachers, and the early churches treated apostolic teaching as foundational.",
-        "Jordan points out that recognizing the canon took time. You agree again. The claim is not that a council suddenly created Scripture’s authority, but that the church historically recognized writings tied to the apostolic witness authorized by Christ."
+        "Jordan sees the next problem immediately. “That gets you the Old Testament. Jesus never handed the disciples a twenty-seven-book New Testament.”",
+        "You agree. “He did something else. He chose apostles and authorized them as witnesses and teachers.”",
+        "Jordan says, “But the church still had to decide which writings counted, and that took time.” You tell him that this is true and should not be hidden. Some books were recognized very widely very early, while a smaller number were discussed longer.",
+        "“Does that not mean the church created their authority?” he asks.",
+        "You distinguish recognition from creation. In the argument, authority begins with Christ, moves through the apostles he authorized, and then attaches to writings that genuinely carry that apostolic witness. The church’s historical task was to recognize those writings. Jordan says, “So the real question is not ‘Which council invented the Bible?’ but ‘Which writings actually belong to the apostolic witness authorized by Jesus?’” Exactly."
       ]
     }
   },
@@ -2861,9 +2899,11 @@ const questions = [
     "story": {
       "title": "The Bible on the shelf",
       "lines": [
-        "The walk ends at Jordan’s house. A Bible is sitting on a shelf, and he picks it up.",
-        "Jordan says, “So this is where you have been going the whole time. You are not just saying, ‘Believe this book because this book says it is from God.’”",
-        "You review the path: reasons for God, the possibility of miracles, the historical investigation of Jesus, the resurrection, Jesus’ vindication, his view of Scripture, and the apostles he authorized. Jordan looks at the Bible and says, “So your conclusion is that the God you argued for has spoken.”"
+        "The walk ends at Jordan’s house. As the two of you step inside, a Bible is sitting on a shelf near the door. Jordan takes it down and turns it over in his hands.",
+        "“So this is where you have been going the whole time,” he says. “You are not just saying, ‘Believe this book because this book says it comes from God.’”",
+        "You review the path together. You began with logic and truth, then asked whether the world gives good reason to believe a Creator exists. If God exists, miracles are possible. That allowed you to investigate Jesus historically rather than ruling resurrection out in advance. Then came Jesus’ claims, death, resurrection, and divine vindication.",
+        "Jordan continues the chain himself. “Then if Jesus is vindicated, his teaching carries authority. He treats the Old Testament as God’s Word and authorizes apostles whose witness stands behind the New Testament.”",
+        "You nod. Jordan looks back at the Bible. “So the conclusion is not merely that God exists. It is that the God you argued for has acted in history and spoken.” He pauses. “I still have questions, but I understand the case now.”"
       ]
     }
   },
@@ -3020,9 +3060,11 @@ const questions = [
     "story": {
       "title": "A harder kind of question",
       "lines": [
-        "A few weeks later, an ambulance passes while you and Jordan are walking. He watches it disappear and says, “There is still something I cannot get past. If God is good and powerful, why is there so much suffering?”",
-        "He adds, “And please do not just tell me everything happens for a reason.”",
-        "You do not rush to answer. Instead, you ask whether he means suffering makes God logically impossible or whether the amount of suffering makes God harder to believe in. Jordan says it is probably the second. Now you know what question you are actually trying to answer."
+        "A few weeks later, you and Jordan are walking again when an ambulance passes with its lights on. Jordan watches it disappear down the road and grows quiet.",
+        "After a moment he says, “There is still something I cannot get past. If God really is good and powerful, why is there so much suffering?” Then he adds, “And please do not tell me everything happens for a reason.”",
+        "You tell him you will not pretend to know God’s specific reason for every tragedy. Instead, you ask what kind of objection he means. “Are you saying the existence of evil makes God logically impossible, or that the amount and severity of suffering make God much harder to believe in?”",
+        "Jordan thinks. “Probably the second. I cannot see why a good God would allow some of the things that happen.”",
+        "That matters. A logical contradiction and an evidential challenge are not the same argument, and grief is not merely an argument at all. Before answering the problem of evil well, you have to know which problem the person is actually bringing to you."
       ]
     }
   },
@@ -3170,9 +3212,11 @@ const questions = [
     "story": {
       "title": "What do you mean by evolution?",
       "lines": [
-        "Back in the park, Jordan says, “We somehow made it through all of this without really talking about evolution. Does evolution not make a Creator unnecessary?”",
-        "You ask what he means by evolution: mutation, selection, adaptation, speciation, universal common ancestry, or the claim that unguided processes are sufficient to explain all biological origins.",
-        "Jordan laughs because you are asking for definitions again, but he sees the point. Those are different claims, and worldview affects how larger historical and causal conclusions are drawn from the evidence."
+        "Back in the park on another walk, Jordan laughs and says, “We somehow made it through God, miracles, Jesus, resurrection, and the Bible without really talking about evolution.”",
+        "Then he asks, “Does evolution not make a Creator unnecessary? If life developed naturally, why add God?”",
+        "You ask what he means by evolution. Jordan rolls his eyes. “You are doing the definition thing again.” You list several possibilities: mutation, natural selection, adaptation, speciation, universal common ancestry, the sufficiency of unguided mechanisms to explain biological complexity, and the origin of the first life.",
+        "Jordan admits those are not all the same claim. You add one more distinction: a scientific method that looks for natural mechanisms is not identical to the philosophical claim that nature is all that exists.",
+        "Jordan says, “So I cannot jump from observing biological change to philosophical naturalism without making several additional arguments.” Exactly. The evidence still matters, but the lesson has to keep observation, historical inference, causal explanation, and worldview from being collapsed into one word."
       ]
     }
   },
@@ -3321,9 +3365,11 @@ const questions = [
     "story": {
       "title": "Jordan takes your side of the conversation",
       "lines": [
-        "Near the end of another walk, Jordan says, “All right. My turn. Suppose I am the Christian and someone tells me Christianity is obviously false. Where do I start?”",
-        "You ask, “What do they mean by false?” Jordan laughs. “You really do always start with a question.”",
-        "You explain that apologetics is not a memorized speech. Find the actual claim, ask why the person believes it, and then choose the argument that addresses the real disagreement rather than unloading everything you know."
+        "Near the end of another walk, Jordan smiles and says, “All right. My turn.”",
+        "“Your turn for what?” you ask. Jordan says, “Suppose I am the Christian now. Somebody tells me Christianity is obviously false. Where do I start?”",
+        "You ask, “What do they mean by false?” Jordan laughs. “You really do always start with a question.” You tell him that this is the point. If the person means science disproves God, that may require one kind of conversation. If they already believe in God but reject Jesus, starting with the Kalam would waste time. If their problem is suffering, giving a speech about manuscripts would miss the issue.",
+        "Jordan says, “So apologetics is not a twenty-minute presentation I memorize and unload on somebody.”",
+        "Right. Listen first. Clarify the claim. Ask why they believe it. Find the earliest real disagreement. Then use the part of the case that actually addresses that disagreement. Jordan nods. “I think I finally understand the method, not just the arguments.”"
       ]
     }
   }
