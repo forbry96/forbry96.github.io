@@ -141,9 +141,9 @@ const questions = [
     "story": {
       "title": "The first question",
       "lines": [
+        "Jordan is a friend of yours. He knows you are a Christian, but the two of you have never really talked about why you believe what you believe. Lately, you have started taking walks together every so often, usually through the neighborhood or a nearby park. Most of the time you talk about ordinary things, but on this walk the conversation turns in a different direction.",
         "You and Jordan have only been walking a few minutes when he asks, “Why do you actually believe Christianity is true?”",
-        "You start thinking of answers: the resurrection, creation, the Bible, morality. Then you realize that before giving an argument, you need to know what would count as a good argument in the first place.",
-        "You ask, “If I give you a reason, how would we know whether it is a good one?” Jordan shrugs. “I guess the conclusion has to actually follow.” That is where the conversation begins."
+        "You start thinking of answers: the resurrection, creation, the Bible, morality. Then you realize that before giving an argument, you need to know what would count as a good argument in the first place. You ask, “If I give you a reason, how would we know whether it is a good one?” Jordan shrugs. “I guess the conclusion has to actually follow.” That is where the conversation begins."
       ]
     }
   },
