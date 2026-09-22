@@ -546,6 +546,13 @@ input,select{padding:11px 12px}
 .thread-note{margin:1rem 0 1.25rem;padding:.8rem 1rem;border:1px solid var(--line);border-radius:14px;background:rgba(255,255,255,.5)}
 .thread-note span,.limitations-note span{display:block;font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;font-weight:800;color:var(--accent);margin-bottom:.25rem}
 .thread-note p,.limitations-note p{margin:0;line-height:1.55}
+.jordan-story{margin:1.1rem 0 1.45rem;padding:22px 24px;border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:0 16px 16px 0;background:#f7f2e8}
+.jordan-story-label{font-size:.69rem;letter-spacing:.12em;text-transform:uppercase;font-weight:850;color:var(--accent);margin-bottom:6px}
+.jordan-story h3{font-family:var(--serif);font-size:clamp(1.35rem,2.4vw,1.75rem);font-weight:500;line-height:1.15;margin:0 0 12px}
+.jordan-story-copy{max-width:76ch}
+.jordan-story-copy p{margin:0;color:var(--ink);font-size:15px;line-height:1.68}
+.jordan-story-copy p+p{margin-top:9px}
+
 .single-detail{grid-template-columns:1fr}
 .conclusion-block{margin:1.15rem 0 1.35rem;padding:1rem 1.1rem;border-left:4px solid var(--accent);background:var(--viz-accent-bg, rgba(80,80,80,.06));border-radius:0 14px 14px 0}
 .conclusion-block p{margin:.25rem 0 0;font-family:var(--serif);font-size:1.08rem;line-height:1.55}
@@ -558,7 +565,7 @@ input,select{padding:11px 12px}
 .challenges-details[open] .details-mark{transform:rotate(45deg)}
 .challenges-body{border-top:1px solid var(--line);padding:4px 19px 6px}
 .limitations-note{margin:1rem 0 1.25rem;padding:.8rem 1rem;border-top:1px solid var(--line);border-bottom:1px solid var(--line);color:var(--muted)}
-@media(max-width:650px){.conclusion-block p{font-size:1rem}.challenges-details>summary{padding:15px}.challenges-body{padding:4px 15px 6px}}
+@media(max-width:650px){.conclusion-block p{font-size:1rem}.challenges-details>summary{padding:15px}.challenges-body{padding:4px 15px 6px}.jordan-story{padding:18px}.jordan-story-copy p{font-size:14.5px}}
 
 /* 2026-09 pastor-feedback lesson architecture */
 .learning-phase{display:grid;grid-template-columns:44px minmax(0,1fr);gap:18px;margin:24px 0;padding:22px;border:1px solid var(--line);border-radius:18px;background:var(--paper)}
