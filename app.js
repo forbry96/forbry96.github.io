@@ -242,12 +242,88 @@ const memorableBigIdeas = {
 };
 
 
-function checkpointHtml(q, after){
-  const items = (q.checkpoints || []).filter(c => c.after === after);
-  if(!items.length) return '';
-  return items.map(c => `<details class="inline-checkpoint"><summary><span class="check-label">CHECK YOUR UNDERSTANDING</span><strong>${esc(c.question)}</strong><span class="check-action">Show answer</span></summary><div class="checkpoint-answer"><span>ANSWER</span><p>${esc(c.answer)}</p></div></details>`).join('');
+const evidenceTermAliases = {
+  "Valid / Sound": ["valid", "sound", "soundness"],
+  "Kalam cosmological argument": ["Kalam"],
+  "Objective morality": ["objective moral"],
+  "Moral duty": ["moral duties"],
+  "Historical source": ["ancient sources", "historical sources"],
+  "Inference to the best explanation": ["best explanation"],
+  "Legend hypothesis": ["legendary development"],
+  "Circular reasoning": ["circular"],
+  "Authority of Scripture": ["Scripture’s authority"],
+  "Apostolicity": ["apostolic"],
+  "Revelation": ["revelation", "reveals"],
+  "Divine inspiration": ["inspiration", "inspired"],
+  "Cumulative argument": ["cumulative case"],
+  "Point of disagreement": ["disagreement"],
+  "Logical problem of evil": ["logical problem"],
+  "Evidential problem of evil": ["evidential problem"],
+  "Abiogenesis": ["origin of life"]
+};
+
+function evidenceAliasCandidates(term){
+  const aliases = [term, ...(evidenceTermAliases[term] || [])];
+  if(term.includes('/')) aliases.push(...term.split('/').map(x=>x.trim()).filter(Boolean));
+  const words = term.trim().split(/\s+/);
+  const last = words[words.length - 1];
+  if(last && /^[A-Za-z]+$/.test(last)){
+    const plural = last.endsWith('y') && !/[aeiou]y$/i.test(last)
+      ? last.slice(0,-1) + 'ies'
+      : last.endsWith('s') ? last : last + 's';
+    if(plural !== last) aliases.push([...words.slice(0,-1), plural].join(' '));
+  }
+  return [...new Set(aliases)].sort((a,b)=>b.length-a.length);
 }
 
+function regexEscape(s){
+  return String(s).replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&');
+}
+
+function weaveDefinitions(text, q, seen){
+  let safe = esc(text);
+  const replacements = [];
+
+  for(const [term, definition] of (q.terms || [])){
+    if(seen.has(term)) continue;
+    for(const alias of evidenceAliasCandidates(term)){
+      const escapedAlias = regexEscape(esc(alias));
+      const re = new RegExp('(^|[^A-Za-z0-9])(' + escapedAlias + ')(?=$|[^A-Za-z0-9])', 'i');
+      const m = safe.match(re);
+      if(!m) continue;
+
+      const token = '@@DEF' + replacements.length + '@@';
+      const prefix = m[1] || '';
+      const word = m[2];
+      safe = safe.replace(re, prefix + token);
+      replacements.push({
+        token,
+        html: '<dfn class="inline-term" tabindex="0"><span class="inline-term-word">' + word + '</span><span class="inline-term-definition" role="tooltip"><strong>' + esc(term) + '</strong>' + esc(definition) + '</span></dfn>'
+      });
+      seen.add(term);
+      break;
+    }
+  }
+
+  for(const item of replacements) safe = safe.replace(item.token, item.html);
+  return safe;
+}
+
+function evidenceNarrativeHtml(q){
+  const source = q.lesson?.body || (q.core || []).join('\n\n');
+  const blocks = source.split(/\n\s*\n/).map(x=>x.trim()).filter(Boolean);
+  const seen = new Set();
+  const paragraphs = blocks.map(block => {
+    const lines = block.split('\n').map(line=>weaveDefinitions(line, q, seen));
+    return '<p>' + lines.join('<br>') + '</p>';
+  }).join('');
+
+  const bottomLine = q.conclusion
+    ? '<p class="evidence-bottom-line"><strong>Bottom line:</strong> ' + weaveDefinitions(q.conclusion, q, seen) + '</p>'
+    : '';
+
+  return '<div class="evidence-narrative">' + paragraphs + bottomLine + '</div>';
+}
 function openQuestion(id){
   const q = byId(id); if(!q) return;
   const done = isComplete(q.id);
@@ -261,24 +337,8 @@ function openQuestion(id){
 
   html += `<section class="learning-phase big-idea-block"><div class="phase-badge">1</div><div><span class="lesson-kicker">THE IDEA</span><h3>${esc(bigIdea)}</h3><p>${esc(q.why)}</p></div></section>`;
 
-  if(q.terms?.length){
-    html += `<details class="terms-details"><summary><div><span class="lesson-kicker">KEY TERMS</span><strong>Open the words you need for this study</strong></div><span class="details-mark" aria-hidden="true">+</span></summary><div class="terms-list">${q.terms.map(([term,definition])=>`<div class="term-item"><strong>${esc(term)}</strong><p>${esc(definition)}</p></div>`).join('')}</div></details>`;
-  }
-
-  html += `<section class="learning-phase evidence-teaching-block"><div class="phase-badge">2</div><div class="phase-content"><span class="lesson-kicker">THE EVIDENCE</span><h3>Build the case</h3><ol class="steps evidence-steps">${q.core.map(x=>`<li>${esc(x)}</li>`).join('')}</ol>`;
-  html += checkpointHtml(q,'core');
-  if(q.lesson){
-    html += `<div class="plain-explanation"><h4>${esc(q.lesson.heading)}</h4>${q.lesson.body.split('\n').filter(Boolean).map(p=>p.startsWith('## ')?`<h5 class="lesson-subhead">${esc(p.slice(3))}</h5>`:`<p>${esc(p)}</p>`).join('')}</div>`;
-    html += checkpointHtml(q,'body');
-    if(q.lesson.facts?.length){
-      html += `<div class="evidence-points"><h4>Evidence to remember</h4><ul>${q.lesson.facts.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></div>`;
-    }
-    html += checkpointHtml(q,'facts');
-  }
-  if(q.conclusion) html += `<div class="remember-box"><span>REMEMBER THIS</span><p>${esc(q.conclusion)}</p></div>`;
-  if(q.synthesis) html += `<div class="synthesis-block"><div class="lesson-kicker">PUT IT TOGETHER</div><h3>${esc(q.synthesis.title)}</h3><p>${esc(q.synthesis.body)}</p>${q.synthesis.points?.length?`<ul>${q.synthesis.points.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`:''}</div>`;
-  html += `</div></section>`;
-
+  const evidenceHeading = q.lesson?.heading || 'Build the case';
+  html += `<section class="learning-phase evidence-teaching-block simplified-evidence"><div class="phase-badge">2</div><div class="phase-content"><span class="lesson-kicker">THE EVIDENCE</span><h3>${esc(evidenceHeading)}</h3>${evidenceNarrativeHtml(q)}</div></section>`;
   const jordanResolution = (typeof jordanResolutions !== 'undefined' && jordanResolutions[q.id]) ? jordanResolutions[q.id] : q.resolution;
   if(jordanResolution?.lines?.length){
     html += `<section class="jordan-story jordan-resolution"><div class="jordan-story-label">BACK ON THE WALK</div><h3>${esc(jordanResolution.title || 'Jordan’s question answered')}</h3><div class="jordan-story-copy">${jordanResolution.lines.map(line=>`<p>${esc(line)}</p>`).join('')}</div></section>`;
