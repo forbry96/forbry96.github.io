@@ -3228,7 +3228,7 @@ const questions = [
     "teaser": "You do not need a speech. Listen well, find the real question, and answer one thing at a time.",
     "lesson": {
       "heading": "A simple conversation pattern: clarify, reasons, respond",
-      "body": "In a real conversation, understand the person’s actual claim before choosing an argument. The final skill is not another argument. It is learning when to use the arguments you already have.\n\nA statement such as “science disproves God” is too broad to answer well. Start by asking what the person means. What scientific finding do they have in mind? How does that finding lead to the conclusion that God does not exist? Those questions slow the conversation down and locate the real issue.\n\nGreg Koukl’s well-known “Columbo” approach is useful here: ask simple questions that gather information and place the burden of explanation back on the claim. “What do you mean by that?” clarifies. “How did you come to that conclusion?” asks for reasons. A third question can gently expose a problem: “Have you considered…?”\n\nOnce the disagreement is clear, choose the relevant part of the course. If the person thinks the universe needs no explanation, contingency or Kalam may help. If the issue is morality, use the moral argument. If they rule out resurrection because miracles are impossible, start with the miracle bridge rather than immediately listing empty-tomb evidence.\n\nKeep the conversation human. Listen. Do not answer five objections at once. Admit uncertainty when you have it. Ask whether your answer addressed the concern. The aim is to make the truth clearer and point to Christ, not to make the other person feel defeated.",
+      "body": "In a real conversation, understand the person’s actual claim before choosing an argument. Before turning to harder objections, the next skill is not another argument. It is learning when to use the arguments you already have.\n\nA statement such as “science disproves God” is too broad to answer well. Start by asking what the person means. What scientific finding do they have in mind? How does that finding lead to the conclusion that God does not exist? Those questions slow the conversation down and locate the real issue.\n\nGreg Koukl’s well-known “Columbo” approach is useful here: ask simple questions that gather information and place the burden of explanation back on the claim. “What do you mean by that?” clarifies. “How did you come to that conclusion?” asks for reasons. A third question can gently expose a problem: “Have you considered…?”\n\nOnce the disagreement is clear, choose the relevant part of the course. If the person thinks the universe needs no explanation, contingency or Kalam may help. If the issue is morality, use the moral argument. If they rule out resurrection because miracles are impossible, start with the miracle bridge rather than immediately listing empty-tomb evidence.\n\nKeep the conversation human. Listen. Do not answer five objections at once. Admit uncertainty when you have it. Ask whether your answer addressed the concern. The aim is to make the truth clearer and point to Christ, not to make the other person feel defeated.",
       "facts": [
         "Questions are often more useful than immediate speeches because they reveal what the person actually believes and why.",
         "The earliest disputed premise is usually the best place to begin.",
@@ -3343,7 +3343,7 @@ const questions = [
       ]
     ],
     "conclusion": "The goal is not to say everything you know. Listen, clarify, ask for reasons, answer the real issue, and leave the person with something worth thinking about.",
-    "thread": "At some point the arguments have to leave the page. This last study is about using them with real people.",
+    "thread": "The core classical case is complete. This first bonus study moves the arguments off the page and into a real conversation, then prepares you to use the same method on the harder objections that follow.",
     "bigIdea": "Good apologetics conversations begin with listening and questions. Find the real claim, discover the person’s reasons, and answer one issue at a time.",
     "checkpoints": [
       {
@@ -3369,7 +3369,7 @@ const questions = [
         "“Your turn for what?” you ask. Jordan says, “Suppose I am the Christian now. Somebody tells me Christianity is obviously false. Where do I start?”",
         "You ask, “What do they mean by false?” Jordan laughs. “You really do always start with a question.” You tell him that this is the point. If the person means science disproves God, that may require one kind of conversation. If they already believe in God but reject Jesus, starting with the Kalam would waste time. If their problem is suffering, giving a speech about manuscripts would miss the issue.",
         "Jordan says, “So apologetics is not a twenty-minute presentation I memorize and unload on somebody.”",
-        "Right. Listen first. Clarify the claim. Ask why they believe it. Find the earliest real disagreement. Then use the part of the case that actually addresses that disagreement. Jordan nods. “I think I finally understand the method, not just the arguments.”"
+        "Right. Listen first. Clarify the claim. Ask why they believe it. Find the earliest real disagreement. Then use the part of the case that actually addresses that disagreement. Jordan nods. “I think I finally understand the method, not just the arguments.”\n        "Jordan glances down the road. “Then give me a hard one.” You smile. “All right. Next time, let’s start with the question people often feel before they ever phrase it as an argument: if God is good, why is there so much suffering?”"
       ]
     }
   }
@@ -3575,12 +3575,12 @@ const lessonModules = [
     "key": "bonus",
     "label": "Optional bonus studies",
     "shortLabel": "Bonus",
-    "title": "Common questions Christians face in apologetics",
-    "description": "These optional studies cover the problem of evil, origins and worldview, and putting the method into real conversations.",
+    "title": "Use the method on real conversations and hard objections",
+    "description": "Begin with the conversation workshop, then apply the same method to the problem of evil and to origins and worldview.",
     "studyIds": [
+      23,
       21,
-      22,
-      23
+      22
     ],
     "core": false
   }
