@@ -1,4 +1,4 @@
-var practiceScenarios = [
+practiceScenarios.splice(0, practiceScenarios.length, ...[
   {
     "id": "createdgod",
     "level": "guided",
