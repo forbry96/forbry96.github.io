@@ -111,7 +111,7 @@ function updateCourseActions(){
   if(progressState.completed.length === 0) label = 'Start Study 1';
   else if(coreComplete && !bonusComplete) label = `Open Bonus Study ${id}`;
   else if(coreComplete && bonusComplete) label = 'Review Study 1';
-  ['heroCourseAction','methodCourseAction','closingCourseAction'].forEach(key => {
+  ['heroCourseAction','methodCourseAction'].forEach(key => {
     const button = document.querySelector(`#${key}`);
     if(!button) return;
     button.textContent = label;
@@ -150,7 +150,7 @@ function renderQuestions(){
       const done = isComplete(q.id);
       return `<article id="question-${q.id}" class="question-card${done?' completed':''}" data-open="${q.id}" tabindex="0" role="button" aria-label="Open study: ${esc(q.title)}">
         <div class="question-card-top"><span class="question-tag">Study ${String(q.id).padStart(2,'0')} · ${esc(module.shortLabel)} · ${esc(q.tag)}</span>${done?'<span class="complete-badge">✓ Complete</span>':''}</div>
-        <h3>${esc(q.title)}</h3><p>${esc(q.teaser)}</p><div class="card-foot">Open study →</div></article>`;
+        <h3>${esc(q.title)}</h3><p>${esc(q.teaser)}</p><div class="card-foot">Open study</div></article>`;
     }).join('');
     const groupGuide = module.groups?.length ? `<div class="module-subgroups">${module.groups.map(g=>`<span>${esc(g.title || g.label)}</span>`).join('')}</div>` : '';
     const first = items[0];
@@ -160,10 +160,10 @@ function renderQuestions(){
         <div class="question-card-top"><span class="question-tag">QUICK REFERENCE · NOT A LESSON</span></div>
         <h3>${module.key === 'step1' ? 'Step 1 in one minute: Why believe God exists?' : 'Step 2 in one minute: Has God spoken?'}</h3>
         <p>${module.key === 'step1' ? 'A short review of Studies 3–9 for quick reference before a conversation or after finishing the section.' : 'A short review of Studies 11–20 for quick reference before a conversation or after finishing the section.'}</p>
-        <div class="card-foot">Open quick reference →</div>
+        <div class="card-foot">Open quick reference</div>
       </article>` : '';
     return `<section class="learning-module ${module.core?'core-module':'bonus-module'}" data-module="${esc(module.key)}">
-      <div class="learning-module-head"><div><span class="module-label">${esc(module.label)}</span><h3>${esc(module.title)}</h3><p>${esc(module.description)}</p></div><div class="module-actions"><span class="module-count">${progressLabel}</span><button class="module-start" type="button" data-open="${first.id}">${module.key==='foundation'?'Start here':'Start this section'} →</button></div></div>
+      <div class="learning-module-head"><div><span class="module-label">${esc(module.label)}</span><h3>${esc(module.title)}</h3><p>${esc(module.description)}</p></div><div class="module-actions"><span class="module-count">${progressLabel}</span><button class="module-start" type="button" data-open="${first.id}">${module.key==='foundation'?'Start here':'Start this section'}</button></div></div>
       ${groupGuide}<div class="question-grid">${cards}</div>${quickReference}
     </section>`;
   }).join('');
@@ -171,7 +171,7 @@ function renderQuestions(){
 }
 
 function renderSources(){
-  document.querySelector('#sourceGrid').innerHTML = sourceItems.map(s => `<article class="source-card"><h3>${esc(s[0])}</h3><p>${esc(s[1])}</p><a href="${esc(s[2])}" target="_blank" rel="noopener noreferrer">Open source ↗</a></article>`).join('');
+  document.querySelector('#sourceGrid').innerHTML = sourceItems.map(s => `<article class="source-card"><h3>${esc(s[0])}</h3><p>${esc(s[1])}</p><a href="${esc(s[2])}" target="_blank" rel="noopener noreferrer">Open source</a></article>`).join('');
 }
 
 function renderOrientation(){
@@ -181,30 +181,29 @@ function renderOrientation(){
   grid.innerHTML = items.map(([key],i) => {
     const o = orientation[key];
     const links = o.sources?.length ? o.sources : [[o.sourceLabel,o.sourceUrl]];
-    return `<article class="orientation-card"><div class="orientation-no">0${i+1}</div><h3>${esc(o.title)}</h3><p>${esc(o.body)}</p><ul>${o.points.map(x=>`<li>${esc(x)}</li>`).join('')}</ul><div class="orientation-sources"><span>Sources</span>${links.filter(s=>s&&s[0]&&s[1]).map(s=>`<a href="${esc(s[1])}" target="_blank" rel="noopener noreferrer">${esc(s[0])} ↗</a>`).join('')}</div></article>`;
+    return `<article class="orientation-card"><div class="orientation-no">0${i+1}</div><h3>${esc(o.title)}</h3><p>${esc(o.body)}</p><ul>${o.points.map(x=>`<li>${esc(x)}</li>`).join('')}</ul><div class="orientation-sources"><span>Sources</span>${links.filter(s=>s&&s[0]&&s[1]).map(s=>`<a href="${esc(s[1])}" target="_blank" rel="noopener noreferrer">${esc(s[0])}</a>`).join('')}</div></article>`;
   }).join('');
 }
 
 function renderConversationTips(){
   const grid = document.querySelector('#conversationGrid');
-  grid.innerHTML = conversationTips.map((tip,i) => `<article class="conversation-card"><span class="conversation-no">${String(i+1).padStart(2,'0')}</span><h3>${esc(tip.title)}</h3><p>${esc(tip.body)}</p>${tip.source?`<a href="${esc(tip.source[1])}" target="_blank" rel="noopener noreferrer">${esc(tip.source[0])} ↗</a>`:''}</article>`).join('');
+  grid.innerHTML = conversationTips.map((tip,i) => `<article class="conversation-card"><span class="conversation-no">${String(i+1).padStart(2,'0')}</span><h3>${esc(tip.title)}</h3><p>${esc(tip.body)}</p>${tip.source?`<a href="${esc(tip.source[1])}" target="_blank" rel="noopener noreferrer">${esc(tip.source[0])}</a>`:''}</article>`).join('');
 }
 
 function renderAbout(){
   const grid = document.querySelector('#aboutGrid');
+  if(!grid) return;
   const contactAction = contact.email
-    ? `<a class="button primary" href="mailto:${esc(contact.email)}?subject=${encodeURIComponent(contact.subject || 'Question')}">Contact me</a><p class="contact-address">${esc(contact.email)}</p>`
-    : `<p class="contact-pending">Contact information has not been published yet. Add an email address to <code>contact.email</code> in <code>content.js</code> when you are ready.</p>`;
+    ? `<div class="contact-actions"><a class="button primary" href="mailto:${esc(contact.email)}?subject=${encodeURIComponent(contact.subject || 'Question')}">Send an email</a><a class="contact-email" href="mailto:${esc(contact.email)}">${esc(contact.email)}</a></div>`
+    : `<p class="contact-pending">Contact information has not been published yet.</p>`;
   grid.innerHTML = `
-    <article class="about-main"><span class="about-label">MISSION</span><h3>${esc(about.title)}</h3><p class="about-mission">${esc(about.mission)}</p></article>
-    <article class="about-card"><span class="about-label">HOW THIS SITE WORKS</span><ul>${about.approach.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></article>
-    <article class="about-card"><span class="about-label">WHAT THIS IS NOT</span><ul>${about.boundaries.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></article>
-    <article class="contact-card"><span class="about-label">CONTACT</span><h3>Questions, corrections, or source suggestions?</h3><p>Good apologetics should be willing to correct mistakes. Use this contact point for factual corrections, source recommendations, or questions about the project.</p>${contactAction}</article>`;
+    <article class="about-main"><span class="about-label">WHY I BUILT THIS SITE</span><h3>${esc(about.title)}</h3><p class="about-mission">${esc(about.mission)}</p></article>
+    <article class="contact-card"><div><span class="about-label">CONTACT</span><h3>Questions, corrections, or source suggestions?</h3><p>Good apologetics should be willing to correct mistakes. Reach out with a factual correction, source recommendation, or question about the project.</p></div>${contactAction}</article>`;
 }
 
 function evidenceHtml(q){
   if(!q.evidence) return '';
-  return `<details class="evidence-panel evidence-details"><summary><div><span class="lesson-kicker">GO DEEPER</span><strong>Open research notes and source links</strong></div><span class="details-mark" aria-hidden="true">+</span></summary><div class="evidence-details-body"><h3>${esc(q.evidence.claim)}</h3><div class="evidence-summary"><div><strong>What these sources support</strong><p>${esc(q.evidence.establishes)}</p></div></div><div class="evidence-list">${q.evidence.resources.map(r=>`<article class="evidence-card"><span class="evidence-type">${esc(r.type)}</span><h4>${esc(r.title)}</h4><p>${esc(r.why)}</p><a href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">Open source ↗</a></article>`).join('')}</div></div></details>`;
+  return `<details class="evidence-panel evidence-details"><summary><div><span class="lesson-kicker">GO DEEPER</span><strong>Open research notes and source links</strong></div><span class="details-mark" aria-hidden="true">+</span></summary><div class="evidence-details-body"><h3>${esc(q.evidence.claim)}</h3><div class="evidence-summary"><div><strong>What these sources support</strong><p>${esc(q.evidence.establishes)}</p></div></div><div class="evidence-list">${q.evidence.resources.map(r=>`<article class="evidence-card"><span class="evidence-type">${esc(r.type)}</span><h4>${esc(r.title)}</h4><p>${esc(r.why)}</p><a href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">Open source</a></article>`).join('')}</div></div></details>`;
 }
 
 const memorableBigIdeas = {
@@ -275,7 +274,7 @@ function openQuestion(id){
 
   html += evidenceHtml(q);
   if(!q.evidence && q.sources?.length){
-    html += `<div class="sources-in-card"><h3>Go deeper</h3><div class="source-line">${q.sources.map(s=>`<a href="${esc(s[1])}" target="_blank" rel="noopener noreferrer">${esc(s[0])} ↗</a>`).join('')}</div></div>`;
+    html += `<div class="sources-in-card"><h3>Go deeper</h3><div class="source-line">${q.sources.map(s=>`<a href="${esc(s[1])}" target="_blank" rel="noopener noreferrer">${esc(s[0])}</a>`).join('')}</div></div>`;
   }
 
   html += `<div class="study-completion"><div><span class="about-label">PROGRESS</span><h3>${done?'Study completed':'Finished this study?'}</h3><p>${done?'You can mark it incomplete if you want to review it again as unfinished.':'Mark it complete when you can state the main idea, explain the evidence, and attempt the practice response.'}</p></div><button class="button ${done?'secondary':'primary'}" id="toggleComplete">${done?'Mark incomplete':'Mark study complete'}</button></div>`;
@@ -283,8 +282,8 @@ function openQuestion(id){
   const currentIndex = ordered.findIndex(x=>x.id===q.id);
   const previous = currentIndex>0 ? ordered[currentIndex-1] : null;
   const next = currentIndex<ordered.length-1 ? ordered[currentIndex+1] : null;
-  html += `<div class="next-links"><span class="question-tag next-label">Keep going</span>${previous?`<button data-open-next="${previous.id}">← Previous: ${esc(previous.title)}</button>`:''}${next?`<button data-open-next="${next.id}">Next: ${esc(next.title)} →</button>`:''}</div>`;
-  html = `<button class="lesson-back" id="lessonBack" type="button">← Back to course</button>${html}`;
+  html += `<div class="next-links"><span class="question-tag next-label">Keep going</span>${previous?`<button data-open-next="${previous.id}"> Previous: ${esc(previous.title)}</button>`:''}${next?`<button data-open-next="${next.id}">Next: ${esc(next.title)} </button>`:''}</div>`;
+  html = `<button class="lesson-back" id="lessonBack" type="button">Back to course</button>${html}`;
   showModal(html, 'lesson');
   document.querySelector('#lessonBack').onclick = closeModal;
   document.querySelector('#revealModel').onclick = () => {
@@ -445,7 +444,7 @@ function renderTest(type){
 }
 
 function exportProgress(){
-  const payload = {project:'Classical Apologetics for Lay Christians', exportedAt:new Date().toISOString(), state:progressState};
+  const payload = {project:'Classical Apologetics for Everyday', exportedAt:new Date().toISOString(), state:progressState};
   const blob = new Blob([JSON.stringify(payload,null,2)], {type:'application/json'});
   const url = URL.createObjectURL(blob);
   const a = document.createElement('a');
