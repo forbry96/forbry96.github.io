@@ -18,6 +18,15 @@ h1,h2,h3{font-family:Georgia,"Times New Roman",serif;font-weight:500}
 h1{font-size:clamp(2.15rem,6vw,4.1rem);line-height:1.04;margin:10px 0 18px}
 .lede{font-size:1.08rem;color:var(--muted);max-width:70ch}
 .study-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:24px}
+.study-actions::after{
+  content:"Course progress: To earn progress for this study, open it in the full course and mark it complete there. Reading this standalone page does not record progress.";
+  flex-basis:100%;
+  margin-top:2px;
+  font-size:12.5px;
+  line-height:1.5;
+  color:var(--muted);
+  max-width:68ch;
+}
 .study-button{display:inline-block;text-decoration:none;border:1px solid var(--ink);padding:11px 15px;border-radius:6px;font-weight:750;font-size:14px}
 .study-button.primary{background:var(--ink);color:var(--paper)}
 .where-fit{margin:26px 0 0;padding:14px 16px;border-left:3px solid var(--accent);background:var(--soft)}
