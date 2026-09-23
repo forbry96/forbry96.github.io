@@ -544,6 +544,11 @@ function closeModal(){
   document.body.style.overflow = '';
   if(lastFocusedBeforeModal && document.contains(lastFocusedBeforeModal)) lastFocusedBeforeModal.focus();
   lastFocusedBeforeModal = null;
+  const url = new URL(window.location.href);
+  if(url.searchParams.has('study')){
+    url.searchParams.delete('study');
+    history.replaceState({}, '', url.pathname + (url.search ? url.search : '') + url.hash);
+  }
 }
 
 const practiceDifficultyMeta = {
@@ -849,3 +854,8 @@ renderBuildPrompt();
 renderConversationTips();
 renderAbout();
 renderProgress();
+// Open a specific study when a search or shared lesson page sends someone into the full course.
+const initialStudyId = Number(new URLSearchParams(window.location.search).get('study'));
+if(Number.isInteger(initialStudyId) && byId(initialStudyId)){
+  requestAnimationFrame(()=>openQuestion(initialStudyId));
+}
