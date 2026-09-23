@@ -44,15 +44,19 @@ h1{font-size:clamp(2.15rem,6vw,4.1rem);line-height:1.04;margin:10px 0 18px}
 .sources ul{padding-left:1.2rem}
 .sources li+li{margin-top:10px}
 .sources a{color:var(--accent);font-weight:700}
-.study-pager{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:30px 0 60px}
-.study-pager a{display:block;text-decoration:none;border:1px solid var(--line);background:#fff;padding:16px;border-radius:10px}
-.study-pager span{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-bottom:5px}
+.course-return{margin:32px 0 14px;padding:22px;border:1px solid var(--line);border-radius:14px;background:var(--soft);text-align:center}
+.course-return p{margin:0 0 12px;color:var(--muted);font-size:14px}
+.study-pager{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;flex-wrap:wrap;margin:16px 0 60px;padding-top:16px;border-top:1px solid var(--line)}
+.study-pager a{display:inline-block;max-width:46%;padding:0;border:0;background:transparent;border-radius:0;color:var(--muted);font-size:12px;line-height:1.45;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}
+.study-pager a:hover{color:var(--ink)}
+.study-pager span{display:inline;font-size:10px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-right:5px}
 .study-footer{border-top:1px solid var(--line);padding:26px 0 40px;color:var(--muted);font-size:13px}
 @media(max-width:640px){
   .study-nav{min-height:58px}
   .study-nav-links a:not(.course-link){display:none}
   .study-hero{padding-top:42px}
   .study-section{padding:19px 17px;border-radius:12px}
-  .study-pager{grid-template-columns:1fr}
+  .study-pager{display:grid;grid-template-columns:1fr;gap:10px}
+  .study-pager a{max-width:100%}
   h1{font-size:2.35rem}
 }
