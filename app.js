@@ -225,7 +225,7 @@ function renderQuestions(){
       const done = isComplete(q.id);
       return `<article id="question-${q.id}" class="question-card${done?' completed':''}" data-open="${q.id}" tabindex="0" role="button" aria-label="Open study: ${esc(q.title)}">
         <div class="question-card-top"><span class="question-tag">Study ${String(q.id).padStart(2,'0')} · ${esc(module.shortLabel)} · ${esc(q.tag)}</span>${done?'<span class="complete-badge">✓ Complete</span>':''}</div>
-        <h3>${esc(q.title)}</h3><p>${esc(q.teaser)}</p><div class="card-foot with-direct-link"><span>Open study</span><div class="card-share"><a class="card-direct-link" href="${esc(studyDirectPath(q.id))}" aria-label="Open shareable lesson page: ${esc(q.title)}">Share this lesson</a><small>Progress note: The shareable lesson page does not count toward course progress.</small></div></div></article>`;
+        <h3>${esc(q.title)}</h3><p>${esc(q.teaser)}</p><div class="card-foot with-direct-link"><span>Open study</span><a class="card-direct-link" href="${esc(studyDirectPath(q.id))}" aria-label="Open shareable lesson page: ${esc(q.title)}">Share this lesson</a></div></article>`;
     }).join('');
     const groupGuide = module.groups?.length ? `<div class="module-subgroups">${module.groups.map(g=>`<span>${esc(g.title || g.label)}</span>`).join('')}</div>` : '';
     const first = items[0];
