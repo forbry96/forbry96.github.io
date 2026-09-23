@@ -169,6 +169,36 @@ const studySearchAliases = {
   23: "evolution darwin common ancestry common descent creation creator dna naturalism abiogenesis origins"
 };
 
+const studySlugs = {
+  1: "how-do-arguments-actually-work",
+  2: "how-can-we-know-something-is-true",
+  3: "why-is-there-something-rather-than-nothing",
+  4: "did-the-universe-begin-to-exist",
+  5: "does-design-point-to-a-designer",
+  6: "why-is-the-universe-life-permitting",
+  7: "does-the-information-and-machinery-of-life-point-to-design",
+  8: "if-right-and-wrong-are-real-what-makes-them-real",
+  9: "why-can-we-trust-reason",
+  10: "if-god-exists-are-miracles-possible",
+  11: "can-we-investigate-jesus-historically",
+  12: "who-did-jesus-claim-to-be",
+  13: "did-jesus-really-die-and-was-the-tomb-empty",
+  14: "did-jesus-rise-from-the-dead",
+  15: "liar-lunatic-or-lord",
+  16: "what-does-the-resurrection-say-about-jesus",
+  17: "if-jesus-is-lord-can-we-trust-what-he-teaches",
+  18: "how-did-jesus-treat-the-old-testament",
+  19: "what-about-the-new-testament",
+  20: "so-has-god-spoken",
+  21: "where-should-i-begin-in-a-real-apologetics-conversation",
+  22: "if-god-is-good-and-powerful-why-is-there-so-much-evil-and-suffering",
+  23: "how-should-a-christian-think-about-creation-evolution-and-worldview"
+};
+function studyDirectPath(id){
+  const slug = studySlugs[Number(id)];
+  return slug ? `/studies/${slug}/` : '/';
+}
+
 function studySearchText(q){
   const objectionText=(q.pressure||[]).flat().join(' ');
   const terms=(q.terms||[]).flat().join(' ');
@@ -195,7 +225,7 @@ function renderQuestions(){
       const done = isComplete(q.id);
       return `<article id="question-${q.id}" class="question-card${done?' completed':''}" data-open="${q.id}" tabindex="0" role="button" aria-label="Open study: ${esc(q.title)}">
         <div class="question-card-top"><span class="question-tag">Study ${String(q.id).padStart(2,'0')} · ${esc(module.shortLabel)} · ${esc(q.tag)}</span>${done?'<span class="complete-badge">✓ Complete</span>':''}</div>
-        <h3>${esc(q.title)}</h3><p>${esc(q.teaser)}</p><div class="card-foot">Open study</div></article>`;
+        <h3>${esc(q.title)}</h3><p>${esc(q.teaser)}</p><div class="card-foot with-direct-link"><span>Open study</span><a class="card-direct-link" href="${esc(studyDirectPath(q.id))}" aria-label="Direct link to study: ${esc(q.title)}">Direct link to this study</a></div></article>`;
     }).join('');
     const groupGuide = module.groups?.length ? `<div class="module-subgroups">${module.groups.map(g=>`<span>${esc(g.title || g.label)}</span>`).join('')}</div>` : '';
     const first = items[0];
@@ -821,6 +851,8 @@ document.querySelectorAll('.desktop-nav a').forEach(a=>a.addEventListener('click
   document.querySelector('#navToggle').setAttribute('aria-expanded','false');
 }));
 document.addEventListener('click', e => {
+  const direct=e.target.closest('.card-direct-link');
+  if(direct) return;
   const quick=e.target.closest('[data-open-quick]');
   if(quick) quick.dataset.openQuick === 'step2' ? openStep2QuickReference() : openStep1QuickReference();
   const c=e.target.closest('[data-open]');

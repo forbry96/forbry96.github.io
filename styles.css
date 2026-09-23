@@ -104,6 +104,9 @@ input,select{padding:11px 12px}
 .question-card h3{font-family:var(--serif);font-size:25px;font-weight:500;line-height:1.12;margin:15px 0 10px}
 .question-card p{font-size:14px;margin:0 0 18px;color:var(--muted)}
 .card-foot{margin-top:auto;font-size:12px;color:var(--muted)}
+.card-foot.with-direct-link{display:flex;justify-content:space-between;gap:10px;align-items:center;flex-wrap:wrap}
+.card-direct-link{font-size:11px;color:var(--accent);font-weight:750;text-decoration:underline;text-underline-offset:3px}
+.card-direct-link:hover{color:var(--ink)}
 .dark{background:var(--dark);color:var(--white)}
 .dark p{color:#c8cbc7}
 .tools-grid{display:grid;grid-template-columns:.9fr 1.1fr;gap:60px;align-items:center}
