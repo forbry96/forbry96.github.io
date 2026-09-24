@@ -60,3 +60,27 @@ h1{font-size:clamp(2.15rem,6vw,4.1rem);line-height:1.04;margin:10px 0 18px}
   .study-pager a{max-width:100%}
   h1{font-size:2.35rem}
 }
+
+
+/* For Churches & Groups */
+.group-page .study-hero{padding-bottom:20px}
+.group-intro{max-width:74ch}
+.group-intro p{font-size:16px;line-height:1.72;margin:0 0 1rem}
+.group-details{margin:18px 0;border:1px solid var(--line);border-radius:14px;background:var(--white);overflow:hidden}
+.group-details summary{cursor:pointer;list-style:none;padding:18px 20px;font-family:Georgia,"Times New Roman",serif;font-size:21px;font-weight:600;display:flex;justify-content:space-between;gap:16px;align-items:center}
+.group-details summary::-webkit-details-marker{display:none}
+.group-details summary::after{content:"+";font-family:Arial,Helvetica,sans-serif;font-size:20px;font-weight:400;color:var(--accent)}
+.group-details[open] summary::after{content:"–"}
+.group-details[open] summary{border-bottom:1px solid var(--line)}
+.group-details-content{padding:18px 20px 20px}
+.group-details-content p{margin:0 0 1rem}
+.group-details-content p:last-child{margin-bottom:0}
+.group-practical{margin:26px 0;padding:24px;border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:0 14px 14px 0;background:var(--soft)}
+.group-practical h2{margin:0 0 12px}
+.group-practical p{margin:.45rem 0}
+.group-actions{display:flex;gap:10px;flex-wrap:wrap;margin:24px 0 48px}
+@media(max-width:640px){
+  .group-details summary{padding:16px 17px;font-size:19px}
+  .group-details-content{padding:16px 17px 18px}
+  .group-practical{padding:20px 18px}
+}
