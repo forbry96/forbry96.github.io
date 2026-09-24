@@ -98,8 +98,10 @@ function renderProgress(){
   document.querySelector('#postScore').textContent = scoreLabel(progressState.post);
   document.querySelector('#practiceScore').textContent = `${progressState.practiced.length} topic${progressState.practiced.length===1?'':'s'}`;
   document.querySelector('#startPreTest').textContent = progressState.pre ? 'Retake the optional pre-test' : 'Take the optional pre-test';
-  const heroPreTest = document.querySelector('#heroPreTest');
-  if(heroPreTest) heroPreTest.textContent = progressState.pre ? 'Retake the pre-test' : 'Take the pre-test';
+  ['heroPreTest','methodPreTest'].forEach(id => {
+    const button = document.querySelector('#'+id);
+    if(button) button.textContent = progressState.pre ? 'Retake the pre-test' : 'Take the pre-test';
+  });
   document.querySelector('#startPostTest').textContent = progressState.post ? 'Retake the post-test' : 'Take the post-test';
   updateCourseActions();
 }
@@ -837,6 +839,7 @@ document.querySelector('#startScenario').onclick = () => startScenario(document.
 // Tests and progress
 document.querySelector('#startPreTest').onclick = () => renderTest('pre');
 document.querySelector('#heroPreTest').onclick = () => renderTest('pre');
+document.querySelector('#methodPreTest').onclick = () => renderTest('pre');
 document.querySelector('#startPostTest').onclick = () => renderTest('post');
 document.querySelector('#exportProgress').onclick = exportProgress;
 document.querySelector('#importProgressButton').onclick = () => document.querySelector('#importProgressFile').click();

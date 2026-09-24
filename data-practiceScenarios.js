@@ -751,7 +751,7 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "I agree completely. Early belief can be false. The point of the early material is narrower: it challenges the idea that resurrection belief only developed much later. Then we still have to compare explanations of the appearances, the bodily claim, the tomb evidence, and the rise of the movement."
       ],
       "studies": "Studies 11, 13–16",
-      "studyId": 13
+      "studyId": 14
     }
   },
   {
