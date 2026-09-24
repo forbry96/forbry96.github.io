@@ -1000,7 +1000,7 @@ const questions = [
       "body": "The moral argument can be stated very simply:\n\n1. If God does not exist, objective moral values and duties do not exist.\n2. Objective moral values and duties do exist.\n3. Therefore, God exists.\n\nThe important word is objective. If torturing an innocent person for amusement is objectively wrong, then it remains wrong even if the person doing it approves of it or even if an entire culture approves of it. That is very different from saying you prefer one flavor of ice cream over another.\n\nHere is the problem: explaining why someone feels that something is wrong is not the same as explaining why it actually is wrong. Evolution, culture, family, and experience may all help explain how moral beliefs develop, but those explanations do not by themselves tell us whether the beliefs are objectively true.\n\nChristian theism gives a foundation for both moral value and moral duty. Moral value is grounded in God’s perfectly good nature. Moral duties are what we ought or ought not do, and they come from the rightful authority of the Creator.\n\nThe Euthyphro problem asks whether something is good only because God commands it, or whether God has to follow some moral standard above Himself. Christianity does not have to accept either option. God does not invent goodness arbitrarily, and He does not answer to a higher moral law. His commands flow from His necessarily good character.\n\nThe moral argument is not about who can recognize morality or behave morally. It is about what makes morality real in the first place.",
       "facts": [
         "Moral values concern good and evil; moral duties concern what we ought or ought not do.",
-        "Moral epistemology—how we know moral truths—is different from moral ontology—what makes them true and binding.",
+        "Moral epistemology, how we know moral truths, is different from moral ontology, what makes them true and binding.",
         "Evolutionary or social explanations of moral feelings do not by themselves tell us whether those moral judgments are objectively true.",
         "The moral argument complements the earlier arguments by pointing toward a personal and morally perfect foundation of reality."
       ],
@@ -1023,7 +1023,7 @@ const questions = [
     "core": [
       "A standard moral argument is: if God does not exist, objective moral values and duties do not exist; objective moral values and duties do exist; therefore God exists.",
       "“Objective” means true or binding independently of what an individual or society happens to think.",
-      "The argument is about moral ontology—what grounds moral reality—not about whether an atheist can recognize or perform good actions.",
+      "The argument is about moral ontology, what grounds moral reality, not about whether an atheist can recognize or perform good actions.",
       "Christian theism grounds moral value in God’s perfectly good nature and moral duties in God’s rightful authority.",
       "Moral experience gives us prima facie reason to believe that some acts really are right or wrong.",
       "The Euthyphro dilemma is answered by rejecting both arbitrary commands and a standard above God: goodness is grounded in God’s nature."
@@ -2064,7 +2064,7 @@ const questions = [
     "title": "Liar, lunatic, or Lord?",
     "teaser": "If Jesus made the extraordinary claims we have just examined, admiring him simply as an ethical teacher does not take his own claims seriously.",
     "lesson": {
-      "heading": "What Lewis’s argument is—and is not",
+      "heading": "What Lewis’s argument does and does not claim",
       "body": "If Jesus really made the extraordinary claims we have looked at, then we cannot comfortably describe Him as only a great moral teacher. That is the main point of the classic liar, lunatic, or Lord argument.\n\nIf Jesus knowingly made false claims about His identity and authority, then He would be deceiving people in a very serious way. If He sincerely believed the claims but was completely mistaken about who He was, then we would also have a problem calling Him simply a wise moral teacher. If the claims were true, then Lord becomes a real option.\n\nHere is where the argument is sometimes overstated: those are not the only imaginable possibilities. Someone can also argue that the Gospel accounts distorted or exaggerated what Jesus originally claimed. That is often called the legend hypothesis.\n\nBut that is really a different question. Liar and lunatic ask what we should conclude if Jesus actually made the claims. Legend asks whether He made them in the first place. We have already started addressing that historical question by looking at the sources and the cumulative evidence for Jesus’ self-understanding.\n\nThe trilemma is best used as a way of forcing the identity question, not as proof by itself. The positive reason for accepting Jesus’ claims comes from the resurrection, which gives us evidence that God vindicated Him.",
       "facts": [
         "The argument has force only after there is historical reason to attribute extraordinary claims to Jesus.",
@@ -2089,7 +2089,7 @@ const questions = [
       "If Jesus knowingly made false divine claims, “liar” becomes relevant.",
       "If He sincerely made those claims while being radically mistaken about His identity, “lunatic” or profound delusion is the second branch of the classic argument.",
       "If the claims are true, “Lord” fits.",
-      "The modern historical challenge—legend or later development—attacks the premise that Jesus really made the claims, so it should be handled by Studies 11–12 rather than made an equal fourth branch.",
+      "The modern historical challenge of legend or later development attacks the premise that Jesus really made the claims, so it should be handled by Studies 11–12 rather than made an equal fourth branch.",
       "The resurrection supplies the positive reason for accepting Lord rather than merely eliminating alternatives."
     ],
     "pressure": [
