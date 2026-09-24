@@ -875,8 +875,8 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "I think suffering can count as evidence in the discussion. The question is what exactly it establishes and how strongly, especially when it is weighed with the rest of the evidence for and against God. I would not tell you the pain is irrelevant.",
         "That would be a bad answer if I used “unknown reasons” to make every possible amount of suffering count for nothing. The narrower point is that my not seeing a sufficient reason does not prove there cannot be one. The actual scale and character of suffering still have to be considered honestly."
       ],
-      "studies": "Study 21, problem of evil, plus Study 23 on conversation",
-      "studyId": 21
+      "studies": "Study 22, problem of evil, plus Study 21 on conversation",
+      "studyId": 22
     }
   },
   {
@@ -896,19 +896,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
             "text": "It would be circular if I started by assuming the New Testament is inspired. The historical argument first treats its documents as ancient sources that can be examined like other sources, then asks what follows if the case for Jesus succeeds.",
             "next": "bias",
             "grade": "strong",
-            "note": "Good. You distinguished historical use from theological conclusion."
+            "note": "Good. You distinguished historical use from the later theological conclusion."
           },
           {
             "text": "Using the Bible as evidence is not circular because every historical argument uses written sources.",
             "next": "bias",
             "grade": "mixed",
-            "note": "Helpful, but you still need to explain that you are not assuming the source is inspired in the historical stage."
+            "note": "Helpful, but you still need to explain that you are not assuming inspiration at the historical stage."
           },
           {
             "text": "The Bible has been shown to be reliable, so using it is fair.",
             "next": "bias",
             "grade": "mixed",
-            "note": "Potentially relevant, but “reliable” is too global and can sound like the conclusion is already loaded in."
+            "note": "Potentially relevant, but “reliable” is too broad here and can make it sound like the conclusion was assumed at the start."
           }
         ]
       },
@@ -917,16 +917,16 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "But these are Christian documents written by believers. Why trust interested witnesses?",
         "options": [
           {
-            "text": "Being interested does not make a source useless. It means we examine what the source claims, when it was written, what earlier material it preserves, where it can be checked, and how it fits other evidence. Bias is a reason for scrutiny, not automatic dismissal.",
+            "text": "Being interested does not make a source useless. It means we examine what the source claims, when it was written, what earlier material it preserves, where it can be checked, and how it fits the other evidence. Bias is a reason for scrutiny, not automatic dismissal.",
             "next": "canon",
             "grade": "strong",
-            "note": "Good. You did not pretend the authors were neutral, and you did not treat commitment as disqualifying."
+            "note": "Good. You did not pretend the writers were neutral, and you did not treat commitment as disqualifying."
           },
           {
             "text": "Almost every ancient source has a point of view, so bias does not matter.",
             "next": "canon",
             "grade": "mixed",
-            "note": "Bias does matter, it just does not automatically invalidate a source."
+            "note": "Bias does matter. The point is that it does not automatically make a source worthless."
           },
           {
             "text": "They were willing to suffer for what they believed, which shows they were honest.",
@@ -941,22 +941,22 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "Suppose I grant some historical case for Jesus. How do you get from that to every New Testament book being God’s Word?",
         "options": [
           {
-            "text": "Not in one jump. The argument moves through Jesus’ authority, his view of Israel’s Scriptures, his commissioning of the apostles, and then the historical recognition of apostolic writings. Each link needs its own case.",
+            "text": "Not in one jump. The argument moves through Jesus’ authority, his view of Israel’s Scriptures, his commissioning of the apostles, and then the recognition of writings tied to that apostolic authority. Each link needs its own case.",
             "next": "interp",
             "grade": "strong",
-            "note": "Good. You refused to collapse the authority chain into a slogan."
+            "note": "Good. You kept the authority chain intact instead of jumping from resurrection straight to the whole Bible."
           },
           {
             "text": "If Jesus rose, then Christianity is true, and the Christian Bible follows.",
             "next": "interp",
             "grade": "mixed",
-            "note": "This compresses several important steps that the course intentionally separates."
+            "note": "This compresses several steps that the course intentionally separates."
           },
           {
             "text": "Jesus promised the Spirit would guide the apostles, so their writings are inspired.",
             "next": "interp",
             "grade": "mixed",
-            "note": "That becomes relevant, but it still needs the prior historical case for Jesus’ authority and careful application to the canon."
+            "note": "That becomes relevant, but only after the case for Jesus’ authority, and it still has to be connected carefully to the New Testament writings."
           }
         ]
       },
@@ -965,28 +965,28 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "And even if Scripture is true, Christians disagree about what it means. Does that not undercut the whole thing?",
         "options": [
           {
-            "text": "It shows that an infallible text does not make every interpreter infallible. Disagreement can make interpretation harder, but it is a different question from whether God has spoken in Scripture.",
+            "text": "It shows that an infallible text does not make every interpreter infallible. Disagreement can make interpretation harder, but that is a different question from whether God has spoken in Scripture.",
             "next": "goodend",
             "grade": "strong",
-            "note": "Good. You distinguished authority from interpretation without pretending disagreement is trivial."
+            "note": "Good. You distinguished the authority of Scripture from the fallibility of its interpreters."
           },
           {
             "text": "Most important doctrines are clear enough that the disagreements do not matter much.",
             "next": "goodend",
             "grade": "mixed",
-            "note": "There is a doctrine of clarity here, but this answer minimizes real interpretive disagreement instead of distinguishing the issues."
+            "note": "There is a real doctrine of clarity, but this answer minimizes genuine disagreement instead of distinguishing the two questions."
           },
           {
             "text": "The church helps us know the correct interpretation.",
             "next": "goodend",
             "grade": "mixed",
-            "note": "True in an ordinary sense, but this opens a new ecclesiological question rather than directly answering the logic of the objection."
+            "note": "The church matters, but this opens another question instead of answering whether disagreement cancels the authority of the text."
           }
         ]
       },
       "goodend": {
         "end": true,
-        "summary": "The pressure point is structure. The learner should be able to use New Testament documents historically without assuming inspiration, then explain the later authority argument link by link instead of jumping from resurrection to “therefore the whole Bible.”"
+        "summary": "Keep the order of the argument straight. The New Testament can first be used as historical evidence without assuming inspiration. If the case for Jesus succeeds, his authority then becomes part of the later case for Scripture."
       }
     },
     "build": {
@@ -998,3 +998,385 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
       "models": [
         "It would be circular if I began by assuming the New Testament is inspired and then used that assumed inspiration to prove the resurrection. The historical step does not need that assumption. I can treat the documents as ancient sources, ask when they were written, what claims they preserve, and what evidence they give, then ask what follows if the historical case succeeds.",
         "They were not neutral, and I would not pretend they were. But interested testimony is not automatically worthless. Historians still ask what a source says, how early it is, what earlier material it contains, where it can be checked, and how it compares with other evidence.",
+        "It does not prove the whole New Testament in one jump. The course moves from Jesus’ authority to his view of Scripture and his commissioning of the apostles, then asks how writings carrying that apostolic authority were recognized. Each step has to be argued rather than assumed."
+      ],
+      "studies": "Studies 11 and 17–20, especially historical method and the authority chain",
+      "studyId": 20
+    }
+  },
+  {
+    "id": "naturalismbundle",
+    "level": "mixed",
+    "title": "Science explains more, so where is God left?",
+    "diagnose": "I am not saying science has disproved God. I just notice that the more science explains, the less work there seems to be for God to do. Evolution explains design, physics explains the universe, and religion keeps retreating to whatever is left.",
+    "entryKey": "clarify",
+    "entry": "Ask first. Several claims are bundled together, so find out whether the real issue is a God-of-the-gaps argument, biological design, or whether natural explanations make God unnecessary.",
+    "diagnoseWhy": "There are at least three different arguments here. Answering all of them at once would make the conversation less clear.",
+    "nodes": {
+      "start": {
+        "speaker": "Friend",
+        "text": "I am not saying science has disproved God. I just notice that the more science explains, the less work there seems to be for God to do.",
+        "options": [
+          {
+            "text": "When you say “less work for God,” do you mean that a natural mechanism makes God unnecessary, or that Christians only appeal to God when they do not know the mechanism?",
+            "next": "mechanism",
+            "grade": "strong",
+            "note": "Good. You separated two different objections before choosing an argument."
+          },
+          {
+            "text": "Fine-tuning still proves that science has not explained everything.",
+            "next": "mechanism",
+            "grade": "mixed",
+            "note": "Fine-tuning may become relevant, but you answered a specific argument before finding out what he meant."
+          },
+          {
+            "text": "Science can never explain God because God is outside science.",
+            "next": "mechanism",
+            "grade": "mixed",
+            "note": "That may be true about scientific method, but it does not yet answer the claim that natural explanations make God unnecessary."
+          }
+        ]
+      },
+      "mechanism": {
+        "speaker": "Friend",
+        "text": "Mostly the first one. If evolution can explain biological complexity naturally, why bring design into it?",
+        "options": [
+          {
+            "text": "A natural mechanism and a design question are not automatically rivals at every level. The course asks what mutation and selection can actually explain, then separately asks about functional information, coordinated machinery, and the origin of the system those mechanisms work within.",
+            "next": "dna",
+            "grade": "strong",
+            "note": "Good. You did not deny observed biological change, and you kept the larger design question open."
+          },
+          {
+            "text": "Evolution only explains small changes, not real new information.",
+            "next": "dna",
+            "grade": "mixed",
+            "note": "That is too compressed and can overstate what has been shown. The stronger move is to separate observed change from the larger explanatory claims."
+          },
+          {
+            "text": "Because cells look designed, and things that look designed are designed.",
+            "next": "dna",
+            "grade": "mixed",
+            "note": "That is too quick. The lesson argues from specific features and explanatory comparison, not appearance alone."
+          }
+        ]
+      },
+      "dna": {
+        "speaker": "Friend",
+        "text": "But shared DNA is exactly what common ancestry predicts. Why treat common design as anything more than an escape hatch?",
+        "options": [
+          {
+            "text": "Shared genetic patterns are real evidence, and common ancestry is one way to interpret them. A creation view can also expect common structures from a common designer. The question is not whether the similarities exist, but which larger explanation handles the full set of evidence best.",
+            "next": "gaps",
+            "grade": "strong",
+            "note": "Good. You acknowledged the evidence instead of pretending genetic similarity is irrelevant."
+          },
+          {
+            "text": "Common DNA actually proves common design because designers reuse good ideas.",
+            "next": "gaps",
+            "grade": "mixed",
+            "note": "Common design can make sense of reuse, but saying the same evidence proves your view is too strong without a fuller comparison."
+          },
+          {
+            "text": "DNA similarity does not really tell us anything about ancestry.",
+            "next": "gaps",
+            "grade": "weak",
+            "note": "That dismisses evidence the course itself says has to be interpreted rather than ignored."
+          }
+        ]
+      },
+      "gaps": {
+        "speaker": "Friend",
+        "text": "I still worry this is just God of the gaps with more sophisticated language.",
+        "options": [
+          {
+            "text": "That would be a problem if the argument were “we do not know the mechanism, therefore God.” That is not the case I want to make. The course asks positive questions about contingent existence, fine-tuning, reason, information, and history, even where natural mechanisms are known.",
+            "next": "goodend",
+            "grade": "strong",
+            "note": "Good. You answered the actual concern and connected it to the broader course rather than hiding God in an unknown mechanism."
+          },
+          {
+            "text": "Every worldview has gaps, so naturalism has the same problem.",
+            "next": "goodend",
+            "grade": "mixed",
+            "note": "That can be worth discussing later, but it does not show that your own argument is not a gap argument."
+          },
+          {
+            "text": "Scientists also believe things they cannot prove, so it is unfair to call this a gap.",
+            "next": "goodend",
+            "grade": "mixed",
+            "note": "That shifts attention to scientists instead of explaining the structure of your argument."
+          }
+        ]
+      },
+      "goodend": {
+        "end": true,
+        "summary": "The hard part is keeping several questions separate. Natural mechanisms can be real without settling every question about God, design, or the ultimate explanation of the system itself."
+      }
+    },
+    "build": {
+      "prompt": "A coworker says, “The more science explains, the less reason I see to bring God into anything.” What would you ask before deciding which argument to give?",
+      "followUps": [
+        "He clarifies, “Evolution is the clearest example. Natural selection gives us a natural explanation for apparent design.”",
+        "Then he says, “And genetic similarities fit common ancestry. Why is common design not just something creationists say to protect their view?”"
+      ],
+      "models": [
+        "I would first ask what he thinks a scientific explanation replaces. Does he mean that once we know a natural mechanism, God is no longer needed as an explanation at any level, or is he objecting specifically to design arguments that rely on missing mechanisms? Those are different claims.",
+        "I would agree that mutation and natural selection explain real biological change. The next question is what they are being asked to explain. The course separates observed change from larger claims about universal common ancestry, biological information, coordinated molecular machinery, and the origin of life.",
+        "The similarities are real and should not be waved away. Common ancestry interprets them one way, while common design can also predict reused structures. Then the discussion has to move beyond one similarity and compare how the larger explanations fit the whole body of evidence."
+      ],
+      "studies": "Studies 3, 5–7, and 23",
+      "studyId": 23
+    }
+  },
+  {
+    "id": "hurtandhistory",
+    "level": "mixed",
+    "title": "Pain, church failure, and whether Christianity is true",
+    "diagnose": "My sister lost a baby. I do not want a lecture about free will. I cannot see how a loving God can watch something like that happen. And honestly, after what some church leaders did to my family, I do not know why I should trust Christianity anyway.",
+    "entryKey": "clarify",
+    "entry": "Ask first. There is grief, a problem-of-evil argument, and distrust created by Christians’ actions. Do not flatten those into one debate question.",
+    "diagnoseWhy": "A technically correct argument can still answer the wrong thing if you do not find out which part the person wants to talk about first.",
+    "nodes": {
+      "start": {
+        "speaker": "Friend",
+        "text": "My sister lost a baby. I do not want a lecture about free will. I cannot see how a loving God can watch something like that happen. And after what church leaders did to my family, I do not know why I should trust Christianity anyway.",
+        "options": [
+          {
+            "text": "Those are three different questions, and the first one sounds personal. What happened with the church leaders, and which part is making Christianity hardest to trust right now?",
+            "next": "leaders",
+            "grade": "strong",
+            "note": "Good. You did not turn grief into a philosophy exercise, and you gave him room to identify the real issue."
+          },
+          {
+            "text": "The free-will defense is not the only Christian answer to suffering.",
+            "next": "leaders",
+            "grade": "mixed",
+            "note": "True, but he explicitly told you he does not want that kind of lecture right now."
+          },
+          {
+            "text": "Bad church leaders do not make Christianity false.",
+            "next": "leaders",
+            "grade": "mixed",
+            "note": "Logically true, but it is too early and risks treating the personal betrayal as irrelevant."
+          }
+        ]
+      },
+      "leaders": {
+        "speaker": "Friend",
+        "text": "The leaders covered up something serious and then acted like questioning them meant questioning God. It made the whole thing feel manipulative.",
+        "options": [
+          {
+            "text": "That was wrong, and using God’s authority to shield leaders from accountability is not something I would defend. Their failure matters. It still leaves a separate question about whether Christianity’s central claims are true, but I would not use that distinction to excuse what happened.",
+            "next": "truth",
+            "grade": "strong",
+            "note": "Good. You conceded the moral failure without letting it automatically decide the historical question."
+          },
+          {
+            "text": "People abuse every good institution, so that does not tell us anything about Christianity.",
+            "next": "truth",
+            "grade": "mixed",
+            "note": "The logical distinction is there, but it minimizes why the experience affected his trust."
+          },
+          {
+            "text": "Jesus warned about false teachers, so bad leaders actually confirm Christianity.",
+            "next": "truth",
+            "grade": "weak",
+            "note": "That turns a painful experience into a debating point and overstates what the warning would establish."
+          }
+        ]
+      },
+      "truth": {
+        "speaker": "Friend",
+        "text": "Maybe. But if Christians can be that wrong, why trust Christian documents about Jesus either?",
+        "options": [
+          {
+            "text": "I would not ask you to trust a document simply because a Christian wrote it. The historical question is narrower: how early is the source, what does it claim, what earlier material does it preserve, where can it be checked, and how does it fit the other evidence?",
+            "next": "evil",
+            "grade": "strong",
+            "note": "Good. You moved from institutional trust to historical method without pretending bias disappears."
+          },
+          {
+            "text": "The apostles were different because they personally knew Jesus.",
+            "next": "evil",
+            "grade": "mixed",
+            "note": "That may become part of the evidence, but it is better to explain how historical sources are actually evaluated."
+          },
+          {
+            "text": "Christianity has survived bad leaders for two thousand years, so the documents must be reliable.",
+            "next": "evil",
+            "grade": "weak",
+            "note": "Institutional survival does not establish the reliability of a particular historical claim."
+          }
+        ]
+      },
+      "evil": {
+        "speaker": "Friend",
+        "text": "I still come back to the baby. Even if I granted some history about Jesus, I do not understand why a good God would allow that.",
+        "options": [
+          {
+            "text": "I do not know why that happened, and I would not pretend I do. Christianity does not require calling the loss good. If you want to talk about whether suffering counts against God, we can do that, but I would keep the philosophical question separate from pretending I can explain your family’s tragedy.",
+            "next": "goodend",
+            "grade": "strong",
+            "note": "Good. You stayed truthful about the argument and modest about what you do not know."
+          },
+          {
+            "text": "God can bring good out of suffering even when we cannot see it.",
+            "next": "goodend",
+            "grade": "mixed",
+            "note": "That can be a Christian hope, but here it risks sounding like you are supplying a reason for this particular tragedy that you do not know."
+          },
+          {
+            "text": "If God raised Jesus, then suffering cannot count against God very much.",
+            "next": "goodend",
+            "grade": "weak",
+            "note": "The resurrection can matter to the larger Christian answer, but this dismisses the evidential and personal force of the objection."
+          }
+        ]
+      },
+      "goodend": {
+        "end": true,
+        "summary": "Some conversations mix evidence, grief, and distrust. Listen long enough to separate them. You can admit Christian wrongdoing, make a historical case, and discuss evil without pretending one short answer settles all three."
+      }
+    },
+    "build": {
+      "prompt": "A friend says, “After what happened to my family in church, I do not trust religious leaders, and after losing a child I am not sure I can believe in a good God either.” What would you say first?",
+      "followUps": [
+        "He says, “Even if the leaders were wrong, why should I trust Christian sources about Jesus when Christians can be so biased?”",
+        "Then he says, “And I still cannot see how a loving God lets a baby die.”"
+      ],
+      "models": [
+        "I would not start by defending the church or giving you a theory of suffering. What happened with the leaders matters, and the loss matters. If you are willing, I would first want to know which part you want to talk about, because those are connected for you but they are not exactly the same question.",
+        "I would not ask you to trust a source just because it is Christian. We can examine the New Testament documents as historical sources before deciding they are inspired, looking at their date, claims, earlier traditions, connections to witnesses, and how they fit the rest of the evidence.",
+        "I do not know why God allowed that particular loss, and I would not tell you I do. The problem of evil can be discussed philosophically, but a philosophical answer is not the same thing as explaining why this happened to your family. Christianity gives reasons to think suffering is not meaningless, but it does not require us to call death good."
+      ],
+      "studies": "Studies 11, 21, and 22",
+      "studyId": 22
+    }
+  },
+  {
+    "id": "rapidfire",
+    "level": "mixed",
+    "title": "Four objections at once",
+    "diagnose": "Okay, then answer this: who created God, why does evolution look true, why should I trust a Bible that has been copied for centuries, and why would a good God allow children to suffer?",
+    "entryKey": "clarify",
+    "entry": "Ask first. Do not try to answer four separate objections in one speech. Pick one issue together and finish that conversation before moving to the next.",
+    "diagnoseWhy": "The challenge is not lack of material. It is keeping the conversation from becoming a pile of half-answers.",
+    "nodes": {
+      "start": {
+        "speaker": "Friend",
+        "text": "Okay, then answer this: who created God, why does evolution look true, why should I trust a Bible that has been copied for centuries, and why would a good God allow children to suffer?",
+        "options": [
+          {
+            "text": "I would not try to answer all four. They are all fair questions, but if we take them together we will never know what we actually disagree about. Which one do you want to start with?",
+            "next": "pick",
+            "grade": "strong",
+            "note": "Good. You controlled the scope without dodging the questions."
+          },
+          {
+            "text": "Those all have answers. Let me start with the cosmological argument and work through the rest.",
+            "next": "pick",
+            "grade": "mixed",
+            "note": "You are willing to answer, but you are about to turn the conversation into a lecture."
+          },
+          {
+            "text": "Most of those objections come from misunderstandings, so we should clear them up one by one.",
+            "next": "pick",
+            "grade": "mixed",
+            "note": "One by one is right, but calling them misunderstandings before answering can sound dismissive."
+          }
+        ]
+      },
+      "pick": {
+        "speaker": "Friend",
+        "text": "Fine. Who created God?",
+        "options": [
+          {
+            "text": "First I would correct the premise. The argument is not that everything needs a cause. Kalam says things that begin to exist need causes, and the contingency argument asks why dependent things exist. God is being argued for as the necessary stopping point, not inserted as an exception.",
+            "next": "switch",
+            "grade": "strong",
+            "note": "Good. You answered the chosen question without dragging the other three back in."
+          },
+          {
+            "text": "Nobody created God because God is eternal.",
+            "next": "switch",
+            "grade": "mixed",
+            "note": "That is part of the answer, but it leaves the bad premise mostly untouched."
+          },
+          {
+            "text": "The universe had a beginning, and evolution cannot explain that.",
+            "next": "switch",
+            "grade": "weak",
+            "note": "You switched to a different issue instead of answering the question he chose."
+          }
+        ]
+      },
+      "switch": {
+        "speaker": "Friend",
+        "text": "All right, but the Bible has been copied and translated so many times. How could we know what it originally said?",
+        "options": [
+          {
+            "text": "That is a different question, but we can take it next. Copying does not mean each translation was copied from the previous translation. We compare surviving manuscripts and textual variants to recover the wording. Then the separate question is whether what the documents say is historically true.",
+            "next": "evil",
+            "grade": "strong",
+            "note": "Good. You changed topics only because he chose to, and you separated text recovery from historical truth."
+          },
+          {
+            "text": "There are more manuscripts of the Bible than any other ancient book, so we know it is true.",
+            "next": "evil",
+            "grade": "mixed",
+            "note": "Manuscript evidence can help recover the text, but manuscript quantity does not prove the events described actually happened."
+          },
+          {
+            "text": "Modern translations are extremely accurate, so there is no real problem here.",
+            "next": "evil",
+            "grade": "mixed",
+            "note": "That is too broad. Textual variants are real, even if they do not mean the text is hopelessly lost."
+          }
+        ]
+      },
+      "evil": {
+        "speaker": "Friend",
+        "text": "Then what about children suffering? That one matters more to me than the manuscript question.",
+        "options": [
+          {
+            "text": "Then I would stay there. Are you asking whether suffering makes God logically impossible, whether it makes God seem less likely, or is this connected to something that happened personally? Those need different kinds of answers.",
+            "next": "goodend",
+            "grade": "strong",
+            "note": "Good. You recognized that this objection needs diagnosis before argument."
+          },
+          {
+            "text": "The logical problem of evil has already been answered by the possibility of morally sufficient reasons.",
+            "next": "goodend",
+            "grade": "mixed",
+            "note": "That may address one form of the argument, but you do not yet know which form he is raising."
+          },
+          {
+            "text": "God can use suffering for good, so suffering does not disprove him.",
+            "next": "goodend",
+            "grade": "mixed",
+            "note": "That is too fast and may supply a reason for particular suffering that you do not know."
+          }
+        ]
+      },
+      "goodend": {
+        "end": true,
+        "summary": "Mixed conversations are often a test of restraint. Answer the question in front of you, notice when the topic changes, and do not confuse having four answers with giving one good answer."
+      }
+    },
+    "build": {
+      "prompt": "Someone gives you four objections in one breath: “Who created God? Evolution explains design. The Bible has been copied too many times. And a good God would not allow suffering.” What do you say first?",
+      "followUps": [
+        "He chooses, “Who created God?” Answer that one without drifting into the other three.",
+        "After your answer he says, “Fine, but now tell me why the Bible should be trusted after centuries of copying.”"
+      ],
+      "models": [
+        "I would not try to answer all four at once. They are different questions, and if I give you a speech covering all of them we probably will not know where we actually disagree. Pick the one you care about most and let me try to answer that one first.",
+        "The argument is not that everything needs a cause. Kalam says what begins to exist needs a cause, while the contingency argument asks why dependent reality exists at all. So God is not being made an exception to the rule. The claim is that the explanation eventually has to terminate in something necessary rather than another dependent thing.",
+        "First I would separate two questions. Textual criticism asks whether we can recover what the documents originally said, and the manuscript evidence gives us a way to compare copies rather than trusting a chain of translations. After that comes the historical question of whether the recovered claims are true."
+      ],
+      "studies": "Studies 3–4, 11, 21–23",
+      "studyId": 21
+    }
+  }
+]);
