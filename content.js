@@ -4735,224 +4735,224 @@ const sourceItems = [
 const tests = {
   "pre": [
     {
-      "q": "What question is the moral argument mainly trying to answer?",
+      "q": "An argument is logically valid, but one of its key premises is only weakly supported. Which assessment is most accurate?",
       "opts": [
-        "Why people from different cultures often disagree about moral rules.",
-        "How moral instincts may have developed in human societies.",
-        "Why religious belief can motivate some people to behave morally.",
-        "What makes objective moral duties genuinely binding rather than matters of preference."
+        "The argument is probably sound because the conclusion follows from the premises.",
+        "The argument may be valid, but it has not been shown sound unless that premise is true.",
+        "The argument is invalid because a premise with weak evidence breaks the logical form.",
+        "The conclusion should be rejected because a sound argument requires certainty about every premise."
+      ],
+      "a": 1,
+      "exp": "Validity concerns whether the conclusion follows from the premises. Soundness requires validity plus true premises, so a weakly supported premise leaves soundness unestablished."
+    },
+    {
+      "q": "Two people give incompatible answers to whether a historical event occurred. What follows from the disagreement by itself?",
+      "opts": [
+        "At least one side must be reasoning from weaker evidence than the other side.",
+        "The truth of the event depends partly on which worldview each person brings to it.",
+        "The event cannot now be known because the available evidence permits disagreement.",
+        "Both claims cannot be true in the same sense, but the disagreement alone does not tell us which is correct."
       ],
       "a": 3,
-      "exp": "The moral argument is about the grounding of objective moral duties, not about whether nonbelievers can recognize or perform moral actions."
+      "exp": "Disagreement does not make truth relative or unknowable. Contradictory claims cannot both be true in the same sense, so the evidence still has to be examined."
     },
     {
-      "q": "Suppose the universe had no first moment. What question would a contingency argument still ask?",
+      "q": "Suppose the universe had no first moment and had always existed under the same basic laws. What would the contingency argument still ask?",
       "opts": [
-        "Whether an eternal universe must also be infinitely large.",
-        "Whether the universe exists necessarily or still depends on something beyond itself.",
-        "Whether physical laws could operate without a beginning.",
-        "Whether an eternal universe could contain changing events."
-      ],
-      "a": 1,
-      "exp": "Contingency is about dependence rather than age. Something could be eternal and still depend on something else for its existence."
-    },
-    {
-      "q": "Which approach best describes a cumulative historical case for the resurrection?",
-      "opts": [
-        "Establish the empty tomb first and treat that fact by itself as proof of resurrection.",
-        "Show that the disciples sincerely believed Jesus rose, since sincerity is enough to establish what happened.",
-        "Compare explanations for several facts together, including early proclamation, appearances, the tomb evidence, and transformed witnesses.",
-        "Prove that every detail in every Gospel account is equally certain before discussing resurrection."
-      ],
-      "a": 2,
-      "exp": "The course treats the resurrection as an inference to the best explanation of several lines of historical evidence taken together."
-    },
-    {
-      "q": "Which statement best describes a sound deductive argument?",
-      "opts": [
-        "Its reasoning is valid and its premises are true.",
-        "Its conclusion is probably true even if one premise is uncertain.",
-        "Its premises are accepted by most people who hear the argument.",
-        "Its conclusion has some evidence supporting it, even if it does not follow from the premises."
+        "Whether that law-governed reality exists necessarily or still depends on something beyond itself.",
+        "Whether an infinite past can be represented without contradiction in ordinary mathematics.",
+        "Whether the earliest physical event can be identified even if there was no first moment.",
+        "Whether the laws of nature would eventually have to change in an eternal universe."
       ],
       "a": 0,
-      "exp": "A deductive argument is sound when it is valid and its premises are true."
+      "exp": "Contingency is about dependence rather than age. Even an eternal universe could still be contingent rather than necessary or self-explanatory."
     },
     {
-      "q": "If God raised Jesus from the dead, why would Jesus’ teaching carry special weight?",
+      "q": "Suppose we had strong evidence that the universe began to exist. What would the Kalam argument still need before its conclusion follows?",
       "opts": [
-        "A resurrection would show that Jesus knew more history than other ancient teachers.",
-        "A resurrection would remove the need to establish what Jesus actually taught.",
-        "God’s act would function as a vindication of Jesus and his claimed authority.",
-        "Anyone who performs a miracle must be correct about every subject."
+        "Evidence that every existing thing, including God, must have a prior cause.",
+        "Evidence that the universe could not have begun through any physical process.",
+        "A defensible reason for thinking that whatever begins to exist has a cause.",
+        "A proof that the cause of the universe must already be the Christian God."
       ],
       "a": 2,
-      "exp": "In the context of Jesus’ claims, resurrection functions as divine vindication. Historical work is still needed to establish what Jesus taught."
+      "exp": "A beginning is only one premise. The Kalam also needs the causal premise that whatever begins to exist has a cause before a cause of the universe follows."
     },
     {
-      "q": "What is the central question raised by cosmic fine-tuning?",
+      "q": "Which kind of evidence would most strengthen a design inference rather than merely point to something complicated?",
       "opts": [
-        "Why Earth rather than another planet became home to human beings.",
-        "Why the universe contains large regions where life cannot exist.",
-        "Why the basic physical conditions fall within ranges that permit complex life, and what best explains that fact.",
-        "Whether every physical constant could have taken any value whatsoever."
+        "A structure whose parts are numerous enough that no one person can easily understand the whole system.",
+        "A useful biological feature for which scientists continue to debate several possible evolutionary histories.",
+        "A natural pattern that is highly ordered and survives because that order gives the organism an advantage.",
+        "A functionally specific pattern resembling effects intelligence is known to produce, with rival causes compared against it."
+      ],
+      "a": 3,
+      "exp": "The stronger design argument is comparative. It asks whether features that are diagnostic of intelligence are better explained by intelligence than by competing causes."
+    },
+    {
+      "q": "Someone says, “Of course we observe a life-permitting universe. If it were not life-permitting, we would not be here to observe it.” What question remains?",
+      "opts": [
+        "Whether intelligent observers could exist in forms very different from human beings.",
+        "Why there is a life-permitting set of conditions to observe in the first place.",
+        "Whether every constant must be adjustable independently of every other constant.",
+        "Why Earth happens to be the particular planet on which observers developed."
+      ],
+      "a": 1,
+      "exp": "Observer selection explains why observers only find themselves where observation is possible. By itself, it does not explain why life-permitting conditions exist."
+    },
+    {
+      "q": "A molecular system loses its present function when any one of several core parts is removed. What does that observation establish most directly?",
+      "opts": [
+        "The system could not have developed through any sequence involving earlier structures with different functions.",
+        "Each present part must always have performed exactly the same role it performs in the current system.",
+        "The current function depends on coordinated parts, while the historical origin of that system remains a further question.",
+        "Natural selection cannot account for systems whose present form contains several interacting components."
       ],
       "a": 2,
-      "exp": "Fine-tuning asks how best to explain the life-permitting values and conditions of the universe."
+      "exp": "Removing a core part can show present functional dependence. It does not by itself settle every possible historical pathway, so origin remains a separate comparative question."
     },
     {
-      "q": "Why can the New Testament be used in historical investigation before someone accepts it as inspired Scripture?",
+      "q": "Suppose an evolutionary account explains why human beings developed strong feelings of moral obligation. What question would the moral argument still raise?",
       "opts": [
-        "Ancient documents can be evaluated for date, sources, testimony, and corroboration without first accepting their theology.",
-        "A large number of manuscripts makes the events in a document historically certain.",
-        "Early Christian use of a text automatically proves everything in it occurred.",
-        "Religious documents are generally more reliable than nonreligious ancient documents."
+        "Whether any moral duties are objectively binding and what could ground that obligation.",
+        "Whether evolution can explain why different cultures disagree about some moral judgments.",
+        "Whether religious belief produces stronger moral feelings than nonreligious belief does.",
+        "Whether people can behave morally when they do not consciously believe in objective morality."
       ],
       "a": 0,
-      "exp": "Historical use of a document does not require assuming its inspiration. Its claims can first be evaluated as historical evidence."
+      "exp": "An account of why we have moral feelings is not yet an account of whether objective moral duties really exist or what makes them binding."
     },
     {
-      "q": "Which statement is a premise of the Kalam cosmological argument?",
+      "q": "A neuroscientist gives a complete physical account of what happened in someone’s brain while that person formed a belief. What additional question does the argument from reason raise?",
       "opts": [
-        "Every contingent thing must have a cause outside itself.",
-        "Whatever begins to exist has a cause.",
-        "Every event must have an earlier event that caused it.",
-        "The universe could not possibly have existed without change."
-      ],
-      "a": 1,
-      "exp": "The first Kalam premise is that whatever begins to exist has a cause. It does not say that everything has a cause."
-    },
-    {
-      "q": "Which account best describes the course’s route from Jesus to the New Testament?",
-      "opts": [
-        "The church’s later councils gave the New Testament its authority by selecting the best Christian books.",
-        "Any writing used widely by early Christians became Scripture through continued use.",
-        "Jesus authorized apostles, apostolic teaching carried his authority, and the church recognized writings tied to that witness.",
-        "Jesus personally identified the future twenty-seven-book New Testament for his disciples."
+        "Whether the same brain activity would occur if the person were thinking about a different subject.",
+        "Whether conscious reasoning can ever occur without some corresponding physical brain activity.",
+        "Whether the belief was rationally warranted and truth-directed, not merely physically caused.",
+        "Whether philosophical reasoning uses neural processes that differ from scientific reasoning."
       ],
       "a": 2,
-      "exp": "The course moves from Christ’s authority to the apostles and then to the historical recognition of apostolic writings."
+      "exp": "A causal account of a belief is not automatically a rational account of why the belief is justified or true."
     },
     {
-      "q": "What distinction is central to the argument from reason?",
+      "q": "A skeptic gives a resurrection claim a probability of zero before looking at any historical evidence because dead people normally stay dead. What issue should come first?",
       "opts": [
-        "The difference between conscious and unconscious brain activity.",
-        "The difference between what physically causes a belief and what rationally justifies that belief.",
-        "The difference between deductive and inductive arguments.",
-        "The difference between scientific and philosophical questions."
-      ],
-      "a": 1,
-      "exp": "A causal explanation of why a belief occurred is not automatically an account of why the belief is rational or true."
-    },
-    {
-      "q": "Why do Jesus’ death, burial, and tomb evidence matter to a bodily resurrection claim?",
-      "opts": [
-        "They provide a physical historical starting point for asking what happened to Jesus after his death.",
-        "They make the reported appearances unnecessary if the burial location is known.",
-        "They matter mainly because burial customs prove all Gospel details are reliable.",
-        "They establish resurrection before competing explanations need to be considered."
+        "Whether there are independent reasons to believe God exists and could act in the world.",
+        "Whether ancient people understood that death is normally permanent without modern medicine.",
+        "Whether resurrection reports should receive more weight than ordinary historical testimony.",
+        "Whether natural laws describe what happens regularly or prescribe what God is allowed to do."
       ],
       "a": 0,
-      "exp": "A bodily resurrection claim begins with a real death and a concrete question about what happened afterward."
+      "exp": "If there are independent reasons to believe God exists, divine action cannot simply be assigned a probability of zero before the historical evidence is considered."
     },
     {
-      "q": "Which statement best describes objective truth?",
+      "q": "Two ancient accounts share substantial wording, but one also contains material not found in the other. How should that affect the historical case?",
       "opts": [
-        "A claim is true when it fits together consistently with a person’s other beliefs.",
-        "A claim is true when the best-qualified experts agree that it is true.",
-        "A claim is true when it accurately describes reality, regardless of whether someone prefers or believes it.",
-        "A claim is true when it gives a person a useful way to understand experience."
+        "The shared wording makes both accounts unusable because literary dependence destroys historical value.",
+        "The accounts should still be counted as two independent witnesses because they are separate documents.",
+        "Only the earlier account can be used historically, since dependent sources add nothing at all.",
+        "Dependence limits independent confirmation, but distinct material can still be evaluated on its own merits."
       ],
-      "a": 2,
-      "exp": "Objective truth concerns reality itself rather than preference, usefulness, sincerity, or consensus."
+      "a": 3,
+      "exp": "Literary dependence matters when counting independent testimony, but it does not make a dependent source worthless or erase genuinely distinct material."
     },
     {
-      "q": "Why is the resurrection more than simply evidence that miracles can happen?",
+      "q": "One saying attributed to Jesus could reasonably be read in more than one way. What is the stronger method for evaluating Jesus’ identity claims?",
       "opts": [
-        "Because resurrection would make miracles part of the ordinary laws of nature.",
-        "Because God raising Jesus in the context of Jesus’ claims would function as a vindication of Jesus himself.",
-        "Because one resurrection would establish every later Christian doctrine without further argument.",
-        "Because resurrection evidence is independent of questions about Jesus’ identity."
-      ],
-      "a": 1,
-      "exp": "The meaning of the resurrection depends on the identity and claims of the person God raises."
-    },
-    {
-      "q": "Which feature is most central to the biological design argument taught in the course?",
-      "opts": [
-        "The fact that living things are chemically more complicated than nonliving matter.",
-        "The fact that some biological structures are not yet fully understood by science.",
-        "Functionally significant information and coordinated molecular systems that invite a comparison of causal explanations.",
-        "The claim that organisms cannot adapt, diversify, or form new species."
-      ],
-      "a": 2,
-      "exp": "The positive design argument focuses on functional information and coordinated systems, not mere complexity or gaps in current knowledge."
-    },
-    {
-      "q": "If God exists, what follows most directly for a discussion of miracles?",
-      "opts": [
-        "Miracle reports should normally be preferred over natural explanations.",
-        "Miracles become possible in principle, although a particular miracle still requires evidence.",
-        "Natural laws no longer matter because God can act whenever he chooses.",
-        "The prior probability of every reported miracle becomes roughly equal."
+        "Choose the reading most consistent with later Christian doctrine and interpret the saying from there.",
+        "Build a cumulative case from Jesus’ words, actions, titles, authority, and first-century Jewish context.",
+        "Set the saying aside unless every major scholar agrees on exactly what Jesus meant by it.",
+        "Rely mainly on the clearest single statement, since a direct claim is stronger than a cumulative pattern."
       ],
       "a": 1,
-      "exp": "Theism removes a blanket claim that miracles are impossible. It does not prove that any particular miracle occurred."
+      "exp": "The course does not make Jesus’ identity rest on one phrase. It considers several strands of evidence together in their historical context."
     },
     {
-      "q": "What does Jesus’ repeated use of the Old Testament support most directly?",
+      "q": "An explanation accounts for the empty tomb but does little with the reported appearances or the early resurrection proclamation. What is the main weakness?",
       "opts": [
-        "Jesus treated Israel’s Scriptures as carrying divine authority.",
-        "Jesus settled every later disagreement about the exact boundaries of the Old Testament canon.",
-        "Jesus taught that every passage must be interpreted in exactly the same way.",
-        "Jesus guaranteed that no textual questions could ever arise in copying Scripture."
+        "It explains only part of the evidence, so it has not yet matched the scope of the cumulative case.",
+        "It is necessarily false because any natural explanation of resurrection evidence is methodologically biased.",
+        "It fails unless it can prove exactly what every disciple privately believed after Jesus’ death.",
+        "It cannot be historical because explanations of ancient events must account for every surviving detail."
       ],
       "a": 0,
-      "exp": "The evidence supports Jesus’ high view of Scripture’s divine authority without making every later canon or interpretation question disappear."
+      "exp": "A good historical explanation should account for the relevant body of evidence, not merely one fact within it."
     },
     {
-      "q": "When is purposeful organization strongest as evidence for design?",
+      "q": "Which development would most seriously weaken an inference to the resurrection, even if several commonly discussed facts remained accepted?",
       "opts": [
-        "Whenever a structure is highly complicated, regardless of how it arose.",
-        "Whenever a feature benefits an organism, since usefulness itself proves design.",
-        "When the feature resembles effects intelligence is independently known to produce and competing causes can be compared.",
-        "When scientists disagree about the details of a natural explanation."
+        "A disagreement among sources about a secondary detail that does not change the central claims.",
+        "A natural explanation that fits one piece of evidence well but leaves the other major facts unexplained.",
+        "A rival explanation that accounts for the same evidence with equal or better scope and fewer difficulties.",
+        "A discovery that some early Christians expressed the resurrection using more than one kind of language."
       ],
       "a": 2,
-      "exp": "Design reasoning is strongest when it compares known kinds of causes rather than arguing from complexity or ignorance alone."
+      "exp": "Inference to the best explanation is comparative. A rival that explains the same evidence as well or better would directly weaken the resurrection inference."
     },
     {
-      "q": "Why does the course treat Jesus’ divine identity as a cumulative case?",
+      "q": "A critic says the extraordinary claims attributed to Jesus developed as legend. How does that affect the liar-lunatic-Lord argument?",
       "opts": [
-        "Because no single title or saying has any historical value on its own.",
-        "Because Jesus’ actions, titles, authority, relationship to the Father, and role in judgment are stronger when considered together.",
-        "Because only the Gospel of John contains material relevant to Jesus’ identity.",
-        "Because the exact sentence “I am God” is required before any divine claim can be discussed."
+        "It adds a fourth option inside the trilemma and should be treated as logically equal to liar, lunatic, and Lord.",
+        "It challenges the historical premise that Jesus substantially made the claims, so that issue has to be addressed first.",
+        "It does not matter because the trilemma can establish Jesus’ identity without historical work on the Gospel traditions.",
+        "It shows the trilemma should be abandoned because any possible legendary development makes the argument invalid."
       ],
       "a": 1,
-      "exp": "The case draws on several strands of evidence rather than resting everything on one modern phrase or one title."
+      "exp": "Legend is mainly a challenge to the historical premise. The trilemma asks what follows if Jesus substantially made the extraordinary claims attributed to him."
     },
     {
-      "q": "Which statement best distinguishes the authority of Scripture from the interpretation of Scripture?",
+      "q": "Suppose the resurrection is historically established. Which conclusion is the next step in the course without claiming more than the evidence gives?",
       "opts": [
-        "If Scripture is authoritative, every sincere interpretation of it is equally authoritative.",
-        "If Scripture is God’s Word, careful interpretation is no longer necessary.",
-        "Scripture can be received as God’s truthful Word while individual readers can still misunderstand what it says.",
-        "Scriptural authority depends on an interpreter being able to prove every doctrine independently."
+        "The complete Protestant canon follows immediately because a resurrection confirms every later Christian text.",
+        "All disputed teachings attributed to Jesus become historically certain because God would not allow any reporting error.",
+        "Every later Christian doctrine can now be accepted without further argument because Jesus has been vindicated.",
+        "God has vindicated Jesus, giving strong reason to take Jesus’ claimed authority and teaching seriously."
       ],
-      "a": 2,
-      "exp": "Receiving Scripture as authoritative does not make individual readers or interpretations infallible."
+      "a": 3,
+      "exp": "The immediate inference is divine vindication of Jesus. The argument then asks what the vindicated Jesus taught, including his view of Scripture."
     },
     {
-      "q": "What is the main purpose of the liar-lunatic-Lord argument?",
+      "q": "Jesus repeatedly treats Israel’s Scriptures as God speaking and appeals to them as authoritative. What does that support most directly?",
       "opts": [
-        "To show that liar, lunatic, and Lord are the only possible historical explanations of every Gospel tradition.",
-        "To prove Jesus rose from the dead without first using historical evidence.",
-        "To challenge the position that Jesus can be merely a great moral teacher if his extraordinary claims are substantially historical.",
-        "To show that the historical reliability of Jesus’ claims does not matter to his identity."
+        "That Jesus settled every later Christian disagreement over the boundaries of the Old Testament canon.",
+        "That Jesus held a high view of the divine authority of the Scriptures he received and used.",
+        "That every Old Testament passage must be interpreted literally unless Jesus explicitly says otherwise.",
+        "That textual variants are irrelevant because divine authority removes the need for textual criticism."
+      ],
+      "a": 1,
+      "exp": "Jesus’ repeated posture supports the divine authority of Scripture. It does not by itself settle every later canon, textual, or interpretive question."
+    },
+    {
+      "q": "Which sequence best states the course’s argument from Jesus’ authority to the New Testament without making the church the source of that authority?",
+      "opts": [
+        "Jesus founded the church, the church later selected useful books, and those books became authoritative through that selection.",
+        "Jesus taught with authority, later Christians preserved his memory, and widespread use eventually made certain writings canonical.",
+        "Jesus promised the Spirit, therefore every early Christian writing produced under church oversight should be treated as inspired.",
+        "Jesus authorized apostles, apostolic witness became foundational, and writings tied to that witness were recognized by the church."
+      ],
+      "a": 3,
+      "exp": "The chain runs from Christ to his authorized apostles and their witness, with the church historically recognizing rather than creating that authority."
+    },
+    {
+      "q": "A Christian first uses New Testament documents as historical sources and later argues that those writings belong to God’s authoritative revelation. Is that necessarily circular?",
+      "opts": [
+        "No. It is not circular if inspiration is not assumed during the historical stage and is argued for only after the case for Jesus’ authority.",
+        "Yes. Any use of a biblical document to support Christianity assumes the conclusion because the document is now part of the Bible.",
+        "No. It cannot be circular because historical documents are neutral and never reflect the beliefs of the people who wrote them.",
+        "Yes. The only noncircular route would require proving inspiration without using any evidence contained in the New Testament."
+      ],
+      "a": 0,
+      "exp": "The same document can first be evaluated as historical evidence without assuming inspiration. Inspiration is a later conclusion in the cumulative argument."
+    },
+    {
+      "q": "Which statement best captures what the core course is trying to establish by the end?",
+      "opts": [
+        "Natural theology proves the full Christian doctrine of God, after which the historical case mainly confirms what is already known.",
+        "The resurrection by itself establishes the authority, interpretation, and exact boundaries of the entire Christian Bible.",
+        "The case for God, Jesus’ vindication, and his teaching about revelation build toward the conclusion that God has spoken.",
+        "Once Christianity explains more facts than naturalism, every remaining theological question can be treated as settled."
       ],
       "a": 2,
-      "exp": "The trilemma challenges the merely-good-teacher position after the historical premise about Jesus’ claims has been addressed."
+      "exp": "The course builds step by step: reasons for God, a historical case for Jesus and the resurrection, Jesus’ authority, and then his teaching about revelation."
     }
   ],
   "post": [
@@ -5178,7 +5178,6 @@ const tests = {
     }
   ]
 };
-
 const conversationTips = [
   {
     "title": "When someone says, “The universe can be its own creator”",
@@ -5224,7 +5223,7 @@ const conversationTips = [
 
 const about = {
   "title": "Why I built this site",
-  "mission": "I spent a lot of time searching for apologetics material, studying arguments, checking sources, and sometimes struggling to understand how all the pieces fit together. I built this site for people like me: Christians who want to understand why they believe, learn the strongest arguments carefully, and be able to explain them in ordinary conversation. My hope is that this gives you a clearer starting point than I had, while still encouraging you to check the sources, keep studying, and stay rooted in Scripture and the local church."
+  "mission": "I am not a pastor or professor. I am a Christian who spent a lot of time trying to sort through apologetics material, check sources, and figure out how all the pieces fit together. A lot of what I found was either too shallow to be very useful or long enough that it was hard to know where to begin. I built this site because I wanted something I would actually use: a clear path through the case, enough evidence to check the claims for yourself, and practice explaining it in normal conversation. I still want you to check the sources, keep studying, stay in Scripture, and learn in the local church. This site is meant to help with that, not replace it."
 };
 
 const contact = {
