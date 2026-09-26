@@ -5048,7 +5048,7 @@ const tests = {
       "q": "A naturalistic account explains why a person formed a belief in terms of brain states, environment, and evolutionary pressures. What question does the argument from reason still press?",
       "opts": [
         "Whether the person could have formed the same belief without any physical brain state, even if the belief were rationally justified.",
-        "Whether evolutionary pressures ever influence beliefs that later turn out to be false, and how frequently this happens in ordinary reasoning.",
+        "Whether evolutionary pressures ever influence beliefs that later turn out to be false, and how frequently this happens in ordinary reasoning and scientific inquiry.",
         "Whether the account gives reason to regard the belief-forming process as rationally warranted and truth-directed, not merely causally successful.",
         "Whether philosophical beliefs use a different kind of neural activity than ordinary practical beliefs."
       ],
@@ -5092,7 +5092,7 @@ const tests = {
       "q": "Jesus treats Scripture as God speaking and appeals to it as an authority that cannot be set aside. What does that evidence establish most directly?",
       "opts": [
         "The exact boundaries of every later Protestant Old Testament canon question.",
-        "That every passage should be interpreted literally unless the New Testament says otherwise.",
+        "That every passage should be interpreted literally unless the New Testament explicitly gives a different reading or the literary genre itself requires another approach.",
         "Jesus’ high view of the divine authority of the Scriptures he received, while separate canon and interpretation questions remain.",
         "That textual criticism is unnecessary because an authoritative text cannot have copying variants."
       ],
