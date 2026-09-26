@@ -4748,10 +4748,10 @@ const tests = {
     {
       "q": "Two people give incompatible answers to whether a historical event occurred. What follows from the disagreement by itself?",
       "opts": [
-        "At least one side must be reasoning from weaker evidence than the other side.",
+        "At least one side must be reasoning from weaker evidence, even before we examine what evidence either side actually has.",
         "The truth of the event depends partly on which worldview each person brings to it.",
         "The event cannot now be known because the available evidence permits disagreement.",
-        "Both claims cannot be true in the same sense, but the disagreement alone does not tell us which is correct."
+        "The two claims cannot both be true in the same sense, but disagreement alone does not show which is correct."
       ],
       "a": 3,
       "exp": "Disagreement does not make truth relative or unknowable. Contradictory claims cannot both be true in the same sense, so the evidence still has to be examined."
@@ -4759,7 +4759,7 @@ const tests = {
     {
       "q": "Suppose the universe had no first moment and had always existed under the same basic laws. What would the contingency argument still ask?",
       "opts": [
-        "Whether that law-governed reality exists necessarily or still depends on something beyond itself.",
+        "Whether that reality exists necessarily or still depends on something beyond itself.",
         "Whether an infinite past can be represented without contradiction in ordinary mathematics.",
         "Whether the earliest physical event can be identified even if there was no first moment.",
         "Whether the laws of nature would eventually have to change in an eternal universe."
@@ -4784,7 +4784,7 @@ const tests = {
         "A structure whose parts are numerous enough that no one person can easily understand the whole system.",
         "A useful biological feature for which scientists continue to debate several possible evolutionary histories.",
         "A natural pattern that is highly ordered and survives because that order gives the organism an advantage.",
-        "A functionally specific pattern resembling effects intelligence is known to produce, with rival causes compared against it."
+        "A functionally specific pattern resembling effects intelligence is independently known to produce."
       ],
       "a": 3,
       "exp": "The stronger design argument is comparative. It asks whether features that are diagnostic of intelligence are better explained by intelligence than by competing causes."
@@ -4805,7 +4805,7 @@ const tests = {
       "opts": [
         "The system could not have developed through any sequence involving earlier structures with different functions.",
         "Each present part must always have performed exactly the same role it performs in the current system.",
-        "The current function depends on coordinated parts, while the historical origin of that system remains a further question.",
+        "The current function depends on coordinated parts; how the system arose is a separate historical question.",
         "Natural selection cannot account for systems whose present form contains several interacting components."
       ],
       "a": 2,
@@ -4850,7 +4850,7 @@ const tests = {
         "The shared wording makes both accounts unusable because literary dependence destroys historical value.",
         "The accounts should still be counted as two independent witnesses because they are separate documents.",
         "Only the earlier account can be used historically, since dependent sources add nothing at all.",
-        "Dependence limits independent confirmation, but distinct material can still be evaluated on its own merits."
+        "Dependence limits independent confirmation, but the distinct material can still be evaluated separately."
       ],
       "a": 3,
       "exp": "Literary dependence matters when counting independent testimony, but it does not make a dependent source worthless or erase genuinely distinct material."
@@ -4882,7 +4882,7 @@ const tests = {
       "opts": [
         "A disagreement among sources about a secondary detail that does not change the central claims.",
         "A natural explanation that fits one piece of evidence well but leaves the other major facts unexplained.",
-        "A rival explanation that accounts for the same evidence with equal or better scope and fewer difficulties.",
+        "A rival explanation that matches the same evidence with equal or better explanatory power.",
         "A discovery that some early Christians expressed the resurrection using more than one kind of language."
       ],
       "a": 2,
@@ -4892,7 +4892,7 @@ const tests = {
       "q": "A critic says the extraordinary claims attributed to Jesus developed as legend. How does that affect the liar-lunatic-Lord argument?",
       "opts": [
         "It adds a fourth option inside the trilemma and should be treated as logically equal to liar, lunatic, and Lord.",
-        "It challenges the historical premise that Jesus substantially made the claims, so that issue has to be addressed first.",
+        "It challenges whether Jesus made the claims, so that historical issue has to be addressed before the trilemma.",
         "It does not matter because the trilemma can establish Jesus’ identity without historical work on the Gospel traditions.",
         "It shows the trilemma should be abandoned because any possible legendary development makes the argument invalid."
       ],
@@ -4927,7 +4927,7 @@ const tests = {
         "Jesus founded the church, the church later selected useful books, and those books became authoritative through that selection.",
         "Jesus taught with authority, later Christians preserved his memory, and widespread use eventually made certain writings canonical.",
         "Jesus promised the Spirit, therefore every early Christian writing produced under church oversight should be treated as inspired.",
-        "Jesus authorized apostles, apostolic witness became foundational, and writings tied to that witness were recognized by the church."
+        "Jesus authorized apostles; their witness was foundational, and writings tied to that witness were recognized by the church."
       ],
       "a": 3,
       "exp": "The chain runs from Christ to his authorized apostles and their witness, with the church historically recognizing rather than creating that authority."
@@ -4935,7 +4935,7 @@ const tests = {
     {
       "q": "A Christian first uses New Testament documents as historical sources and later argues that those writings belong to God’s authoritative revelation. Is that necessarily circular?",
       "opts": [
-        "No. It is not circular if inspiration is not assumed during the historical stage and is argued for only after the case for Jesus’ authority.",
+        "No. If inspiration is not assumed at the historical stage and is argued for later from Jesus’ authority.",
         "Yes. Any use of a biblical document to support Christianity assumes the conclusion because the document is now part of the Bible.",
         "No. It cannot be circular because historical documents are neutral and never reflect the beliefs of the people who wrote them.",
         "Yes. The only noncircular route would require proving inspiration without using any evidence contained in the New Testament."
