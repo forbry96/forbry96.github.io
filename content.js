@@ -4968,15 +4968,15 @@ const tests = {
       "exp": "True statements are not enough. The conclusion also has to actually follow from them."
     },
     {
-      "q": "Someone says, “People do not rise from the dead naturally, so there is no point looking at evidence for the resurrection.” What needs to be addressed first?",
+      "q": "Before someone can rule the resurrection out as impossible, what question needs to be addressed?",
       "opts": [
         "Whether ancient people understood that death is normally permanent.",
-        "Whether science can tell us anything about events in the distant past.",
-        "Whether every possible natural explanation has already been ruled out.",
-        "Whether God exists and could act in the world in an unusual way."
+        "Whether the resurrection reports contain differences in secondary details.",
+        "Whether every proposed natural explanation has already been disproved.",
+        "Whether there is good reason to think God exists and could act in the world."
       ],
       "a": 3,
-      "exp": "If God exists, a miracle cannot simply be ruled out beforehand. You would still need evidence that this particular miracle happened."
+      "exp": "If God exists and can act in the world, resurrection cannot simply be ruled out as impossible before the historical evidence is considered."
     },
     {
       "q": "A friend says, “You were not there when Jesus was crucified, so how can you know it happened?” How should you approach the question?",
@@ -5001,15 +5001,15 @@ const tests = {
       "exp": "The argument does not begin with “everything has a cause.” It begins with the narrower claim that whatever begins to exist has a cause."
     },
     {
-      "q": "Which discovery would give the strongest reason to seriously consider design?",
+      "q": "Which finding would give the strongest reason to seriously consider design as an explanation?",
       "opts": [
-        "Scientists find something extremely complicated that they do not yet fully understand.",
-        "A biological feature helps an organism survive and contains many interacting parts.",
-        "A feature seems to appear quickly in the portion of the fossil record we currently have.",
-        "A pattern resembles things we know intelligence can produce, while other causes struggle to explain it."
+        "A structure is extremely complex and its origin is not yet fully understood.",
+        "A feature has many tightly connected parts and is very useful to an organism.",
+        "One proposed natural model has difficulty producing the feature in its present form.",
+        "A pattern has features we independently associate with intelligent activity and fits that explanation better than the alternatives being considered."
       ],
       "a": 3,
-      "exp": "Complexity or lack of knowledge alone does not establish design. The stronger case asks which kind of cause best explains the pattern we actually find."
+      "exp": "Complexity, usefulness, or difficulty for one model is not enough by itself. The stronger design argument compares explanations and asks whether the relevant pattern is the kind of thing intelligence is known to produce."
     },
     {
       "q": "An atheist tells you, “I do not believe in God, and I still know murder is wrong and try to be a good person.” How does that affect the moral argument?",
@@ -5058,13 +5058,13 @@ const tests = {
     {
       "q": "Someone responds to fine-tuning by saying, “Maybe there are countless universes, and we just happen to live in one that allows life.” What is the best response?",
       "opts": [
-        "If there are enough universes, one of them must support life, so fine-tuning is no longer something to explain.",
-        "Other universes cannot count as an explanation unless scientists can observe each one directly.",
-        "A multiverse would actually prove design because someone would have to create all those universes.",
-        "That is a possible explanation, but it still needs evidence and should be compared with the other explanations."
+        "If a multiverse makes a life-permitting universe unsurprising, fine-tuning no longer raises any further explanatory question.",
+        "Because other universes are not directly observable, a multiverse should not count as a serious explanation.",
+        "A multiverse and design could both be true, so there is no meaningful way to compare how well they explain fine-tuning.",
+        "That is a possible explanation, but it still needs support and should be compared with the other explanations."
       ],
       "a": 3,
-      "exp": "Showing that an explanation is possible is not the same as showing that it is true. The question is which explanation has the best support."
+      "exp": "A multiverse can be considered as a real competing explanation, but its possibility alone does not settle the issue. It still needs support and comparison with alternatives."
     },
     {
       "q": "Two ancient writers report the same detail, but historians discover that the second writer probably got it from the first. How should that affect the evidence?",
@@ -5091,24 +5091,24 @@ const tests = {
     {
       "q": "A biological system stops doing its current job when one of several important parts is removed. What can you reasonably conclude from that observation alone?",
       "opts": [
-        "Natural selection could never have played any role in the history of the system.",
-        "Every part must always have served exactly the same purpose it serves today.",
-        "The system must have appeared all at once in exactly its present form.",
+        "Its present parts probably had to arise together because the current function needs all of them.",
+        "Earlier versions with fewer parts could not have been useful enough for natural selection to preserve.",
+        "The observation mainly shows that the system is complicated, not that its parts depend on one another for the present function.",
         "The parts depend on one another for the system's current job, while its history still has to be investigated."
       ],
       "a": 3,
-      "exp": "The observation tells us something important about how the system works now. Explaining how it came to exist requires another step in the argument."
+      "exp": "The observation establishes present functional dependence. It does not, by itself, settle which historical pathway best explains how the system arose."
     },
     {
       "q": "Suppose someone offers an explanation for the resurrection appearances, but it does not explain several of the other facts you have studied. What should you do next?",
       "opts": [
-        "Accept it if the explanation does not require a miracle.",
+        "Prefer it if it uses familiar natural causes, even if it explains less of the total evidence.",
         "Compare it with other explanations and ask which one handles the whole set of evidence best.",
-        "Reject it unless the person can prove that the explanation definitely happened.",
-        "Focus only on the one fact the explanation handles well."
+        "Set it aside until it can explain every difference and detail in all of the resurrection accounts.",
+        "Judge it mainly by how well it explains the appearances, since that is the fact it was proposed to explain."
       ],
       "a": 1,
-      "exp": "A good explanation should account for more than one convenient piece of evidence. Compare how well the different explanations handle the whole picture."
+      "exp": "A serious explanation should be compared with its rivals against the relevant body of evidence, not judged by only the one fact it handles best."
     },
     {
       "q": "Why should “liar, lunatic, or Lord” not be used as a quick proof by itself?",
@@ -5125,56 +5125,56 @@ const tests = {
       "q": "Suppose you have good reason to believe that God raised Jesus from the dead after Jesus made extraordinary claims about himself. What would that give you reason to think?",
       "opts": [
         "God was confirming Jesus in a remarkable way, so Jesus' claims and teaching deserve serious trust.",
-        "Every statement made later by any Christian teacher must therefore be true.",
-        "Resurrection must be something God regularly does whenever a religious teacher is faithful.",
-        "There is no longer any need to investigate what Jesus actually taught."
+        "It would mainly confirm that Jesus correctly expected something extraordinary after his death, without adding much to his broader authority.",
+        "It would show that God acted through Jesus, but would not give us much reason to trust Jesus' teaching about God.",
+        "It would establish the authority of later Christian writings directly, before asking what Jesus taught about his apostles or Scripture."
       ],
       "a": 0,
-      "exp": "The resurrection matters partly because of who Jesus claimed to be. If God raised him, that gives powerful support to Jesus' authority."
+      "exp": "In the setting of Jesus' claims, resurrection would function as a powerful confirmation of Jesus himself. The argument still has further steps before reaching the authority of later writings."
     },
     {
       "q": "Someone says, “You are using the Bible to prove the Bible. Isn't that circular?” What is the course's answer?",
       "opts": [
-        "Circular reasoning is unavoidable whenever the subject is religion.",
+        "The argument avoids the problem once some New Testament details are confirmed by non-Christian sources.",
         "Start by examining the documents historically, build the case for Jesus, and then ask what the trustworthy Jesus taught about Scripture.",
-        "The number of surviving Bible manuscripts proves that the books are inspired.",
-        "The argument works because Christians already accept the Bible before examining the historical evidence."
+        "Use only non-Christian sources until the resurrection is established, and then bring the New Testament into the argument.",
+        "Several biblical books can confirm one another, so using them together is enough to avoid circular reasoning."
       ],
       "a": 1,
-      "exp": "The argument does not begin by assuming that every biblical book is inspired. It first examines historical evidence and then follows the argument to Jesus' authority and his view of Scripture."
+      "exp": "The key distinction is between first using the documents as historical sources without assuming inspiration and later arguing for their authority from Jesus."
     },
     {
       "q": "Jesus repeatedly treats Israel's Scriptures as God's word and appeals to them as final authority. What does that most directly tell us?",
       "opts": [
-        "Every interpretation anyone gives those Scriptures must be correct.",
-        "Jesus supplied the exact table of contents of every later Christian Bible.",
-        "Difficult passages in the Old Testament no longer need to be studied carefully.",
+        "Jesus regarded those writings as reliable religious guides, though not necessarily as carrying God's own authority.",
+        "Jesus' use of Scripture settles both its divine authority and the exact boundaries of every later Old Testament canon.",
+        "Only the passages Jesus directly quoted can be treated as carrying special divine authority.",
         "Jesus regarded Israel's Scriptures as carrying God's authority."
       ],
       "a": 3,
-      "exp": "Jesus' treatment of Scripture gives strong evidence for how highly he regarded it. Questions about the exact canon and individual interpretations still have to be handled separately."
+      "exp": "Jesus' repeated treatment of Scripture supports a high view of its divine authority. Questions about exact canon boundaries and particular interpretations still require separate work."
     },
     {
-      "q": "A friend asks, “Did Jesus personally give the church a list of the 27 New Testament books?” What is the better explanation?",
+      "q": "A friend asks, “Did Jesus personally hand the church a list of the 27 New Testament books?” What is the better explanation?",
       "opts": [
-        "Jesus appointed and authorized apostles, and the church later recognized writings connected to that apostolic witness.",
-        "Jesus privately gave the apostles the complete list, although that list has been lost.",
-        "The church chose which writings would become God's word several centuries later.",
-        "Every Christian writing from the apostolic period originally had equal authority."
+        "Jesus appointed and authorized apostles, and writings tied to their witness came to be received by the early churches as authoritative.",
+        "Jesus passed his authority to the church as an institution, so later church decisions are what made the selected books authoritative.",
+        "The strongest basis for the canon is simply which books became most widely used by Christians, even without a clear connection to apostolic witness.",
+        "All first-generation Christian writings began with roughly equal authority until the church gradually narrowed the list."
       ],
       "a": 0,
-      "exp": "The argument is not that Jesus handed over a completed New Testament. It moves from Jesus' authority to his apostles and then to the writings connected with their authorized witness."
+      "exp": "The course's argument runs from Christ to his authorized apostolic witness, with the early church recognizing writings tied to that witness rather than creating their authority."
     },
     {
       "q": "Suppose you have good reason to believe that Scripture really is God's word. Why would that give you reason to trust what it teaches?",
       "opts": [
-        "Because every Christian will now interpret every passage in exactly the same way.",
-        "Because questions about translation, context, and interpretation no longer matter.",
+        "Because once a text is recognized as revelation, its most obvious reading should normally be accepted without much concern for competing interpretations.",
+        "Because God's truthfulness guarantees that sincere readers will reach the correct interpretation on the important questions.",
         "Because a truthful God can be trusted in what he reveals, even though readers still need to interpret it carefully.",
-        "Because the parts of Scripture that agree with our other beliefs become especially trustworthy."
+        "Because Scripture's authority ultimately rests on how well its teachings fit the Christian beliefs we already hold."
       ],
       "a": 2,
-      "exp": "Confidence in Scripture rests on the truthfulness of the God who speaks. That does not mean individual readers are incapable of misunderstanding what they read."
+      "exp": "Confidence in Scripture rests on the truthfulness of the God who speaks. That does not make readers infallible, so interpretation still requires care."
     }
   ]
 };
