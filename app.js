@@ -488,9 +488,9 @@ function evidenceNarrativeHtml(q){
     ? '<p class="evidence-bottom-line"><strong>Bottom line:</strong> ' + weaveDefinitions(q.conclusion, q, seen) + '</p>'
     : '';
 
-  const check = thinkAboutChecks[q.id];
+  const check = (q.checkpoints || []).find(item => item.after === 'body') || (q.checkpoints || [])[0];
   const thinkAbout = check
-    ? '<details class="inline-checkpoint think-about-check"><summary><span class="check-label">THINK ABOUT IT</span><strong>' + esc(check.q) + '</strong><span class="check-action">Reveal answer</span></summary><div class="checkpoint-answer"><span>ANSWER</span><p>' + esc(check.a) + '</p></div></details>'
+    ? '<details class="inline-checkpoint think-about-check"><summary><span class="check-label">THINK ABOUT IT</span><strong>' + esc(check.question) + '</strong><span class="check-action">Reveal answer</span></summary><div class="checkpoint-answer"><span>ANSWER</span><p>' + esc(check.answer) + '</p></div></details>'
     : '';
 
   return '<div class="evidence-narrative">' + paragraphs + bottomLine + thinkAbout + '</div>';
