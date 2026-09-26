@@ -5223,7 +5223,7 @@ const conversationTips = [
 
 const about = {
   "title": "Why I built this site",
-  "mission": "I am not a pastor or professor. I am a Christian who spent a lot of time trying to sort through apologetics material, check sources, and figure out how all the pieces fit together. A lot of what I found was either too shallow to be very useful or long enough that it was hard to know where to begin. I built this site because I wanted something I would actually use: a clear path through the case, enough evidence to check the claims for yourself, and practice explaining it in normal conversation. I still want you to check the sources, keep studying, stay in Scripture, and learn in the local church. This site is meant to help with that, not replace it."
+  "mission": "I am not a pastor or professor. I am a Christian who spent a lot of time working through apologetics material, checking sources, and trying to understand how all the different pieces fit together. There are a lot of good resources out there, but I often found myself wishing there were something that put the basic case in one clear path and also gave me a chance to practice explaining it in normal conversation. That is really why I built this site. I wanted something that was simple enough to work through without losing the substance of the arguments, while still giving you enough to check the claims for yourself. I still want you to use other resources, check the sources, keep studying, stay in Scripture, and learn in the local church. This site is meant to help with that, not replace it."
 };
 
 const contact = {
