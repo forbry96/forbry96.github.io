@@ -7,7 +7,7 @@ const questions = [
     "teaser": "Learn how to find what an argument is claiming and whether its reasons really support it.",
     "lesson": {
       "heading": "How to evaluate an argument well",
-      "body": "Here, the word argument does not mean two people getting angry with each other. An argument is simply a set of reasons given in support of a claim. The conclusion is what the person is trying to prove, and the premises are the reasons they are giving for believing it.\n\nOne way to look at this is to separate two questions. First, does the conclusion actually follow from the premises? That is what validity is asking. Second, are the premises themselves true? When an argument is valid and its premises are true, it is sound.\n\nHere is the problem: an argument can be valid and still be wrong because one of its premises is false. For example, suppose someone says that all dogs can fly, their Labrador is a dog, therefore their Labrador can fly. The conclusion follows from the premises, but the argument is obviously not sound because the first premise is false. So we cannot only ask whether the reasoning works. We also have to ask whether there is good evidence for the premises.\n\nNot every argument in apologetics will work like a strict deduction. Historical questions often require us to compare several explanations and ask which one best accounts for the evidence. We will do this later with the resurrection. If one explanation accounts for more of the evidence with fewer problems than the alternatives, then we have better reason to accept it.\n\nSo simply saying, “Maybe something else happened,” is not enough to answer an argument. A possible alternative is not automatically a good alternative. It still needs evidence, and it needs to explain the facts at least as well as the explanation it is trying to replace.",
+      "body": "Here, the word argument does not mean two people getting angry with each other. An argument is simply a set of reasons given in support of a claim. The conclusion is what the person is trying to prove, and the premises are the reasons they are giving for believing it.\n\nOne way to look at this is to separate two questions. First, does the conclusion actually follow from the premises? That is what validity is asking. Second, are the premises themselves true? When an argument is valid and its premises are true, it is sound.\n\nBut validity is only half the test: an argument can be valid and still be wrong because one of its premises is false. For example, suppose someone says that all dogs can fly, their Labrador is a dog, therefore their Labrador can fly. The conclusion follows from the premises, but the argument is obviously not sound because the first premise is false. So we cannot only ask whether the reasoning works. We also have to ask whether there is good evidence for the premises.\n\nNot every argument in apologetics will work like a strict deduction. Historical questions often require us to compare several explanations and ask which one best accounts for the evidence. We will do this later with the resurrection. If one explanation accounts for more of the evidence with fewer problems than the alternatives, then we have better reason to accept it.\n\nSo simply saying, “Maybe something else happened,” is not enough to answer an argument. A possible alternative is not automatically a good alternative. It still needs evidence, and it needs to explain the facts at least as well as the explanation it is trying to replace.",
       "facts": [
         "Validity is about logical structure; soundness adds true premises.",
         "A premise should have some reason or evidence behind it rather than merely restating the conclusion.",
@@ -48,7 +48,7 @@ const questions = [
       ],
       [
         "“Everyone has assumptions, so nobody is objective.”",
-        "That’s true, everyone has assumptions. But that does not mean every assumption is equally reasonable. We can compare them by asking whether they are consistent, whether they fit the evidence, and whether they explain reality better than the alternatives. Given this, having assumptions does not make objectivity impossible."
+        "Everyone does bring assumptions to the table, but that does not mean every assumption is equally reasonable. We can compare them by asking whether they are consistent, whether they fit the evidence, and whether they explain reality better than the alternatives. Having assumptions does not make objectivity impossible."
       ]
     ],
     "limits": "Logic tells us whether reasoning works. It does not make a weak premise true, so evidence still matters.",
@@ -457,7 +457,7 @@ const questions = [
       ],
       [
         "“The Big Bang does not prove God.”",
-        "That’s true, the Big Bang does not prove God, and there is no need to argue that it does. The scientific evidence supports the premise that the universe has a finite history, while the philosophical arguments provide another line of support. The conclusion about a cause comes only after those premises are defended."
+        "It does not, and the Kalam does not need the Big Bang to prove God. The scientific evidence can support the premise that the universe has a finite history, while philosophical arguments provide another line of support. The conclusion about a cause comes only after those premises are defended."
       ]
     ],
     "limits": "Do not turn one cosmological theorem or model into the whole argument. The strength of Kalam comes from the simple causal form plus several independent reasons for a beginning.",
@@ -880,7 +880,7 @@ const questions = [
     "pressure": [
       [
         "“Evolution has mechanisms such as mutation, selection, duplication, and co-option.”",
-        "That’s true, evolution includes mechanisms such as mutation, natural selection, duplication, and co-option. The question is not whether those mechanisms exist. The question is whether a proposed pathway actually explains the information, parts, regulation, assembly, and selectable function needed for the system being discussed."
+        "Those mechanisms are real and need to be taken seriously. The issue is whether a proposed pathway actually explains the information, parts, regulation, assembly, and selectable function needed for the system being discussed."
       ],
       [
         "“Calling DNA information is just a metaphor.”",
@@ -997,7 +997,7 @@ const questions = [
     "teaser": "Most of us live as if some things are truly right or wrong, even when people or cultures disagree. What can make moral truth bigger than human opinion?",
     "lesson": {
       "heading": "Objective morality, grounding, and the Euthyphro question",
-      "body": "The moral argument can be stated very simply:\n\n1. If God does not exist, objective moral values and duties do not exist.\n2. Objective moral values and duties do exist.\n3. Therefore, God exists.\n\nThe important word is objective. If torturing an innocent person for amusement is objectively wrong, then it remains wrong even if the person doing it approves of it or even if an entire culture approves of it. That is very different from saying you prefer one flavor of ice cream over another.\n\nHere is the problem: explaining why someone feels that something is wrong is not the same as explaining why it actually is wrong. Evolution, culture, family, and experience may all help explain how moral beliefs develop, but those explanations do not by themselves tell us whether the beliefs are objectively true.\n\nChristian theism gives a foundation for both moral value and moral duty. Moral value is grounded in God’s perfectly good nature. Moral duties are what we ought or ought not do, and they come from the rightful authority of the Creator.\n\nThe Euthyphro problem asks whether something is good only because God commands it, or whether God has to follow some moral standard above Himself. Christianity does not have to accept either option. God does not invent goodness arbitrarily, and He does not answer to a higher moral law. His commands flow from His necessarily good character.\n\nThe moral argument is not about who can recognize morality or behave morally. It is about what makes morality real in the first place.",
+      "body": "The moral argument can be stated very simply:\n\n1. If God does not exist, objective moral values and duties do not exist.\n2. Objective moral values and duties do exist.\n3. Therefore, God exists.\n\nThe important word is objective. If torturing an innocent person for amusement is objectively wrong, then it remains wrong even if the person doing it approves of it or even if an entire culture approves of it. That is very different from saying you prefer one flavor of ice cream over another.\n\nThe key distinction is that explaining why someone feels that something is wrong is not the same as explaining why it actually is wrong. Evolution, culture, family, and experience may all help explain how moral beliefs develop, but those explanations do not by themselves tell us whether the beliefs are objectively true.\n\nChristian theism gives a foundation for both moral value and moral duty. Moral value is grounded in God’s perfectly good nature. Moral duties are what we ought or ought not do, and they come from the rightful authority of the Creator.\n\nThe Euthyphro problem asks whether something is good only because God commands it, or whether God has to follow some moral standard above Himself. Christianity does not have to accept either option. God does not invent goodness arbitrarily, and He does not answer to a higher moral law. His commands flow from His necessarily good character.\n\nThe moral argument is not about who can recognize morality or behave morally. It is about what makes morality real in the first place.",
       "facts": [
         "Moral values concern good and evil; moral duties concern what we ought or ought not do.",
         "Moral epistemology, how we know moral truths, is different from moral ontology, what makes them true and binding.",
@@ -1174,7 +1174,7 @@ const questions = [
     "pressure": [
       [
         "“Evolution favors accurate thinking because false beliefs get you killed.”",
-        "That’s true, accurate beliefs often help survival, and that gives the naturalist something to work with. The question is whether survival selection by itself explains our ability to know abstract truths and whether a physical cause of a belief is the same thing as a rational justification for believing it."
+        "Accurate beliefs can certainly aid survival, which gives the naturalist something to work with. The remaining question is whether survival selection by itself explains our ability to know abstract truths and whether a physical cause of a belief is the same thing as a rational justification for believing it."
       ],
       [
         "“Christians reason badly too.”",
@@ -1647,7 +1647,7 @@ const questions = [
       ],
       [
         "“Son of God can just mean a human king.”",
-        "That’s true, “Son of God” can sometimes refer to a human king or have other meanings. That is why the case should not be built on that title alone. The argument comes from the whole pattern of Jesus’ claims, actions, Son of Man language, authority, and role in judgment."
+        "That title can be used more broadly, including for a human king, which is exactly why the case should not be built on that title alone. The argument comes from the whole pattern of Jesus’ claims, actions, Son of Man language, authority, and role in judgment."
       ]
     ],
     "limits": "Do not hang the entire identity case on one verse. The strongest introductory treatment shows how several independent strands fit together.",
@@ -1952,7 +1952,7 @@ const questions = [
     "pressure": [
       [
         "“People have grief visions.”",
-        "Grief visions are real, and they may explain some individual experiences. Here is the problem: the resurrection case includes different kinds of appearance claims, group reports, Paul and James, the empty tomb, and a specifically bodily resurrection proclamation. Grief experiences do not explain the whole set as well."
+        "Grief visions are real, and they may explain some individual experiences. The difficulty is that the resurrection case includes different kinds of appearance claims, group reports, Paul and James, the empty tomb, and a specifically bodily resurrection proclamation. Grief experiences do not explain the whole set as well."
       ],
       [
         "“Legends can grow quickly.”",
@@ -2332,14 +2332,20 @@ const questions = [
     "teaser": "The argument now moves from an event to a teacher: if Jesus is divinely vindicated, his teaching about God cannot be treated as merely one fallible religious opinion.",
     "lesson": {
       "heading": "From vindicated person to trustworthy teacher",
-      "body": "The structure matters here. We did not begin by saying, “The Bible is God’s Word, therefore Jesus rose from the dead.” We treated the New Testament as historical evidence and argued toward the resurrection without first assuming inspiration.\n\nIf that argument succeeds, we now have a reason to trust Jesus that we did not assume at the beginning. God has vindicated Him through the resurrection.\n\nThat changes how we receive what Jesus teaches. If an ordinary ancient teacher tells you something about God, you still have to evaluate that teaching as one human claim among others. But if God has raised Jesus from the dead in the context of His claims and mission, then Jesus is not simply one teacher among many.\n\nHere is an important qualification: the resurrection does not remove the need for historical interpretation. We still have to ask what Jesus actually said, what He meant, and whether the sources preserve His teaching accurately.\n\nOnce a teaching is reasonably established as the teaching of Jesus, the resurrection gives us a strong reason to receive it as authoritative. That is how the argument can now move toward Jesus’ teaching about Scripture without becoming circular.",
+      "body": "The structure matters here. We did not begin by saying, “The Bible is God’s Word, therefore Jesus rose from the dead.” We treated the New Testament as historical evidence and argued toward the resurrection without first assuming inspiration.\n\nIf that argument succeeds, we now have a reason to trust Jesus that we did not assume at the beginning. God has vindicated Him through the resurrection.\n\nThe earliest Christian preaching treats the resurrection this way too. Romans 1:4 connects Jesus’ resurrection with His status as the Son of God in power. In Acts 2, Peter argues from God raising Jesus to Jesus’ lordship and messianic status, and Acts 17 says God gave assurance of Jesus’ role as judge by raising Him from the dead. The resurrection is not being treated as a random miracle. It is God’s public vindication of Jesus in the context of the claims He had already made.\n\nThat changes how we receive what Jesus teaches. If an ordinary ancient teacher tells you something about God, you still have to evaluate that teaching as one human claim among others. But if God has raised Jesus from the dead in the context of His claims and mission, then Jesus is not simply one teacher among many.\n\nThere is still an important qualification: the resurrection does not remove the need for historical interpretation. We still have to ask what Jesus actually said, what He meant, and whether the sources preserve His teaching accurately.\n\nOnce a teaching is reasonably established as the teaching of Jesus, the resurrection gives us a strong reason to receive it as authoritative. That is how the argument can now move toward Jesus’ teaching about Scripture without becoming circular.",
       "facts": [
         "This is the classical-apologetic move from Christian evidences to the authority of Christ.",
+        "Romans 1:4 connects Jesus’ resurrection with His status as the Son of God in power.",
+        "Acts 2 and Acts 17 use the resurrection as God’s public confirmation of Jesus’ identity and authority.",
         "The sequence avoids a simple “Bible proves Jesus, Jesus proves Bible” circle.",
         "Jesus’ authority is the bridge, not a claim that the New Testament canon has already been established.",
         "The next two studies separately consider Jesus’ treatment of the Old Testament and His authorization of the apostolic witness."
       ],
       "further": [
+        [
+          "Bible reference | Romans 1:3–4; Acts 2:32–36; Acts 17:30–31",
+          "https://www.biblegateway.com/passage/?search=Romans%201%3A3-4%3B%20Acts%202%3A32-36%3B%20Acts%2017%3A30-31&version=ESV"
+        ],
         [
           "Bible reference | John 7:16–18",
           "https://www.biblegateway.com/passage/?search=John%207%3A16-18&version=ESV"
@@ -2383,9 +2389,15 @@ const questions = [
     ],
     "evidence": {
       "claim": "These sources trace the classical move from resurrection to Jesus’ authority and then toward Scripture.",
-      "establishes": "Biola states that sequence directly, while Ligonier and Impact Apologetics emphasize Jesus’ distinctive authority and teaching.",
+      "establishes": "Romans 1 and Acts explicitly connect the resurrection with Jesus’ status and authority, while Biola, Ligonier, and Impact Apologetics trace the same move from the risen Jesus toward His teaching and Scripture.",
       "caution": "We still have to establish historically what Jesus taught rather than treating every later canon conclusion as automatic.",
       "resources": [
+        {
+          "type": "Bible reference",
+          "title": "Romans 1:3–4; Acts 2:32–36; Acts 17:30–31",
+          "why": "These passages treat the resurrection as God’s public confirmation of Jesus’ identity, lordship, and authority rather than as an isolated miracle.",
+          "url": "https://www.biblegateway.com/passage/?search=Romans%201%3A3-4%3B%20Acts%202%3A32-36%3B%20Acts%2017%3A30-31&version=ESV"
+        },
         {
           "type": "Biola",
           "title": "Biola | From Belief in Jesus to Belief in the New Testament",
@@ -2465,7 +2477,7 @@ const questions = [
     "teaser": "The divinely vindicated Jesus consistently treats Israel’s Scriptures as God’s authoritative Word, not merely as helpful religious literature.",
     "lesson": {
       "heading": "How Jesus actually uses Scripture",
-      "body": "Throughout the Gospels, Jesus treats Israel’s Scriptures as authoritative. He repeatedly appeals to what is written as a decisive reason in His teaching and disputes, and He rebukes people for failing to understand the Scriptures.\n\nThis is more than Jesus simply quoting familiar religious literature. At times He connects the biblical text directly with God’s speech. For example, He can quote from Genesis and speak of what God said through that text. In John 10, Jesus says that Scripture cannot be broken.\n\nAfter the resurrection, Luke presents Jesus explaining His mission from Moses, the Prophets, and the Psalms. The consistent picture is that Jesus receives the Old Testament as God’s Word and understands His own mission as the fulfillment of that revelation.\n\nOne limitation needs to stay clear: this lesson does not settle every later disagreement about the exact boundaries of the Old Testament canon. That is a separate historical question.\n\nWhat this does establish is Jesus’ basic posture toward Scripture. If the resurrection gives us good reason to receive Jesus as the vindicated Lord, then accepting His authority while casually dismissing the Scriptures He treats as God’s authoritative Word creates a serious problem.",
+      "body": "Throughout the Gospels, Jesus treats Israel’s Scriptures as authoritative. He repeatedly appeals to what is written as a decisive reason in His teaching and disputes, and He rebukes people for failing to understand the Scriptures.\n\nThis is more than Jesus simply quoting familiar religious literature. In Matthew 4, He repeatedly answers temptation with “It is written.” In Matthew 19, Jesus quotes Genesis and treats the words of the text as what the Creator said. In John 10, He says that Scripture cannot be broken.\n\nAfter the resurrection, Luke presents Jesus explaining His mission from Moses, the Prophets, and the Psalms. The consistent picture is that Jesus receives the Old Testament as God’s Word and understands His own mission as the fulfillment of that revelation.\n\nOne limitation needs to stay clear: this lesson does not settle every later disagreement about the exact boundaries of the Old Testament canon. That is a separate historical question.\n\nWhat this establishes is Jesus’ basic posture toward Scripture. If the resurrection gives us good reason to receive Jesus as the vindicated Lord, then accepting His authority while casually dismissing the Scriptures He treats as God’s authoritative Word creates a serious problem.",
       "facts": [
         "Jesus’ repeated “It is written” appeals show Scripture functioning as a final authority in argument and obedience.",
         "Matthew 19 is a key example of Jesus treating the words of Genesis as God’s own speech.",
@@ -2473,6 +2485,10 @@ const questions = [
         "Luke 24 presents the Law, Prophets, and Psalms as the scriptural framework for understanding Jesus’ mission."
       ],
       "further": [
+        [
+          "Bible reference | Matthew 4:1–11",
+          "https://www.biblegateway.com/passage/?search=Matthew%204%3A1-11&version=ESV"
+        ],
         [
           "The Gospel Coalition | Jesus’s View of the Old Testament",
           "https://www.thegospelcoalition.org/essay/jesuss-view-old-testament/"
@@ -2525,9 +2541,15 @@ const questions = [
     ],
     "evidence": {
       "claim": "These sources examine how Jesus treats Israel’s Scriptures.",
-      "establishes": "They emphasize His repeated appeals to what is written, His treatment of Scripture as God speaking, and His claim that Scripture cannot be broken.",
+      "establishes": "Matthew 4, Matthew 19, John 10, and Luke 24 show Jesus repeatedly appealing to Scripture as decisive authority, treating the written text as God speaking, and understanding His mission through Israel’s Scriptures.",
       "caution": "Jesus’ high view of Scripture does not by itself settle every later canon, genre, textual, or interpretation question.",
       "resources": [
+        {
+          "type": "Bible reference",
+          "title": "Matthew 4:1–11; Matthew 19:3–6; John 10:34–36; Luke 24:44–47",
+          "why": "These passages provide concrete examples of Jesus appealing to what is written, treating Scripture as God’s speech, saying it cannot be broken, and reading His mission through the Old Testament.",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew%204%3A1-11%3B%20Matthew%2019%3A3-6%3B%20John%2010%3A34-36%3B%20Luke%2024%3A44-47&version=ESV"
+        },
         {
           "type": "Teaching",
           "title": "Ligonier | Jesus and Authority",
@@ -2607,16 +2629,29 @@ const questions = [
     "teaser": "Jesus authorized apostles to speak in His name. The New Testament question is how their authoritative witness came to be written, received, and recognized as Scripture.",
     "lesson": {
       "heading": "From Christ to the apostles to the New Testament",
-      "body": "The New Testament begins with Jesus’ authority. Jesus chose apostles, commissioned them as His witnesses, and promised that the Holy Spirit would help them remember His teaching and guide their witness. The apostles were not simply later Christian teachers giving their own opinions. They spoke as men Christ had authorized to represent Him.\n\nOne way to look at it is simple: God sends Christ, Christ authorizes the apostles, and the apostles teach the church in His name. If God raised Jesus from the dead, then the authority Jesus gives those apostles matters. Their teaching is not independent of Christ. It comes from the authority He gave them.\n\nThat apostolic teaching did not remain only oral. It was written down, circulated, read in the churches, and treated as authoritative. Paul expects his letters to be read publicly. In 2 Peter 3:15–16, Peter refers to Paul’s letters alongside “the other Scriptures.” So even within the New Testament period, we have evidence that apostolic writings were already being received as Scripture.\n\nThe church’s later role was recognition, not creation. A council did not take ordinary Christian books and make them inspired by voting for them. The authority came from God through Christ and His apostles. The church then had to recognize which writings actually carried that apostolic authority.\n\nThat is why apostolicity mattered. Was the book written by an apostle or closely connected to apostolic testimony? Did it agree with the faith already received from the apostles? Was it being read and received throughout the churches? Those questions helped the church distinguish the writings that belonged to the apostolic witness from later Christian books that could still be useful without being Scripture.\n\nThere was broad early agreement on the core of the New Testament, especially the four Gospels, Acts, Paul’s letters, 1 Peter, and 1 John. A smaller number of books were discussed longer in some parts of the church. That is not good evidence that the canon was arbitrary. If anything, it shows that Christians were careful about what they received as the Word of God.\n\nThe Council of Nicaea did not choose the New Testament canon. The twenty-seven-book list was recognized formally over time, but those books did not suddenly become authoritative in the fourth century. What the history shows is that apostolic writings were already functioning as Scripture while the church gradually reached agreement about the boundaries of the collection.",
+      "body": "The New Testament begins with Jesus’ authority. Jesus chose apostles, commissioned them as His witnesses, and promised that the Holy Spirit would help them remember His teaching and guide their witness. The apostles were not simply later Christian teachers giving their own opinions. They spoke as men Christ had authorized to represent Him.\n\nThe basic chain is simple: God sends Christ, Christ authorizes the apostles, and the apostles teach the church in His name. If God raised Jesus from the dead, then the authority Jesus gives those apostles matters. Their teaching is not independent of Christ. It comes from the authority He gave them.\n\nThat apostolic teaching did not remain only oral. It was written down, circulated, read in the churches, and treated as authoritative. Paul expects his letters to be read publicly. Second Peter 3:15–16 refers to Paul’s letters alongside “the other Scriptures.” So we have evidence from within the New Testament itself that apostolic writings were already being received as Scripture.\n\nWe can also see that process continuing very early outside the New Testament. Near the end of the first century, 1 Clement tells the Corinthian church to take up Paul’s earlier letter to them. By the middle of the second century, Justin Martyr describes Christians gathering on Sunday and reading the “memoirs of the apostles” alongside the prophets. Later in the second century, Irenaeus argues from Matthew, Mark, Luke, and John as the church’s four Gospels. The point is not that every New Testament book was already universally settled. It is that apostolic writings were functioning as authoritative Christian texts long before fourth-century councils.\n\nThe church’s later role was recognition, not creation. A council did not take ordinary Christian books and make them inspired by voting for them. The authority came from God through Christ and His apostles. The church then had to recognize which writings actually carried that apostolic authority.\n\nThat is why apostolicity mattered. Was the book written by an apostle or closely connected to apostolic testimony? Did it agree with the faith already received from the apostles? Was it being read and received throughout the churches? Those questions helped the church distinguish the writings that belonged to the apostolic witness from later Christian books that could still be useful without being Scripture.\n\nThere was broad early agreement on the core of the New Testament, especially the four Gospels, Acts, Paul’s letters, 1 Peter, and 1 John. A smaller number of books were discussed longer in some parts of the church. Those disagreements actually help us see the process more clearly. Christians were not simply accepting every Christian writing they could find. They were asking which writings really belonged to the apostolic witness they had already received.\n\nThe Council of Nicaea did not choose the New Testament canon. The twenty-seven-book list was recognized formally over time, but those books did not suddenly become authoritative in the fourth century. The history is messier than a complete list appearing all at once, but it is also very different from a later council inventing the New Testament. Apostolic writings were already functioning as Scripture while the church gradually reached agreement about the boundaries of the collection.",
       "facts": [
         "Jesus commissioned apostles to speak and teach in His name.",
         "Acts 2:42 shows the earliest church centered on the apostles’ teaching.",
         "Apostolic writings were circulated and read publicly in the churches.",
         "2 Peter 3:15–16 places Paul’s letters alongside “the other Scriptures.”",
+        "1 Clement tells the Corinthians to read Paul’s earlier letter, Justin Martyr describes apostolic memoirs being read in worship, and Irenaeus argues from the church’s four Gospels.",
         "There was broad early agreement on most New Testament books, with longer discussion around a smaller group.",
         "The Council of Nicaea did not choose or create the New Testament canon."
       ],
       "further": [
+        [
+          "Primary source | 1 Clement 47",
+          "https://en.wikisource.org/wiki/1_Clement_(Hoole_translation)#CHAPTER_47"
+        ],
+        [
+          "Primary source | Justin Martyr, First Apology 67",
+          "https://ccel.org/ccel/justin_martyr/first_apology/anf01.viii.ii.lxvii.html"
+        ],
+        [
+          "Primary source | Irenaeus, Against Heresies 3.11",
+          "https://ccel.org/ccel/irenaeus/against_heresies_iii/anf01.ix.iv.xii.html"
+        ],
         [
           "Ligonier | The Authority of the Apostles",
           "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-authority-of-the-apostles"
@@ -2660,7 +2695,7 @@ const questions = [
       ],
       [
         "“Jesus never gave us a list of twenty-seven books.”",
-        "That’s true, but He did something more foundational. He authorized apostles to teach and bear witness in His name. Once that authority is established, the canon question becomes which writings genuinely carry the apostolic witness Christ authorized."
+        "He did not, and the argument does not depend on Him doing so. He authorized apostles to teach and bear witness in His name. Once that authority is established, the canon question becomes which writings genuinely carry the apostolic witness Christ authorized."
       ]
     ],
     "limits": "Do not pretend the final 27-book list appeared all at once. The apologetic case is stronger when it shows the actual process: Christ, the apostles, apostolic writings, early reception, careful recognition, and final agreement.",
@@ -2678,9 +2713,27 @@ const questions = [
     ],
     "evidence": {
       "claim": "These resources support the same basic case made in the lesson: Christ authorized the apostles, apostolic writings were received early, and the church recognized rather than created the canon.",
-      "establishes": "Ligonier emphasizes Christ’s delegated authority to the apostles. Michael Kruger emphasizes apostolic connection, the qualities of the books themselves, and their reception throughout the churches, while also showing that a large core of the New Testament was recognized early.",
+      "establishes": "Ligonier and Kruger explain Christ’s delegated authority to the apostles and the recognition-not-creation distinction. 1 Clement, Justin Martyr, and Irenaeus provide early historical examples of Pauline letters, apostolic memoirs, and the four Gospels already functioning in the life and argument of the church well before fourth-century councils.",
       "caution": "The recognition process was real and some books were discussed longer than others. The stronger apologetic does not hide that history; it explains why careful recognition is different from creating authority.",
       "resources": [
+        {
+          "type": "Primary source",
+          "title": "1 Clement 47",
+          "why": "Near the end of the first century, the Roman church tells the Corinthians to take up Paul’s earlier letter to them, showing that his correspondence was still known and appealed to across churches.",
+          "url": "https://en.wikisource.org/wiki/1_Clement_(Hoole_translation)#CHAPTER_47"
+        },
+        {
+          "type": "Primary source",
+          "title": "Justin Martyr | First Apology 67",
+          "why": "Justin describes second-century Christian worship in which the memoirs of the apostles or writings of the prophets were read publicly.",
+          "url": "https://ccel.org/ccel/justin_martyr/first_apology/anf01.viii.ii.lxvii.html"
+        },
+        {
+          "type": "Primary source",
+          "title": "Irenaeus | Against Heresies 3.11",
+          "why": "Irenaeus argues from Matthew, Mark, Luke, and John as the church’s fourfold Gospel in the second century.",
+          "url": "https://ccel.org/ccel/irenaeus/against_heresies_iii/anf01.ix.iv.xii.html"
+        },
         {
           "type": "Teaching",
           "title": "Ligonier | The Authority of the Apostles",
@@ -2765,14 +2818,23 @@ const questions = [
     "teaser": "Put the whole second step together: the God argued for in Part 1 acts in history, vindicates Jesus, and gives us reason to receive Scripture as his Word.",
     "lesson": {
       "heading": "The whole argument in one chain",
-      "body": "The entire classical apologetics case can now be put together in one chain.\n\nWe started with reality itself. Contingency, the beginning of the universe, design, fine-tuning, biological information, morality, and reason gave us a cumulative case for a rational, personal Creator. A cumulative argument simply means that several lines of evidence work together rather than one argument having to prove everything by itself.\n\nOnce we had reason to believe God exists, we could no longer rule miracles out simply because they are not natural events. That allowed us to investigate Jesus historically and ask whether the resurrection actually happened.\n\nWe then used the New Testament as historical evidence before assuming divine inspiration. We looked at Jesus’ claims, His death, the tomb, the appearance traditions, the earliest resurrection proclamation, and the competing explanations. Given that evidence, we argued that the resurrection is the best explanation.\n\nIf God raised Jesus, then Jesus has been vindicated by God. His teaching therefore carries divine authority. Jesus receives the Old Testament as God’s authoritative revelation and authorizes apostles whose witness stands behind the New Testament.\n\nThis is how the argument reaches divine inspiration rather than assuming it at the beginning. Revelation is God making truth known, and inspiration is God’s work in giving Scripture through human authors as His authoritative Word.\n\nHere is one more distinction that matters: an authoritative Bible does not make every human interpretation infallible. We can misunderstand Scripture. The fact that a reader can misunderstand a message does not mean the message itself cannot be true.\n\nThe destination of the argument is not merely that some kind of God exists. It is that the Creator has acted in Jesus Christ and has spoken through the Scriptures.",
+      "body": "The entire classical apologetics case can now be put together in one chain.\n\nWe started with reality itself. Contingency, the beginning of the universe, design, fine-tuning, biological information, morality, and reason gave us a cumulative case for a rational, personal Creator. A cumulative argument simply means that several lines of evidence work together rather than one argument having to prove everything by itself.\n\nOnce we had reason to believe God exists, we could no longer rule miracles out simply because they are not natural events. That allowed us to investigate Jesus historically and ask whether the resurrection actually happened.\n\nWe then used the New Testament as historical evidence before assuming divine inspiration. We looked at Jesus’ claims, His death, the tomb, the appearance traditions, the earliest resurrection proclamation, and the competing explanations. Given that evidence, we argued that the resurrection is the best explanation.\n\nIf God raised Jesus, then Jesus has been vindicated by God. His teaching therefore carries divine authority. Jesus receives the Old Testament as God’s authoritative revelation and authorizes apostles whose witness stands behind the New Testament.\n\nThe apostles also describe the revelation they received in explicitly divine terms. Paul tells the Thessalonians that they received the apostolic message not merely as human speech but as the word of God. He describes Scripture as breathed out by God, and 2 Peter describes biblical prophecy as coming from men who spoke from God as they were carried along by the Holy Spirit. Paul can also describe his own apostolic instruction as a command of the Lord. Once we have reached the authority of Christ and the apostles through the earlier historical case, these claims about revelation are evidence to consider rather than assumptions we had to make at the beginning.\n\nThis is how the argument reaches divine inspiration rather than assuming it at the beginning. Revelation is God making truth known, and inspiration is God’s work in giving Scripture through human authors as His authoritative Word.\n\nOne more distinction matters: an authoritative Bible does not make every human interpretation infallible. We can misunderstand Scripture. The fact that a reader can misunderstand a message does not mean the message itself cannot be true.\n\nThe destination of the argument is not merely that some kind of God exists. It is that the Creator has acted in Jesus Christ and has spoken through the Scriptures.",
       "facts": [
         "The course deliberately avoids assuming inspiration during the earlier historical argument.",
         "Each step contributes something distinct; no single argument is expected to prove the whole Christian worldview.",
         "The resurrection is the hinge from historical investigation to Christ’s divine authority.",
+        "The apostles describe their message and Scripture in explicitly divine terms, including 1 Thessalonians 2:13, 2 Timothy 3:16, 2 Peter 1:20–21, and 1 Corinthians 14:37.",
         "Scriptural authority and the infallibility of an individual interpretation are different claims."
       ],
       "further": [
+        [
+          "Bible reference | 1 Thessalonians 2:13; 2 Timothy 3:16–17; 2 Peter 1:20–21; 1 Corinthians 14:37",
+          "https://www.biblegateway.com/passage/?search=1%20Thessalonians%202%3A13%3B%202%20Timothy%203%3A16-17%3B%202%20Peter%201%3A20-21%3B%201%20Corinthians%2014%3A37&version=ESV"
+        ],
+        [
+          "Ligonier | The Authority and Inspiration of the Scriptures",
+          "https://learn.ligonier.org/articles/the-authority-and-inspiration-of-the-scriptures"
+        ],
         [
           "Ligonier | The Purpose of Miracles",
           "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-purpose-of-miracles"
@@ -2803,7 +2865,7 @@ const questions = [
     "pressure": [
       [
         "“This still depends on documents from the Bible.”",
-        "That’s true, the argument still uses documents that are now part of the Bible. But using a document as historical evidence is not the same as assuming it has divine authority. We only reach the authority question after the historical argument leads us to the risen Jesus."
+        "The argument does use documents that are now part of the Bible. The important distinction is that using a document as historical evidence is not the same as assuming it has divine authority. We only reach the authority question after the historical argument leads us to the risen Jesus."
       ],
       [
         "“If interpretation can be wrong, what good is an infallible Bible?”",
@@ -2829,9 +2891,21 @@ const questions = [
     ],
     "evidence": {
       "claim": "These sources show the basic classical apologetics sequence from natural theology to Christian evidences and finally to Scripture.",
-      "establishes": "Biola, Reasonable Faith, and Impact Apologetics arrange the details differently, but they all move from reasons for God toward the historical case for Christianity.",
+      "establishes": "Biola, Reasonable Faith, and Impact Apologetics show the larger classical sequence, while the apostolic texts themselves describe Scripture and apostolic teaching as coming with divine authority. Ligonier’s treatment of inspiration explains how Christ’s authority, apostolic authority, and Scripture fit together.",
       "caution": "A full doctrine of inspiration requires more biblical and theological work than one introductory apologetics lesson can provide.",
       "resources": [
+        {
+          "type": "Bible reference",
+          "title": "1 Thessalonians 2:13; 2 Timothy 3:16–17; 2 Peter 1:20–21; 1 Corinthians 14:37",
+          "why": "These passages describe the apostolic message as God’s word, Scripture as God-breathed, biblical prophecy as coming from God through human authors, and apostolic instruction as carrying the Lord’s authority.",
+          "url": "https://www.biblegateway.com/passage/?search=1%20Thessalonians%202%3A13%3B%202%20Timothy%203%3A16-17%3B%202%20Peter%201%3A20-21%3B%201%20Corinthians%2014%3A37&version=ESV"
+        },
+        {
+          "type": "Teaching",
+          "title": "Ligonier | The Authority and Inspiration of the Scriptures",
+          "why": "B.B. Warfield traces Scripture’s authority through Christ’s authorization of the apostles and explains the apostolic claims about inspiration.",
+          "url": "https://learn.ligonier.org/articles/the-authority-and-inspiration-of-the-scriptures"
+        },
         {
           "type": "Curriculum",
           "title": "Biola | Introduction to Christian Apologetics",
@@ -3242,7 +3316,7 @@ const questions = [
     ],
     "lesson": {
       "heading": "Separate what we observe from what is being inferred",
-      "body": "When someone says, “Evolution is a fact,” the first thing to ask is what they mean by evolution. If they mean that populations change over time, mutations happen, natural selection happens, organisms adapt, and new species can arise, then you do not need to argue with that. Those things are observed.\n\nHere is the problem: those observations are often treated as though they automatically prove a much larger claim, that all life descended from a universal common ancestor and that unguided natural processes are sufficient to build every major biological innovation along the way. That conclusion is not the same thing as the observations.\n\nUniversal common ancestry is a historical claim about what happened in the past. Scientists look at fossils, anatomy, genetics, biogeography, and other evidence that exists now and use it to reconstruct that history. Those are real pieces of evidence. The question is whether common ancestry is the only good explanation of them.\n\nOne way to look at the similarities is common design. If the same engineer makes several machines, you would expect repeated parts and repeated solutions. In the same way, similar body plans, biochemical systems, and genetic structures can also fit the idea of a common Designer. Similarity is real evidence that needs to be explained, but similarity by itself does not tell us which explanation is correct.\n\nThere is another distinction that matters just as much. Common ancestry and the Darwinian mechanism are not the same claim. Even if someone granted common ancestry for the sake of argument, they would still have to show that mutation, natural selection, and other unguided mechanisms are actually capable of producing the biological information and tightly integrated systems that need to be explained.\n\nThis is where biological information and irreducible complexity matter. DNA is chemistry, but the order of the bases matters. The sequence is used in a system that stores, reads, copies, regulates, and translates functionally significant information. Cells also contain molecular machines whose basic function depends on multiple coordinated parts. The design question is simple: what kind of cause do we already know can produce information-rich instructions and integrated machinery? Intelligence can.\n\nThat is different from saying, “We do not know how evolution did it, therefore God.” The argument is not supposed to be based only on what we do not know. It points to positive features that intelligence is already known to produce. At the same time, proposed evolutionary pathways still have to explain how the necessary parts, regulation, assembly, and selectable function arose step by step.\n\nThe origin of life is another separate problem. Natural selection only begins once there is already a reproducing system with heritable differences. It cannot explain the first system before reproduction and inheritance exist. So abiogenesis cannot simply be folded into natural selection as though the same mechanism explains both questions.\n\nWorldview matters here too. Science normally looks for natural mechanisms, and that is useful. But that method cannot be turned into the conclusion that only natural causes exist. If God or intelligence is ruled out before the evidence is considered, then of course every pattern will be interpreted only in terms of natural causes.\n\nThe earlier lessons in this course matter for that reason. We have already given independent reasons for believing the universe has a Creator. If that case is good, then design is already a real option before we ever get to biology. We should interpret the biological evidence within the worldview that best explains reality as a whole.\n\nThe Christian does not need to deny real biological change. The issue is whether observed change proves universal common ancestry and whether unguided mechanisms are sufficient to explain biological information, molecular machinery, and the origin of life. I do not think they are.",
+      "body": "When someone says, “Evolution is a fact,” the first thing to ask is what they mean by evolution. If they mean that populations change over time, mutations happen, natural selection happens, organisms adapt, and new species can arise, then you do not need to argue with that. Those things are observed.\n\nThe problem comes when those observations are treated as though they automatically prove a much larger claim, that all life descended from a universal common ancestor and that unguided natural processes are sufficient to build every major biological innovation along the way. That conclusion is not the same thing as the observations.\n\nUniversal common ancestry is a historical claim about what happened in the past. Scientists look at fossils, anatomy, genetics, biogeography, and other evidence that exists now and use it to reconstruct that history. Those are real pieces of evidence. The question is whether common ancestry is the only good explanation of them.\n\nOne way to look at the similarities is common design. If the same engineer makes several machines, you would expect repeated parts and repeated solutions. In the same way, similar body plans, biochemical systems, and genetic structures can also fit the idea of a common Designer. Similarity is real evidence that needs to be explained, but similarity by itself does not tell us which explanation is correct.\n\nThere is another distinction that matters just as much. Common ancestry and the Darwinian mechanism are not the same claim. Even if someone granted common ancestry for the sake of argument, they would still have to show that mutation, natural selection, and other unguided mechanisms are actually capable of producing the biological information and tightly integrated systems that need to be explained.\n\nThis is where biological information and irreducible complexity matter. DNA is chemistry, but the order of the bases matters. The sequence is used in a system that stores, reads, copies, regulates, and translates functionally significant information. Cells also contain molecular machines whose basic function depends on multiple coordinated parts. The design question is simple: what kind of cause do we already know can produce information-rich instructions and integrated machinery? Intelligence can.\n\nThat is different from saying, “We do not know how evolution did it, therefore God.” The argument is not supposed to be based only on what we do not know. It points to positive features that intelligence is already known to produce. At the same time, proposed evolutionary pathways still have to explain how the necessary parts, regulation, assembly, and selectable function arose step by step.\n\nThe origin of life is another separate problem. Natural selection only begins once there is already a reproducing system with heritable differences. It cannot explain the first system before reproduction and inheritance exist. So abiogenesis cannot simply be folded into natural selection as though the same mechanism explains both questions.\n\nWorldview matters here too. Science normally looks for natural mechanisms, and that is useful. But that method cannot be turned into the conclusion that only natural causes exist. If God or intelligence is ruled out before the evidence is considered, then of course every pattern will be interpreted only in terms of natural causes.\n\nThe earlier lessons in this course matter for that reason. We have already given independent reasons for believing the universe has a Creator. If that case is good, then design is already a real option before we ever get to biology. We should interpret the biological evidence within the worldview that best explains reality as a whole.\n\nThe Christian does not need to deny real biological change. The issue is whether observed change proves universal common ancestry and whether unguided mechanisms are sufficient to explain biological information, molecular machinery, and the origin of life. I do not think they are.",
       "facts": [
         "Natural selection and biological variation are observable and are accepted by major creationist ministries.",
         "Observed adaptation or speciation does not by itself establish universal common ancestry.",
