@@ -44,7 +44,7 @@ const questions = [
     "pressure": [
       [
         "“Logic is just a Western way of thinking.”",
-        "Different cultures may express reasoning differently, but here is the problem: if logic were only a Western preference, you could not argue against it without using logic. A contradiction does not become true because a culture accepts it, and a conclusion still needs to follow from the reasons given."
+        "Different cultures may express reasoning differently, but if logic were only a Western preference, you could not argue against it without using logic. A contradiction does not become true because a culture accepts it, and a conclusion still needs to follow from the reasons given."
       ],
       [
         "“Everyone has assumptions, so nobody is objective.”",
@@ -320,7 +320,7 @@ const questions = [
       ],
       [
         "“Maybe the universe is just a brute fact.”",
-        "You can say the universe is a brute fact, but here is the problem: that does not explain why it exists. It simply stops asking the question at the universe. A necessary foundation gives a better explanation than saying the largest contingent reality just happens to exist for no reason."
+        "You can call the universe a brute fact, but that still does not explain why it exists. It simply stops asking the question at the universe. A necessary foundation gives a better explanation than saying the largest contingent reality just happens to exist for no reason."
       ]
     ],
     "limits": "The contingency argument establishes a necessary foundation of dependent reality. Do not make it prove the resurrection, Trinity, or Scripture by itself.",
@@ -453,7 +453,7 @@ const questions = [
     "pressure": [
       [
         "“Maybe things really can come from nothing.”",
-        "When people point to quantum physics, here is the problem: quantum events do not come from literal nothing. They occur within physical reality, with fields, laws, and an existing system already in place. The Kalam is asking whether something can begin to exist with no cause and no prior reality at all."
+        "When people point to quantum physics, the important distinction is that quantum events do not come from literal nothing. They occur within physical reality, with fields, laws, and an existing system already in place. The Kalam is asking whether something can begin to exist with no cause and no prior reality at all."
       ],
       [
         "“The Big Bang does not prove God.”",
@@ -2519,7 +2519,7 @@ const questions = [
     "pressure": [
       [
         "“I accept Jesus, but not the Old Testament.”",
-        "You can say you accept Jesus while rejecting the Old Testament, but here is the problem: Jesus repeatedly treats those Scriptures as God’s authoritative Word and as the story fulfilled in His own mission. If you accept Jesus’ authority, His view of Scripture has to matter to you."
+        "You can say you accept Jesus while rejecting the Old Testament, but that creates a tension: Jesus repeatedly treats those Scriptures as God’s authoritative Word and as the story fulfilled in His own mission. If you accept Jesus’ authority, His view of Scripture has to matter to you."
       ],
       [
         "“Jesus was simply a man of his time and shared his culture’s mistakes.”",
@@ -2818,7 +2818,7 @@ const questions = [
     "teaser": "Put the whole second step together: the God argued for in Part 1 acts in history, vindicates Jesus, and gives us reason to receive Scripture as his Word.",
     "lesson": {
       "heading": "The whole argument in one chain",
-      "body": "The entire classical apologetics case can now be put together in one chain.\n\nWe started with reality itself. Contingency, the beginning of the universe, design, fine-tuning, biological information, morality, and reason gave us a cumulative case for a rational, personal Creator. A cumulative argument simply means that several lines of evidence work together rather than one argument having to prove everything by itself.\n\nOnce we had reason to believe God exists, we could no longer rule miracles out simply because they are not natural events. That allowed us to investigate Jesus historically and ask whether the resurrection actually happened.\n\nWe then used the New Testament as historical evidence before assuming divine inspiration. We looked at Jesus’ claims, His death, the tomb, the appearance traditions, the earliest resurrection proclamation, and the competing explanations. Given that evidence, we argued that the resurrection is the best explanation.\n\nIf God raised Jesus, then Jesus has been vindicated by God. His teaching therefore carries divine authority. Jesus receives the Old Testament as God’s authoritative revelation and authorizes apostles whose witness stands behind the New Testament.\n\nThe apostles also describe the revelation they received in explicitly divine terms. Paul tells the Thessalonians that they received the apostolic message not merely as human speech but as the word of God. He describes Scripture as breathed out by God, and 2 Peter describes biblical prophecy as coming from men who spoke from God as they were carried along by the Holy Spirit. Paul can also describe his own apostolic instruction as a command of the Lord. Once we have reached the authority of Christ and the apostles through the earlier historical case, these claims about revelation are evidence to consider rather than assumptions we had to make at the beginning.\n\nThis is how the argument reaches divine inspiration rather than assuming it at the beginning. Revelation is God making truth known, and inspiration is God’s work in giving Scripture through human authors as His authoritative Word.\n\nOne more distinction matters: an authoritative Bible does not make every human interpretation infallible. We can misunderstand Scripture. The fact that a reader can misunderstand a message does not mean the message itself cannot be true.\n\nThe destination of the argument is not merely that some kind of God exists. It is that the Creator has acted in Jesus Christ and has spoken through the Scriptures.",
+      "body": "The entire classical apologetics case can now be put together in one chain.\n\nWe started with reality itself. Contingency, the beginning of the universe, design, fine-tuning, biological information, morality, and reason gave us a cumulative case for a rational, personal Creator. A cumulative argument simply means that several lines of evidence work together rather than one argument having to prove everything by itself.\n\nOnce we had reason to believe God exists, we could no longer rule miracles out simply because they are not natural events. That allowed us to investigate Jesus historically and ask whether the resurrection actually happened.\n\nWe then used the New Testament as historical evidence before assuming divine inspiration. We looked at Jesus’ claims, His death, the tomb, the appearance traditions, the earliest resurrection proclamation, and the competing explanations. Given that evidence, we argued that the resurrection is the best explanation.\n\nIf God raised Jesus, then Jesus has been vindicated by God. His teaching therefore carries divine authority. Jesus receives the Old Testament as God’s authoritative revelation and authorizes apostles whose witness stands behind the New Testament.\n\nThe apostles also describe the revelation they received in explicitly divine terms. Paul tells the Thessalonians that they received the apostolic message not merely as human speech but as the word of God. Second Timothy describes Scripture as breathed out by God, and 2 Peter describes biblical prophecy as coming from men who spoke from God as they were carried along by the Holy Spirit. Paul can also describe his own apostolic instruction as a command of the Lord. Once we have reached the authority of Christ and the apostles through the earlier historical case, these claims about revelation are evidence to consider rather than assumptions we had to make at the beginning.\n\nThis is how the argument reaches divine inspiration rather than assuming it at the beginning. Revelation is God making truth known, and inspiration is God’s work in giving Scripture through human authors as His authoritative Word.\n\nOne more distinction matters: an authoritative Bible does not make every human interpretation infallible. We can misunderstand Scripture. The fact that a reader can misunderstand a message does not mean the message itself cannot be true.\n\nThe destination of the argument is not merely that some kind of God exists. It is that the Creator has acted in Jesus Christ and has spoken through the Scriptures.",
       "facts": [
         "The course deliberately avoids assuming inspiration during the earlier historical argument.",
         "Each step contributes something distinct; no single argument is expected to prove the whole Christian worldview.",
