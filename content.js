@@ -148,9 +148,9 @@ const questions = [
       ]
     },
     "conversationTips": [
-      "If someone gives you a long argument, slow it down. Ask what the conclusion is and what the main reasons are supposed to be.",
-      "Do not feel pressure to answer five claims at once. Take one premise or one inference at a time.",
-      "A bad argument for a conclusion does not automatically make the conclusion false. It only means that argument did not establish it."
+      "A long argument gets much easier to answer once you slow it down and find the conclusion and the main reasons supporting it.",
+      "There is no reason to answer five claims at once. Take one premise or one step in the reasoning and deal with that first.",
+      "If an argument fails, say that clearly, but do not act as though the conclusion has automatically been disproved. It may still have better arguments behind it."
     ]
   },
   {
@@ -284,9 +284,9 @@ const questions = [
       ]
     },
     "conversationTips": [
-      "If someone says, “That is true for you,” ask whether they mean a preference or a claim about reality. Those are not the same thing.",
-      "Do not let “you cannot prove it with absolute certainty” become an impossible standard. Most of what we know is based on evidence strong enough to justify belief, not absolute certainty.",
-      "You can admit that you could be wrong without saying that nobody can know anything."
+      "When somebody says, “That is true for you,” find out whether they mean a preference or a claim about reality. Those are very different things.",
+      "Absolute certainty is usually the wrong standard. Most of what we reasonably believe is based on evidence strong enough to justify the belief, not proof beyond every possible doubt.",
+      "It is fine to admit that you could be wrong. That is very different from saying nobody can know anything."
     ]
   },
   {
@@ -420,9 +420,9 @@ const questions = [
       ]
     },
     "conversationTips": [
-      "If someone says the universe does not need a Creator, first ask what they mean. Are they saying it caused itself, has always existed, or exists necessarily? Those are different claims.",
-      "If they ask who created God, bring the discussion back to the actual argument. The necessary foundation is not supposed to be another dependent thing that needs the same kind of explanation.",
-      "Keep the conclusion narrow. Contingency gets you toward a necessary foundation; it does not prove every Christian doctrine by itself."
+      "Before answering “the universe does not need a Creator,” find out what the person means. Self-causation, existing forever, and existing necessarily are three different claims.",
+      "The “Who created God?” objection only works if the argument says everything needs a cause. Neither the contingency argument nor the Kalam says that.",
+      "Let this argument do its own job. Contingency points toward a necessary foundation; it is not supposed to prove every Christian doctrine in one step."
     ]
   },
   {
@@ -577,9 +577,9 @@ const questions = [
       ]
     },
     "conversationTips": [
-      "If the conversation gets deep into cosmology, separate the philosophical argument from whichever scientific model is being discussed. The Kalam should not stand or fall on one theorem.",
-      "If someone knows a cosmological model you do not know, say so. Ask how that model answers the specific question about a beginning or cause instead of pretending you can evaluate technical physics on the spot.",
-      "Make sure the objection is aimed at the real premise: whatever begins to exist has a cause, not everything has a cause."
+      "Cosmology can get technical very quickly. Separate the philosophical argument from whichever scientific model happens to be under discussion.",
+      "A person may know a cosmological model you have never studied. It is better to say that and ask how the model answers the specific question about a beginning than to bluff your way through physics.",
+      "The premise you are defending is that whatever begins to exist has a cause, not that everything has a cause."
     ]
   },
   {
@@ -710,9 +710,9 @@ const questions = [
       ]
     },
     "conversationTips": [
-      "Ask what specific feature needs an explanation and what cause the other person thinks explains it. That keeps the discussion from becoming “it looks designed” versus “no it does not.”",
-      "Compare causes rather than trading impressions. What is the feature, and what kinds of causes are actually known to produce that kind of thing?",
-      "If one design example turns out to be weak, let it go. That does not show that design is never a good explanation anywhere."
+      "Start with the actual feature that needs an explanation. “It looks designed” is too vague to carry much weight by itself.",
+      "The conversation goes better when you compare causes instead of trading impressions. What is the feature, and what kind of cause is known to produce something like it?",
+      "Let a weak design example go if it turns out to be weak. Losing one example is not the same thing as showing that design is never a reasonable explanation."
     ]
   },
   {
@@ -862,9 +862,9 @@ const questions = [
       ]
     },
     "conversationTips": [
-      "Do not get trapped defending a dramatic probability number you cannot explain. The main point is that life depends on sensitive physical conditions and those conditions still call for an explanation.",
-      "If someone appeals to a multiverse, ask what evidence supports it and whether it removes the need for a deeper explanation or simply moves the question back.",
-      "Keep the claim clear: fine-tuning can support design, but it does not by itself prove Christianity."
+      "Fine-tuning conversations can get buried under dramatic probability numbers. You do not need a number you cannot defend; the important point is that life depends on sensitive physical conditions that still need an explanation.",
+      "A multiverse does not need to be mocked or dismissed. The useful questions are what evidence supports it and whether it actually explains the fine-tuning or only moves the explanation back another step.",
+      "This argument can support design without proving Christianity by itself. Keep that conclusion at the level the argument can actually support."
     ]
   },
   {
@@ -1019,10 +1019,10 @@ const questions = [
       ]
     },
     "conversationTips": [
-      "If someone knows much more biology than you do, do not pretend otherwise. Ask them to explain the actual pathway or mechanism and what conclusion they think follows from it.",
-      "If they give a strong answer to one irreducible-complexity example, acknowledge it. That may weaken that example; it does not automatically remove every design argument, and it definitely does not make Christianity false.",
-      "Keep the scope of the discussion clear. Even if you granted a proposed evolutionary pathway, that would not by itself establish philosophical naturalism or answer the larger questions about the universe, the first life, reason, morality, or the resurrection.",
-      "You do not have to beat a biologist at biology. Your job is to understand the claim, ask good questions, avoid overclaiming, and remember that Christianity rests on a cumulative case rather than one biological argument."
+      "A biologist may know far more biology than you do. That is fine. Let them explain the proposed pathway or mechanism, then ask what the evidence actually establishes.",
+      "If one irreducible-complexity example gets answered well, give them the point. That example may be weaker than you thought; Christianity does not rise or fall with it.",
+      "At that point, separate the biology from the worldview conclusion. Even a successful evolutionary pathway would not by itself establish philosophical naturalism or show that there is no Creator.",
+      "You are not required to out-biologist a biologist. Understand the claim, ask good questions, admit what you do not know, and remember that the Christian case is much larger than one biological argument."
     ]
   },
   {
@@ -1172,9 +1172,9 @@ const questions = [
       ]
     },
     "conversationTips": [
-      "Do not argue that atheists cannot be moral. The issue is not whether they can recognize or practice morality; it is what makes moral values and duties objectively true and binding.",
-      "If someone explains moral beliefs through evolution, culture, or upbringing, distinguish the origin of a belief from whether that belief is actually true.",
-      "Use a clear moral example rather than getting pulled immediately into a controversial political or cultural issue."
+      "This argument is not about whether atheists can be decent people. The issue is what makes moral values and duties objectively true and binding.",
+      "An evolutionary or cultural explanation for why we developed a moral belief answers one question. It does not yet tell us whether the belief is actually true.",
+      "Use a clear moral example before jumping into a politically loaded one. Otherwise the conversation can turn into a fight over the example instead of the argument."
     ]
   },
   {
@@ -1316,9 +1316,9 @@ const questions = [
       ]
     },
     "conversationTips": [
-      "Keep the distinction between what causes a belief and what justifies it. A brain process can explain how a thought occurred without showing whether the reasoning is valid.",
-      "Do not claim that naturalists cannot reason or that evolution makes knowledge impossible. The argument is about which worldview best explains rational minds and logical norms.",
-      "If the discussion gets technical, ask what in the worldview makes logical truth and rational obligation more than physical events in a brain."
+      "The important distinction is between what caused a belief to occur and what makes the belief rationally justified. Those are not the same question.",
+      "There is no need to say naturalists cannot reason or that evolution makes knowledge impossible. The question is which worldview better explains rational minds, logical truth, and our ability to know.",
+      "If the discussion becomes technical, come back to the basic issue: what makes logical truth and rational obligation more than physical events happening in a brain?"
     ]
   },
   {
@@ -1451,9 +1451,9 @@ const questions = [
       ]
     },
     "conversationTips": [
-      "Start with the earlier question: if God exists, is a miracle possible in principle? If the answer is yes, then the historical evidence has to decide whether one happened.",
-      "Do not argue, “Science cannot explain this, therefore miracle.” A miracle claim still needs positive historical evidence.",
-      "If someone says miracles violate the laws of nature, ask whether those laws describe what nature normally does or somehow place limits on the Creator of nature."
+      "Start one step back from the miracle claim. If God exists, then a miracle is at least possible in principle; after that, the historical evidence has to decide whether one actually happened.",
+      "“Science cannot explain this, therefore miracle” is not enough. A miracle claim still needs positive evidence.",
+      "When somebody says miracles violate the laws of nature, ask whether those laws describe what nature normally does or whether they somehow limit what the Creator of nature could do."
     ]
   },
   {
@@ -1644,9 +1644,9 @@ const questions = [
       ]
     },
     "conversationTips": [
-      "Do not start by assuming the Bible is inspired. Treat the New Testament documents as historical sources first and ask the same kinds of questions you would ask of other ancient sources.",
-      "If the conversation turns to manuscript numbers or textual variants, separate two questions: do we know what the text said, and did the event it describes actually happen?",
-      "If someone says Christian authors are biased, agree that their commitments matter, then ask how that makes them unusable. Every historical source still has to be evaluated rather than dismissed by label."
+      "At this point in the case, treat the New Testament as historical material before asking the person to accept it as inspired Scripture.",
+      "Manuscript preservation and historical reliability are two different questions. Knowing what a document said does not automatically prove that every event it reports happened.",
+      "Calling a Christian author “biased” is not yet an argument against the source. Commitments matter, but the source still has to be evaluated on its actual historical merits."
     ]
   },
   {
@@ -1795,9 +1795,9 @@ const questions = [
       ]
     },
     "conversationTips": [
-      "Do not make the whole case depend on one verse or one title. The stronger argument is the cumulative pattern of Jesus’ actions, claims, authority, and role.",
-      "If someone shows that one title can have another meaning, grant it and keep going. One ambiguous term does not erase the rest of the evidence.",
-      "If the discussion shifts to whether Jesus really said these things, that is now a historical-source question. Deal with that question instead of mixing two objections together."
+      "The case is stronger when it does not depend on one verse or one title. Let the larger pattern of Jesus’ words, actions, authority, and role do the work.",
+      "If one title turns out to have a broader range of meanings, grant that. One ambiguous term does not erase the rest of the evidence.",
+      "Once the objection becomes “Jesus never really said those things,” the conversation has moved back to historical sources. Answer that question instead of mixing it with the identity question."
     ]
   },
   {
@@ -1966,9 +1966,9 @@ const questions = [
       ]
     },
     "conversationTips": [
-      "Lead with the strongest point: Jesus’ death by crucifixion. Do not present the burial and empty tomb as though every part of the case has exactly the same level of certainty.",
-      "If someone disputes the empty tomb, the entire resurrection case does not disappear. The early proclamation and appearance claims still need an explanation.",
-      "Keep each fact separate. A challenge to one piece should change the weight of that piece, not automatically erase everything else."
+      "Lead with the strongest point, Jesus’ death by crucifixion. The burial and empty tomb matter, but they do not have to be presented as though every detail has the same level of certainty.",
+      "A challenge to the empty tomb changes the weight of that piece of the case. It does not make the early resurrection proclamation or appearance claims disappear.",
+      "Think of each historical fact as carrying its own weight. One disputed piece should affect that piece, not automatically erase the whole case."
     ]
   },
   {
@@ -2123,9 +2123,9 @@ const questions = [
       ]
     },
     "conversationTips": [
-      "Ask every alternative to explain the whole body of evidence, not just one favorite fact. A theory that explains one piece may still fail badly elsewhere.",
-      "Do not say that willingness to suffer proves the resurrection. It can support sincerity, but sincere people can still be wrong.",
-      "If one historical point becomes weaker under discussion, adjust the case honestly. A cumulative argument does not require pretending every piece is equally strong."
+      "Every alternative explanation has to face the same body of evidence, not just the one fact it handles best.",
+      "The disciples’ willingness to suffer can support sincerity, but sincerity is not the same thing as truth. Do not make it prove more than it does.",
+      "Let a cumulative case flex. If one historical point turns out to be weaker than you thought, adjust its weight honestly and then look again at the whole pattern."
     ]
   },
   {
@@ -2258,9 +2258,9 @@ const questions = [
       ]
     },
     "conversationTips": [
-      "Do not use liar, lunatic, or Lord as a knockout proof. It works best after the historical question of what Jesus actually claimed has already been addressed.",
-      "If someone says the claims were legendary, go back to the historical evidence. That objection challenges the premise rather than answering the trilemma itself.",
-      "Treat “lunatic” as the traditional shorthand it is, not as a medical diagnosis. The real question is whether Jesus could be profoundly mistaken about his identity."
+      "Use the trilemma late, not as a shortcut. It only becomes useful after you have dealt with the historical question of what Jesus actually claimed.",
+      "A legend objection sends the conversation back to the source evidence. It challenges the premise that Jesus made the claims; it does not answer the trilemma once that premise is granted.",
+      "“Lunatic” is traditional shorthand, not a medical diagnosis. The real issue is whether Jesus could be profoundly mistaken about who He was."
     ]
   },
   {
@@ -2400,9 +2400,9 @@ const questions = [
       ]
     },
     "conversationTips": [
-      "Do not say the resurrection instantly proves every Christian doctrine. Keep the conclusion tied to Jesus’ vindication and authority.",
-      "If someone grants the resurrection but disputes what it means, bring the context back in: Jesus’ claims, mission, rejection, execution, and then resurrection.",
-      "Ask what explanation of God’s action fits that context better than vindication."
+      "The resurrection should not be asked to prove every Christian doctrine at once. The immediate issue is what it says about Jesus and His authority.",
+      "Its meaning comes from the context: Jesus’ claims, mission, rejection, execution, and then resurrection.",
+      "If a person grants the event but not the idea of vindication, stay with that question. Ask what God raising this particular person would mean in that setting."
     ]
   },
   {
@@ -2550,9 +2550,9 @@ const questions = [
       ]
     },
     "conversationTips": [
-      "Keep two questions separate: did Jesus actually teach this, and if he did, why should his teaching carry unique authority?",
-      "Do not use the resurrection to skip the historical work of establishing what Jesus said.",
-      "If the person challenges whether a teaching really goes back to Jesus, answer that source question first. Then return to the authority question."
+      "Two questions need to stay separate: did Jesus actually teach this, and if He did, what follows from His vindication?",
+      "The resurrection does not let us skip the historical work of establishing what Jesus said.",
+      "When the source question comes up, answer it first. Once the teaching is reasonably established, then return to why Jesus’ authority matters."
     ]
   },
   {
@@ -2707,9 +2707,9 @@ const questions = [
       ]
     },
     "conversationTips": [
-      "Keep the claim narrow. This lesson shows how Jesus treated Israel’s Scriptures; it does not settle every later question about exact canon boundaries.",
-      "If someone wants to jump immediately into every difficult Old Testament passage, bring the discussion back to the question at hand: what was Jesus’ own posture toward Scripture?",
-      "You do not need to defend the entire Old Testament in one conversation in order to establish that Jesus treated it as God’s authoritative Word."
+      "This lesson has a narrow job: show how Jesus treated Israel’s Scriptures. It does not have to settle every later canon question.",
+      "A difficult Old Testament passage may be worth discussing, but it is not automatically the question in front of you. Finish the question about Jesus’ own view of Scripture first.",
+      "You do not need to solve every Old Testament difficulty in one conversation to show that Jesus received those Scriptures as God’s authoritative Word."
     ]
   },
   {
@@ -2901,9 +2901,9 @@ const questions = [
       ]
     },
     "conversationTips": [
-      "If someone says the church chose the Bible, ask what they mean and what historical evidence they have in mind. Do not answer a vague version of the claim.",
-      "Keep the distinction between recognizing authority and creating authority. The apologetic claim is that apostolic writings carried authority before later councils formally recognized the collection.",
-      "Do not hide the fact that a smaller number of books were discussed longer. Careful discussion over the boundaries is not the same thing as an arbitrary late invention."
+      "“The church chose the Bible” is too vague to answer well. Find out whether the person means a council created the books’ authority or that the church historically recognized the collection.",
+      "Recognition and creation are not the same thing. The apologetic claim is that apostolic writings carried authority before later councils formally listed the canon.",
+      "The longer discussion around a smaller number of books can be admitted openly. Careful disagreement over the boundaries is not the same thing as a late, arbitrary invention."
     ]
   },
   {
@@ -3067,9 +3067,9 @@ const questions = [
       ]
     },
     "conversationTips": [
-      "If someone rejects the final conclusion, ask which link in the chain they actually dispute. You do not need to restart the entire course every time.",
-      "Focus on the first important disagreement. If they grant God but reject miracles, start there. If they grant miracles but reject the resurrection evidence, start there.",
-      "Remember that this is a cumulative case. Weakness in one supporting argument matters and should be admitted, but it does not automatically make every other argument or the historical case for Christianity disappear."
+      "If the final conclusion is rejected, find the first link in the chain the person actually disputes. That is usually where the useful conversation begins.",
+      "You usually do not need to restart the whole case. If they grant God but reject miracles, start there; if they grant miracles but reject the resurrection evidence, start there.",
+      "A cumulative case can survive a weak supporting argument. Admit the weakness, adjust the weight, and ask whether the rest of the case still stands."
     ]
   },
   {
@@ -3215,9 +3215,9 @@ const questions = [
       }
     ],
     "conversationTips": [
-      "Ask questions before giving a speech. “What do you mean?” and “How did you come to that conclusion?” will often show you what the real issue is.",
-      "Do not let the conversation jump through six objections at once. Finish one issue before moving to the next.",
-      "If you do not know, say so. “I have not looked into that enough to answer well” is better than bluffing."
+      "Questions usually work better than a speech at the beginning. Find out what the person means and why they believe it before deciding which argument to give.",
+      "When six objections arrive at once, pick the first important one and stay there. Otherwise neither person knows what has actually been answered.",
+      "Saying “I do not know” is sometimes the strongest answer available. It is better to check the issue and come back than to bluff."
     ]
   },
   {
@@ -3371,9 +3371,9 @@ const questions = [
       }
     ],
     "conversationTips": [
-      "First figure out whether the person is making an intellectual objection or expressing real pain. The same words can require very different responses.",
-      "If someone is grieving, do not lead with a syllogism. Listen first, and do not pretend you know God’s specific reason for their suffering.",
-      "If the objection is evidential, remember that suffering is one part of the total evidence. It has to be weighed alongside the positive case for God rather than treated as though nothing else counts."
+      "First figure out whether you are hearing an intellectual objection or a person in pain. The words may sound similar, but the response should not.",
+      "Grief is not the moment to lead with a syllogism. Listen, care for the person, and do not pretend to know God’s specific reason for what happened.",
+      "For the evidential objection, suffering has to be weighed with the rest of the evidence for and against God. It should not be treated as though every other line of evidence suddenly disappeared."
     ]
   },
   {
@@ -3558,10 +3558,10 @@ const questions = [
       }
     ],
     "conversationTips": [
-      "If someone knows much more biology than you do, do not pretend otherwise. Ask them to explain the actual mechanism or pathway and what conclusion they think the evidence establishes.",
-      "If they successfully answer one example you were using, acknowledge it. A weak irreducible-complexity example is a weak example; it is not a refutation of Christianity.",
-      "Ask what follows from the biology. Even if you granted common ancestry or a particular evolutionary pathway, does that establish philosophical naturalism or show that no Creator exists?",
-      "Bring the conversation back to the whole case when needed. Christianity does not stand or fall on one biological argument; the case also includes the existence of the universe, fine-tuning, morality, reason, miracles, and the historical case for Jesus."
+      "A person with serious biology training may know details you do not. Let them have that expertise, ask them to explain the evidence, and be careful not to claim more than you understand.",
+      "Let a weak example die. If an irreducible-complexity argument fails in a particular case, that means the example was weak; it does not mean Christianity has been disproved.",
+      "Even granting common ancestry or a particular evolutionary pathway for the sake of argument would not establish philosophical naturalism or show that no Creator exists.",
+      "Bring the discussion back to the larger case when needed. Christianity does not stand or fall on one biology argument; the case also involves the universe, fine-tuning, morality, reason, miracles, and the historical case for Jesus."
     ]
   }
 ];
