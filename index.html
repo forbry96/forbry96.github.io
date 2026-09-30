@@ -199,34 +199,44 @@
       <div class="practice-lab-head">
         <p class="kicker">PRACTICE LAB</p>
         <h2 id="practice-lab-title">Practice the conversation, not just the answer.</h2>
-        <p>Start with Guided if you are still learning where the arguments fit. Move up when that starts getting easy. In Pressure and Mixed, I made the wrong answers sound more reasonable on purpose. Real conversations do not give you four choices with one ridiculous answer. The goal is to listen, figure out what the person is actually saying, and answer that.</p>
-        <div class="practice-difficulty-control">
-          <label for="practiceDifficulty"><strong>Difficulty</strong><span id="practiceDifficultyHelp">Learn the map with a little more help.</span></label>
-          <select id="practiceDifficulty">
-            <option value="guided">Guided</option>
-            <option value="applied">Applied</option>
-            <option value="pressure">Pressure</option>
-            <option value="mixed">Mixed</option>
-          </select>
-        </div>
+        <p>The lab works in three steps. First, figure out what kind of question is actually being asked. Then practice responding while the other person pushes back. Finally, answer the same kinds of questions in your own words. You do not need to work through a difficulty ladder. Start wherever you need practice.</p>
       </div>
       <div class="practice-tabs" role="tablist" aria-label="Practice modes">
-        <button class="practice-tab active" type="button" role="tab" aria-selected="true" data-practice-mode="diagnose">1 · Diagnose</button>
-        <button class="practice-tab" type="button" role="tab" aria-selected="false" data-practice-mode="conversation">2 · Conversation</button>
-        <button class="practice-tab" type="button" role="tab" aria-selected="false" data-practice-mode="build">3 · Build an answer</button>
+        <button class="practice-tab active" type="button" role="tab" aria-selected="true" data-practice-mode="diagnose">1 · Find the issue</button>
+        <button class="practice-tab" type="button" role="tab" aria-selected="false" data-practice-mode="conversation">2 · Handle the conversation</button>
+        <button class="practice-tab" type="button" role="tab" aria-selected="false" data-practice-mode="build">3 · Answer in your own words</button>
       </div>
       <div class="practice-panel active" id="diagnosePanel" data-practice-panel="diagnose">
-        <div class="practice-panel-copy"><span class="test-label">WHERE DO YOU BEGIN?</span><h3>Figure out what the real disagreement is.</h3><p>Do not see a word like “science” or “morality” and jump to a memorized answer. Figure out what the person is actually claiming and whether you need to ask a question first.</p></div>
+        <div class="practice-panel-copy">
+          <span class="test-label">FIND THE ISSUE</span>
+          <h3>Where would you begin?</h3>
+          <p>You will get five short questions at a time, one from each part of the course map. The point is not to answer the objection yet. It is to recognize what kind of question you are dealing with.</p>
+          <label class="practice-help-toggle"><input id="diagnoseHelpToggle" type="checkbox"><span>Show category help</span></label>
+        </div>
         <div id="diagnoseCard" class="practice-interactive-card"></div>
       </div>
       <div class="practice-panel" id="conversationPanel" data-practice-panel="conversation" hidden>
-        <div class="practice-panel-copy"><span class="test-label">BRANCHING PRACTICE</span><h3>See what happens when the conversation pushes back.</h3><p>Some answers will sound pretty good. You will not see how they are graded until the end. Sometimes the better move is a question, a fair concession, or admitting that you stated something too strongly.</p></div>
-        <div class="scenario-picker"><label for="scenarioSelect">Choose a scenario</label><select id="scenarioSelect"></select><button class="button light" id="startScenario" type="button">Start conversation</button></div>
-        <div id="conversationPractice" class="practice-interactive-card" aria-live="polite"></div>
+        <div class="practice-panel-copy">
+          <span class="test-label">HANDLE THE CONVERSATION</span>
+          <h3>See what happens when the person pushes back.</h3>
+          <p>Choose a scenario and work through the exchange. The choices are meant to be close enough that you have to think about the actual issue, not look for the longest or most polished answer. You will see the full debrief at the end.</p>
+          <p class="practice-microcopy"><strong>Standard</strong> scenarios stay focused on one main issue. <strong>Complex</strong> scenarios add harder pushback. <strong>Multiple issues</strong> scenarios test whether you can keep several concerns from getting tangled together.</p>
+        </div>
+        <div>
+          <div class="scenario-picker"><label for="scenarioSelect">Choose a scenario</label><select id="scenarioSelect"></select><button class="button light" id="startScenario" type="button">Start conversation</button></div>
+          <div id="conversationPractice" class="practice-interactive-card" aria-live="polite"><p class="practice-placeholder">Choose a scenario above and start when you are ready.</p></div>
+        </div>
       </div>
       <div class="practice-panel" id="buildPanel" data-practice-panel="build" hidden>
-        <div class="practice-panel-copy"><span class="test-label">YOUR OWN WORDS</span><h3>Now answer it without the choices.</h3><p>Answer the opening claim and two follow-ups before you see a model. Then compare your answer. Did you answer the real issue? Did you use the right evidence? Did you claim more than the argument can show? Could the other person actually respond to you?</p><button class="button light" id="randomPrompt" type="button">Give me another scenario</button></div>
-        <div id="promptCard" class="prompt-card"></div>
+        <div class="practice-panel-copy">
+          <span class="test-label">YOUR OWN WORDS</span>
+          <h3>Now answer without choices.</h3>
+          <p>Pick any scenario, answer the opening claim, and handle two follow-ups before you see a model. Then compare your answer with the model instead of trying to copy it.</p>
+        </div>
+        <div>
+          <div class="scenario-picker"><label for="buildScenarioSelect">Choose a scenario</label><select id="buildScenarioSelect"></select><button class="button light" id="startBuildScenario" type="button">Use this scenario</button><button class="button light" id="randomPrompt" type="button">Random scenario</button></div>
+          <div id="promptCard" class="prompt-card"></div>
+        </div>
       </div>
     </div>
   </section>
