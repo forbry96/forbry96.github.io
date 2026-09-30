@@ -603,7 +603,6 @@ const practiceScenarioLevelNames = {
 let diagnosisRound = [];
 let diagnosisPosition = 0;
 let diagnosisScore = 0;
-let diagnosisHelp = false;
 let currentScenario = null;
 let currentNodeId = 'start';
 let scenarioTrail = [];
@@ -621,11 +620,11 @@ function shufflePracticeChoices(items){
 }
 
 const diagnosisLabels = {
-  clarify: ['Ask first','The claim could mean more than one thing. Clarify it before choosing an argument.'],
-  foundation: ['Reasoning & truth','The issue is logic, truth, knowledge, or how evidence works.'],
-  step1: ['God','The question belongs in the case for whether God exists.'],
-  bridge: ['Miracles','The issue is whether divine action can be considered at all.'],
-  step2: ['Jesus & Christianity','The question is specifically about Jesus, the resurrection, Scripture, or Christianity.']
+  clarify: 'Ask first',
+  foundation: 'Reasoning & truth',
+  step1: 'God',
+  bridge: 'Miracles',
+  step2: 'Jesus & Christianity'
 };
 
 function makeDiagnosisRound(){
@@ -653,7 +652,7 @@ function renderDiagnosis(){
 
   const item = diagnosisRound[diagnosisPosition];
   const choices = Object.entries(diagnosisLabels);
-  card.innerHTML = `<div class="diagnose-count">Question ${diagnosisPosition+1} of ${diagnosisRound.length}</div><blockquote>${esc(item.q)}</blockquote><p class="practice-question">Where would you begin?</p><div class="diagnose-options">${choices.map(([key,v])=>`<button type="button" data-diagnose="${key}"><strong>${esc(v[0])}</strong><span class="diagnose-option-help"${diagnosisHelp?'':' hidden'}>${esc(v[1])}</span></button>`).join('')}</div><div id="diagnoseFeedback" aria-live="polite"></div>`;
+  card.innerHTML = `<div class="diagnose-count">Question ${diagnosisPosition+1} of ${diagnosisRound.length}</div><blockquote>${esc(item.q)}</blockquote><p class="practice-question">Where would you begin?</p><div class="diagnose-options">${choices.map(([key,label])=>`<button type="button" data-diagnose="${key}"><strong>${esc(label)}</strong></button>`).join('')}</div><div id="diagnoseFeedback" aria-live="polite"></div>`;
 
   card.querySelectorAll('[data-diagnose]').forEach(button=>button.addEventListener('click',()=>{
     const selected=button.dataset.diagnose;
@@ -868,10 +867,6 @@ document.querySelector('#category').addEventListener('change', renderQuestions);
 
 // Practice lab
 document.querySelectorAll('[data-practice-mode]').forEach(button=>button.addEventListener('click',()=>setPracticeMode(button.dataset.practiceMode)));
-document.querySelector('#diagnoseHelpToggle')?.addEventListener('change',e=>{
-  diagnosisHelp=e.target.checked;
-  document.querySelectorAll('.diagnose-option-help').forEach(span=>{ span.hidden=!diagnosisHelp; });
-});
 document.querySelector('#randomPrompt')?.addEventListener('click',()=>{
   buildScenarioIndex=Math.floor(Math.random()*practiceScenarios.length);
   buildStep=0;
