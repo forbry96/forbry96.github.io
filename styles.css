@@ -718,17 +718,8 @@ input,select{padding:11px 12px}
 }
 
 
-/* Practice Lab, progressive difficulty and deeper debrief */
-.practice-difficulty-control{margin-top:22px;display:flex;align-items:end;gap:14px;flex-wrap:wrap}
-.practice-difficulty-control label{display:grid;gap:4px;max-width:620px}
-.practice-difficulty-control label strong{font-family:var(--serif);font-size:1.04rem}
-.practice-difficulty-control label span{font-size:.92rem;opacity:.82;line-height:1.45}
-.practice-difficulty-control select{min-width:180px;border:1px solid rgba(255,255,255,.24);background:rgba(255,255,255,.08);color:inherit;border-radius:10px;padding:10px 12px;font:inherit}
-.practice-difficulty-control select option{color:#111;background:#fff}
+/* Practice Lab */
 .diagnose-why{margin-top:.7rem;opacity:.9}
-.practice-help-toggle{display:flex;align-items:center;gap:9px;margin-top:18px;font-size:.9rem;cursor:pointer}
-.practice-help-toggle input{width:17px;height:17px;accent-color:#d4ad78}
-.practice-help-toggle span{line-height:1.35}
 
 .conversation-progress{font-size:.78rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;opacity:.72;margin-bottom:10px}
 .practice-microcopy{margin:.85rem 0 0;font-size:.86rem;opacity:.72}
@@ -754,7 +745,7 @@ input,select{padding:11px 12px}
 .build-compare{margin-top:16px;padding:15px;border-radius:12px;background:var(--soft)}
 .build-compare p:last-child{margin-bottom:0}
 .practice-input-needed{outline:2px solid currentColor;outline-offset:2px}
-@media(max-width:640px){.practice-difficulty-control{align-items:stretch}.practice-difficulty-control select{width:100%}.route-debrief-head{align-items:flex-start;flex-direction:column;gap:4px}}
+@media(max-width:640px){.route-debrief-head{align-items:flex-start;flex-direction:column;gap:4px}}
 .conversation-tips-details{background:#f7f3ea}
 .conversation-tips-body{padding:10px 22px 14px}
 .conversation-tips-body ul{margin:0;padding-left:1.15rem}
