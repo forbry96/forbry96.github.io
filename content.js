@@ -297,9 +297,10 @@ const questions = [
     "teaser": "If dependent things do not explain themselves, can the universe explain itself or does reality need a necessary foundation?",
     "lesson": {
       "heading": "The argument from contingency",
-      "body": "One way to look at the contingency argument is to start with the things around us. Trees, people, planets, and just about everything we experience depend on something else in order to exist. Philosophers call these things contingent. A contingent thing exists, but it did not have to exist and it does not contain the full reason for its own existence within itself.\n\nFor example, a tree depends on the seed it came from, the soil, water, sunlight, and a whole series of conditions outside itself. You depend on your parents and on many conditions that had to be in place before you ever existed. We can keep tracing these explanations backward, but each explanation is still pointing to another dependent thing.\n\nIf every explanation only points to something else that is also contingent, we have still not explained why there is any contingent reality at all. We have explained how one dependent thing relates to another, but not why the whole collection exists in the first place.\n\nOne response is to say that the universe is simply a brute fact, meaning that it exists without any further explanation. You can say that, but it does not really answer the question. It is simply deciding to stop asking for an explanation at the universe.\n\nSometimes the objection is put more strongly: “The universe can be its own creator.” That can mean two different things. If it means the universe literally caused itself to begin, then the universe would have to exist before it existed in order to do the causing. That does not work. If it means the universe exists necessarily and does not need an explanation outside itself, that is a different claim. The contingency argument asks whether the universe actually has that kind of necessary existence or whether it is dependent like the things within it.\n\nThe contingency argument says that dependent reality ultimately needs to rest on something that is not dependent in the same way. That is what necessary means here. A necessary being does not receive its existence from something else and does not exist only because some outside condition happened to produce it.\n\nThe argument points beyond contingent reality to a necessary foundation for everything else that exists. This does not yet give us every Christian belief about God, and it is not meant to. It is one part of the larger case, and the next lessons will continue asking what this ultimate foundation would have to be like.",
+      "body": "One way to look at the contingency argument is to start with the things around us. Trees, people, planets, and just about everything we experience depend on something else in order to exist. Philosophers call these things contingent. A contingent thing exists, but it did not have to exist and it does not contain the full reason for its own existence within itself.\n\nFor example, a tree depends on the seed it came from, the soil, water, sunlight, and a whole series of conditions outside itself. You depend on your parents and on many conditions that had to be in place before you ever existed. We can keep tracing these explanations backward, but each explanation is still pointing to another dependent thing.\n\nIf every explanation only points to something else that is also contingent, we have still not explained why there is any contingent reality at all. We have explained how one dependent thing relates to another, but not why the whole collection exists in the first place.\n\nThe argument does depend on a principle about explanation, often called a modest Principle of Sufficient Reason: if something is contingent, there should be an explanation for why it exists rather than not. A skeptic can reject that principle, so it should not be treated as though nobody disputes it. But there is also a reason to accept it. In ordinary reasoning and science, when something could have been otherwise and depends on conditions beyond itself, we look for an explanation. We do not normally stop with “that is just a brute fact” unless we have some reason to think explanation has reached its end. That does not make the principle absolutely certain, but it means the skeptic also has to defend the decision to stop at the universe.\n\nOne response is to say that the universe is simply a brute fact, meaning that it exists without any further explanation. That is possible, but it is not itself an explanation. It is a decision that no further explanation is needed. The real disagreement is whether contingent physical reality should simply be left unexplained or whether it is more reasonable to look for a necessary foundation.\n\nSometimes the objection is put more strongly: “The universe can be its own creator.” That can mean two different things. If it means the universe literally caused itself to begin, then the universe would have to exist before it existed in order to do the causing. That does not work. If it means the universe exists necessarily and does not need an explanation outside itself, that is a different claim. But calling the universe necessary means more than saying it exists or has always existed. It means the universe could not have failed to exist and does not depend on anything beyond itself. The physical universe we encounter is changing and made up of particular states and arrangements that do not appear logically necessary. That does not prove its contingency beyond all possible doubt, but it gives us no obvious reason to treat this concrete physical universe as the kind of reality that simply must exist. “The universe is necessary” is therefore a claim that also needs support.\n\nThe contingency argument says that dependent reality ultimately needs to rest on something that is not dependent in the same way. That is what necessary means here. A necessary being does not receive its existence from something else and does not exist only because some outside condition happened to produce it.\n\nThe argument points beyond contingent reality to a necessary foundation for everything else that exists. This does not yet give us every Christian belief about God, and it is not meant to. It is one part of the larger case, and the next lessons will continue asking what this ultimate foundation would have to be like.",
       "facts": [
         "Leibniz famously framed the question as why there is something rather than nothing.",
+        "A modest Principle of Sufficient Reason says that contingent reality should have an explanation for why it exists rather than not.",
         "Contingency is about dependence, not age; something could be eternal and still contingent.",
         "The argument is not the same as the Kalam. Kalam focuses on a beginning; contingency focuses on dependence.",
         "A necessary being is invoked to stop the explanatory regress at something that exists through its own nature rather than by dependence."
@@ -325,17 +326,25 @@ const questions = [
     ],
     "pressure": [
       [
-        "“Who created God?”",
-        "The argument is not that everything needs a creator. It is that contingent things need an explanation outside themselves. If God is the necessary foundation of reality, then asking who created God treats God as though He were another contingent thing, which is not what the argument is claiming."
+        "“Why think contingent things need an explanation at all?”",
+        "That is the key premise, and it can be challenged. The reason to accept it is that looking for explanations of contingent facts is basic to ordinary reasoning and science. If someone wants to stop that search at the universe, they can, but they still need a reason why the universe should be the exception rather than simply calling it a brute fact."
       ],
       [
         "“Maybe the universe is just a brute fact.”",
-        "You can call the universe a brute fact, but that still does not explain why it exists. It simply stops asking the question at the universe. A necessary foundation gives a better explanation than saying the largest contingent reality just happens to exist for no reason."
+        "That is a real option, but it is not an explanation. It is a decision to stop looking for one. The question is whether leaving contingent physical reality unexplained is a better stopping point than a necessary foundation that does not depend on anything else."
+      ],
+      [
+        "“Why cannot the universe itself be necessary?”",
+        "It can be proposed, but necessary means more than existing forever. It means the universe could not have failed to exist and does not depend on anything beyond itself. The changing, particular physical universe we actually observe gives us no obvious reason to think it has that kind of necessary existence. So the claim that the universe is necessary needs an argument too."
+      ],
+      [
+        "“Who created God?”",
+        "The argument is not that everything needs a creator. It is that contingent things need an explanation outside themselves. If God is the necessary foundation of reality, then asking who created God treats God as though He were another contingent thing, which is not what the argument is claiming."
       ]
     ],
     "limits": "The contingency argument establishes a necessary foundation of dependent reality. Do not make it prove the resurrection, Trinity, or Scripture by itself.",
     "practice": "Someone says, “Why not just say the universe is a brute fact and stop asking for an explanation?” How would you explain what the contingency argument is still asking?",
-    "model": "I would say that calling the universe a brute fact is possible, but it does not explain why dependent reality exists. It simply decides to stop asking for an explanation at the universe. The contingency argument asks whether the universe really exists necessarily or whether dependent reality ultimately rests on something that does.",
+    "model": "I would say that calling the universe a brute fact is possible, but it is not an explanation. The contingency argument depends on the idea that contingent reality should have an explanation for why it exists rather than not. A skeptic can reject that principle, but then the disagreement is out in the open: why should we stop asking for an explanation only when we reach the universe? And if the universe is said to be necessary instead, that claim also needs support, because necessary means it could not have failed to exist, not merely that it has existed for a very long time.",
     "sources": [
       [
         "Stanford Encyclopedia of Philosophy | Cosmological Argument",
@@ -345,7 +354,7 @@ const questions = [
     "evidence": {
       "claim": "These sources present the contingency argument as a move from dependent reality to a necessary foundation.",
       "establishes": "Reasonable Faith develops the Leibnizian form of the argument, while Ligonier explains necessary being and aseity.",
-      "caution": "The argument still has to defend why contingent reality needs an explanation and why the universe should be treated as contingent.",
+      "caution": "The argument still has to defend its explanatory premise. A skeptic can reject a Principle of Sufficient Reason or claim that the universe itself is necessary. Those are real alternatives, but they are claims that also need support rather than automatic stopping points.",
       "resources": [
         {
           "type": "Apologetics",
@@ -381,6 +390,10 @@ const questions = [
       [
         "Necessary",
         "Not dependent on anything else for existence and not able simply to fail to exist."
+      ],
+      [
+        "Principle of Sufficient Reason",
+        "The principle that contingent reality should have an explanation for why it exists rather than not."
       ],
       [
         "Primary cause",
@@ -420,8 +433,9 @@ const questions = [
       ]
     },
     "conversationTips": [
-      "Before answering “the universe does not need a Creator,” find out what the person means. Self-causation, existing forever, and existing necessarily are three different claims.",
-      "The “Who created God?” objection only works if the argument says everything needs a cause. Neither the contingency argument nor the Kalam says that.",
+      "Before answering “the universe does not need a Creator,” find out what the person means. Self-causation, existing forever, existing necessarily, and being a brute fact are different claims.",
+      "If someone rejects the Principle of Sufficient Reason, do not pretend there is no disagreement. Ask why contingent facts normally call for explanation but the universe should be exempt.",
+      "If someone says the universe is necessary, ask what makes it necessary. Existing forever is not the same thing as being unable not to exist.",
       "Let this argument do its own job. Contingency points toward a necessary foundation; it is not supposed to prove every Christian doctrine in one step."
     ]
   },
@@ -3586,9 +3600,9 @@ const jordanResolutions = {
   "3": {
     "title": "Dependent reality points beyond itself",
     "lines": [
-      "You return to Jordan’s suggestion that the universe might simply be the stopping point. The contingency argument asks why dependent reality exists at all. Putting dependent things together does not suddenly make the whole collection independent.",
-      "The argument therefore points toward a necessary foundation, something that does not receive its existence from something more basic.",
-      "Jordan thinks about it. “I see the distinction. I am not sure yet why the universe cannot be that necessary thing, but I see why just saying ‘the universe’ does not answer the question by itself.”"
+      "You return to Jordan’s suggestion that the universe might simply be the stopping point. You tell him the argument does depend on one important idea: contingent reality should have an explanation for why it exists rather than not.",
+      "Jordan says, “But what if I just deny that when we get to the universe?” You tell him he can, but then he is choosing a brute stopping point rather than explaining the universe. And if he calls the universe necessary instead, he still has to show why this physical reality could not have failed to exist.",
+      "Jordan thinks about it. “So I can reject the argument, but I cannot just say ‘brute fact’ or ‘necessary universe’ and act like that settles it. Those are claims I would have to defend too.”"
     ]
   },
   "4": {
