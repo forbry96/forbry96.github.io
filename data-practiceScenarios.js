@@ -94,7 +94,7 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
       "models": [
         "I would first correct the premise. The argument is not that everything needs a cause. Kalam says things that begin to exist need causes, and contingency arguments ask why dependent things exist at all. God is not being added as an exception to “everything needs a cause.”",
         "A necessary reality is not supposed to be a loophole. It is the kind of reality the argument says would be required if the chain of dependent explanations is going to terminate in something that is not itself dependent in the same way.",
-        "That is a fair question. Then we have to compare the universe we actually have with what a necessary ultimate reality would have to be like, rather than simply calling the universe necessary because we want the regress to stop."
+        "That is a fair question. Then we have to compare the universe we actually have with what a necessary ultimate reality would have to be like, rather than simply calling the universe necessary because we want the chain of explanations to stop."
       ],
       "studies": "Studies 3–4, especially contingency and Kalam",
       "studyId": 4
@@ -195,7 +195,7 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
       "models": [
         "I would agree that atheists can behave morally. The moral argument is not that you need to believe in God before you can know or do good. It asks a different question, what makes objective moral duties and human value true at all.",
         "That is a serious alternative. Then the discussion becomes which worldview gives the better account of objective obligation, value, and persons, rather than pretending secular moral realism is not an option.",
-        "The Christian claim is not that God invents goodness by arbitrary commands. God’s commands express his good character, so moral reality is grounded personally without making goodness independent of God or merely whatever a powerful being happens to prefer."
+        "The Christian claim is not that God invents goodness by arbitrary commands. God’s commands express his good character, so goodness is not outside God and is not whatever a powerful being happens to prefer."
       ],
       "studies": "Study 8, moral argument",
       "studyId": 8
@@ -242,7 +242,7 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
             "text": "I would not use God to explain anything strange. First ask whether God exists; then a particular miracle claim still has to be supported by evidence.",
             "next": "gaps",
             "grade": "strong",
-            "note": "Good. This keeps miracles evidentially constrained rather than turning them into a gap filler."
+            "note": "Good. This keeps miracles tied to evidence rather than turning them into a gap filler."
           },
           {
             "text": "Science studies the natural world, so it cannot simply declare that God never acts. That leaves room for miracles even if science cannot test God directly.",
@@ -308,7 +308,7 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
     "title": "Science keeps explaining more",
     "diagnose": "I am not saying science has disproved God. I just notice that the more science explains, the less work there seems to be for God to do.",
     "entryKey": "clarify",
-    "entry": "Ask first. This could be a claim about what counts as knowledge, a naturalism claim, or a “God of the gaps” concern. Do not pick an argument until you know which one he means.",
+    "entry": "Ask first. This could be a claim about what counts as knowledge, a claim that nature is all there is, or a “God of the gaps” concern. Do not pick an argument until you know which one he means.",
     "diagnoseWhy": "The sentence can point in more than one direction. The right first move is clarification, not guessing.",
     "nodes": {
       "start": {
@@ -520,7 +520,7 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "Then he says, “But you also believe God has always existed, so why does eternity work for God but not the universe?”"
       ],
       "models": [
-        "I would not make everything depend on proving a first moment. Even if physical reality had always existed, we can still ask whether it exists necessarily or contingently, and why that kind of reality exists at all.",
+        "I would not make everything depend on proving a first moment. Even if physical reality had always existed, we can still ask whether it exists necessarily or is still dependent, and why that kind of reality exists at all.",
         "Existing forever is about duration. It does not automatically make something necessary or self-explanatory. The contingency question is whether the thing could have failed to exist or could have been otherwise, not simply how long it has been there.",
         "I would apply the same standard to God. Eternity alone does not do the work. The classical claim is that the ultimate explanation must be necessary and nondependent, not merely old without beginning."
       ],
@@ -535,7 +535,7 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
     "diagnose": "Christians say Christianity is true. Muslims say Islam is true. Other religions say the same thing. From the outside it just looks like everybody is certain about their own tradition.",
     "entryKey": "clarify",
     "entry": "Ask first. Religious disagreement by itself does not tell you whether the person means truth is unknowable, all religions are basically the same, or there is no fair way to compare them.",
-    "diagnoseWhy": "The surface claim is religious diversity. The real objection could be epistemic, pluralist, historical, or emotional. Clarify before launching into Christianity.",
+    "diagnoseWhy": "The surface claim is religious diversity. The real objection could be about what we can know, whether all religions can be true, about history, or something more personal. Clarify before launching into Christianity.",
     "nodes": {
       "start": {
         "speaker": "Friend",
@@ -554,7 +554,7 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
             "note": "Important, but this only shows they are not all true in the same sense. It does not yet answer whether one can be known."
           },
           {
-            "text": "Christianity is different because it makes public historical claims about Jesus that can be investigated rather than asking us to accept a private spiritual experience.",
+            "text": "Christianity is different because it makes historical claims that can be checked about Jesus that can be investigated rather than asking us to accept a private spiritual experience.",
             "next": "proof",
             "grade": "mixed",
             "note": "This may become the case you make, but first find out what the objection actually is."
@@ -622,7 +622,7 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
       ],
       "models": [
         "I would agree that upbringing influences what people first believe. That is true for Christians too. But the cause of a belief and the truth of a belief are different questions. We still have to ask whether the claims are actually supported.",
-        "I would not try to compare every detail of every religion at once. Start with larger questions such as whether God exists and what follows from that, then test Christianity at its public historical claims about Jesus and the resurrection.",
+        "I would not try to compare every detail of every religion at once. Start with larger questions such as whether God exists and what follows from that, then test Christianity at its historical claims that can be checked about Jesus and the resurrection.",
         "Smart disagreement should make us careful, not hopeless. The fact that intelligent people disagree means we need to look at arguments and evidence rather than count confident people. Disagreement by itself does not settle which claim is true."
       ],
       "studies": "Studies 1–2, then the Step 1 and Step 2 sequence",
@@ -736,7 +736,7 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
       },
       "goodend": {
         "end": true,
-        "summary": "The pressure here is to avoid turning one useful fact into the whole resurrection case. Early proclamation answers a late-legend theory, but the resurrection conclusion comes from the cumulative evidence."
+        "summary": "The pressure here is to avoid turning one useful fact into the whole resurrection case. Early proclamation answers a late-legend theory, but the resurrection conclusion comes from the evidence taken together."
       }
     },
     "build": {
@@ -760,8 +760,8 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
     "title": "Why would God let this happen?",
     "diagnose": "My sister lost a baby. I do not want a lecture about free will. I cannot see how a loving God can watch something like that happen.",
     "entryKey": "clarify",
-    "entry": "Ask first, and be human. This may be an evidential objection, a logical claim, grief that does not need an argument yet, or some combination of them.",
-    "diagnoseWhy": "A philosophical answer can be correct and still be the wrong first response. Find out what kind of conversation this is before treating pain like a syllogism.",
+    "entry": "Ask first, and be human. This may be an objection from the amount of suffering, a logical claim, grief that does not need an argument yet, or some combination of them.",
+    "diagnoseWhy": "A philosophical answer can be correct and still be the wrong first response. Find out what kind of conversation this is before turning pain into a logic exercise.",
     "nodes": {
       "start": {
         "speaker": "Friend",
@@ -780,7 +780,7 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
             "note": "Compassionate and true, though it still does not ask what he needs from the conversation."
           },
           {
-            "text": "Christians can say God may have morally sufficient reasons we cannot see, even when a particular loss feels completely senseless from where we stand.",
+            "text": "Christians can say God may have good reasons we cannot see, even when a particular loss feels completely senseless from where we stand.",
             "next": "evidence",
             "grade": "mixed",
             "note": "This may become relevant philosophically, but as a first response it risks treating grief as an abstract puzzle."
@@ -801,13 +801,13 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
             "text": "Evil may actually point toward God because calling something objectively evil assumes a real moral standard that goes beyond personal preference or social agreement.",
             "next": "hidden",
             "grade": "mixed",
-            "note": "The moral argument can be relevant, but using it here as a quick reversal misses the evidential force of the objection."
+            "note": "The moral argument can be relevant, but using it here as a quick reversal misses the weight as evidence of the objection."
           },
           {
             "text": "God can bring good from suffering, so I do not think suffering should count strongly against him even when we cannot see the good yet.",
             "next": "hidden",
             "grade": "mixed",
-            "note": "Possible redemption does not erase the evidential question, and you do not know God’s particular reason here."
+            "note": "Possible redemption does not erase the question of how much suffering counts as evidence, and you do not know God’s particular reason here."
           }
         ]
       },
@@ -825,13 +825,13 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
             "text": "We are finite and God would know far more than we do, so it should not surprise us if some of his reasons are beyond our understanding.",
             "next": "pastoral",
             "grade": "mixed",
-            "note": "There is a theological truth here, but it can be used too broadly and make the evidential objection disappear by fiat."
+            "note": "There is a theological truth here, but it can be used too broadly and make the evidential objection disappear just by saying so."
           },
           {
             "text": "Every worldview leaves some hard questions unanswered, so Christianity should not be rejected simply because it cannot explain every case of suffering.",
             "next": "pastoral",
             "grade": "mixed",
-            "note": "True in a general sense, but it does not yet answer how much evidential weight suffering should carry."
+            "note": "True in a general sense, but it does not yet answer how much weight as evidence suffering should carry."
           }
         ]
       },
@@ -861,7 +861,7 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
       },
       "goodend": {
         "end": true,
-        "summary": "A strong apologetic answer here has two jobs, intellectual honesty and human restraint. Do not invent God’s reason, do not deny the evidential force, and do not act as though solving the logical form removes the grief."
+        "summary": "A strong apologetic answer here has two jobs, intellectual honesty and human restraint. Do not invent God’s reason, do not deny the weight as evidence, and do not act as though solving the logical form removes the grief."
       }
     },
     "build": {
@@ -885,8 +885,8 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
     "title": "You are using the Bible to prove the Bible",
     "diagnose": "You keep quoting the New Testament to prove Jesus rose, then you use Jesus to prove the New Testament is God’s Word. That sounds circular.",
     "entryKey": "step2",
-    "entry": "Step 2, historical method and the authority chain. Explain when the New Testament is being used as ordinary historical evidence and when the argument later reaches inspiration.",
-    "diagnoseWhy": "The objection is not simply “the Bible is unreliable.” It is about the structure of the argument and whether inspiration is being smuggled into an earlier historical step.",
+    "entry": "Step 2. First explain how the New Testament can be used as historical evidence without assuming inspiration. Then keep the later case for Scripture separate.",
+    "diagnoseWhy": "The objection is not simply “the Bible is unreliable.” It is about the structure of the argument and whether inspiration is being assumed before it has been argued for.",
     "nodes": {
       "start": {
         "speaker": "Friend",
@@ -1000,7 +1000,7 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "They were not neutral, and I would not pretend they were. But interested testimony is not automatically worthless. Historians still ask what a source says, how early it is, what earlier material it contains, where it can be checked, and how it compares with other evidence.",
         "It does not prove the whole New Testament in one jump. The course moves from Jesus’ authority to his view of Scripture and his commissioning of the apostles, then asks how writings carrying that apostolic authority were recognized. Each step has to be argued rather than assumed."
       ],
-      "studies": "Studies 11 and 17–20, especially historical method and the authority chain",
+      "studies": "Studies 11 and 17–20, especially historical evidence and the later case for Scripture",
       "studyId": 20
     }
   },
@@ -1346,7 +1346,7 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
             "note": "Good. You recognized that this objection needs diagnosis before argument."
           },
           {
-            "text": "The logical problem of evil has already been answered if God could have morally sufficient reasons for allowing suffering, so I would start with that distinction.",
+            "text": "The logical problem of evil has already been answered if God could have good reasons for allowing suffering, so I would start with that distinction.",
             "next": "goodend",
             "grade": "mixed",
             "note": "That may address one form of the argument, but you do not yet know which form he is raising."
@@ -1373,7 +1373,7 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
       "models": [
         "I would not try to answer all four at once. They are different questions, and if I give you a speech covering all of them we probably will not know where we actually disagree. Pick the one you care about most and let me try to answer that one first.",
         "The argument is not that everything needs a cause. Kalam says what begins to exist needs a cause, while the contingency argument asks why dependent reality exists at all. So God is not being made an exception to the rule. The claim is that the explanation eventually has to terminate in something necessary rather than another dependent thing.",
-        "First I would separate two questions. Textual criticism asks whether we can recover what the documents originally said, and the manuscript evidence gives us a way to compare copies rather than trusting a chain of translations. After that comes the historical question of whether the recovered claims are true."
+        "First I would separate two questions. Comparing the manuscripts asks whether we can recover what the documents originally said, and the manuscript evidence gives us a way to compare copies rather than trusting a chain of translations. After that comes the historical question of whether the recovered claims are true."
       ],
       "studies": "Studies 3–4, 11, 21–23",
       "studyId": 21
@@ -1498,7 +1498,7 @@ const practiceDiagnosisItems = [
     "id": "d-bridge-science",
     "entryKey": "bridge",
     "q": "Science works because it looks for natural causes. Miracles do not belong in a serious explanation.",
-    "entry": "Start with miracles. Ask whether methodological science is being turned into the larger claim that supernatural action can never occur.",
+    "entry": "Start with miracles. Ask whether the way science normally looks for natural causes is being turned into the larger claim that supernatural action can never occur.",
     "why": "The key issue is whether divine action is ruled out in principle."
   },
   {
@@ -1541,7 +1541,7 @@ const practiceDiagnosisItems = [
     "entryKey": "step2",
     "q": "The Bible was copied for centuries. How could we know what the original writers actually said?",
     "entry": "Start with Jesus and Christianity. First separate recovering the text from deciding whether the recovered claims are true.",
-    "why": "This is a manuscript and textual criticism question before it becomes a broader inspiration question."
+    "why": "This is a manuscript question about recovering the text before it becomes a broader inspiration question."
   },
   {
     "id": "d-step2-claims",
