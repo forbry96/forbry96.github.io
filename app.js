@@ -588,14 +588,22 @@ function closeModal(){
   }
 }
 
-const practiceDifficultyMeta = {
-  guided: ['Guided','Learn the map with a little more help.'],
-  applied: ['Applied','The cues are thinner and the wrong answers are more believable.'],
-  pressure: ['Pressure','Longer conversations, fair pushback, and places where you need to concede a point.'],
-  mixed: ['Mixed','Several issues show up at once. Your first job is deciding what not to answer yet.']
+const practiceScenarioGroups = [
+  {label:'Standard', levels:['guided','applied']},
+  {label:'Complex', levels:['pressure']},
+  {label:'Multiple issues', levels:['mixed']}
+];
+const practiceScenarioLevelNames = {
+  guided:'Standard',
+  applied:'Standard',
+  pressure:'Complex',
+  mixed:'Multiple issues'
 };
-let currentPracticeDifficulty = 'guided';
-let diagnosisIndex = 0;
+
+let diagnosisRound = [];
+let diagnosisPosition = 0;
+let diagnosisScore = 0;
+let diagnosisHelp = false;
 let currentScenario = null;
 let currentNodeId = 'start';
 let scenarioTrail = [];
@@ -603,10 +611,6 @@ let buildScenarioIndex = 0;
 let buildStep = 0;
 let buildAnswers = [];
 
-function practicePool(){
-  const pool = practiceScenarios.filter(s=>s.level===currentPracticeDifficulty);
-  return pool.length ? pool : practiceScenarios;
-}
 function shufflePracticeChoices(items){
   const a=[...items];
   for(let i=a.length-1;i>0;i--){
@@ -615,61 +619,83 @@ function shufflePracticeChoices(items){
   }
   return a;
 }
+
 const diagnosisLabels = {
-  clarify: ['Ask first','There is not enough information yet. Clarify the claim before choosing an argument.'],
-  foundation: ['Foundation','Truth, reasoning, knowledge, or the standard of evidence'],
-  step1: ['Step 1','Whether God exists, or whether nature is all there is'],
-  bridge: ['Miracle bridge','Whether divine action is possible in principle'],
-  step2: ['Step 2','Jesus, resurrection, Scripture, or Christianity specifically']
+  clarify: ['Ask first','The claim could mean more than one thing. Clarify it before choosing an argument.'],
+  foundation: ['Reasoning & truth','The issue is logic, truth, knowledge, or how evidence works.'],
+  step1: ['God','The question belongs in the case for whether God exists.'],
+  bridge: ['Miracles','The issue is whether divine action can be considered at all.'],
+  step2: ['Jesus & Christianity','The question is specifically about Jesus, the resurrection, Scripture, or Christianity.']
 };
 
-function setPracticeDifficulty(level){
-  currentPracticeDifficulty = practiceDifficultyMeta[level] ? level : 'guided';
-  diagnosisIndex=0;
-  currentScenario=null;
-  currentNodeId='start';
-  scenarioTrail=[];
-  buildScenarioIndex=0;
-  buildStep=0;
-  buildAnswers=[];
-  const help=document.querySelector('#practiceDifficultyHelp');
-  if(help) help.textContent=practiceDifficultyMeta[currentPracticeDifficulty][1];
-  renderDiagnosis();
-  renderScenarioPicker();
-  const conversation=document.querySelector('#conversationPractice');
-  if(conversation) conversation.innerHTML='<p class="practice-placeholder">Choose a scenario above and start when you are ready.</p>';
-  renderBuildPrompt();
+function makeDiagnosisRound(){
+  const items = typeof practiceDiagnosisItems !== 'undefined' ? practiceDiagnosisItems : [];
+  const round = [];
+  Object.keys(diagnosisLabels).forEach(key=>{
+    const candidates = items.filter(item=>item.entryKey===key);
+    if(candidates.length) round.push(candidates[Math.floor(Math.random()*candidates.length)]);
+  });
+  diagnosisRound = shufflePracticeChoices(round);
+  diagnosisPosition = 0;
+  diagnosisScore = 0;
 }
 
 function renderDiagnosis(){
   const card = document.querySelector('#diagnoseCard');
-  const pool=practicePool();
-  if(!card || !pool.length) return;
-  const scenario = pool[diagnosisIndex % pool.length];
-  const showHints=currentPracticeDifficulty==='guided';
-  const choices=shufflePracticeChoices(Object.entries(diagnosisLabels));
-  card.innerHTML = `<div class="diagnose-count">${esc(practiceDifficultyMeta[currentPracticeDifficulty][0])} · Scenario ${diagnosisIndex+1} of ${pool.length}</div><blockquote>${esc(scenario.diagnose)}</blockquote><p class="practice-question">Where would you begin?</p><div class="diagnose-options">${choices.map(([key,v])=>`<button type="button" data-diagnose="${key}"><strong>${esc(v[0])}</strong>${showHints?`<span>${esc(v[1])}</span>`:''}</button>`).join('')}</div><div id="diagnoseFeedback" aria-live="polite"></div>`;
+  if(!card) return;
+  if(!diagnosisRound.length) makeDiagnosisRound();
+
+  if(diagnosisPosition >= diagnosisRound.length){
+    card.innerHTML = `<div class="conversation-result"><span class="test-label">ROUND COMPLETE</span><h4>${diagnosisScore}/${diagnosisRound.length} correct</h4><p>Each round gives you one question from each part of the map, so you are practicing the whole course instead of memorizing one kind of prompt.</p><div class="prompt-actions"><button class="button light" type="button" id="newDiagnosisRound">Try another 5</button></div></div>`;
+    card.querySelector('#newDiagnosisRound').onclick=()=>{ makeDiagnosisRound(); renderDiagnosis(); };
+    return;
+  }
+
+  const item = diagnosisRound[diagnosisPosition];
+  const choices = Object.entries(diagnosisLabels);
+  card.innerHTML = `<div class="diagnose-count">Question ${diagnosisPosition+1} of ${diagnosisRound.length}</div><blockquote>${esc(item.q)}</blockquote><p class="practice-question">Where would you begin?</p><div class="diagnose-options">${choices.map(([key,v])=>`<button type="button" data-diagnose="${key}"><strong>${esc(v[0])}</strong><span class="diagnose-option-help"${diagnosisHelp?'':' hidden'}>${esc(v[1])}</span></button>`).join('')}</div><div id="diagnoseFeedback" aria-live="polite"></div>`;
+
   card.querySelectorAll('[data-diagnose]').forEach(button=>button.addEventListener('click',()=>{
     const selected=button.dataset.diagnose;
-    const correct=selected===scenario.entryKey;
-    card.querySelectorAll('[data-diagnose]').forEach(b=>{ b.disabled=true; if(b.dataset.diagnose===scenario.entryKey) b.classList.add('choice-correct'); });
+    const correct=selected===item.entryKey;
+    if(correct) diagnosisScore++;
+    card.querySelectorAll('[data-diagnose]').forEach(b=>{
+      b.disabled=true;
+      if(b.dataset.diagnose===item.entryKey) b.classList.add('choice-correct');
+    });
     if(!correct) button.classList.add('choice-missed');
-    card.querySelector('#diagnoseFeedback').innerHTML=`<div class="practice-feedback ${correct?'strong':'mixed'}"><strong>${correct?'Yes. Start there.':'Not quite. A better first move is:'}</strong><p>${esc(scenario.entry)}</p><p class="diagnose-why">${esc(scenario.diagnoseWhy||'')}</p><button class="button light" type="button" id="nextDiagnosis">Next scenario</button></div>`;
-    card.querySelector('#nextDiagnosis').onclick=()=>{ diagnosisIndex=(diagnosisIndex+1)%pool.length; renderDiagnosis(); };
+    card.querySelector('#diagnoseFeedback').innerHTML=`<div class="practice-feedback ${correct?'strong':'mixed'}"><strong>${correct?'Yes. Start there.':'Not quite. A better place to begin is:'}</strong><p>${esc(item.entry)}</p><p class="diagnose-why">${esc(item.why||'')}</p><button class="button light" type="button" id="nextDiagnosis">${diagnosisPosition===diagnosisRound.length-1?'Finish round':'Next question'}</button></div>`;
+    card.querySelector('#nextDiagnosis').onclick=()=>{ diagnosisPosition++; renderDiagnosis(); };
   }));
 }
 
+function scenarioOptionsHtml(){
+  return practiceScenarioGroups.map(group=>{
+    const items=practiceScenarios.filter(s=>group.levels.includes(s.level));
+    if(!items.length) return '';
+    return `<optgroup label="${esc(group.label)}">${items.map(s=>`<option value="${esc(s.id)}">${esc(s.title)}</option>`).join('')}</optgroup>`;
+  }).join('');
+}
+
 function renderScenarioPicker(){
-  const select=document.querySelector('#scenarioSelect');
-  if(!select) return;
-  const pool=practicePool();
-  select.innerHTML=pool.map(s=>`<option value="${esc(s.id)}">${esc(s.title)}</option>`).join('');
+  const html=scenarioOptionsHtml();
+  const conversationSelect=document.querySelector('#scenarioSelect');
+  if(conversationSelect) conversationSelect.innerHTML=html;
+  const buildSelect=document.querySelector('#buildScenarioSelect');
+  if(buildSelect){
+    buildSelect.innerHTML=html;
+    const current=practiceScenarios[buildScenarioIndex];
+    if(current) buildSelect.value=current.id;
+  }
 }
 
 function conversationGradeLabel(grade){
   if(grade==='strong') return 'Strong move';
   if(grade==='weak') return 'Needs work';
   return 'Reasonable, but tighten it';
+}
+function scenarioLevelName(scenario){
+  return practiceScenarioLevelNames[scenario?.level] || 'Practice';
 }
 function renderConversationNode(){
   const box=document.querySelector('#conversationPractice');
@@ -684,11 +710,11 @@ function renderConversationNode(){
     const trailHtml=scenarioTrail.map((item,i)=>`<article class="route-debrief-item ${esc(item.grade)}"><div class="route-debrief-head"><span>Turn ${i+1}</span><strong>${conversationGradeLabel(item.grade)}</strong></div><p class="route-debrief-response">${esc(item.response)}</p><p class="route-debrief-note">${esc(item.note||'')}</p></article>`).join('');
     box.innerHTML=`<div class="conversation-result"><span class="test-label">DEBRIEF</span><h4>${esc(quality)}</h4><p>${esc(node.summary)}</p><div class="route-summary"><span>Strong: <b>${strong}</b></span><span>Tighten: <b>${mixed}</b></span><span>Needs work: <b>${weak}</b></span></div><div class="route-debrief-list">${trailHtml}</div><p><strong>Best entry point:</strong> ${esc(currentScenario.entry)}</p><div class="prompt-actions"><button class="button light" type="button" id="restartScenario">Try this one again</button><button class="button" type="button" id="anotherScenario">Choose another scenario</button></div></div>`;
     box.querySelector('#restartScenario').onclick=()=>startScenario(currentScenario.id);
-    box.querySelector('#anotherScenario').onclick=()=>{ box.innerHTML='<p class="practice-placeholder">Choose a scenario above and start when you are ready.</p>'; document.querySelector('#scenarioSelect').focus(); };
+    box.querySelector('#anotherScenario').onclick=()=>{ box.innerHTML='<p class="practice-placeholder">Choose a scenario above and start when you are ready.</p>'; document.querySelector('#scenarioSelect')?.focus(); };
     return;
   }
   const options=shufflePracticeChoices(node.options||[]);
-  box.innerHTML=`<div class="conversation-progress">${esc(practiceDifficultyMeta[currentPracticeDifficulty][0])} · Turn ${scenarioTrail.length+1}</div><div class="conversation-turn"><span>${esc(node.speaker || 'Other person')}</span><p>${esc(node.text)}</p></div><div class="response-choices"><p class="practice-question">What would you say next?</p>${options.map((opt,i)=>`<button type="button" data-response-index="${i}">${esc(opt.text)}</button>`).join('')}</div><p class="practice-microcopy">You will see how each answer was graded in the debrief, not now.</p>`;
+  box.innerHTML=`<div class="conversation-progress">${esc(scenarioLevelName(currentScenario))} · Turn ${scenarioTrail.length+1}</div><div class="conversation-turn"><span>${esc(node.speaker || 'Other person')}</span><p>${esc(node.text)}</p></div><div class="response-choices"><p class="practice-question">What would you say next?</p>${options.map((opt,i)=>`<button type="button" data-response-index="${i}">${esc(opt.text)}</button>`).join('')}</div><p class="practice-microcopy">The choices are intentionally close. You will see the debrief at the end, not after each click.</p>`;
   box.querySelectorAll('[data-response-index]').forEach(button=>button.addEventListener('click',()=>{
     const opt=options[Number(button.dataset.responseIndex)];
     scenarioTrail.push({prompt:node.text,response:opt.text,grade:opt.grade||'mixed',note:opt.note||''});
@@ -697,15 +723,23 @@ function renderConversationNode(){
   }));
 }
 function startScenario(id){
-  currentScenario=practicePool().find(s=>s.id===id) || practicePool()[0];
+  currentScenario=practiceScenarios.find(s=>s.id===id) || practiceScenarios[0];
   currentNodeId='start';
   scenarioTrail=[];
   renderConversationNode();
 }
 
 function currentBuildScenario(){
-  const pool=practicePool();
-  return pool[buildScenarioIndex % pool.length];
+  return practiceScenarios[buildScenarioIndex % practiceScenarios.length];
+}
+function setBuildScenario(id){
+  const index=practiceScenarios.findIndex(s=>s.id===id);
+  if(index>=0) buildScenarioIndex=index;
+  buildStep=0;
+  buildAnswers=[];
+  const select=document.querySelector('#buildScenarioSelect');
+  if(select) select.value=currentBuildScenario().id;
+  renderBuildPrompt();
 }
 function buildQuestionForStep(build, step){
   return step===0 ? build.prompt : build.followUps[step-1];
@@ -718,7 +752,7 @@ function renderBuildPrompt(){
   const total=1+(build.followUps||[]).length;
   const prompt=buildQuestionForStep(build,buildStep);
   const prior=buildAnswers.map((answer,i)=>`<div class="build-prior-turn"><span>${i===0?'Opening':'Follow-up '+i}</span><p class="build-prior-question">${esc(buildQuestionForStep(build,i))}</p><p class="build-prior-answer">${esc(answer)}</p></div>`).join('');
-  card.innerHTML=`<div class="prompt-meta">${esc(practiceDifficultyMeta[currentPracticeDifficulty][0])} · ${esc(scenario.title)} · Response ${buildStep+1} of ${total}</div>${prior?`<div class="build-history">${prior}</div>`:''}<div class="prompt-objection">${esc(prompt)}</div><textarea id="promptAnswer" placeholder="Write what you would actually say..."></textarea><div class="prompt-actions"><button class="button" id="advanceBuild">${buildStep<total-1?'Continue conversation':'Finish and self-check'}</button><button class="button light" id="nextPrompt">Different scenario</button></div><div id="promptModel"></div>`;
+  card.innerHTML=`<div class="prompt-meta">${esc(scenarioLevelName(scenario))} · ${esc(scenario.title)} · Response ${buildStep+1} of ${total}</div>${prior?`<div class="build-history">${prior}</div>`:''}<div class="prompt-objection">${esc(prompt)}</div><textarea id="promptAnswer" placeholder="Write what you would actually say..."></textarea><div class="prompt-actions"><button class="button" id="advanceBuild">${buildStep<total-1?'Continue conversation':'Finish and self-check'}</button></div><div id="promptModel"></div>`;
   card.querySelector('#advanceBuild').onclick=()=>{
     const answer=card.querySelector('#promptAnswer').value.trim();
     if(!answer){
@@ -730,7 +764,6 @@ function renderBuildPrompt(){
     if(buildStep<total-1){ buildStep++; renderBuildPrompt(); return; }
     renderBuildSelfCheck();
   };
-  card.querySelector('#nextPrompt').onclick=()=>{ buildScenarioIndex=(buildScenarioIndex+1)%practicePool().length; buildStep=0; buildAnswers=[]; renderBuildPrompt(); };
 }
 function renderBuildSelfCheck(){
   const card=document.querySelector('#promptCard');
@@ -835,9 +868,20 @@ document.querySelector('#category').addEventListener('change', renderQuestions);
 
 // Practice lab
 document.querySelectorAll('[data-practice-mode]').forEach(button=>button.addEventListener('click',()=>setPracticeMode(button.dataset.practiceMode)));
-document.querySelector('#practiceDifficulty').addEventListener('change',e=>setPracticeDifficulty(e.target.value));
-document.querySelector('#randomPrompt').onclick = () => { const pool=practicePool(); buildScenarioIndex=Math.floor(Math.random()*pool.length); buildStep=0; buildAnswers=[]; renderBuildPrompt(); };
-document.querySelector('#startScenario').onclick = () => startScenario(document.querySelector('#scenarioSelect').value);
+document.querySelector('#diagnoseHelpToggle')?.addEventListener('change',e=>{
+  diagnosisHelp=e.target.checked;
+  document.querySelectorAll('.diagnose-option-help').forEach(span=>{ span.hidden=!diagnosisHelp; });
+});
+document.querySelector('#randomPrompt')?.addEventListener('click',()=>{
+  buildScenarioIndex=Math.floor(Math.random()*practiceScenarios.length);
+  buildStep=0;
+  buildAnswers=[];
+  const select=document.querySelector('#buildScenarioSelect');
+  if(select) select.value=currentBuildScenario().id;
+  renderBuildPrompt();
+});
+document.querySelector('#startScenario')?.addEventListener('click',()=>startScenario(document.querySelector('#scenarioSelect').value));
+document.querySelector('#startBuildScenario')?.addEventListener('click',()=>setBuildScenario(document.querySelector('#buildScenarioSelect').value));
 
 // Tests and progress
 document.querySelector('#startPreTest').onclick = () => renderTest('pre');
