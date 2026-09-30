@@ -13,19 +13,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "If everything needs a cause, who caused God? It seems like you are making an exception for the answer you want.",
         "options": [
           {
-            "text": "God is eternal, so he does not need a cause.",
+            "text": "God is eternal, so the rule does not apply to him. The universe had a beginning, but God never did.",
             "next": "special",
             "grade": "mixed",
             "note": "True as far as it goes, but it lets the bad premise stand. The first job is to correct what the argument actually says."
           },
           {
-            "text": "I would state the argument more carefully. It is not that everything needs a cause. Things that begin to exist need a cause, and contingent things need an explanation.",
+            "text": "The argument needs to be stated more carefully. Kalam says things that begin need a cause; contingency asks why dependent things exist.",
             "next": "special",
             "grade": "strong",
             "note": "Good. You corrected the premise before defending the conclusion."
           },
           {
-            "text": "The universe began to exist, while God did not, so they are not in the same category.",
+            "text": "The universe began, while God is outside time and never began. That is why I would put God in a different category from the universe.",
             "next": "special",
             "grade": "mixed",
             "note": "This works better for Kalam than for contingency. It may be useful, but it still helps to name the premise clearly."
@@ -37,19 +37,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "That still sounds like special pleading. You are saying everything else needs an explanation, then God gets a pass.",
         "options": [
           {
-            "text": "Not quite. A necessary reality is not an exception added after the fact. It is the kind of reality the argument says you eventually need if dependent things are going to have an ultimate explanation.",
+            "text": "A necessary reality is not an exception to the rule. It is what the argument says is needed to explain things that depend on something else.",
             "next": "universe",
             "grade": "strong",
             "note": "Good. You explained why necessity is part of the conclusion rather than a convenient exemption."
           },
           {
-            "text": "Every explanation has to stop somewhere, so I think it makes sense to stop with God.",
+            "text": "Every explanation has to stop somewhere eventually, and stopping with God makes more sense than saying the universe explains itself without any deeper reason.",
             "next": "universe",
             "grade": "mixed",
             "note": "There is something right here, but “we have to stop somewhere” does not yet show why the stopping point should be necessary rather than arbitrary."
           },
           {
-            "text": "God is different because God is the Creator, not part of creation.",
+            "text": "God is the Creator rather than part of creation, so it makes sense that the same rules that apply to created things would not apply to him.",
             "next": "universe",
             "grade": "mixed",
             "note": "That is Christianly true, but with someone who has not granted the conclusion yet, it mostly restates the claim."
@@ -61,19 +61,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "Why can’t the universe itself be the necessary thing? Why add God?",
         "options": [
           {
-            "text": "That is the right question. I would compare the universe we actually have, changing, made of parts, and describable in contingent physical conditions, with what a necessary ultimate explanation would have to be like.",
+            "text": "That is the real question. I would ask whether the changing, dependent universe we observe has the kind of existence a necessary stopping point would need.",
             "next": "goodend",
             "grade": "strong",
             "note": "Good. You did not merely repeat “God is necessary.” You turned to the explanatory comparison the argument actually requires."
           },
           {
-            "text": "Because the Big Bang shows the universe had a beginning.",
+            "text": "The Big Bang gives us evidence that the universe had a beginning, so I do not think the universe can be the necessary reality we need.",
             "next": "goodend",
             "grade": "mixed",
             "note": "A beginning matters for Kalam, but this question is about necessity. Do not switch arguments unless you mean to."
           },
           {
-            "text": "Because nothing physical can be necessary.",
+            "text": "Nothing physical can be necessary because matter changes and is made of parts, so the necessary foundation has to be outside the physical universe.",
             "next": "goodend",
             "grade": "mixed",
             "note": "That may be part of a larger argument, but stated this quickly it sounds asserted rather than shown."
@@ -114,19 +114,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "I know atheists who are kinder than Christians I know. So I do not see why morality needs God.",
         "options": [
           {
-            "text": "I agree that atheists can be kind, brave, and morally serious. The argument is not about who can behave well. It is about what makes moral duties objectively true in the first place.",
+            "text": "I agree that atheists can be kind and morally serious. The argument is about what makes moral duties really true, not who behaves better.",
             "next": "basic",
             "grade": "strong",
             "note": "Good. You conceded what should be conceded and kept the argument on grounding."
           },
           {
-            "text": "Christians fail morally too, but that does not make Christianity false.",
+            "text": "Christians can fail morally too, sometimes badly. But hypocrisy would show that Christians fail their own standard, not that objective morality has no foundation.",
             "next": "basic",
             "grade": "mixed",
             "note": "True, but it answers hypocrisy more than the grounding claim."
           },
           {
-            "text": "Even atheists usually live as if some things are really right and wrong.",
+            "text": "Many atheists live as though some things are truly right or wrong, which suggests people can recognize moral truth even without believing in God.",
             "next": "basic",
             "grade": "mixed",
             "note": "Potentially useful, but it still needs the distinction between knowing moral truths and grounding them."
@@ -138,19 +138,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "Why can’t moral facts just be basic facts about reality? Maybe cruelty is wrong, full stop.",
         "options": [
           {
-            "text": "That is a real proposal. The question is whether brute moral facts explain obligation, human worth, and why those facts have authority over persons better than a personal moral source does.",
+            "text": "That is a serious option. I would ask whether brute moral facts can explain obligation, human worth, and why those facts have authority over us.",
             "next": "euth",
             "grade": "strong",
             "note": "Good. You treated the alternative as an actual position rather than pretending atheism has no answer."
           },
           {
-            "text": "Because facts cannot tell you what you ought to do.",
+            "text": "Facts can describe what is true, but that does not automatically explain why a person is obligated to obey a moral fact rather than ignore it.",
             "next": "euth",
             "grade": "mixed",
             "note": "There is a real is/ought issue here, but this is too compressed. Moral realism has more sophisticated versions than this answer allows."
           },
           {
-            "text": "Because without God morality would just be opinion.",
+            "text": "If morality is just built into reality with no personal source, I worry that it becomes a set of facts without any real reason we must follow them.",
             "next": "euth",
             "grade": "mixed",
             "note": "This states the conclusion, but does not yet argue for it."
@@ -162,19 +162,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "Then is something good just because God commands it? That sounds arbitrary.",
         "options": [
           {
-            "text": "I would not say goodness is arbitrary or external to God. In classical Christian thought, God commands in accord with his good nature. The argument is about moral reality being grounded in who God is, not random commands.",
+            "text": "I would ground goodness in God's character, not in random commands. His commands express who he is rather than creating goodness by sheer choice.",
             "next": "goodend",
             "grade": "strong",
             "note": "Good. You avoided both horns of the simplistic dilemma and stated the Christian position clearly."
           },
           {
-            "text": "God made us, so he gets to decide the rules.",
+            "text": "God made us and has authority over us, so I think his right to give moral commands is part of why those commands really bind us.",
             "next": "goodend",
             "grade": "mixed",
             "note": "Creator authority matters, but by itself this can sound like sheer power makes right."
           },
           {
-            "text": "Whatever God commands is good by definition.",
+            "text": "Whatever God commands is good because he is the highest authority, so there is no standard above him that could judge his commands.",
             "next": "goodend",
             "grade": "mixed",
             "note": "This risks making morality sound arbitrary unless you connect commands to God’s character."
@@ -215,19 +215,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "You can give me all the resurrection evidence you want, but dead people do not come back. That is just not how the world works.",
         "options": [
           {
-            "text": "Normally, I agree. The question is whether you mean resurrection is naturally impossible, or that even God could not raise someone if God exists.",
+            "text": "Normally, dead people stay dead. I would ask whether you mean resurrection is naturally impossible, or impossible even if God exists.",
             "next": "supernatural",
             "grade": "strong",
             "note": "Good. You kept the ordinary biological fact while exposing the deeper assumption."
           },
           {
-            "text": "That is exactly why the resurrection would be a miracle.",
+            "text": "That is exactly why Christians call the resurrection a miracle. It would not be something the ordinary course of nature could produce on its own.",
             "next": "supernatural",
             "grade": "mixed",
             "note": "True, but it does not yet tell you whether the person has ruled miracles out in principle."
           },
           {
-            "text": "The disciples were convinced they saw Jesus alive, so we still have to explain that.",
+            "text": "The disciples believed they saw Jesus alive afterward, so even if resurrection is unusual, we still need some explanation for what they experienced.",
             "next": "supernatural",
             "grade": "mixed",
             "note": "Historical evidence matters later. First find out whether the person will allow miraculous explanations onto the table at all."
@@ -239,19 +239,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "I just do not think supernatural explanations should ever count. Once you allow miracles, you can explain anything.",
         "options": [
           {
-            "text": "I would not use a miracle to explain anything I cannot explain. I would first ask whether there is independent reason to believe God exists. If there is, divine action cannot be ruled out by definition, and individual miracle claims still need evidence.",
+            "text": "I would not use God to explain anything strange. First ask whether God exists; then a particular miracle claim still has to be supported by evidence.",
             "next": "gaps",
             "grade": "strong",
             "note": "Good. This keeps miracles evidentially constrained rather than turning them into a gap filler."
           },
           {
-            "text": "Science cannot test God, so science cannot rule miracles out.",
+            "text": "Science studies the natural world, so it cannot simply declare that God never acts. That leaves room for miracles even if science cannot test God directly.",
             "next": "gaps",
             "grade": "mixed",
             "note": "Useful but incomplete. The stronger move is to connect miracle possibility to the prior case for God and then return to historical evidence."
           },
           {
-            "text": "If God exists, miracles are possible.",
+            "text": "If God exists, miracles are possible, and that means we should not reject a miracle claim before we have even looked at the historical evidence.",
             "next": "gaps",
             "grade": "mixed",
             "note": "Correct, but too compressed by itself. The person’s worry about explaining anything still needs an answer."
@@ -263,19 +263,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "So whenever something is unlikely, you can just say God did it?",
         "options": [
           {
-            "text": "No. “God could do it” only removes an a priori veto. It does not establish that God did it. We would still have to ask what the historical evidence is and which explanation best fits it.",
+            "text": "No. Saying God could act only keeps the door open. It does not show that he did. The historical evidence still has to carry that claim.",
             "next": "goodend",
             "grade": "strong",
             "note": "Good. You clearly separated possibility from proof."
           },
           {
-            "text": "Not whenever it is unlikely, only when the event has religious significance.",
+            "text": "I would only consider a miracle when an event has a clear religious setting and a natural explanation does not seem to fit the evidence very well.",
             "next": "goodend",
             "grade": "mixed",
             "note": "Religious context matters, but significance alone is not enough. Evidence still has to do real work."
           },
           {
-            "text": "If an event is impossible naturally, then God is the best explanation.",
+            "text": "If an event really cannot be explained naturally, then a supernatural explanation becomes more reasonable because the natural options have already failed.",
             "next": "goodend",
             "grade": "mixed",
             "note": "This moves too fast from a natural limit to a divine conclusion."
@@ -316,19 +316,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "I am not saying science has disproved God. I just notice that the more science explains, the less work there seems to be for God to do.",
         "options": [
           {
-            "text": "When you say “less work for God,” do you mean natural explanations make God unnecessary, or that Christians only put God where science has not explained something yet?",
+            "text": "When you say science leaves less room for God, do you mean natural explanations replace God, or that Christians only appeal to God when science gets stuck?",
             "next": "natural",
             "grade": "strong",
             "note": "Good. You separated two different objections before answering either one."
           },
           {
-            "text": "Science explains how things work, while God explains why there is a universe in the first place.",
+            "text": "Science explains processes inside nature, while God answers the deeper question of why there is a universe at all. I do not think those explanations compete.",
             "next": "natural",
             "grade": "mixed",
             "note": "A useful distinction, but you answered before confirming what he meant."
           },
           {
-            "text": "A scientific explanation and a divine explanation do not have to compete.",
+            "text": "A scientific explanation and a divine explanation can both be true, because one can describe the mechanism while the other explains why the system exists.",
             "next": "natural",
             "grade": "mixed",
             "note": "Also useful, but it is still better to clarify the exact claim first."
@@ -340,19 +340,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "Mostly I mean natural explanations make God unnecessary. If the causes are all inside nature, why add another cause?",
         "options": [
           {
-            "text": "Because explaining a process inside the universe is not the same as explaining why that whole system exists, has the powers it has, or is intelligible in the first place. Those are different explanatory questions.",
+            "text": "Explaining a process inside the universe is different from explaining why the whole system exists, has these powers, and can be understood at all.",
             "next": "brute",
             "grade": "strong",
             "note": "Good. You did not attack science, you distinguished levels of explanation."
           },
           {
-            "text": "Because God is the cause behind every natural cause.",
+            "text": "God can still be the cause behind every natural cause, so discovering more natural causes does not push him out of the picture or make him unnecessary.",
             "next": "brute",
             "grade": "mixed",
             "note": "This may be true, but it sounds like an added assertion unless you give a reason for it."
           },
           {
-            "text": "Science cannot answer ultimate questions.",
+            "text": "Science is very good at describing natural processes, but questions about why anything exists or why nature has laws are outside what science can answer.",
             "next": "brute",
             "grade": "mixed",
             "note": "Often true in part, but too broad. Some “ultimate” questions overlap with cosmology and philosophy, so be precise."
@@ -364,19 +364,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "Why cannot the universe and its laws just be the brute fact? Maybe there is no deeper why.",
         "options": [
           {
-            "text": "That is possible as a stopping point, but it is not an explanation. Then we can compare whether a brute physical reality or a necessary rational source better explains contingent existence, order, and intelligibility.",
+            "text": "You can stop with a brute universe, but that is a stopping point rather than an explanation. Then we can compare which stopping point explains more.",
             "next": "gap",
             "grade": "strong",
             "note": "Good. You treated brute fact as a real option and moved to explanatory comparison."
           },
           {
-            "text": "Because everything has to have a reason.",
+            "text": "I do not think the universe can be a brute fact because everything that exists needs some reason explaining why it exists instead of nothing.",
             "next": "gap",
             "grade": "mixed",
             "note": "This needs careful defense. Do not smuggle in a premise stronger than the course has established."
           },
           {
-            "text": "Because the universe looks designed.",
+            "text": "The order and regularity of the universe make a purely brute physical reality hard to accept, because those features look more like design than accident.",
             "next": "gap",
             "grade": "mixed",
             "note": "Design may become relevant, but this question began with contingency and explanation. Stay on one issue."
@@ -388,19 +388,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "I can respect that more. I just do not want God used as a plug for whatever science has not figured out yet.",
         "options": [
           {
-            "text": "Neither do I. The case I am making is not “we do not know this mechanism, therefore God.” It is that even a fully described natural mechanism still leaves larger metaphysical questions about why this reality exists and what best explains it.",
+            "text": "I agree. I am not arguing, 'science does not know, therefore God.' Even a known mechanism can leave a deeper question about why that whole reality exists.",
             "next": "goodend",
             "grade": "strong",
             "note": "Good. You accepted the legitimate concern and showed why the argument is not a gap argument."
           },
           {
-            "text": "There will always be things science cannot explain.",
+            "text": "Science will probably always leave some questions unanswered, so I do not think it is unreasonable to see God as the best explanation for what remains.",
             "next": "goodend",
             "grade": "mixed",
             "note": "Probably, but that would leave you leaning on gaps again, which is exactly the concern he raised."
           },
           {
-            "text": "Scientists also make assumptions they cannot prove.",
+            "text": "Scientists also begin with assumptions they cannot prove scientifically, so Christians should be allowed to bring their own worldview assumptions into the discussion.",
             "next": "goodend",
             "grade": "mixed",
             "note": "That can be discussed, but here it sounds like a counterattack rather than an answer."
@@ -441,19 +441,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "Even if the Big Bang describes our observable universe, maybe reality itself has always existed in some form. Then why do I need a Creator?",
         "options": [
           {
-            "text": "Even if physical reality had no first moment, would that make it necessary and self-existent, or could it still be the kind of reality that needs an explanation?",
+            "text": "Even if reality had no first moment, I would still ask whether it exists necessarily or whether it could remain dependent and in need of an explanation.",
             "next": "always",
             "grade": "strong",
             "note": "Good. You did not make the whole case depend on one cosmological model."
           },
           {
-            "text": "Most cosmologists still think the universe had a beginning.",
+            "text": "Most cosmologists still think the universe had some kind of beginning, so I would want stronger evidence before treating an eternal cosmos as the better option.",
             "next": "always",
             "grade": "mixed",
             "note": "Scientific evidence matters, but this lets the argument stand or fall with a debated model."
           },
           {
-            "text": "An infinite past is impossible.",
+            "text": "An actually infinite past creates serious philosophical problems, so I do not think a beginningless universe is a live option once those problems are understood.",
             "next": "always",
             "grade": "mixed",
             "note": "There are philosophical arguments here, but you do not need to take that harder route first."
@@ -465,19 +465,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "If it was always there, I do not see why it needs anything outside itself.",
         "options": [
           {
-            "text": "“Always there” answers how long it existed, not whether it exists necessarily. A train could have infinitely many cars and still have each car dependent. Duration and dependence are different questions.",
+            "text": "Existing forever answers how long something lasts, not whether it depends on anything. Duration and dependence are two different questions.",
             "next": "godeternal",
             "grade": "strong",
             "note": "Good. You isolated the conceptual distinction the objection misses."
           },
           {
-            "text": "Because eternal matter still cannot create itself.",
+            "text": "Even eternal matter would still need something to explain why it exists, because existing forever does not mean that it created or explains itself.",
             "next": "godeternal",
             "grade": "mixed",
             "note": "Self-creation is not really the issue if the proposal is that it never began."
           },
           {
-            "text": "Because only God can be eternal.",
+            "text": "Only God can truly be eternal, because physical things change and depend on other things while God exists in himself and depends on nothing.",
             "next": "godeternal",
             "grade": "mixed",
             "note": "That assumes the conclusion instead of arguing toward it."
@@ -489,19 +489,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "But then you say God is eternal and suddenly eternity is enough for him.",
         "options": [
           {
-            "text": "Eternity by itself is not enough for God either. The claim is that the ultimate explanation must be necessary rather than dependent. Eternity and necessity are not the same property.",
+            "text": "Eternity alone would not be enough for God either. The claim is that the ultimate explanation is necessary, not merely very old or beginningless.",
             "next": "goodend",
             "grade": "strong",
             "note": "Good. You applied the same standard to God rather than changing the rules."
           },
           {
-            "text": "God is different because he is immaterial.",
+            "text": "God is different because he is immaterial and outside the physical universe, so his being eternal does not create the same problem as eternal matter.",
             "next": "goodend",
             "grade": "mixed",
             "note": "Immateriality may matter later, but it does not by itself answer the charge about eternity."
           },
           {
-            "text": "God is eternal by definition.",
+            "text": "God is eternal by definition, while the universe is not. Once those terms are clear, I do not think there is really a double standard.",
             "next": "goodend",
             "grade": "mixed",
             "note": "Definitions do not establish that anything actually exists."
@@ -542,19 +542,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "Christians say Christianity is true. Muslims say Islam is true. Other religions say the same thing. From the outside it just looks like everybody is certain about their own tradition.",
         "options": [
           {
-            "text": "What do you think follows from the disagreement, that none of them can be known, or that there is no fair way to compare their claims?",
+            "text": "What do you think the disagreement shows: that none can be known, or that we need a fair way to compare the different claims?",
             "next": "proof",
             "grade": "strong",
             "note": "Good. You did not assume what conclusion he was drawing from religious diversity."
           },
           {
-            "text": "They cannot all be true because they make contradictory claims.",
+            "text": "They cannot all be true in the same way because they contradict each other about God and salvation, so disagreement does not mean there is no truth.",
             "next": "proof",
             "grade": "mixed",
             "note": "Important, but this only shows they are not all true in the same sense. It does not yet answer whether one can be known."
           },
           {
-            "text": "Christianity is different because it is based on history.",
+            "text": "Christianity is different because it makes public historical claims about Jesus that can be investigated rather than asking us to accept a private spiritual experience.",
             "next": "proof",
             "grade": "mixed",
             "note": "This may become the case you make, but first find out what the objection actually is."
@@ -566,19 +566,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "I mean how could I ever know which one is right? Everybody has arguments.",
         "options": [
           {
-            "text": "We do not need to compare every religion all at once. We can start with shared questions, whether God exists and what God would be like, then test Christianity where it makes public historical claims about Jesus.",
+            "text": "We do not have to compare every religion at once. Start with shared questions about God, then test Christianity where it makes historical claims about Jesus.",
             "next": "birth",
             "grade": "strong",
             "note": "Good. You gave a manageable method instead of pretending the diversity itself is simple."
           },
           {
-            "text": "Christianity has better evidence than the others.",
+            "text": "Christianity has stronger historical evidence than the other major religions, especially around Jesus and the resurrection, so that gives us a reasonable place to begin.",
             "next": "birth",
             "grade": "mixed",
             "note": "Maybe, but this is a conclusion. The learner should show how the comparison can be made."
           },
           {
-            "text": "You just have to examine each religion objectively.",
+            "text": "You would have to examine each religion as objectively as you can, compare its evidence, and then choose the one that best fits the facts.",
             "next": "birth",
             "grade": "mixed",
             "note": "Fair principle, but too vague to be useful."
@@ -590,19 +590,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "But you were raised Christian. A Muslim raised somewhere else would start from Islam. Does that not show belief is mostly geography?",
         "options": [
           {
-            "text": "Upbringing clearly influences what people first believe, including Christians. But explaining how someone came to hold a belief is different from showing whether the belief is true. We still have to test the claim and evidence.",
+            "text": "Upbringing clearly influences belief. But explaining how you came to believe something is different from showing whether it is true. We still test the claim.",
             "next": "goodend",
             "grade": "strong",
             "note": "Good. You conceded the sociology without confusing origin of belief with truth of belief."
           },
           {
-            "text": "Plenty of people convert to Christianity from other religions.",
+            "text": "People convert to Christianity from very different cultures and religions, so geography cannot be the whole explanation for why someone ends up believing Christianity.",
             "next": "goodend",
             "grade": "mixed",
             "note": "True, but conversion examples do not by themselves answer the general point about cultural influence."
           },
           {
-            "text": "Everyone has biases, so geography proves nothing.",
+            "text": "Everyone has biases from family and culture, so pointing out that Christians have them does not tell us whether Christianity itself is actually true or false.",
             "next": "goodend",
             "grade": "mixed",
             "note": "The conclusion is too quick. Better to distinguish causal origin from truth directly."
@@ -643,19 +643,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "I can believe Jesus existed and was crucified. I just think the resurrection story grew after his death the way stories about important people often do.",
         "options": [
           {
-            "text": "That is possible in principle, so I would start with how early the resurrection claim appears rather than just saying legends could not develop. Paul is already passing on resurrection tradition very early.",
+            "text": "That is possible in principle. I would start by asking how early the resurrection claim appears instead of assuming either that legends did or did not develop.",
             "next": "paul",
             "grade": "strong",
             "note": "Good. You met the historical hypothesis directly and avoided an absolute claim about legends."
           },
           {
-            "text": "The Gospels are too early for a legend to grow.",
+            "text": "The Gospels are early enough that eyewitnesses could still challenge the story, which makes a slow legendary growth of the resurrection much less likely.",
             "next": "paul",
             "grade": "mixed",
             "note": "The basic instinct is relevant, but “too early” is stronger than the evidence warrants by itself."
           },
           {
-            "text": "The disciples would not die for something they invented.",
+            "text": "The disciples were willing to suffer for the resurrection claim, and people generally do not accept that kind of cost for something they know they invented.",
             "next": "paul",
             "grade": "mixed",
             "note": "Sincerity may matter against deliberate fraud, but legend development is a different hypothesis."
@@ -667,19 +667,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "Paul did not follow Jesus during his ministry. Why should his letters settle what happened?",
         "options": [
           {
-            "text": "Paul does not settle everything by himself. The point is that his letters give us very early evidence that resurrection belief was already central, and he reports traditions he says he received rather than invented. Then we compare that with the wider evidence.",
+            "text": "Paul does not settle everything. His letters matter because they show resurrection belief was already central very early and preserve traditions he says he received.",
             "next": "creed",
             "grade": "strong",
             "note": "Good. You stated what Paul can establish without making him do more than he can."
           },
           {
-            "text": "Paul met Peter and James, so he knew the eyewitnesses and that settles it.",
+            "text": "Paul personally met Peter and James, so he had direct access to people who knew Jesus and could check whether the resurrection story was true.",
             "next": "creed",
             "grade": "mixed",
             "note": "His contacts matter, but “settles it” overclaims what those meetings alone prove."
           },
           {
-            "text": "Paul was an apostle, so his testimony is authoritative.",
+            "text": "Paul was recognized as an apostle, so his testimony carries special authority and gives us good reason to trust what he says about the resurrection.",
             "next": "creed",
             "grade": "mixed",
             "note": "That is a theological claim. In a historical argument, first use the letter as early evidence without presupposing inspiration."
@@ -691,19 +691,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "People always call 1 Corinthians 15 an early creed. How do you know it was not something Paul made up and then called tradition?",
         "options": [
           {
-            "text": "I would not pretend we can put an exact date on every line. The case comes from the language of receiving and passing on tradition, Paul’s chronology, and his contact with earlier leaders. It supports an early pre-Pauline tradition, but I would state the dating with appropriate caution.",
+            "text": "I would not claim an exact date. The case rests on Paul's language of receiving tradition, his timeline, and his contact with earlier leaders.",
             "next": "gospels",
             "grade": "strong",
             "note": "Good. You used the evidence while admitting the limit."
           },
           {
-            "text": "All scholars date it within a few years of the resurrection.",
+            "text": "Most scholars date the tradition within a few years of the resurrection, so I think we can be confident it was already fixed very early.",
             "next": "gospels",
             "grade": "mixed",
             "note": "Consensus language can be useful, but this is too sweeping and substitutes a slogan for the reasons."
           },
           {
-            "text": "Because Paul would not lie about receiving it.",
+            "text": "Paul had no reason to lie about receiving the tradition, especially when people who knew the earlier leaders could have challenged him if he made it up.",
             "next": "gospels",
             "grade": "mixed",
             "note": "Possible sincerity is not enough. Use the textual and historical reasons."
@@ -715,19 +715,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "Even if resurrection belief was early, an early belief can still be false.",
         "options": [
           {
-            "text": "I agree. Earliness does not prove resurrection. It weakens the claim that resurrection belief arose only after a long legendary development. Then we still have to ask what explains the appearances, the bodily claim, the tomb evidence, and the rise of that belief.",
+            "text": "I agree. Early belief can still be false. Earliness answers the legend theory; then we still ask what best explains the resurrection evidence.",
             "next": "goodend",
             "grade": "strong",
             "note": "Good. You conceded the exact limit of the argument and moved to the cumulative case."
           },
           {
-            "text": "But an early belief is much more likely to be true.",
+            "text": "An early belief is much more likely to preserve what really happened because there was less time for the story to change before people repeated it.",
             "next": "goodend",
             "grade": "mixed",
             "note": "Sometimes, but earliness alone does not give you that much. Keep the inference narrow."
           },
           {
-            "text": "The apostles were there, so an early false belief could not survive.",
+            "text": "The apostles were present from the beginning, so a false resurrection belief would have been corrected before it could spread through the early church.",
             "next": "goodend",
             "grade": "mixed",
             "note": "Too confident. Early communities can hold false beliefs. The case needs evidence, not just proximity."
@@ -768,19 +768,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "My sister lost a baby. I do not want a lecture about free will. I cannot see how a loving God can watch something like that happen.",
         "options": [
           {
-            "text": "I am really sorry. I am not going to pretend I know why that happened. Do you want to talk about whether suffering counts against God, or do you mostly need me to hear how awful this has been?",
+            "text": "I am really sorry. I would not pretend I know why that happened. Do you want to talk about the argument, or mostly about what your family is carrying?",
             "next": "evidence",
             "grade": "strong",
             "note": "Good. You acknowledged the person and clarified whether an argument is even appropriate."
           },
           {
-            "text": "I do not know why God allowed that, but Christianity does not teach that suffering is good or easy.",
+            "text": "I do not know why God allowed it, and I would not tell you the loss was good. Christianity gives hope in suffering, but that does not erase it.",
             "next": "evidence",
             "grade": "mixed",
             "note": "Compassionate and true, though it still does not ask what he needs from the conversation."
           },
           {
-            "text": "The Christian answer is that God can have morally sufficient reasons we do not know.",
+            "text": "Christians can say God may have morally sufficient reasons we cannot see, even when a particular loss feels completely senseless from where we stand.",
             "next": "evidence",
             "grade": "mixed",
             "note": "This may become relevant philosophically, but as a first response it risks treating grief as an abstract puzzle."
@@ -792,19 +792,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "I mean both. I am angry, but I also really do think suffering like this makes God less believable.",
         "options": [
           {
-            "text": "That makes sense as an evidential question. I would not argue that your pain is not evidence. I would ask what conclusion it supports, how strongly it supports it, and how it weighs against the rest of the case for God.",
+            "text": "I would take that seriously as evidence. The question is what conclusion suffering supports, how strongly, and how it weighs against the rest of the case.",
             "next": "hidden",
             "grade": "strong",
             "note": "Good. You did not dismiss the evidence or pretend one observation settles the whole worldview."
           },
           {
-            "text": "The existence of evil actually proves God because evil requires objective morality.",
+            "text": "Evil may actually point toward God because calling something objectively evil assumes a real moral standard that goes beyond personal preference or social agreement.",
             "next": "hidden",
             "grade": "mixed",
             "note": "The moral argument can be relevant, but using it here as a quick reversal misses the evidential force of the objection."
           },
           {
-            "text": "God can bring good out of suffering, so suffering does not count against him.",
+            "text": "God can bring good from suffering, so I do not think suffering should count strongly against him even when we cannot see the good yet.",
             "next": "hidden",
             "grade": "mixed",
             "note": "Possible redemption does not erase the evidential question, and you do not know God’s particular reason here."
@@ -816,19 +816,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "Isn’t “God has reasons we cannot see” just an escape hatch? You could say that no matter how much suffering there was.",
         "options": [
           {
-            "text": "It could become an escape hatch if I used it to make every amount of suffering irrelevant. I would use it more narrowly: our not seeing a sufficient reason does not by itself prove there is none. The amount and kinds of suffering still have to be weighed as evidence.",
+            "text": "It would be an escape hatch if I used it to dismiss every amount of suffering. I only mean that not seeing a reason does not prove there is none.",
             "next": "pastoral",
             "grade": "strong",
             "note": "Good. You preserved the logical point without making the worldview unfalsifiable by definition."
           },
           {
-            "text": "We are finite and God is infinite, so of course we cannot understand his reasons.",
+            "text": "We are finite and God would know far more than we do, so it should not surprise us if some of his reasons are beyond our understanding.",
             "next": "pastoral",
             "grade": "mixed",
             "note": "There is a theological truth here, but it can be used too broadly and make the evidential objection disappear by fiat."
           },
           {
-            "text": "Every worldview has mysteries, so Christianity is allowed to have this one.",
+            "text": "Every worldview leaves some hard questions unanswered, so Christianity should not be rejected simply because it cannot explain every case of suffering.",
             "next": "pastoral",
             "grade": "mixed",
             "note": "True in a general sense, but it does not yet answer how much evidential weight suffering should carry."
@@ -840,19 +840,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "I still hate that answer. It sounds like I am being told to accept something horrible because God must know better.",
         "options": [
           {
-            "text": "I understand why it lands that way. I would not ask you to call the loss good. Christianity itself calls death an enemy. The philosophical answer only says the tragedy is not a formal contradiction in God. It does not make the grief small, and it does not tell me why this happened.",
+            "text": "I would not ask you to call the loss good. The philosophical answer only says suffering is not a contradiction in God; it does not explain this loss.",
             "next": "goodend",
             "grade": "strong",
             "note": "Good. You kept the intellectual claim modest and left room for lament rather than turning apologetics into emotional correction."
           },
           {
-            "text": "At some point faith means trusting God even when we do not understand.",
+            "text": "At some point Christian faith does involve trusting God when we do not understand what he is doing, even when that trust is painful and difficult.",
             "next": "goodend",
             "grade": "mixed",
             "note": "That may belong inside Christian discipleship, but he is still asking whether Christianity is believable from outside."
           },
           {
-            "text": "I am not saying it is good, just that God is allowed to have reasons.",
+            "text": "I am not saying the loss itself is good. I am saying a good God could still have reasons for allowing something we would never choose.",
             "next": "goodend",
             "grade": "mixed",
             "note": "The content is closer, but the tone is still too courtroom-like for the actual conversation."
@@ -893,19 +893,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "You keep quoting the New Testament to prove Jesus rose, then you use Jesus to prove the New Testament is God’s Word. That sounds circular.",
         "options": [
           {
-            "text": "It would be circular if I started by assuming the New Testament is inspired. The historical argument first treats its documents as ancient sources that can be examined like other sources, then asks what follows if the case for Jesus succeeds.",
+            "text": "It would be circular if I assumed inspiration first. The historical case starts by treating New Testament writings as ancient sources and asking what they support.",
             "next": "bias",
             "grade": "strong",
             "note": "Good. You distinguished historical use from the later theological conclusion."
           },
           {
-            "text": "Using the Bible as evidence is not circular because every historical argument uses written sources.",
+            "text": "Using the Bible as evidence is not automatically circular because historians use written sources all the time, including sources written by people who believed what they described.",
             "next": "bias",
             "grade": "mixed",
             "note": "Helpful, but you still need to explain that you are not assuming inspiration at the historical stage."
           },
           {
-            "text": "The Bible has been shown to be reliable, so using it is fair.",
+            "text": "The Bible has already shown itself historically reliable in many places, so I think it is fair to use what it says about Jesus as evidence.",
             "next": "bias",
             "grade": "mixed",
             "note": "Potentially relevant, but “reliable” is too broad here and can make it sound like the conclusion was assumed at the start."
@@ -917,19 +917,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "But these are Christian documents written by believers. Why trust interested witnesses?",
         "options": [
           {
-            "text": "Being interested does not make a source useless. It means we examine what the source claims, when it was written, what earlier material it preserves, where it can be checked, and how it fits the other evidence. Bias is a reason for scrutiny, not automatic dismissal.",
+            "text": "Interested witnesses are not useless witnesses. Their claims still have to be tested by date, sources, checkable details, and how they fit the other evidence.",
             "next": "canon",
             "grade": "strong",
             "note": "Good. You did not pretend the writers were neutral, and you did not treat commitment as disqualifying."
           },
           {
-            "text": "Almost every ancient source has a point of view, so bias does not matter.",
+            "text": "Almost every ancient source has a point of view, so I do not think the writers' Christian beliefs should count much against their testimony.",
             "next": "canon",
             "grade": "mixed",
             "note": "Bias does matter. The point is that it does not automatically make a source worthless."
           },
           {
-            "text": "They were willing to suffer for what they believed, which shows they were honest.",
+            "text": "The early Christians were willing to suffer for what they believed, which gives us a strong reason to think the writers were honest about Jesus.",
             "next": "canon",
             "grade": "mixed",
             "note": "Sincerity can matter against deliberate fabrication, but it does not settle every historical claim or every author."
@@ -941,19 +941,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "Suppose I grant some historical case for Jesus. How do you get from that to every New Testament book being God’s Word?",
         "options": [
           {
-            "text": "Not in one jump. The argument moves through Jesus’ authority, his view of Israel’s Scriptures, his commissioning of the apostles, and then the recognition of writings tied to that apostolic authority. Each link needs its own case.",
+            "text": "I would not make that jump. The case moves through Jesus' authority, his view of Scripture, the apostles, and then writings tied to apostolic authority.",
             "next": "interp",
             "grade": "strong",
             "note": "Good. You kept the authority chain intact instead of jumping from resurrection straight to the whole Bible."
           },
           {
-            "text": "If Jesus rose, then Christianity is true, and the Christian Bible follows.",
+            "text": "If Jesus rose from the dead, Christianity is true, and once Christianity is true the New Testament naturally comes with the religion Jesus founded.",
             "next": "interp",
             "grade": "mixed",
             "note": "This compresses several steps that the course intentionally separates."
           },
           {
-            "text": "Jesus promised the Spirit would guide the apostles, so their writings are inspired.",
+            "text": "Jesus promised the Spirit would guide his apostles, so once we trust Jesus we have good reason to treat what the apostles wrote as inspired.",
             "next": "interp",
             "grade": "mixed",
             "note": "That becomes relevant, but only after the case for Jesus’ authority, and it still has to be connected carefully to the New Testament writings."
@@ -965,19 +965,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "And even if Scripture is true, Christians disagree about what it means. Does that not undercut the whole thing?",
         "options": [
           {
-            "text": "It shows that an infallible text does not make every interpreter infallible. Disagreement can make interpretation harder, but that is a different question from whether God has spoken in Scripture.",
+            "text": "It shows that readers can be wrong. Disagreement can make interpretation harder, but that is different from asking whether God has spoken in Scripture.",
             "next": "goodend",
             "grade": "strong",
             "note": "Good. You distinguished the authority of Scripture from the fallibility of its interpreters."
           },
           {
-            "text": "Most important doctrines are clear enough that the disagreements do not matter much.",
+            "text": "Most central Christian teachings are clear enough that disagreements over smaller issues do not seriously weaken the claim that Scripture communicates truth.",
             "next": "goodend",
             "grade": "mixed",
             "note": "There is a real doctrine of clarity, but this answer minimizes genuine disagreement instead of distinguishing the two questions."
           },
           {
-            "text": "The church helps us know the correct interpretation.",
+            "text": "The church gives us a community and tradition for reading Scripture, so individual disagreement does not leave us without any way to know the right interpretation.",
             "next": "goodend",
             "grade": "mixed",
             "note": "The church matters, but this opens another question instead of answering whether disagreement cancels the authority of the text."
@@ -1008,29 +1008,29 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
     "id": "naturalismbundle",
     "level": "mixed",
     "title": "Science explains more, so where is God left?",
-    "diagnose": "I am not saying science has disproved God. I just notice that the more science explains, the less work there seems to be for God to do. Evolution explains design, physics explains the universe, and religion keeps retreating to whatever is left.",
+    "diagnose": "Suppose I grant that God is possible. Why bring him in when physics explains the universe and evolution explains life? It feels like religion just moves to whatever science has not reached yet.",
     "entryKey": "clarify",
     "entry": "Ask first. Several claims are bundled together, so find out whether the real issue is a God-of-the-gaps argument, biological design, or whether natural explanations make God unnecessary.",
     "diagnoseWhy": "There are at least three different arguments here. Answering all of them at once would make the conversation less clear.",
     "nodes": {
       "start": {
         "speaker": "Friend",
-        "text": "I am not saying science has disproved God. I just notice that the more science explains, the less work there seems to be for God to do.",
+        "text": "Suppose I grant that God is possible. Why bring him in when physics explains the universe and evolution explains life? It feels like religion just moves to whatever science has not reached yet.",
         "options": [
           {
-            "text": "When you say “less work for God,” do you mean that a natural mechanism makes God unnecessary, or that Christians only appeal to God when they do not know the mechanism?",
+            "text": "Before I answer, do you mean natural mechanisms make God unnecessary, or that Christian arguments only appeal to God where science has not finished explaining things?",
             "next": "mechanism",
             "grade": "strong",
             "note": "Good. You separated two different objections before choosing an argument."
           },
           {
-            "text": "Fine-tuning still proves that science has not explained everything.",
+            "text": "Fine-tuning still gives us evidence for God because physics has not explained why the constants and laws fall into a life-permitting range in the first place.",
             "next": "mechanism",
             "grade": "mixed",
             "note": "Fine-tuning may become relevant, but you answered a specific argument before finding out what he meant."
           },
           {
-            "text": "Science can never explain God because God is outside science.",
+            "text": "Science cannot explain God because God is outside the natural world, so scientific progress does not really have anything to say about whether he exists.",
             "next": "mechanism",
             "grade": "mixed",
             "note": "That may be true about scientific method, but it does not yet answer the claim that natural explanations make God unnecessary."
@@ -1042,19 +1042,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "Mostly the first one. If evolution can explain biological complexity naturally, why bring design into it?",
         "options": [
           {
-            "text": "A natural mechanism and a design question are not automatically rivals at every level. The course asks what mutation and selection can actually explain, then separately asks about functional information, coordinated machinery, and the origin of the system those mechanisms work within.",
+            "text": "A natural mechanism and a design question are not always rivals. We can ask what mutation and selection explain, then ask what explains the larger system.",
             "next": "dna",
             "grade": "strong",
             "note": "Good. You did not deny observed biological change, and you kept the larger design question open."
           },
           {
-            "text": "Evolution only explains small changes, not real new information.",
+            "text": "Evolution can explain small changes within living things, but it has not shown how genuinely new biological information or complex machinery can arise naturally.",
             "next": "dna",
             "grade": "mixed",
             "note": "That is too compressed and can overstate what has been shown. The stronger move is to separate observed change from the larger explanatory claims."
           },
           {
-            "text": "Because cells look designed, and things that look designed are designed.",
+            "text": "Cells look designed because their parts work together toward functions, and things with that kind of coordinated purpose are best explained by intelligence.",
             "next": "dna",
             "grade": "mixed",
             "note": "That is too quick. The lesson argues from specific features and explanatory comparison, not appearance alone."
@@ -1066,19 +1066,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "But shared DNA is exactly what common ancestry predicts. Why treat common design as anything more than an escape hatch?",
         "options": [
           {
-            "text": "Shared genetic patterns are real evidence, and common ancestry is one way to interpret them. A creation view can also expect common structures from a common designer. The question is not whether the similarities exist, but which larger explanation handles the full set of evidence best.",
+            "text": "Shared DNA is real evidence. Common ancestry interprets it one way; common design can expect reused structures too. The larger explanations still have to be compared.",
             "next": "gaps",
             "grade": "strong",
             "note": "Good. You acknowledged the evidence instead of pretending genetic similarity is irrelevant."
           },
           {
-            "text": "Common DNA actually proves common design because designers reuse good ideas.",
+            "text": "Shared DNA actually fits common design very well because intelligent designers often reuse successful patterns, especially when they are building related systems.",
             "next": "gaps",
             "grade": "mixed",
             "note": "Common design can make sense of reuse, but saying the same evidence proves your view is too strong without a fuller comparison."
           },
           {
-            "text": "DNA similarity does not really tell us anything about ancestry.",
+            "text": "DNA similarity is not very useful for ancestry because similarity can come from either common ancestry or common design, so it does not favor either view.",
             "next": "gaps",
             "grade": "weak",
             "note": "That dismisses evidence the course itself says has to be interpreted rather than ignored."
@@ -1090,19 +1090,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "I still worry this is just God of the gaps with more sophisticated language.",
         "options": [
           {
-            "text": "That would be a problem if the argument were “we do not know the mechanism, therefore God.” That is not the case I want to make. The course asks positive questions about contingent existence, fine-tuning, reason, information, and history, even where natural mechanisms are known.",
+            "text": "That would be a problem if the case were 'we do not know, therefore God.' I am asking what known features of reality are best explained by.",
             "next": "goodend",
             "grade": "strong",
             "note": "Good. You answered the actual concern and connected it to the broader course rather than hiding God in an unknown mechanism."
           },
           {
-            "text": "Every worldview has gaps, so naturalism has the same problem.",
+            "text": "Every worldview has things it cannot explain, so I do not think naturalists can criticize Christians for having gaps unless they can remove all of their own.",
             "next": "goodend",
             "grade": "mixed",
             "note": "That can be worth discussing later, but it does not show that your own argument is not a gap argument."
           },
           {
-            "text": "Scientists also believe things they cannot prove, so it is unfair to call this a gap.",
+            "text": "Scientists also accept assumptions they cannot prove, so calling a design argument a gap argument can become unfair if naturalism gets a free pass.",
             "next": "goodend",
             "grade": "mixed",
             "note": "That shifts attention to scientists instead of explaining the structure of your argument."
@@ -1115,7 +1115,7 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
       }
     },
     "build": {
-      "prompt": "A coworker says, “The more science explains, the less reason I see to bring God into anything.” What would you ask before deciding which argument to give?",
+      "prompt": "A coworker says, “Physics explains the universe and evolution explains life. It feels like God only gets whatever science has not reached yet.” What would you ask before deciding how to answer?",
       "followUps": [
         "He clarifies, “Evolution is the clearest example. Natural selection gives us a natural explanation for apparent design.”",
         "Then he says, “And genetic similarities fit common ancestry. Why is common design not just something creationists say to protect their view?”"
@@ -1133,29 +1133,29 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
     "id": "hurtandhistory",
     "level": "mixed",
     "title": "Pain, church failure, and whether Christianity is true",
-    "diagnose": "My sister lost a baby. I do not want a lecture about free will. I cannot see how a loving God can watch something like that happen. And honestly, after what some church leaders did to my family, I do not know why I should trust Christianity anyway.",
+    "diagnose": "After my family lost a child, some church leaders gave us canned answers and acted like questions showed weak faith. Since then I have had a hard time trusting either the church or the idea of a loving God.",
     "entryKey": "clarify",
     "entry": "Ask first. There is grief, a problem-of-evil argument, and distrust created by Christians’ actions. Do not flatten those into one debate question.",
     "diagnoseWhy": "A technically correct argument can still answer the wrong thing if you do not find out which part the person wants to talk about first.",
     "nodes": {
       "start": {
         "speaker": "Friend",
-        "text": "My sister lost a baby. I do not want a lecture about free will. I cannot see how a loving God can watch something like that happen. And after what church leaders did to my family, I do not know why I should trust Christianity anyway.",
+        "text": "After my family lost a child, some church leaders gave us canned answers and acted like questions showed weak faith. Since then I have had a hard time trusting either the church or the idea of a loving God.",
         "options": [
           {
-            "text": "Those are three different questions, and the first one sounds personal. What happened with the church leaders, and which part is making Christianity hardest to trust right now?",
+            "text": "There are several things tangled together there. What happened with the church, and which part is making Christianity hardest for you to trust right now?",
             "next": "leaders",
             "grade": "strong",
             "note": "Good. You did not turn grief into a philosophy exercise, and you gave him room to identify the real issue."
           },
           {
-            "text": "The free-will defense is not the only Christian answer to suffering.",
+            "text": "The free-will defense is not the only Christian answer to suffering, so I would not assume your loss leaves Christianity without any serious response.",
             "next": "leaders",
             "grade": "mixed",
             "note": "True, but he explicitly told you he does not want that kind of lecture right now."
           },
           {
-            "text": "Bad church leaders do not make Christianity false.",
+            "text": "Bad church leaders can do real damage, but their failure does not by itself tell us whether the central claims about Jesus are historically true.",
             "next": "leaders",
             "grade": "mixed",
             "note": "Logically true, but it is too early and risks treating the personal betrayal as irrelevant."
@@ -1167,19 +1167,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "The leaders covered up something serious and then acted like questioning them meant questioning God. It made the whole thing feel manipulative.",
         "options": [
           {
-            "text": "That was wrong, and using God’s authority to shield leaders from accountability is not something I would defend. Their failure matters. It still leaves a separate question about whether Christianity’s central claims are true, but I would not use that distinction to excuse what happened.",
+            "text": "That was wrong. Using God's authority to protect leaders from accountability is not something I would defend. Their failure matters, even if truth is a separate question.",
             "next": "truth",
             "grade": "strong",
             "note": "Good. You conceded the moral failure without letting it automatically decide the historical question."
           },
           {
-            "text": "People abuse every good institution, so that does not tell us anything about Christianity.",
+            "text": "People can abuse good institutions, including churches. That does not make the beliefs of the institution false, even when the abuse is serious and damaging.",
             "next": "truth",
             "grade": "mixed",
             "note": "The logical distinction is there, but it minimizes why the experience affected his trust."
           },
           {
-            "text": "Jesus warned about false teachers, so bad leaders actually confirm Christianity.",
+            "text": "Jesus warned that false teachers would come, so the existence of abusive leaders actually fits what Christianity already told us to expect.",
             "next": "truth",
             "grade": "weak",
             "note": "That turns a painful experience into a debating point and overstates what the warning would establish."
@@ -1191,19 +1191,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "Maybe. But if Christians can be that wrong, why trust Christian documents about Jesus either?",
         "options": [
           {
-            "text": "I would not ask you to trust a document simply because a Christian wrote it. The historical question is narrower: how early is the source, what does it claim, what earlier material does it preserve, where can it be checked, and how does it fit the other evidence?",
+            "text": "I would not trust a source just because it is Christian. I would ask when it was written, what it claims, and how it fits other evidence.",
             "next": "evil",
             "grade": "strong",
             "note": "Good. You moved from institutional trust to historical method without pretending bias disappears."
           },
           {
-            "text": "The apostles were different because they personally knew Jesus.",
+            "text": "The apostles were different from later church leaders because they personally knew Jesus, so their testimony deserves more trust than the leaders who hurt your family.",
             "next": "evil",
             "grade": "mixed",
             "note": "That may become part of the evidence, but it is better to explain how historical sources are actually evaluated."
           },
           {
-            "text": "Christianity has survived bad leaders for two thousand years, so the documents must be reliable.",
+            "text": "Christianity has survived corrupt leaders for centuries, which suggests its historical foundation is stronger than the failures of the people representing it.",
             "next": "evil",
             "grade": "weak",
             "note": "Institutional survival does not establish the reliability of a particular historical claim."
@@ -1215,19 +1215,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "I still come back to the baby. Even if I granted some history about Jesus, I do not understand why a good God would allow that.",
         "options": [
           {
-            "text": "I do not know why that happened, and I would not pretend I do. Christianity does not require calling the loss good. If you want to talk about whether suffering counts against God, we can do that, but I would keep the philosophical question separate from pretending I can explain your family’s tragedy.",
+            "text": "I do not know why that happened. Christianity does not ask you to call the loss good. We can discuss the argument without pretending to explain your tragedy.",
             "next": "goodend",
             "grade": "strong",
             "note": "Good. You stayed truthful about the argument and modest about what you do not know."
           },
           {
-            "text": "God can bring good out of suffering even when we cannot see it.",
+            "text": "God can bring good out of suffering even when we cannot see it, so the fact that this loss feels pointless does not mean it really was pointless.",
             "next": "goodend",
             "grade": "mixed",
             "note": "That can be a Christian hope, but here it risks sounding like you are supplying a reason for this particular tragedy that you do not know."
           },
           {
-            "text": "If God raised Jesus, then suffering cannot count against God very much.",
+            "text": "If the historical case for Jesus and the resurrection is strong, then that evidence should outweigh the problem of suffering even when suffering is personally devastating.",
             "next": "goodend",
             "grade": "weak",
             "note": "The resurrection can matter to the larger Christian answer, but this dismisses the evidential and personal force of the objection."
@@ -1240,7 +1240,7 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
       }
     },
     "build": {
-      "prompt": "A friend says, “After what happened to my family in church, I do not trust religious leaders, and after losing a child I am not sure I can believe in a good God either.” What would you say first?",
+      "prompt": "A friend says, “After my family went through a terrible loss, church leaders handled it badly and shut down our questions. Now I have a hard time trusting either them or the idea of a loving God.” What would you say first?",
       "followUps": [
         "He says, “Even if the leaders were wrong, why should I trust Christian sources about Jesus when Christians can be so biased?”",
         "Then he says, “And I still cannot see how a loving God lets a baby die.”"
@@ -1268,19 +1268,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "Okay, then answer this: who created God, why does evolution look true, why should I trust a Bible that has been copied for centuries, and why would a good God allow children to suffer?",
         "options": [
           {
-            "text": "I would not try to answer all four. They are all fair questions, but if we take them together we will never know what we actually disagree about. Which one do you want to start with?",
+            "text": "I would not answer all four at once. They are different questions. Which one matters most to you, so we can actually finish one conversation?",
             "next": "pick",
             "grade": "strong",
             "note": "Good. You controlled the scope without dodging the questions."
           },
           {
-            "text": "Those all have answers. Let me start with the cosmological argument and work through the rest.",
+            "text": "Those questions all have answers. I would start with the cosmological argument, then move through evolution, the Bible, and suffering in a logical order.",
             "next": "pick",
             "grade": "mixed",
             "note": "You are willing to answer, but you are about to turn the conversation into a lecture."
           },
           {
-            "text": "Most of those objections come from misunderstandings, so we should clear them up one by one.",
+            "text": "Most of those objections depend on misunderstandings, so the best approach is probably to clear them up one by one before getting into the positive case.",
             "next": "pick",
             "grade": "mixed",
             "note": "One by one is right, but calling them misunderstandings before answering can sound dismissive."
@@ -1292,19 +1292,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "Fine. Who created God?",
         "options": [
           {
-            "text": "First I would correct the premise. The argument is not that everything needs a cause. Kalam says things that begin to exist need causes, and the contingency argument asks why dependent things exist. God is being argued for as the necessary stopping point, not inserted as an exception.",
+            "text": "First correct the premise. Kalam concerns things that begin; contingency concerns things that depend. God is argued for as necessary, not added as an exception.",
             "next": "switch",
             "grade": "strong",
             "note": "Good. You answered the chosen question without dragging the other three back in."
           },
           {
-            "text": "Nobody created God because God is eternal.",
+            "text": "Nobody created God because God is eternal and never began to exist, while the universe did begin and therefore needs something outside itself.",
             "next": "switch",
             "grade": "mixed",
             "note": "That is part of the answer, but it leaves the bad premise mostly untouched."
           },
           {
-            "text": "The universe had a beginning, and evolution cannot explain that.",
+            "text": "The universe had a beginning, and evolution cannot explain that beginning, so we still need a Creator even if biological evolution were completely true.",
             "next": "switch",
             "grade": "weak",
             "note": "You switched to a different issue instead of answering the question he chose."
@@ -1316,19 +1316,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "All right, but the Bible has been copied and translated so many times. How could we know what it originally said?",
         "options": [
           {
-            "text": "That is a different question, but we can take it next. Copying does not mean each translation was copied from the previous translation. We compare surviving manuscripts and textual variants to recover the wording. Then the separate question is whether what the documents say is historically true.",
+            "text": "That is a new question, but we can take it next. We compare manuscripts to recover the text, then separately ask whether its claims are true.",
             "next": "evil",
             "grade": "strong",
             "note": "Good. You changed topics only because he chose to, and you separated text recovery from historical truth."
           },
           {
-            "text": "There are more manuscripts of the Bible than any other ancient book, so we know it is true.",
+            "text": "We have far more New Testament manuscripts than we have for other ancient books, so that gives us strong confidence that the Bible is historically true.",
             "next": "evil",
             "grade": "mixed",
             "note": "Manuscript evidence can help recover the text, but manuscript quantity does not prove the events described actually happened."
           },
           {
-            "text": "Modern translations are extremely accurate, so there is no real problem here.",
+            "text": "Modern Bible translations are based on very early manuscripts and careful scholarship, so the old claim that the text was copied beyond recognition is not a serious problem.",
             "next": "evil",
             "grade": "mixed",
             "note": "That is too broad. Textual variants are real, even if they do not mean the text is hopelessly lost."
@@ -1340,19 +1340,19 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
         "text": "Then what about children suffering? That one matters more to me than the manuscript question.",
         "options": [
           {
-            "text": "Then I would stay there. Are you asking whether suffering makes God logically impossible, whether it makes God seem less likely, or is this connected to something that happened personally? Those need different kinds of answers.",
+            "text": "Then I would stay there. Are you asking whether suffering makes God impossible, makes him less likely, or connects to something personal? Those need different answers.",
             "next": "goodend",
             "grade": "strong",
             "note": "Good. You recognized that this objection needs diagnosis before argument."
           },
           {
-            "text": "The logical problem of evil has already been answered by the possibility of morally sufficient reasons.",
+            "text": "The logical problem of evil has already been answered if God could have morally sufficient reasons for allowing suffering, so I would start with that distinction.",
             "next": "goodend",
             "grade": "mixed",
             "note": "That may address one form of the argument, but you do not yet know which form he is raising."
           },
           {
-            "text": "God can use suffering for good, so suffering does not disprove him.",
+            "text": "God can use suffering for good, so suffering does not disprove him even when we cannot identify the good that may come from a particular tragedy.",
             "next": "goodend",
             "grade": "mixed",
             "note": "That is too fast and may supply a reason for particular suffering that you do not know."
@@ -1380,3 +1380,181 @@ practiceScenarios.splice(0, practiceScenarios.length, ...[
     }
   }
 ]);
+
+const practiceDiagnosisItems = [
+  {
+    "id": "d-clarify-science",
+    "entryKey": "clarify",
+    "q": "Science keeps explaining more and more. I just do not see where God fits anymore.",
+    "entry": "Ask first. Find out whether the person means natural explanations replace God, or whether they are worried about a God-of-the-gaps argument.",
+    "why": "Those are different objections. If you guess which one they mean, you may give a good answer to the wrong question."
+  },
+  {
+    "id": "d-clarify-contradictions",
+    "entryKey": "clarify",
+    "q": "The Bible has contradictions, so I do not see why anyone treats it as reliable.",
+    "entry": "Ask first. Find out which supposed contradiction they have in mind before defending the Bible in general.",
+    "why": "A specific textual or historical problem needs a specific answer. A broad speech about reliability may never touch the concern."
+  },
+  {
+    "id": "d-clarify-suffering",
+    "entryKey": "clarify",
+    "q": "If God is good, why is there so much suffering?",
+    "entry": "Ask first. Find out whether this is a logical objection, an evidence question, or something connected to personal suffering.",
+    "why": "Those questions overlap, but they do not call for the same first response."
+  },
+  {
+    "id": "d-clarify-hypocrisy",
+    "entryKey": "clarify",
+    "q": "I have seen too many hypocritical Christians to take Christianity seriously.",
+    "entry": "Ask first. Find out whether the person is raising a truth objection, a trust problem, or describing something that happened to them.",
+    "why": "Christian hypocrisy matters, but you should not assume you know what conclusion the person is drawing from it."
+  },
+  {
+    "id": "d-clarify-evolution",
+    "entryKey": "clarify",
+    "q": "Evolution pretty much settles the creation question for me.",
+    "entry": "Ask first. Find out what they mean by evolution and what conclusion they think follows from it.",
+    "why": "Observed change, common ancestry, the origin of life, and the claim that nature is all there is are not the same claim."
+  },
+  {
+    "id": "d-foundation-relative",
+    "entryKey": "foundation",
+    "q": "That may be true for you, but truth is different for different people.",
+    "entry": "Start with reasoning and truth. The first issue is whether contradictory claims can both describe reality.",
+    "why": "Before arguing for Christianity, clear up what the person means by truth."
+  },
+  {
+    "id": "d-foundation-there",
+    "entryKey": "foundation",
+    "q": "You were not there when Jesus lived, so you cannot really know what happened.",
+    "entry": "Start with reasoning and evidence. The issue is whether historical knowledge requires direct observation.",
+    "why": "We know many past events through testimony, documents, and inference rather than seeing them ourselves."
+  },
+  {
+    "id": "d-foundation-disagreement",
+    "entryKey": "foundation",
+    "q": "Smart people disagree about religion, so I do not think anyone can really know.",
+    "entry": "Start with reasoning and truth. Disagreement does not by itself show that there is no true answer.",
+    "why": "The first question is what disagreement proves, not yet which religious claim is correct."
+  },
+  {
+    "id": "d-foundation-possible",
+    "entryKey": "foundation",
+    "q": "Maybe there is some other explanation. If another explanation is possible, your argument is not proven.",
+    "entry": "Start with reasoning. A possible alternative still has to explain the evidence well enough to compete.",
+    "why": "This is about how explanations are compared, not yet about a particular argument for God or Christianity."
+  },
+  {
+    "id": "d-foundation-arguments",
+    "entryKey": "foundation",
+    "q": "People can make an argument sound convincing for almost anything, so arguments do not prove much.",
+    "entry": "Start with reasoning. Separate whether an argument sounds persuasive from whether its conclusion follows and its premises are true.",
+    "why": "The person is questioning how arguments work, so that foundation comes before any apologetic argument."
+  },
+  {
+    "id": "d-step1-brute",
+    "entryKey": "step1",
+    "q": "Maybe the universe just exists. Why does it need any explanation beyond itself?",
+    "entry": "Start with the case for God. This is a contingency question about whether dependent reality needs an ultimate explanation.",
+    "why": "The disagreement is already about what could explain the universe, so you do not need to jump ahead to Jesus or Scripture."
+  },
+  {
+    "id": "d-step1-finetune",
+    "entryKey": "step1",
+    "q": "Maybe the fine-tuning is just luck, or there are enough universes that one had to work.",
+    "entry": "Start with the case for God. Compare chance, multiverse proposals, necessity, and design as explanations of fine-tuning.",
+    "why": "This belongs in natural theology: what best explains a feature of the universe we observe?"
+  },
+  {
+    "id": "d-step1-morality",
+    "entryKey": "step1",
+    "q": "My atheist neighbor is a better person than plenty of Christians. Why would morality need God?",
+    "entry": "Start with the case for God, but separate moral behavior from what grounds objective moral duties and value.",
+    "why": "The moral argument is not that atheists cannot behave well. It asks what makes moral truths objectively binding."
+  },
+  {
+    "id": "d-step1-eternal",
+    "entryKey": "step1",
+    "q": "Maybe the universe, a multiverse, or some deeper physical reality has simply always existed.",
+    "entry": "Start with the case for God. Ask whether existing forever would make that reality necessary or merely beginningless.",
+    "why": "Duration and dependence are different questions. This is still about the ultimate explanation of reality."
+  },
+  {
+    "id": "d-step1-design",
+    "entryKey": "step1",
+    "q": "Natural selection can produce things that look designed. Why bring a Designer into biology?",
+    "entry": "Start with the case for God. Ask what the proposed mechanism explains and whether design is being inferred from positive features rather than a gap.",
+    "why": "The issue is whether unguided causes or intelligence better explain the feature being discussed."
+  },
+  {
+    "id": "d-bridge-dead",
+    "entryKey": "bridge",
+    "q": "Dead people do not come back. That is enough for me to rule out the resurrection.",
+    "entry": "Start with miracles. Ask whether resurrection is being called naturally impossible or impossible even if God exists.",
+    "why": "The person is excluding a miraculous explanation before the historical evidence is considered."
+  },
+  {
+    "id": "d-bridge-science",
+    "entryKey": "bridge",
+    "q": "Science works because it looks for natural causes. Miracles do not belong in a serious explanation.",
+    "entry": "Start with miracles. Ask whether methodological science is being turned into the larger claim that supernatural action can never occur.",
+    "why": "The key issue is whether divine action is ruled out in principle."
+  },
+  {
+    "id": "d-bridge-anything",
+    "entryKey": "bridge",
+    "q": "Once you allow miracles, you can explain anything by saying God did it.",
+    "entry": "Start with miracles. Separate saying a miracle is possible from claiming that a particular miracle actually happened.",
+    "why": "Making divine action possible does not remove the need for evidence."
+  },
+  {
+    "id": "d-bridge-probability",
+    "entryKey": "bridge",
+    "q": "A miracle is always less likely than some natural explanation, no matter how strange the natural explanation is.",
+    "entry": "Start with miracles. Ask what prior assumptions are being used to assign the miracle such a low probability.",
+    "why": "The prior case for God changes whether divine action can be dismissed before the evidence is weighed."
+  },
+  {
+    "id": "d-bridge-repeatable",
+    "entryKey": "bridge",
+    "q": "If an event cannot be repeated in a lab, I do not see how anyone could reasonably believe it was a miracle.",
+    "entry": "Start with miracles, while also using the course's foundation on historical evidence.",
+    "why": "Past events are normally investigated through historical evidence, even when the event itself cannot be repeated."
+  },
+  {
+    "id": "d-step2-legend",
+    "entryKey": "step2",
+    "q": "Jesus probably existed, but the resurrection sounds like a legend that grew after he died.",
+    "entry": "Start with Jesus and Christianity. Look at how early the resurrection claim appears and what evidence needs explaining.",
+    "why": "The person is granting enough background to move directly into the historical case."
+  },
+  {
+    "id": "d-step2-bias",
+    "entryKey": "step2",
+    "q": "The New Testament was written by Christians, so of course it says Jesus rose.",
+    "entry": "Start with Jesus and Christianity. Treat the writings as historical sources and ask how interested testimony should actually be evaluated.",
+    "why": "Bias calls for scrutiny, not automatic acceptance or automatic dismissal."
+  },
+  {
+    "id": "d-step2-copying",
+    "entryKey": "step2",
+    "q": "The Bible was copied for centuries. How could we know what the original writers actually said?",
+    "entry": "Start with Jesus and Christianity. First separate recovering the text from deciding whether the recovered claims are true.",
+    "why": "This is a manuscript and textual criticism question before it becomes a broader inspiration question."
+  },
+  {
+    "id": "d-step2-claims",
+    "entryKey": "step2",
+    "q": "I do not think Jesus ever claimed anything close to being God. Christians added that later.",
+    "entry": "Start with Jesus and Christianity. Examine the earliest sources and the kinds of claims and authority attributed to Jesus.",
+    "why": "This is directly about Jesus' identity and the historical sources."
+  },
+  {
+    "id": "d-step2-resurrection",
+    "entryKey": "step2",
+    "q": "Even if the disciples believed Jesus was alive, people can be sincerely wrong. Why call it a resurrection?",
+    "entry": "Start with Jesus and Christianity. Compare the resurrection claim with alternative explanations of the evidence.",
+    "why": "The person is not ruling miracles out in principle; they are asking which historical explanation fits best."
+  }
+];
