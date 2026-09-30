@@ -209,7 +209,7 @@ function studySearchText(q){
   const core=(q.core||[]).join(' ');
   return [
     q.title,q.teaser,q.tag,q.why,q.lesson?.heading,q.lesson?.body,q.conclusion,
-    q.practice,q.model,objectionText,terms,core,studySearchAliases[q.id]||''
+    q.practice,q.model,objectionText,(q.conversationTips||[]).join(' '),terms,core,studySearchAliases[q.id]||''
   ].filter(Boolean).join(' ').toLowerCase();
 }
 
@@ -518,6 +518,9 @@ function openQuestion(id){
   html += `<section class="learning-phase practice-phase"><div class="phase-badge">3</div><div class="phase-content"><span class="lesson-kicker">PRACTICE · NEW SCENARIO</span><h3>Use what you learned in a different situation</h3><div class="practice-box embedded-practice"><p><strong>${esc(q.practice)}</strong></p><textarea id="practiceInput" placeholder="Write your answer before checking the model..."></textarea><button class="button light practice-btn" id="revealModel">Show one model response</button><div id="modelHolder"></div></div></div></section>`;
 
   html += `<details class="challenges-details"><summary><div><span class="lesson-kicker">COMMON OBJECTIONS</span><strong>Open the main challenges and responses</strong></div><span class="details-mark" aria-hidden="true">+</span></summary><div class="challenges-body">${q.pressure.map(x=>`<div class="pressure"><strong>${esc(x[0])}</strong><span>${esc(x[1])}</span></div>`).join('')}</div></details>`;
+  if(q.conversationTips?.length){
+    html += `<details class="challenges-details conversation-tips-details"><summary><div><span class="lesson-kicker">CONVERSATION TIPS</span><strong>Use this in a real conversation</strong></div><span class="details-mark" aria-hidden="true">+</span></summary><div class="challenges-body conversation-tips-body"><ul>${q.conversationTips.map(t=>`<li>${esc(t)}</li>`).join('')}</ul></div></details>`;
+  }
   if(q.limits) html += `<div class="limitations-note"><span>KEEP THE CLAIM CLEAR</span><p>${esc(q.limits)}</p></div>`;
 
   html += evidenceHtml(q);

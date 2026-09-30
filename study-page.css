@@ -84,3 +84,8 @@ h1{font-size:clamp(2.15rem,6vw,4.1rem);line-height:1.04;margin:10px 0 18px}
   .group-details-content{padding:16px 17px 18px}
   .group-practical{padding:20px 18px}
 }
+
+.conversation-tips{background:var(--soft)}
+.conversation-tips ul{margin:0;padding-left:1.2rem}
+.conversation-tips li{line-height:1.65}
+.conversation-tips li+li{margin-top:.7rem}

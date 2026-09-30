@@ -65,6 +65,9 @@
     if(q.pressure&&q.pressure.length){
       html+=`<section class="study-section objections"><div class="eyebrow">COMMON OBJECTIONS</div><h2>Questions this argument still has to face</h2>${q.pressure.map(x=>"<details><summary>"+esc(x[0])+"</summary><p>"+esc(x[1])+"</p></details>").join("")}</section>`;
     }
+    if(q.conversationTips&&q.conversationTips.length){
+      html+=`<section class="study-section conversation-tips"><div class="eyebrow">CONVERSATION TIPS</div><h2>Use this in a real conversation</h2><ul>${q.conversationTips.map(t=>"<li>"+esc(t)+"</li>").join("")}</ul></section>`;
+    }
     if(q.limits) html+=`<section class="study-section"><div class="eyebrow">KEEP THE CLAIM CLEAR</div><p>${esc(q.limits)}</p></section>`;
     const sources=sourceItems(q);
     if(sources.length){

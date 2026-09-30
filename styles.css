@@ -751,3 +751,9 @@ input,select{padding:11px 12px}
 .build-compare p:last-child{margin-bottom:0}
 .practice-input-needed{outline:2px solid currentColor;outline-offset:2px}
 @media(max-width:640px){.practice-difficulty-control{align-items:stretch}.practice-difficulty-control select{width:100%}.route-debrief-head{align-items:flex-start;flex-direction:column;gap:4px}}
+.conversation-tips-details{background:#f7f3ea}
+.conversation-tips-body{padding:10px 22px 14px}
+.conversation-tips-body ul{margin:0;padding-left:1.15rem}
+.conversation-tips-body li{line-height:1.6;color:var(--ink);font-size:14px}
+.conversation-tips-body li+li{margin-top:.65rem}
+@media(max-width:650px){.conversation-tips-body{padding:9px 17px 13px}}
