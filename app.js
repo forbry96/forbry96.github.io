@@ -646,7 +646,7 @@ function renderDiagnosis(){
   if(!diagnosisRound.length) makeDiagnosisRound();
 
   if(diagnosisPosition >= diagnosisRound.length){
-    card.innerHTML = `<div class="conversation-result"><span class="test-label">ROUND COMPLETE</span><h4>${diagnosisScore}/${diagnosisRound.length} correct</h4><p>Each round gives you one question from each part of the map, so you are practicing the whole course instead of memorizing one kind of prompt.</p><div class="prompt-actions"><button class="button light" type="button" id="newDiagnosisRound">Try another 5</button></div></div>`;
+    card.innerHTML = `<div class="conversation-result"><span class="test-label">ROUND COMPLETE</span><h4>${diagnosisScore}/${diagnosisRound.length} correct</h4><p>Each round gives you one question from each starting point, so you have to keep sorting out what kind of question you are actually hearing.</p><div class="prompt-actions"><button class="button light" type="button" id="newDiagnosisRound">Try another 5</button></div></div>`;
     card.querySelector('#newDiagnosisRound').onclick=()=>{ makeDiagnosisRound(); renderDiagnosis(); };
     return;
   }
@@ -714,7 +714,7 @@ function renderConversationNode(){
     return;
   }
   const options=shufflePracticeChoices(node.options||[]);
-  box.innerHTML=`<div class="conversation-progress">${esc(scenarioLevelName(currentScenario))} · Turn ${scenarioTrail.length+1}</div><div class="conversation-turn"><span>${esc(node.speaker || 'Other person')}</span><p>${esc(node.text)}</p></div><div class="response-choices"><p class="practice-question">What would you say next?</p>${options.map((opt,i)=>`<button type="button" data-response-index="${i}">${esc(opt.text)}</button>`).join('')}</div><p class="practice-microcopy">The choices are intentionally close. You will see the debrief at the end, not after each click.</p>`;
+  box.innerHTML=`<div class="conversation-progress">${esc(scenarioLevelName(currentScenario))} · Turn ${scenarioTrail.length+1}</div><div class="conversation-turn"><span>${esc(node.speaker || 'Other person')}</span><p>${esc(node.text)}</p></div><div class="response-choices"><p class="practice-question">What would you say next?</p>${options.map((opt,i)=>`<button type="button" data-response-index="${i}">${esc(opt.text)}</button>`).join('')}</div><p class="practice-microcopy">I made the choices close on purpose. You will see why each one was graded the way it was at the end.</p>`;
   box.querySelectorAll('[data-response-index]').forEach(button=>button.addEventListener('click',()=>{
     const opt=options[Number(button.dataset.responseIndex)];
     scenarioTrail.push({prompt:node.text,response:opt.text,grade:opt.grade||'mixed',note:opt.note||''});
@@ -783,7 +783,7 @@ function renderBuildSelfCheck(){
   card.querySelector('#showPromptModel').onclick=()=>{
     if(build.studyId) markPracticed(build.studyId);
     const modelTurns=(build.models||[]).map((model,i)=>`<article class="model-turn"><span>${i===0?'Opening':'Follow-up '+i}</span><p class="model-question">${esc(buildQuestionForStep(build,i))}</p><p>${esc(model)}</p></article>`).join('');
-    card.querySelector('#promptModel').innerHTML=`<div class="model build-model"><h4>One way to handle the whole exchange</h4>${modelTurns}<div class="build-compare"><strong>Compare, do not copy.</strong><p>What did your answer include that the model included? What did you miss? Did you say anything that was true but answered the wrong question? Could you say your version naturally in a real conversation?</p><p><strong>Review:</strong> ${esc(build.studies||'')}</p></div></div>`;
+    card.querySelector('#promptModel').innerHTML=`<div class="model build-model"><h4>One way to handle the whole exchange</h4>${modelTurns}<div class="build-compare"><strong>Use the model to compare, not to memorize.</strong><p>What did your answer include that the model included? What did you miss? Did you say anything true that still answered the wrong question? Could you actually say your version in a real conversation?</p><p><strong>Review:</strong> ${esc(build.studies||'')}</p></div></div>`;
     card.querySelector('#showPromptModel').disabled=true;
   };
 }
