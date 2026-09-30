@@ -726,6 +726,10 @@ input,select{padding:11px 12px}
 .practice-difficulty-control select{min-width:180px;border:1px solid rgba(255,255,255,.24);background:rgba(255,255,255,.08);color:inherit;border-radius:10px;padding:10px 12px;font:inherit}
 .practice-difficulty-control select option{color:#111;background:#fff}
 .diagnose-why{margin-top:.7rem;opacity:.9}
+.practice-help-toggle{display:flex;align-items:center;gap:9px;margin-top:18px;font-size:.9rem;cursor:pointer}
+.practice-help-toggle input{width:17px;height:17px;accent-color:#d4ad78}
+.practice-help-toggle span{line-height:1.35}
+
 .conversation-progress{font-size:.78rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;opacity:.72;margin-bottom:10px}
 .practice-microcopy{margin:.85rem 0 0;font-size:.86rem;opacity:.72}
 .route-debrief-list{display:grid;gap:12px;margin:18px 0}
