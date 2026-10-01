@@ -127,11 +127,17 @@ input,select{padding:11px 12px}
 .source-card p{font-size:14px;margin:0 0 16px}
 .source-card a{font-size:12px;color:var(--accent);font-weight:750}
 
-.footer{padding:28px 0 40px;border-top:1px solid var(--line);background:#eeeadf}
-.footer-inner{display:flex;justify-content:space-between;gap:24px;align-items:start}
-.footer-inner div{display:flex;gap:7px;flex-direction:column}
-.footer-inner span,.footer-inner a,.legal-note{font-size:12px;color:var(--muted)}
-.legal-note{margin-top:22px;max-width:900px}
+.footer{padding:34px 0 40px;border-top:1px solid var(--line);background:#eeeadf}
+.footer-inner{display:flex;justify-content:space-between;gap:32px;align-items:center}
+.footer-brand{display:inline-flex;align-items:center;gap:14px;text-decoration:none;min-width:0}
+.footer-logo{width:64px;height:64px;display:block;flex:0 0 64px}
+.footer-brand>span{display:flex;gap:4px;flex-direction:column}
+.footer-brand strong{font-family:var(--serif);font-size:18px;font-weight:500;color:var(--ink)}
+.footer-brand small{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.1em}
+.footer-links{display:flex;gap:9px 18px;flex-wrap:wrap;justify-content:flex-end}
+.footer-links a,.legal-note{font-size:12px;color:var(--muted)}
+.footer-links a:hover{color:var(--ink)}
+.legal-note{margin-top:24px;max-width:900px}
 .modal{position:fixed;inset:0;z-index:50;display:grid;place-items:center}
 .modal.hidden{display:none}
 .backdrop{position:absolute;inset:0;background:rgba(16,17,16,.66)}
@@ -187,7 +193,9 @@ input,select{padding:11px 12px}
   .diagram-card:last-child{grid-column:auto}
   .compact-grid article{min-height:0}
   .controls{flex-direction:column}
-  .footer-inner{flex-direction:column}
+  .footer-inner{flex-direction:column;align-items:flex-start}
+  .footer-links{justify-content:flex-start}
+  .footer-logo{width:56px;height:56px;flex-basis:56px}
   .modal-panel{padding:28px 20px}
   .modal h2{font-size:37px}
   .compare-diagram small{display:none}
@@ -757,3 +765,9 @@ input,select{padding:11px 12px}
 .conversation-tips-body li{line-height:1.6;color:var(--ink);font-size:14px}
 .conversation-tips-body li+li{margin-top:.65rem}
 @media(max-width:650px){.conversation-tips-body{padding:9px 17px 13px}}
+.about-brand{display:flex;align-items:center;gap:12px;margin-bottom:12px}
+.about-brand img{width:60px;height:60px;display:block;flex:0 0 60px}
+.about-brand .about-label{margin:0}
+@media(max-width:680px){
+  .about-brand img{width:52px;height:52px;flex-basis:52px}
+}
