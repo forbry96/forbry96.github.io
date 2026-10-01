@@ -276,7 +276,7 @@ function renderAbout(){
     ? `<div class="contact-actions"><a class="button primary" href="mailto:${esc(contact.email)}?subject=${encodeURIComponent(contact.subject || 'Question')}">Send an email</a><a class="contact-email" href="mailto:${esc(contact.email)}">${esc(contact.email)}</a></div>`
     : `<p class="contact-pending">Contact information has not been published yet.</p>`;
   grid.innerHTML = `
-    <article class="about-main"><div class="about-brand"><img src="/lca-logo.svg?v=20261001-1" alt="" width="60" height="60" aria-hidden="true"><span class="about-label">WHY I BUILT THIS SITE</span></div><h3>${esc(about.title)}</h3><p class="about-mission">${esc(about.mission)}</p></article>
+    <article class="about-main"><div class="about-brand"><img src="/lca-logo.svg?v=20261001-1" alt="" width="60" height="60" aria-hidden="true"><span class="about-label">WHY I BUILT THIS SITE</span></div><h3>${esc(about.title)}</h3><div class="about-mission">${String(about.mission || '').split(/\n\s*\n/).map(p=>`<p>${esc(p)}</p>`).join('')}</div></article>
     <article class="contact-card"><div><span class="about-label">CONTACT</span><h3>Questions, corrections, or source suggestions?</h3><p>Good apologetics should be willing to correct mistakes. Reach out with a factual correction, source recommendation, or question about the project.</p></div>${contactAction}</article>`;
 }
 
