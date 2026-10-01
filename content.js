@@ -5432,7 +5432,7 @@ const conversationTips = [
 
 const about = {
   "title": "Why I built this site",
-  "mission": "I am not a pastor or professor. I am a Christian who spent a lot of time working through apologetics material, checking sources, and trying to understand how all the different pieces fit together. There are a lot of good resources out there, but I often found myself wishing there were something that put the basic case in one clear path and also gave me a chance to practice explaining it in normal conversation. That is really why I built this site. I wanted something that was simple enough to work through without losing the substance of the arguments, while still giving you enough to check the claims for yourself. I still want you to use other resources, check the sources, keep studying, stay in Scripture, and learn in the local church. This site is meant to help with that, not replace it."
+  "mission": "I built Learn Classical Apologetics because I wanted something that would help Christians understand how the case for Christianity fits together. There are a lot of good apologetics resources out there, but I often found myself trying to figure out where to begin, how one argument connects to the next, and how I would actually explain any of it in a normal conversation. That is really what this site is meant to help with.\n\nI am not a pastor or professor. I am a Christian who has spent a lot of time reading apologetics material, checking sources, working through objections, and trying to make sense of the different pieces. As I built the course, I tried to keep each argument doing only the work it can actually do. I also included sources throughout so you can check the claims for yourself instead of just taking my word for it.\n\nThis is a free, independently written project. It is not meant to replace Scripture, deeper study, or learning in the local church. My hope is that someone can use this site to understand how the arguments fit together, check the evidence for themselves, and be better prepared when these questions actually come up."
 };
 
 const contact = {
@@ -5440,4 +5440,3 @@ const contact = {
   "email": "reformedclassicalapologist@gmail.com",
   "subject": "Question about the apologetics site"
 };
-
