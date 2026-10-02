@@ -4012,7 +4012,7 @@ const orientation = {
       "Practice saying it naturally, in your own words.",
       "Know where to find a source when somebody asks, “How do you know that?”"
     ],
-    "sourceLabel": "Comparison: OCCA Foundational Apologetics",
+    "sourceLabel": "Further reading: OCCA on explaining and defending Christianity",
     "sourceUrl": "https://theocca.org/foundational-apologetics/",
     "sources": [
       [
@@ -4034,7 +4034,7 @@ const orientation = {
       "Answer the strongest objection that actually bears on the argument.",
       "If you do not know an answer, say so and look it up."
     ],
-    "sourceLabel": "Comparison: Biola on apologetics as reasoned defense and engagement",
+    "sourceLabel": "Further reading: Biola on giving reasons for Christian belief",
     "sourceUrl": "https://www.biola.edu/talbot/academics/apologetics",
     "sources": [
       [
