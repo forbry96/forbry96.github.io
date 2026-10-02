@@ -632,8 +632,8 @@ const questions = [
           "https://plato.stanford.edu/entries/teleology-biology/"
         ],
         [
-          "NCBI Bookshelf | How the Eye Works",
-          "https://www.ncbi.nlm.nih.gov/books/NBK279248/"
+          "National Eye Institute | How the Eyes Work",
+          "https://www.nei.nih.gov/learn-about-eye-health/healthy-vision/how-eyes-work"
         ],
         [
           "NIH | How the Heart Works",
@@ -717,9 +717,9 @@ const questions = [
         },
         {
           "type": "Biology",
-          "title": "NCBI Bookshelf | How the Eye Works",
+          "title": "National Eye Institute | How the Eyes Work",
           "why": "Describes the work of the cornea, lens, retina, and optic nerve in vision.",
-          "url": "https://www.ncbi.nlm.nih.gov/books/NBK279248/"
+          "url": "https://www.nei.nih.gov/learn-about-eye-health/healthy-vision/how-eyes-work"
         },
         {
           "type": "Physiology",
