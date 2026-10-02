@@ -214,13 +214,13 @@ const questions = [
         {
           "type": "Curriculum",
           "title": "Biola | Introduction to Christian Apologetics",
-          "why": "Includes a full module on worldview, truth, knowledge, and faith.",
+          "why": "Explores objective truth, knowledge, and how evidence supports Christian belief.",
           "url": "https://learn.biola.edu/courses/introduction-to-christian-apologetics"
         },
         {
           "type": "Curriculum",
           "title": "Impact Apologetics | Why I Still Don’t Have Enough Faith to Be an Atheist",
-          "why": "Lesson 2 covers how truth is known, non-contradiction, and the Road Runner tactic for self-defeating claims.",
+          "why": "Explains why contradictory claims cannot both be true and how to recognize self-defeating claims about truth.",
           "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
         },
         {
@@ -1139,7 +1139,7 @@ const questions = [
         {
           "type": "Curriculum",
           "title": "Impact Apologetics | The Moral Argument",
-          "why": "Lesson 7 asks what the standard for morality is and places the argument in the cumulative case for God.",
+          "why": "Asks what makes right and wrong objectively true rather than a matter of personal preference.",
           "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
         },
         {
@@ -1305,7 +1305,7 @@ const questions = [
         {
           "type": "Curriculum",
           "title": "Ligonier | Defending Your Faith",
-          "why": "Course units on logic, sense perception, natural theology, and rational belief.",
+          "why": "Examines logic, perception, and why rational belief matters when making a case for God.",
           "url": "https://learn.ligonier.org/series/defending-your-faith"
         }
       ]
@@ -1421,7 +1421,7 @@ const questions = [
         {
           "type": "Curriculum",
           "title": "Impact Apologetics | Are Miracles Possible?",
-          "why": "Lesson 8 distinguishes miracle from unusual event and addresses major objections.",
+          "why": "Distinguishes a miracle from an unusual event and responds to common objections.",
           "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
         },
         {
@@ -1783,13 +1783,13 @@ const questions = [
         {
           "type": "Curriculum",
           "title": "Impact Apologetics | What Did Jesus Say?",
-          "why": "Lesson 11 addresses who Jesus is and what he taught after the reliability lessons.",
+          "why": "Examines Jesus' teaching and the claims He made about His identity.",
           "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
         },
         {
           "type": "Curriculum",
           "title": "Ligonier | Defending Your Faith: The Deity of Christ",
-          "why": "Course lesson on the unique identity and deity of Christ.",
+          "why": "Discusses Jesus' claims and the case for His deity.",
           "url": "https://learn.ligonier.org/series/defending-your-faith/the-deity-of-christ"
         }
       ]
@@ -1943,7 +1943,7 @@ const questions = [
         {
           "type": "Curriculum",
           "title": "Ligonier | Alive: How the Resurrection of Christ Changes Everything",
-          "why": "Teaching series with a dedicated evidence-for-resurrection lesson.",
+          "why": "Examines the evidence offered for Jesus' resurrection.",
           "url": "https://learn.ligonier.org/series/alive-how-the-resurrection-of-christ-changes-everything"
         }
       ]
@@ -2108,7 +2108,7 @@ const questions = [
         {
           "type": "Curriculum",
           "title": "Ligonier | For Sure: The Evidence for the Resurrection",
-          "why": "Course lesson explicitly devoted to historical evidence for resurrection.",
+          "why": "Examines historical evidence offered for the resurrection of Jesus.",
           "url": "https://learn.ligonier.org/series/alive-how-the-resurrection-of-christ-changes-everything/for-sure-the-evidence-for-the-resurrection"
         }
       ]
@@ -2240,7 +2240,7 @@ const questions = [
         {
           "type": "Curriculum",
           "title": "Impact Apologetics | Jesus Claimed and Proved to Be God",
-          "why": "The curriculum places Jesus’ identity after New Testament reliability and within the cumulative Christian case.",
+          "why": "Connects Jesus' extraordinary claims with the historical case for His identity.",
           "url": "https://impactapologetics.com/high-school/"
         },
         {
@@ -2252,7 +2252,7 @@ const questions = [
         {
           "type": "Curriculum",
           "title": "Ligonier | Defending Your Faith: The Deity of Christ",
-          "why": "Places the identity question within a broader apologetics curriculum.",
+          "why": "Examines Jesus' claims and the case for His deity.",
           "url": "https://learn.ligonier.org/series/defending-your-faith/the-deity-of-christ"
         }
       ]
@@ -2388,13 +2388,13 @@ const questions = [
         {
           "type": "Curriculum",
           "title": "Impact Apologetics | Conclusion: So, What If It’s True?",
-          "why": "The curriculum moves from Jesus’ identity and evidence to the implications of the Christian conclusion.",
+          "why": "Asks what follows if the evidence for Jesus' identity and resurrection is true.",
           "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
         },
         {
           "type": "Curriculum",
           "title": "Ligonier | Understanding the Gospel: Resurrection and Justification",
-          "why": "Course treatment of the theological meaning of resurrection.",
+          "why": "Explains why Jesus' resurrection matters for Christian belief.",
           "url": "https://learn.ligonier.org/series/understanding-the-gospel/resurrection-and-justification"
         }
       ]
@@ -2695,13 +2695,13 @@ const questions = [
         {
           "type": "Curriculum",
           "title": "Impact Apologetics | What Did Jesus Teach About the Bible?",
-          "why": "Includes Jesus’ view of the Bible within the course’s identity-and-authority lesson.",
+          "why": "Examines how Jesus used Scripture and what He taught about its authority.",
           "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
         },
         {
           "type": "Curriculum",
           "title": "Ligonier | The Bible and Apologetics",
-          "why": "Course treatment of Jesus’ authority and His teaching about Scripture.",
+          "why": "Connects Jesus' authority with His teaching about Scripture.",
           "url": "https://learn.ligonier.org/series/defending-your-faith/the-bible-and-apologetics-part-4"
         }
       ]
@@ -3203,13 +3203,13 @@ const questions = [
         {
           "type": "Curriculum",
           "title": "Impact Apologetics | Quick Shots and Q&A",
-          "why": "Uses concise answers and question-driven engagement throughout its apologetics curriculum.",
+          "why": "Offers concise responses to common objections and examples of question-driven conversations.",
           "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
         },
         {
           "type": "Curriculum",
           "title": "Biola | Small Group Introduction to Christian Apologetics",
-          "why": "Discussion-based apologetics curriculum designed for engagement and practice.",
+          "why": "Provides material for discussing Christian arguments and practicing responses in a small group.",
           "url": "https://learn.biola.edu/courses/small-group-curriculum-introduction-to-christian-apologetics"
         }
       ]
@@ -3365,7 +3365,7 @@ const questions = [
         {
           "type": "Curriculum",
           "title": "Ligonier | Contending for the Truth",
-          "why": "Conference curriculum includes a dedicated session on the problem of evil.",
+          "why": "Includes a presentation addressing the problem of evil within the Christian case for God.",
           "url": "https://learn.ligonier.org/series/orlando-2007-national-conference"
         }
       ]
@@ -4938,7 +4938,7 @@ const sourceItems = [
   ],
   [
     "Ligonier | What Is the Canon of Scripture?",
-    "A clear Reformed treatment of apostolicity, early reception, disputed books, and the church’s recognition of the canon.",
+    "Explains apostolic origin, early reception, disputed books, and the church's recognition of the canon.",
     "https://learn.ligonier.org/articles/what-is-the-canon-of-scripture"
   ],
   [
