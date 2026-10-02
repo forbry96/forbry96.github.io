@@ -623,16 +623,12 @@ const questions = [
           "https://openlibrary.org/books/OL24649732M/Natural_theology"
         ],
         [
-          "Stanford Encyclopedia of Philosophy | Teleological Arguments",
-          "https://plato.stanford.edu/entries/teleological-arguments/"
+          "Ligonier | The Teleological Argument",
+          "https://learn.ligonier.org/podcasts/simply-put/the-teleological-argument"
         ],
         [
-          "Internet Encyclopedia of Philosophy | Design Arguments",
-          "https://iep.utm.edu/design-arguments-for-existence-of-god/"
-        ],
-        [
-          "Stanford Encyclopedia of Philosophy | Teleological Notions in Biology",
-          "https://plato.stanford.edu/entries/teleology-biology/"
+          "Stand to Reason | Answering the New Atheists, Part 1",
+          "https://www.str.org/w/answering-the-new-atheists-part-1"
         ],
         [
           "National Eye Institute | How the Eyes Work",
@@ -675,17 +671,13 @@ const questions = [
         "https://openlibrary.org/books/OL24649732M/Natural_theology"
       ],
       [
-        "Stanford Encyclopedia of Philosophy | Teleological Arguments",
-        "https://plato.stanford.edu/entries/teleological-arguments/"
+        "Ligonier | The Teleological Argument",
+        "https://learn.ligonier.org/podcasts/simply-put/the-teleological-argument"
       ],
       [
-        "Internet Encyclopedia of Philosophy | Design Arguments",
-        "https://iep.utm.edu/design-arguments-for-existence-of-god/"
+        "Stand to Reason | Answering the New Atheists, Part 1",
+        "https://www.str.org/w/answering-the-new-atheists-part-1"
       ],
-      [
-        "Stanford Encyclopedia of Philosophy | Teleological Notions in Biology",
-        "https://plato.stanford.edu/entries/teleology-biology/"
-      ]
     ],
     "evidence": {
       "claim": "These sources explain the design inference and document examples of coordinated systems in nature, including vision, circulation, and the water cycle.",
@@ -705,28 +697,10 @@ const questions = [
           "url": "https://learn.ligonier.org/podcasts/simply-put/the-teleological-argument"
         },
         {
-          "type": "Curriculum",
-          "title": "Impact Apologetics | Teleological Argument",
-          "why": "Lesson 4 treats design, the heavens, and human design before moving into evolution.",
-          "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
-        },
-        {
           "type": "Apologetics",
           "title": "Stand to Reason | Answering the New Atheists",
           "why": "Compares design in physics and biology with accidental naturalistic explanations.",
           "url": "https://www.str.org/w/answering-the-new-atheists-part-1"
-        },
-        {
-          "type": "Curriculum",
-          "title": "Biola | Introduction to Christian Apologetics",
-          "why": "Includes evidence for God within a broader natural-theology section.",
-          "url": "https://learn.biola.edu/courses/introduction-to-christian-apologetics"
-        },
-        {
-          "type": "Curriculum",
-          "title": "Ligonier | Defending Your Faith",
-          "why": "Natural-theology course sequence situating design reasoning within the case for God.",
-          "url": "https://learn.ligonier.org/series/defending-your-faith"
         },
         {
           "type": "Biology",
