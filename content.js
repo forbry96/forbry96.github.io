@@ -608,10 +608,13 @@ const questions = [
     "teaser": "Nature is full of parts working together to do something. Does that kind of design point to a mind, or can unguided processes explain it just as well?",
     "lesson": {
       "heading": "From order and purpose to intelligence",
-      "body": "One way to understand the design argument is to think about how we normally recognize the work of a mind. If you find a watch on the ground, you would not call it designed simply because it has a lot of pieces. You would call it designed because those pieces are arranged in a very specific way so that the watch can perform a function.\n\nThat distinction matters. Complexity by itself is not enough. A pile of rocks may be very complicated, but that does not mean the rocks were arranged by an intelligent person. The stronger design argument looks for functionally coordinated organization, where parts are arranged and work together toward a result.\n\nWhen we find similar kinds of organization in nature, intelligent causation deserves to be considered as an explanation. This is not an argument from ignorance. The point is that we should not say, “Science cannot explain this, therefore God did it.” We should instead ask what different causes are actually capable of producing the kind of feature we are looking at.\n\nWe already know from experience that minds can arrange parts toward goals. The question is whether impersonal processes can explain the same feature just as well in the particular case we are considering.\n\nThis general argument will become more specific in the next two lessons. Fine-tuning looks at the physical structure of the universe, while biological design looks at information and machinery inside living cells.",
+      "body": "One way to understand the design argument is to think about how we normally recognize the work of a mind. If you find a watch on the ground, you would not call it designed simply because it has a lot of pieces. You would call it designed because those pieces are arranged in a very specific way so that the watch can perform a function.\n\nThat distinction matters. Complexity by itself is not enough. A pile of rocks may be very complicated, but that does not mean the rocks were arranged by an intelligent person. The stronger design argument looks for functionally coordinated organization, where parts are arranged and work together toward a result.\n\nThere is an old illustration about a tornado sweeping through a junkyard and somehow assembling a working Boeing 747. We do not expect a storm to put all those parts in the right places to make an airplane fly. The comparison helps make a point: having the materials is not the same thing as having them arranged to do a job. But it does not prove that natural processes cannot produce complexity. Evolution by natural selection, for example, is not a single random event like that tornado. We need to keep that distinction clear.\n\nThink about the human eye. The cornea and lens focus light on the retina, which converts it into signals sent to the brain. Or take your heart and lungs. Your lungs bring oxygen into your blood, your heart pumps that blood throughout your body, and the blood carries carbon dioxide back to the lungs. These are real examples of different parts doing different jobs while working together toward a result. A Christian sees that kind of coordination as something that calls for an explanation rather than treating it as unremarkable.\n\nThen consider the universe more broadly. Gravity governs the motions of the planets, and the sun supplies energy that drives processes on Earth, including the water cycle. Water evaporates, forms clouds, and returns as rain. We can describe how these things work using natural laws. That is important. The question for the design argument is why there is an orderly world with laws and conditions capable of supporting such systems at all.\n\nWhen we find similar kinds of organization in nature, intelligent causation deserves to be considered as an explanation. This is not an argument from ignorance. The point is that we should not say, “Science cannot explain this, therefore God did it.” We should instead ask what different causes are actually capable of producing the kind of feature we are looking at.\n\nWe already know from experience that minds arrange parts for a purpose, whether we are talking about a watch or an airplane. So a Christian argues that intelligence gives us a good explanation for the purposeful organization found throughout nature. The alternative is not always pure chance: snowflakes, planetary orbits, and biological adaptations can be explained at least in part by natural processes. Those explanations matter, and we should not ignore them. But explaining the steps within a system does not by itself answer whether the larger order, including the laws and conditions those steps depend on, has a mind behind it. That is why a Christian can see design as a better ultimate explanation, while still taking natural explanations seriously. The real question is how well each explanation accounts for the evidence.\n\nThis general argument will become more specific in the next two lessons. Fine-tuning looks at the physical structure of the universe, while biological design looks at information and machinery inside living cells.",
       "facts": [
         "Classical teleological arguments reason from order or purposive arrangement to mind.",
         "An argument from design should identify features that are relevant to design, not merely point to something complicated.",
+        "The eye's parts coordinate to produce vision, and the heart, lungs, and circulation work together to move oxygen through the body.",
+        "Gravity and the water cycle are examples of order operating through known natural processes; identifying those processes does not settle the philosophical question of an ultimate Designer.",
+        "The tornado-and-747 illustration describes one-step random assembly. It is not an accurate model of evolution by natural selection.",
         "Inference to design is strongest when intelligence is independently known to produce the kind of pattern in question.",
         "Natural explanations should be evaluated rather than ignored; the design inference is a causal comparison."
       ],
@@ -627,6 +630,18 @@ const questions = [
         [
           "Stanford Encyclopedia of Philosophy | Teleological Notions in Biology",
           "https://plato.stanford.edu/entries/teleology-biology/"
+        ],
+        [
+          "NCBI Bookshelf | How the Eye Works",
+          "https://www.ncbi.nlm.nih.gov/books/NBK279248/"
+        ],
+        [
+          "NIH | How the Heart Works",
+          "https://www.nhlbi.nih.gov/health/heart"
+        ],
+        [
+          "NASA | The Water Cycle",
+          "https://science.nasa.gov/earth/earth-observatory/the-water-cycle/"
         ]
       ]
     },
@@ -648,7 +663,7 @@ const questions = [
         "If the argument were only “we do not know how this happened, therefore God,” it would be weak. The design argument is different. It points to positive features that minds are known to produce and asks whether intelligent causation explains those features better than the alternatives."
       ]
     ],
-    "limits": "Keep this lesson general. Fine-tuning and biological design deserve their own evidence rather than being squeezed into one all-purpose design argument.",
+    "limits": "Use the eye, circulation, and the water cycle to show what needs explaining, not as stand-alone proof that natural processes cannot produce order. The tornado-and-747 comparison is an illustration, not a probability calculation. The next two studies look more closely at fine-tuning and biological information.",
     "practice": "Someone says, “Snowflakes form intricate patterns without a designer, so organized patterns never count as evidence of intelligence.” How would you distinguish mere complexity from the kind of organization used in a design inference?",
     "model": "I would agree that complexity by itself does not prove design. Snowflakes are a good example of natural processes producing complex order. The stronger design question is whether the parts are arranged toward a function in a way intelligence is known to produce, and whether design explains that feature better than the alternatives.",
     "sources": [
@@ -666,9 +681,9 @@ const questions = [
       ]
     ],
     "evidence": {
-      "claim": "These sources explain the design argument as an inference from functional organization to intelligent causation, not from complexity alone.",
-      "establishes": "The sources use Paley’s watch and more modern examples to compare design with non-intelligent causes.",
-      "caution": "The feature being explained has to be stated clearly, and rival causes still need to be compared.",
+      "claim": "These sources explain the design inference and document examples of coordinated systems in nature, including vision, circulation, and the water cycle.",
+      "establishes": "The physiology and Earth-science sources establish how these systems work. The philosophical sources explain why some Christians see their organization as evidence of an intelligent cause. The scientific descriptions alone do not establish that inference.",
+      "caution": "The tornado-and-747 comparison is an illustration of one-step chance assembly, not a model of evolution. A natural process can generate order, so design arguments have to evaluate specific alternative explanations.",
       "resources": [
         {
           "type": "Teaching",
@@ -699,6 +714,24 @@ const questions = [
           "title": "Ligonier | Defending Your Faith",
           "why": "Natural-theology course sequence situating design reasoning within the case for God.",
           "url": "https://learn.ligonier.org/series/defending-your-faith"
+        },
+        {
+          "type": "Biology",
+          "title": "NCBI Bookshelf | How the Eye Works",
+          "why": "Describes the work of the cornea, lens, retina, and optic nerve in vision.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK279248/"
+        },
+        {
+          "type": "Physiology",
+          "title": "NIH | How the Heart Works",
+          "why": "Explains circulation and how the heart and lungs move oxygen through the body.",
+          "url": "https://www.nhlbi.nih.gov/health/heart"
+        },
+        {
+          "type": "Earth science",
+          "title": "NASA | The Water Cycle",
+          "why": "Documents how solar energy drives evaporation and the movement of water through Earth's systems.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/the-water-cycle/"
         }
       ]
     },
