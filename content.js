@@ -761,14 +761,14 @@ const questions = [
     "teaser": "The universe has the conditions life needs. Why do those conditions work out?",
     "lesson": {
       "heading": "Why do the conditions for life point toward a Designer?",
-      "body": "Before life could exist on any planet, the universe needed atoms that hold together, stars that last, and the right conditions for complex chemistry. These things depend on the universe's basic settings. Scientists call this fine-tuning: change some of those settings enough, and the universe could no longer support life.\n\nTake the cosmological constant. This is a number in physics connected to the expansion of the universe. If it were much larger and positive, while other conditions stayed the same, space would expand in a way that prevents matter from gathering into galaxies. Other settings affect whether stars can last long enough and whether the elements needed for life can form. So the question is not whether every corner of the universe is friendly to life. It is why the universe allows life to exist anywhere.\n\nWhen scientists change these settings in their models, many of the results could not support life. Some values fall within a narrow range that allows stars or complex chemistry to exist. Yet the settings of our universe work together. If this is the only universe and nobody intended it to support life, that is a remarkable outcome. We cannot honestly attach an exact one-in-so-many chance to it, because we do not know how likely each possible set of settings would be. But we can see that the conditions life depends on are not guaranteed by the models we have.\n\nCould the settings have been unavoidable? Perhaps the laws of physics required them to be exactly what they are. That is a possibility, but no established theory shows that every important setting had to allow life. What about chance? Chance describes how likely something is; it is not a force that sets the values. We would still need to explain how the universe came to have them.\n\nSomeone might suggest that there are many universes with different settings. If enough of them exist, some could support life, and naturally we would find ourselves in one of those. But we have not directly observed any other universes. Some ideas in physics give scientists reasons to explore a multiverse, but we still need evidence that it exists and that its universes differ in the ways this explanation requires. Saying there might be countless universes is not the same as showing that there are.\n\nNow consider what we have already learned. Earlier studies gave us reasons to believe the universe depends on a rational Creator. If God intended to create living beings, He had a reason to give the universe the conditions life needs. That is the positive case for design. It explains why these settings would be there, rather than simply saying they happened to work out.\n\nScience normally studies how things work through natural processes. That is valuable work. But studying those processes does not settle whether God created the universe and established the laws they follow. We do not need to guess what individual scientists believe to make the argument.\n\nI think the conditions needed for life make better sense alongside the evidence for a Creator we have already considered. We are not putting God into something scientists have failed to explain. We are asking which explanation makes better sense of the conditions we actually find, and purposeful creation gives us a reason for them.",
+      "body": "Life depends on more than having a suitable planet. The universe also needs stable atoms, stars that last, and chemistry that can build complex structures. All of these depend on its basic physical settings. Scientists call this fine-tuning because changing some of those values would make life impossible.\n\nTake the cosmological constant, a number related to the expansion of the universe. If it were much larger and positive, while other settings stayed the same, matter would spread out too quickly for galaxies to form. Other settings affect how stars burn and whether they can produce the elements life needs.\n\nScientists can change these values in their models to see what kinds of universes would result. In many of the ranges they examine, only a small fraction of the combinations could support life. Far more would leave no lasting stars, stable atoms, or complex chemistry. Our universe has the conditions that allow all of these things to exist together. If this is the only universe, that is a remarkable outcome to attribute to luck.\n\nSome suggest the settings had to be this way. But we have no established theory showing that every important value had to allow life. Others appeal to chance, which describes how an outcome might happen without explaining what set the values in the first place.\n\nWhat about a multiverse? If many universes exist with different settings, some could support life, and naturally we would find ourselves in one of those. Scientists have reasons to investigate certain multiverse theories, but other universes have not been directly observed. We still need evidence that such universes exist and that their settings actually vary enough to explain what we see.\n\nHere is why I think design explains the evidence better. We have already considered reasons to believe the universe depends on a rational Creator. If God intended to create living beings, He had a reason to establish the conditions life needs. That fits what we find: a universe whose basic settings allow stars, atoms, and chemistry to work together. Fine-tuning gives us another reason to see purpose in creation.",
       "facts": [
-        "Fine-tuning means that some of the universe's basic settings have to fall within particular ranges for complex life to be possible. The word itself does not assume a Designer.",
-        "A much larger positive cosmological constant would prevent galaxies from forming if the other conditions stayed the same. Other settings affect stars and the elements needed for life.",
-        "Some settings have narrow ranges that allow life, but we do not know the exact odds of getting a universe like ours.",
-        "Chance tells us how likely an outcome is. It does not, by itself, cause the universe to have certain settings.",
-        "We have not directly observed other universes. A multiverse explanation needs evidence that other universes exist and that their conditions vary in the right ways.",
-        "If a rational Creator intended life to exist, He had a reason to establish the conditions life needs."
+        "Fine-tuning means that some of the universe's basic settings must fall within particular ranges for complex life to be possible.",
+        "In many of the ranges physicists examine, life-permitting settings occupy only a small part. This comparison within physical models is different from calculating exact odds for the universe.",
+        "A much larger positive cosmological constant would prevent galaxies from forming if other settings stayed the same.",
+        "Chance describes an outcome's likelihood; it does not by itself identify what produced the universe's settings.",
+        "Other universes have not been directly observed. A multiverse explanation needs evidence that they exist and have suitably different conditions.",
+        "A rational Creator who intended life has a reason to establish a universe capable of supporting it."
       ],
       "further": [
         [
@@ -785,36 +785,35 @@ const questions = [
         ]
       ]
     },
-    "why": "Before life could exist on any planet, the universe needed the right conditions for stars, atoms, and chemistry to exist at all. Some of those conditions could not change very much before life would be impossible. Why do they fall within the ranges life needs?",
+    "why": "Some of the universe's basic settings could not change very much before life would be impossible. We will look at one example and ask why the conditions for life are there at all.",
     "core": [
-      "Before life could exist anywhere, the universe needed the right basic conditions for atoms, stars, and complex chemistry.",
-      "Some of those conditions are sensitive to change. For example, a much larger positive cosmological constant would prevent galaxies from forming if other settings stayed the same.",
-      "If this is the only universe, it is remarkable that its settings allow life. We do not know the exact odds, but the conditions still deserve an explanation.",
-      "Chance does not cause anything by itself. A multiverse could help explain why at least one universe supports life, but no other universes have been directly observed.",
-      "A Creator who intended life gives us a positive reason for the universe to have the conditions life needs.",
-      "That explanation builds on the earlier arguments for a Creator. Fine-tuning adds to the case we have already been making."
+      "Before life could exist anywhere, the universe needed the right conditions for atoms, stars, and complex chemistry.",
+      "When scientists vary physical settings in their models, only a small fraction of the combinations they examine can support life in many of the ranges studied.",
+      "For example, a much larger positive cosmological constant would prevent galaxies from forming if other settings stayed the same.",
+      "Calling the result luck leaves us asking what set those values. A multiverse could offer an alternative if many universes with varied settings really exist, but none have been directly observed.",
+      "A Creator who intended life has a reason to establish the conditions life needs. Fine-tuning adds to the case for God made in the earlier studies."
     ],
     "pressure": [
       [
         "“Maybe we just got lucky.”",
-        "Maybe the settings happened to work out, but luck does not tell us what caused them. Some settings could not change very much before life would be impossible. We do not know the exact odds, but that is still worth explaining."
+        "That is one possibility, but only a small fraction of the settings studied in many physical models allow life. If there is only one universe, it is worth asking why those conditions came together."
       ],
       [
         "“There could be countless other universes.”",
-        "If many universes exist with different settings, some might support life. But we have not directly observed any others. Some theories in physics give reasons to explore the idea. We would still need evidence for a multiverse that actually produces the differences needed to explain life."
+        "Possibly. A multiverse with many different settings could help explain why at least one universe supports life. But we have not directly observed another universe. We would need evidence that the proposed multiverse exists and produces the necessary range of conditions."
       ],
       [
         "“Maybe the constants had to be this way.”",
-        "That is possible. If scientists established that all these values had to allow life, it would change the argument. We do not currently have a theory showing that every relevant value had to be what it is."
+        "That would be an important finding. So far, no established theory has shown that all the relevant settings had to allow life."
       ],
       [
         "“A Designer is not a scientific explanation.”",
-        "Science usually investigates natural processes. The question here is why the universe has laws and settings that allow life in the first place. Studying natural processes does not establish that a Creator could not have intended them. We have already considered other reasons to believe a Creator exists."
+        "Science studies how the universe works. We can also ask why its basic conditions allow life in the first place. The arguments for a Creator from the earlier studies give us a reason to consider design here."
       ]
     ],
-    "limits": "Explain what would happen if particular settings changed, but do not give exact odds you cannot support. Other universes have not been directly observed, though some scientific theories lead people to explore that possibility. The argument for design builds on the reasons for a Creator already covered in this course.",
+    "limits": "Keep the difference between a narrow range of life-permitting settings and the exact odds of an undesigned universe clear. We can compare settings within physical models without assigning a precise probability to the universe itself.",
     "practice": "A friend says, “I get that the universe has the right settings for life, but couldn't we have just gotten lucky? And if there are lots of universes, wouldn't one of them have to work? Why bring God into it?” How would you explain why design is a serious explanation of the evidence?",
-    "model": "Getting lucky describes what happened, but it doesn't tell us what gave the universe the settings life needs. Scientists can show that changing some of those settings would prevent galaxies or long-lasting stars from existing. We don't know the exact odds. Maybe there are other universes with different settings, but we haven't directly observed them. We've already looked at reasons to believe in a Creator. If He intended life to exist, that gives us a reason for the universe to have the right conditions. That's why I think design explains more than simply saying everything happened to work out.",
+    "model": "Scientists can change the universe's basic settings in their models. In many of the ranges they study, only a small fraction of the results could support life. Luck doesn't explain what gave our universe the conditions it needs. A multiverse might offer another explanation if those other universes exist, but we haven't directly observed them. We've already considered evidence for a rational Creator, and if God intended life, He had a reason to make the universe capable of supporting it. That's why I think design is the better explanation.",
     "sources": [
       [
         "Luke Barnes | The Fine-Tuning of the Universe for Intelligent Life",
@@ -830,9 +829,9 @@ const questions = [
       ]
     ],
     "evidence": {
-      "claim": "Some of the universe's basic settings fall within ranges that allow complex life. The question is what best explains why those settings allow life.",
-      "establishes": "Luke Barnes reviews the physics behind those ranges. Robin Collins explains the argument for design. The Biola and Reasonable Faith resources explain why we can examine the physical conditions first and then ask whether they point to a Creator. Hans Halvorson discusses why studying natural processes does not, by itself, rule out God.",
-      "caution": "Scientists can show how changes to particular settings affect the possibility of life, but we cannot assign exact odds to every possible universe. Some physics theories suggest a multiverse, but no other universes have been directly observed.",
+      "claim": "When scientists vary physical settings in their models, life-permitting combinations occupy a small part of many of the ranges studied. The argument asks why our universe has the conditions it needs for life.",
+      "establishes": "Luke Barnes reviews why only a small subset of the physical conditions studied in fine-tuning research permit intelligent life. Robin Collins develops the argument for design, and the Biola and Reasonable Faith resources explain the distinction between the evidence and its explanation.",
+      "caution": "Model comparisons show that life-permitting ranges can be small; they do not establish a precise probability for an undesigned universe. Multiverse theories also require evidence beyond the suggestion that other universes might exist.",
       "resources": [
         {
           "type": "Scientific review",
@@ -884,24 +883,24 @@ const questions = [
         "The simple point that we could only find ourselves in a universe where observers can exist."
       ]
     ],
-    "conclusion": "The universe has the conditions needed for stars, chemistry, and life. Some of those conditions could not change very much before life would be impossible. Calling it luck does not explain what produced those settings, and no other universes have been directly observed. We have already looked at reasons to believe in a rational Creator. If God intended life to exist, He had a reason to make a universe that could support it. That is why I think design makes better sense of the evidence than simply saying the conditions happened to work out.",
+    "conclusion": "Only a small fraction of the settings explored in many physical models could support life, yet our universe has the conditions needed for stars, atoms, and chemistry. We have already seen reasons to believe in a rational Creator. If God intended life to exist, He had a reason to establish those conditions. That is why I think fine-tuning adds real weight to the case for design.",
     "thread": "Last time, Jordan asked for something more specific than saying nature looks complicated. Now we look at the universe's basic physical settings and ask why they permit life at all.",
-    "bigIdea": "The universe has the right conditions for life to exist. If God intended to create a universe capable of supporting life, that gives us a reason why those conditions are there in the first place.",
+    "bigIdea": "Only a small fraction of the settings studied in many physical models could support life. If God intended life to exist, He had a reason to make a universe with the conditions life needs.",
     "checkpoints": [
       {
         "after": "core",
-        "question": "Jordan asks, “If we just got lucky, isn't that an explanation?” What's missing?",
-        "answer": "Luck describes the result. It doesn't tell us what gave the universe its settings or why they allow life."
+        "question": "Jordan asks, “What makes the universe's settings unusual?” What would you tell him?",
+        "answer": "In many of the ranges physicists study, only a small fraction of the settings could support life. Most of the combinations they examine cannot."
       },
       {
         "after": "body",
-        "question": "Why is design more than saying the universe happened to get lucky?",
-        "answer": "If a rational Creator intended life to exist, He had a reason to make a universe with the conditions life needs. That also fits the arguments for a Creator we looked at earlier."
+        "question": "Why does a Creator offer an explanation for the universe's conditions?",
+        "answer": "If God intended living beings to exist, He had a reason to establish the conditions life needs. That also fits the arguments for a Creator from earlier studies."
       },
       {
         "after": "facts",
-        "question": "What would we need to know for a multiverse to explain the conditions we see?",
-        "answer": "We would need good reasons to believe other universes exist and have different settings. No other universes have been directly observed."
+        "question": "Why doesn't simply proposing a multiverse settle the question?",
+        "answer": "We would need evidence that other universes exist and have a range of settings that could explain ours. No other universes have been directly observed."
       }
     ],
     "story": {
@@ -914,11 +913,10 @@ const questions = [
       ]
     },
     "conversationTips": [
-      "Start with an example. Explain how a much larger positive cosmological constant would prevent galaxies from forming, then show why that matters for life.",
-      "Do not claim exact odds that you cannot back up. The important point is that some basic settings could not change much before life would be impossible.",
-      "If someone brings up a multiverse, ask what evidence supports it and whether the proposed universes really would have different settings.",
-      "Make the positive case for design. If a rational Creator intended life, He had a reason to establish the conditions life needs. Connect this to the earlier studies.",
-      "Science looks for natural explanations of how things work. That does not settle whether God created the universe."
+      "Use the cosmological constant as your example. Explain how changing its value could prevent galaxies from forming.",
+      "Tell people that only a small fraction of the settings examined in many physical models permit life. Avoid turning that finding into an exact one-in-so-many probability for our universe.",
+      "If someone suggests a multiverse, ask what evidence supports it and whether its universes would have different conditions.",
+      "Keep the positive argument clear: a Creator who intended life had a reason to make a universe capable of supporting it."
     ]
   },
   {
