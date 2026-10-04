@@ -1455,6 +1455,10 @@ const questions = [
       [
         "“Extraordinary claims require extraordinary evidence.”",
         "Extraordinary claims do need strong evidence. What we should not do is turn that into a rule that says no amount of evidence could ever justify a miracle claim. We still have to look at the evidence and compare the explanations."
+      ],
+      [
+        "“Everything that exists is physical. How could a spiritual God exist or perform a miracle?”",
+        "That assumes the very thing we have been examining throughout the course. Science studies the physical world, but studying physical things does not establish that nothing else exists. We have already considered reasons to believe the physical universe depends on a Creator beyond itself. If that case is sound, then a God who created the natural world is certainly capable of acting within it. The question is whether the evidence supports a particular miracle."
       ]
     ],
     "limits": "This lesson establishes why miracles are possible if God exists. The following studies examine the historical evidence for Jesus and the resurrection.",
