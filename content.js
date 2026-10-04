@@ -924,157 +924,173 @@ const questions = [
     "cat": "origins",
     "tag": "God",
     "title": "Does the information and machinery of life point to design?",
-    "teaser": "Cells contain information-rich instructions and coordinated molecular machinery. Are those features better explained by unguided processes or by intelligence?",
+    "teaser": "DNA carries instructions, and living cells contain machinery whose parts work together. Do those features point to a Designer?",
     "lesson": {
-      "heading": "Information, molecular machines, and irreducible complexity",
-      "body": "DNA is chemistry, but saying that does not settle the design question. The order of the bases matters because different sequences have different biological effects. Cells use those sequences in systems that copy DNA, transcribe it, translate it, repair it, regulate it, and build proteins.\n\nThat is what biological information means here. DNA is not literally an English sentence. The point is that the sequence carries functionally significant information that is used by the cell to accomplish specific tasks.\n\nAdditionally, cells contain molecular machines and highly coordinated systems. Michael Behe uses the term irreducible complexity for systems whose basic function depends on several interacting parts. If an essential part is removed, that basic function is lost. This does not mean that every individual part could never have served another purpose. The real question is whether an unguided pathway can explain the origin of the parts, their assembly, their regulation, and a working selectable system.\n\nThere is also a separate issue involving the origin of biological information itself. Natural selection can only operate once you already have a reproducing system with heritable variation. The origin of the first life is not the same question as what happens after life already exists.\n\nThe positive design argument comes from comparing causes. We know that minds produce instructions, codes, machines, and coordinated systems. The question is whether mutation, selection, duplication, co-option, and other unguided processes are sufficient to explain the biological features in question, or whether intelligent causation gives a better explanation.\n\nThe question is what these proposed mechanisms can actually explain. We need to examine the evidence for how a system arose, not assume the issue is settled just because a mechanism has been named.",
+      "heading": "What do DNA and the machinery of the cell tell us?",
+      "body": "Think back to the note about dinner being in the fridge. You would immediately know somebody wrote it. The paper and ink are ordinary materials, but the arrangement of the letters tells you there's a message.\n\nDNA gives us a similar question to think about. It is made of chemicals, yet the order of its four bases carries instructions that cells use to build proteins and control when they are made. Change the sequence and you can change what the cell produces. The cell also has machinery that copies and reads those instructions. There is real, usable information here, carried by physical materials.\n\nWhere did the information needed for the first living cell come from? Stephen Meyer points out that we know minds can produce instructions and arrange information for a purpose. When we know where written messages and computer programs came from, we find minds behind them. He argues that intelligence is the only cause we have actually seen produce large amounts of this kind of functional information starting with nonliving materials. No unguided chemical process has yet been shown to produce the complete information-handling system needed to get the first cell started. That is why Meyer sees the origin of biological information as positive evidence for design.\n\nThere is also remarkable machinery inside cells. Consider the bacterial flagellum, a tiny motor that helps certain bacteria move. It has a rotating motor, a hook, and a long filament that acts like a propeller. Different parts work together to move the bacterium through its surroundings.\n\nBehe describes the flagellum as an example of *irreducible complexity*: its present function depends on several parts working together. Remove an essential part of the motor, and it stops working. This raises a question about how it got there. If the system developed in small steps, what did the earlier versions do, and how did the parts eventually come together as a motor? Natural selection can favor changes that give an organism an advantage, but an account of the flagellum's origin needs to explain that whole process. Behe argues that the arrangement of these parts is evidence of intelligent design.\n\nWe already know that minds can write instructions and put working machines together. The information in DNA and the machinery that uses it are therefore two reasons to infer design. We have also built a case for a rational Creator in the earlier studies. I believe these discoveries inside the cell add to that case.",
       "facts": [
-        "Stephen Meyer emphasizes specified or functionally significant biological information.",
-        "Michael Behe emphasizes irreducibly complex molecular systems as a challenge to gradual construction.",
-        "Mutation, selection, gene duplication, co-option, and other mechanisms are real proposals that must be evaluated in concrete cases rather than dismissed by name.",
-        "Showing that a component has another function does not by itself reconstruct a complete pathway to the integrated system.",
-        "Origin of life asks how the first life and biological information arose; common descent asks how later organisms are historically related."
+        "DNA's four chemical bases occur in sequences that cells use to make proteins and regulate cellular activity. The order matters to their function.",
+        "The note on the fridge is an analogy: DNA carries biological instructions, while a written note communicates meaning between people.",
+        "Stephen Meyer's argument concerns the information required for the first living systems. It is different from asking how DNA changes in organisms that already reproduce.",
+        "The bacterial flagellum is a rotary motor with coordinated parts, including a motor, hook, and filament.",
+        "Michael Behe uses irreducible complexity to describe a system whose present function depends on several interacting parts. He argues this makes its origin through unguided steps harder to explain.",
+        "Scientists have proposed evolutionary histories involving parts that served other functions. Finding another use for a part does not by itself establish the complete history of a working motor.",
+        "The design argument identifies intelligence as a cause known to produce instructions and coordinated machinery."
       ],
       "further": [
         [
-          "Discovery Institute | What Is Intelligent Design?",
-          "https://www.discovery.org/a/3093/"
+          "Stephen C. Meyer | Signature in the Cell: The DNA Enigma",
+          "https://stephencmeyer.org/2012/05/21/signature-in-the-cell-dna-enigma/"
         ],
         [
-          "Pallen & Matzke | From The Origin of Species to the Origin of Bacterial Flagella",
-          "https://pubmed.ncbi.nlm.nih.gov/16953248/"
+          "Michael J. Behe | Evidence for Intelligent Design from Biochemistry",
+          "https://www.discovery.org/a/51/"
         ],
         [
-          "True & Carroll | Gene co-option in physiological and morphological evolution",
-          "https://pubmed.ncbi.nlm.nih.gov/12142278/"
+          "National Human Genome Research Institute | DNA Fact Sheet",
+          "https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet"
         ]
       ]
     },
-    "why": "The design argument becomes much more concrete once we get inside the cell. We are no longer talking only about something looking ordered. We are talking about functional information, molecular machinery, and systems that have to work together for life to function.",
+    "why": "The last two studies looked at order in nature and the conditions that make life possible. Now we can look inside a living cell. The information it uses and the machinery that keeps it working give us something specific to explain.",
     "core": [
-      "Biological design arguments focus especially on functional information and coordinated molecular systems, not merely on the fact that organisms are complicated.",
-      "DNA contains sequences that are used in building proteins and regulating cellular activity; the relevant design question concerns functionally specified sequence information.",
-      "Cells contain molecular machines and networks whose parts must be produced, located, assembled, regulated, and coordinated.",
-      "Irreducible complexity describes a present system whose basic function depends on several interacting parts; it raises a historical question about how that integrated function arose.",
-      "Origin-of-life questions should be kept distinct from later biological evolution because natural selection presupposes a reproducing system.",
-      "The positive design inference rests on the fact that intelligence is a known cause of codes, instructions, machines, and coordinated systems."
+      "DNA contains sequences the cell uses to make proteins and control other functions. The arrangement of the chemical bases matters.",
+      "A written message points to an intelligent writer because we know minds produce meaningful instructions. Stephen Meyer argues from that known ability to the origin of the information needed for the first living cell.",
+      "Living cells also contain coordinated machinery. The bacterial flagellum is a motor whose parts work together to help certain bacteria move.",
+      "Michael Behe calls a system irreducibly complex when its present function depends on several interacting parts. His challenge is to explain how those parts could come together in a working system.",
+      "Intelligence is a cause we know can produce instructions and build working machines. Meyer and Behe argue these features of life provide positive evidence for design.",
+      "Origin-of-life questions are different from explaining changes in life that already exists. We can acknowledge real biological mechanisms without assuming they have explained the first living systems."
     ],
     "pressure": [
       [
-        "“Evolution has mechanisms such as mutation, selection, duplication, and co-option.”",
-        "Those mechanisms are real and need to be taken seriously. The issue is whether a proposed pathway actually explains the information, parts, regulation, assembly, and selectable function needed for the system being discussed."
+        "“DNA is made of chemicals. Why call it information?”",
+        "The chemicals carry instructions that cells actually use. The order of DNA's bases affects which proteins are made and how cellular functions are regulated. Calling that biological information is a description of what the sequences do. The note is an analogy to help us think about its origin, not a claim that DNA contains human sentences."
       ],
       [
-        "“Calling DNA information is just a metaphor.”",
-        "Calling DNA “information” can become sloppy if we only use the word as a metaphor. The claim here is more specific: the sequence has a measurable functional role inside a system that reads and uses it. That is the feature the argument needs to explain."
+        "“Mutation and natural selection can produce new genetic information.”",
+        "Genetic changes can produce new functions in living organisms. Meyer's argument focuses on an earlier question: how did the information and the machinery needed for the first reproducing systems arise from nonliving materials? Explaining changes after reproduction exists does not by itself answer that question."
+      ],
+      [
+        "“Some flagellum parts have other functions.”",
+        "Researchers have proposed that parts were recruited from earlier systems that did different jobs. That is a serious proposal. Behe's challenge concerns how those parts became a coordinated, working motor. The argument is disputed, so we should examine the evidence for each proposed pathway rather than claim an indirect route is impossible."
+      ],
+      [
+        "“Does this prove every biological feature was directly designed?”",
+        "The argument is about the origin of information and coordinated systems. It does not require us to deny that organisms can change or that natural processes explain some biological features. The claim is that intelligence better explains the features examined here."
       ]
     ],
-    "limits": "Focus on the positive evidence from DNA's functional sequences and integrated cellular machinery. Ask what the proposed natural mechanisms can account for in each case.",
-    "practice": "A biology student says, “Once you have mutation and natural selection, there is no design question left.” How would you explain what still has to be accounted for?",
-    "model": "Mutation and natural selection are real mechanisms. But what do they actually explain? The design question is whether those mechanisms are sufficient to explain the first reproducing systems, functional biological information, and tightly coordinated molecular machinery. Naming a mechanism is not the same as showing that it can produce the feature in question.",
+    "limits": "Keep the note as an analogy for biological instructions. Describe what DNA actually does, distinguish the origin of the first living systems from later genetic changes, and present Behe's challenge without claiming every indirect evolutionary route is impossible.",
+    "practice": "A coworker says, “DNA is just chemistry, and mutations can change it. The little motors inside bacteria could have come from earlier parts doing different jobs. Why would any of that point to a Designer?” How would you explain the positive evidence for design?",
+    "model": "I'd start with the information in DNA. The cell uses the order of its bases as instructions to make proteins, and we know intelligence can produce instructions. The harder question is where the information needed for the first living cell came from. Then look at a bacterial flagellum: it has several parts working together as a motor. Behe asks how those parts could have come together through small steps into a working system. Other uses for some parts are worth examining, but we still need an explanation for the whole motor. I think intelligence makes better sense of the information and machinery we find in cells, especially alongside the earlier evidence for a Creator.",
     "sources": [
       [
-        "Discovery Institute | What Is Intelligent Design?",
-        "https://www.discovery.org/a/3093/"
+        "Stephen C. Meyer | Signature in the Cell: The DNA Enigma",
+        "https://stephencmeyer.org/2012/05/21/signature-in-the-cell-dna-enigma/"
       ],
       [
-        "Discovery Institute | Irreducible Complexity",
-        "https://www.discovery.org/f/45693/"
+        "Michael J. Behe | Evidence for Intelligent Design from Biochemistry",
+        "https://www.discovery.org/a/51/"
       ],
       [
-        "Pallen & Matzke | From The Origin of Species to the Origin of Bacterial Flagella",
-        "https://pubmed.ncbi.nlm.nih.gov/16953248/"
+        "Michael J. Behe | A Mousetrap Defended",
+        "https://www.discovery.org/a/446/"
       ],
       [
-        "True & Carroll | Gene co-option in physiological and morphological evolution",
-        "https://pubmed.ncbi.nlm.nih.gov/12142278/"
+        "National Human Genome Research Institute | DNA Fact Sheet",
+        "https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet"
       ]
     ],
     "evidence": {
-      "claim": "These sources give the main Christian design arguments from biological information, molecular machinery, and irreducible complexity.",
-      "establishes": "They also show that serious design arguments have to engage mutation, selection, duplication, co-option, and other proposed mechanisms rather than pretend no mechanisms exist.",
-      "caution": "An unresolved biological question is not automatically evidence for design. The case has to compare actual causal explanations.",
+      "claim": "The order of DNA's bases has biological functions, and cells contain working machinery whose parts must coordinate. The design argument asks which causes can account for the origin of these features.",
+      "establishes": "The National Human Genome Research Institute explains how DNA's sequence is used by cells. Stephen Meyer develops the argument from the origin of biological information, and Michael Behe explains why irreducibly complex molecular machinery presents a challenge for gradual evolutionary accounts.",
+      "caution": "The biological information in DNA is not identical to a human message. Some new genetic functions arise through natural mechanisms in reproducing organisms. Behe's argument is contested, including proposed pathways involving parts with earlier functions; its force depends on the evidence for those pathways.",
       "resources": [
         {
-          "type": "Curriculum",
-          "title": "Impact Apologetics | Evolution Parts 1–2",
-          "why": "Covers biological information, “messages come from minds,” irreducible complexity, and evolutionary claims.",
-          "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
+          "type": "Design argument",
+          "title": "Stephen C. Meyer | Signature in the Cell: The DNA Enigma",
+          "why": "Develops the positive case for intelligence as the source of the information required by the first living systems.",
+          "url": "https://stephencmeyer.org/2012/05/21/signature-in-the-cell-dna-enigma/"
         },
         {
-          "type": "Curriculum",
-          "title": "Discovery Institute | TrueU: DNA by Design",
-          "why": "A lesson-based curriculum on biological information and the origin of life.",
-          "url": "https://www.discovery.org/m/2018/12/Does-God-Exist-Guide-3.0.2.pdf"
-        },
-        {
-          "type": "Intelligent design",
-          "title": "Discovery Institute | Evidence for Intelligent Design from Biochemistry",
-          "why": "Michael Behe’s classic presentation of irreducible complexity and biochemical systems.",
+          "type": "Design argument",
+          "title": "Michael J. Behe | Evidence for Intelligent Design from Biochemistry",
+          "why": "Introduces irreducible complexity and the challenge posed by tightly coordinated biological systems.",
           "url": "https://www.discovery.org/a/51/"
         },
         {
-          "type": "Creationist",
-          "title": "Answers in Genesis | Common Code, Common Designer?",
-          "why": "Connects genetic information and molecular machinery with a common-design framework.",
-          "url": "https://answersingenesis.org/genetics/dna-structure/common-code-common-designer/"
+          "type": "Design argument",
+          "title": "Michael J. Behe | A Mousetrap Defended",
+          "why": "Clarifies his argument about how an entire working system could develop through gradual steps.",
+          "url": "https://www.discovery.org/a/446/"
         },
         {
-          "type": "Curriculum",
-          "title": "Discovery Institute | Intelligent Design Curricula",
-          "why": "Curricula built around biological information, irreducible complexity, and design inference.",
-          "url": "https://www.discovery.org/id/curricula/"
+          "type": "Science reference",
+          "title": "National Human Genome Research Institute | DNA Fact Sheet",
+          "why": "Explains how DNA carries instructions for making proteins and regulating their production.",
+          "url": "https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet"
+        },
+        {
+          "type": "Design response",
+          "title": "Discovery Institute | Responding to Criticisms of Irreducible Complexity",
+          "why": "Addresses the objection that finding another use for one component explains the origin of the whole flagellum.",
+          "url": "https://www.discovery.org/a/24481/"
         }
       ]
     },
     "terms": [
       [
         "Biological information",
-        "Sequence-dependent information in living systems that contributes to a biological function, such as coding for a protein or regulating when a gene is used."
+        "The information carried by DNA sequences that cells use to make proteins and regulate other tasks."
       ],
       [
         "Irreducible complexity",
-        "A disputed design concept describing a system whose present basic function depends on several coordinated parts."
+        "Michael Behe's term for a system whose present basic function depends on several parts working together."
       ],
       [
         "Molecular machine",
-        "A group of molecules that work together to carry out a cellular task."
+        "A group of molecules working together to carry out a task inside a cell."
+      ],
+      [
+        "Bacterial flagellum",
+        "A rotating structure, including a motor, hook, and filament, that allows certain bacteria to move."
       ]
     ],
-    "conclusion": "Biological design asks whether unguided processes are sufficient to explain functional information and coordinated molecular machinery.",
-    "thread": "Now take the design question inside the cell. DNA, molecular machines, and coordinated systems make the issue much more concrete.",
-    "bigIdea": "Life contains functional information and tightly coordinated molecular systems. Intelligence is a known cause of information-rich instructions and integrated machines, so design deserves serious consideration.",
+    "conclusion": "DNA carries instructions that cells use, and molecular machinery such as the bacterial flagellum depends on parts working together. We know intelligence can produce instructions and build coordinated machines. Stephen Meyer and Michael Behe argue that intelligence best explains the origin of these features. Alongside the case for a Creator we have already examined, I believe the information and machinery of life give us further evidence of design.",
+    "thread": "Jordan has seen how the universe's basic conditions allow life. Now he wants to know whether the information and machinery inside living cells give us more specific evidence for design.",
+    "bigIdea": "DNA contains instructions the cell uses, and living cells contain machinery with many working parts. We know intelligence can produce both. These features give us positive reasons to infer a Designer.",
     "checkpoints": [
       {
         "after": "core",
-        "question": "Jordan says DNA cannot support design because it is made of ordinary chemicals. What is he overlooking?",
-        "answer": "The argument concerns the functionally significant order of the sequence and the coordinated cellular system that copies, reads, repairs, and uses it, not whether DNA is chemical."
+        "question": "Why does the note on the fridge help explain the design argument about DNA?",
+        "answer": "We recognize written instructions as the work of a mind. Cells use the order of DNA's bases as biological instructions, so the origin of those instructions is worth examining."
       },
       {
         "after": "body",
-        "question": "What does irreducible complexity actually require an evolutionary explanation to show?",
-        "answer": "A workable historical path to the integrated system, including parts, assembly, regulation, and selectable function, not merely that some parts can do other jobs."
+        "question": "Why does Behe consider the bacterial flagellum a challenge for unguided evolution?",
+        "answer": "Its present function depends on several parts working together. Behe asks how smaller changes could have brought those parts together into a working motor."
       },
       {
         "after": "facts",
-        "question": "Why should origin of life be kept distinct from later evolution?",
-        "answer": "Natural selection operates on reproducing systems. Origin-of-life research asks how the first such system and its information arose in the first place."
+        "question": "Why is the origin of the first living cell a different question from changes in existing organisms?",
+        "answer": "Mutation and natural selection can change living, reproducing organisms. The earlier question asks where the information and machinery needed for the first reproducing system came from."
       }
     ],
     "story": {
-      "title": "What is going on inside the cell?",
+      "title": "A note and a cell",
       "lines": [
-        "A few days later the design question comes up again, this time when Jordan mentions a video he watched about DNA. “People keep calling it information,” he says. “But it is still chemistry, right?”",
-        "You agree that DNA is physical chemistry, then point out that the order of its bases matters because cells use those sequences in systems that copy, read, regulate, and translate them.",
-        "Jordan says, “Fine, but this is also where evolution is supposed to do the work. Mutation, selection, duplication, all of that.”",
-        "He thinks for a second. “So what are you actually claiming design explains that those processes do not?”"
+        "A few days after your conversation about the stars, Jordan mentions a video he watched about DNA. “I understand why you think the universe looks designed,” he says, “but DNA is just chemicals, right?”",
+        "“Suppose you came home and found a note that said, ‘Dinner is in the fridge,’” you say. “Would you think someone wrote it?”",
+        "Jordan laughs. “Obviously. It's a message.” Then he catches your expression. “Okay, I see where you're going. But nobody is writing sentences inside a cell.”",
+        "“Fair enough,” you say. “So what makes the note different from a random arrangement of letters?”",
+        "“It says something that makes sense,” Jordan replies. He pauses. “But cells are alive, and evolution changes DNA. Why would its information mean there was a Designer?”"
       ]
     },
     "conversationTips": [
-      "A biologist may know far more biology than you do. That is fine. Let them explain the proposed pathway or mechanism, then ask what the evidence actually establishes.",
-      "If one irreducible-complexity example gets answered well, give them the point. That example may be weaker than you thought; Christianity does not rise or fall with it.",
-      "At that point, separate the biology from the worldview conclusion. Even a successful evolutionary pathway would not by itself establish philosophical naturalism or show that there is no Creator.",
-      "You are not required to out-biologist a biologist. Understand the claim, ask good questions, admit what you do not know, and remember that the Christian case is much larger than one biological argument."
+      "Start with the note on the fridge. Ask why we recognize a written message as the work of a mind, then explain how the order of DNA's bases matters to what the cell does.",
+      "Keep the argument about the origin of the first living systems clear. Genetic changes in organisms that already reproduce are a different question.",
+      "Use the flagellum as a concrete example. Explain its motor, hook, and filament before introducing Behe's term irreducible complexity.",
+      "If someone mentions parts doing other jobs, ask how the proposed pathway accounts for the parts coming together and working as a motor. Behe's challenge has critics and deserves an evidence-based answer.",
+      "Bring both examples back to the positive case: intelligence is a known cause of purposeful instructions and coordinated machines, and we have already discussed reasons to believe in a rational Creator."
     ]
   },
   {
@@ -3674,11 +3690,15 @@ const jordanResolutions = {
     ]
   },
   "7": {
-    "title": "What needs explaining inside the cell",
+    "title": "What the information and machinery tell us",
     "lines": [
-      "You tell Jordan that the specific evidence is the functionally significant order of DNA and the cellular machinery that copies, reads, regulates, and uses it.",
-      "Mutation, selection, and other mechanisms have to be evaluated for what they can produce. The Christian argument is that intelligence is a known cause of instructions and coordinated systems, and that may explain these features better than unguided processes alone.",
-      "Jordan is quiet for a moment. “I knew cells were complicated, but I hadn't thought much about the instructions and all the machinery that uses them. I still want to know how those systems got there.”"
+      "Jordan comes back to the note. “I know people write notes. I still don't see why that means someone made DNA.”",
+      "“Think about what the cell does with it,” you say. “The order of the bases gives the cell instructions for making proteins. We know minds can produce instructions. Meyer asks where that kind of information came from when life first began.”",
+      "“And the motor you mentioned?” Jordan asks.",
+      "“The flagellum works because its parts fit together and do different jobs. Behe's question is how a process with no plan could build the whole working system. If someone proposes that its parts did other jobs first, we can ask how they got from those jobs to a motor.”",
+      "Jordan looks down the path for a moment. “All right, I see why you think the instructions and that little motor matter. But couldn't there still be some way for those things to develop naturally?”",
+      "“That's worth investigating. But we know intelligence can produce instructions and working machinery, and we've already looked at reasons to believe in a Creator. I think those things belong together.”",
+      "“I still want to read more about that motor,” Jordan says. You nod as you reach the intersection ahead."
     ]
   },
   "8": {
