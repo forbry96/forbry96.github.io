@@ -927,12 +927,13 @@ const questions = [
     "teaser": "DNA carries instructions, and living cells contain machinery whose parts work together. Do those features point to a Designer?",
     "lesson": {
       "heading": "Where did life's information and machinery come from?",
-      "body": "Think back to the note about dinner being in the fridge. You would know somebody wrote it because the letters form a message. We recognize that kind of arrangement as the work of a mind.\n\nNow consider DNA. The order of its four bases matters because cells use those sequences to make proteins and control when they are made. The cell has machinery that copies and reads those instructions. Change the sequence, and you can change what the cell produces. The chemicals carry information that the cell actually uses.\n\nWe know intelligence can produce instructions, write code, and put machines together for a purpose. Stephen Meyer argues that intelligence is the best explanation for the origin of the biological information life depends on. His argument gets at a question that goes further back than changes in existing organisms: where did the information needed for the first living system come from?\n\nAnd how did life begin at all? Living things reproduce and pass information to the next generation. Scientists study whether nonliving chemicals could have formed something capable of doing that. Some proposals involve RNA, a molecule that can carry information and help chemical reactions happen, before modern DNA-based cells existed. Researchers have made progress, but no complete pathway from nonliving chemistry to the first living system has been established. Whatever the earliest system looked like, we still have to explain how it could store information, use it, and reproduce.\n\nThe machinery inside cells gives us another reason to think about design. The bacterial flagellum is a tiny motor that helps certain bacteria move. A rotating motor, a hook, and a long filament work together to propel the bacterium.\n\nMichael Behe uses the term irreducible complexity for systems whose present function depends on several parts working together. Remove an essential part of the flagellum, and the motor stops doing its job. Behe asks how a process without a plan could bring those parts together into a working motor. Researchers have suggested that some parts once served other functions. Those proposals deserve examination, including how the parts could have become the complete working system. Behe argues that the coordinated motor is better explained by design.\n\nBoth examples bring us back to a cause we already know can produce instructions and build working machines: intelligence. We also have reasons, from earlier studies, to believe in a rational Creator. Christians believe that life ultimately comes from the living God who made it. When I look at the information and machinery inside cells, I think design offers the stronger explanation for their origin.",
+      "body": "Think back to the note about dinner being in the fridge. You would know somebody wrote it because the letters form a message. We recognize that kind of arrangement as the work of a mind.\n\nNow consider DNA. The order of its four bases matters because cells use those sequences to make proteins and control when they are made. The cell has machinery that copies and reads those instructions. Change the sequence, and you can change what the cell produces. The chemicals carry information that the cell actually uses.\n\nWe know intelligence can produce instructions, write code, and put machines together for a purpose. Stephen Meyer argues that intelligence is the best explanation for the origin of the biological information life depends on. His argument gets at a question that goes further back than changes in existing organisms: where did the information needed for the first living system come from?\n\nHow did life begin in the first place? Scientists have proposed ways that nonliving chemistry might have led to life, and laboratory experiments have reproduced some possible steps. But no complete proposal has been established as the route life actually took. When researchers run these experiments, they choose the materials and control the conditions. If they eventually build life from nonliving materials, that would show what intelligent scientists accomplished. Their results could also show that certain reactions are possible. They would not, by themselves, establish that those reactions produced life without guidance in the past. We still need to explain how the first system came to store information, use it, and reproduce.\n\nThe machinery inside cells gives us another reason to think about design. The bacterial flagellum is a tiny motor that helps certain bacteria move. A rotating motor, a hook, and a long filament work together to propel the bacterium.\n\nMichael Behe uses the term irreducible complexity for systems whose present function depends on several parts working together. Remove an essential part of the flagellum, and the motor stops doing its job. Behe asks how a process without a plan could bring those parts together into a working motor. Researchers have suggested that some parts once served other functions. Those proposals deserve examination, including how the parts could have become the complete working system. Behe argues that the coordinated motor is better explained by design.\n\nBoth examples bring us back to a cause we already know can produce instructions and build working machines: intelligence. We also have reasons, from earlier studies, to believe in a rational Creator. Christians believe that life ultimately comes from the living God who made it. When I look at the information and machinery inside cells, I think design offers the stronger explanation for their origin.",
       "facts": [
         "DNA's four bases occur in sequences that cells use to make proteins and regulate cellular activity. The order affects what the cell does.",
         "The note on the fridge illustrates why we recognize written messages as the work of intelligence. DNA carries biological instructions, which work differently from human language.",
         "Stephen Meyer's design argument focuses on the origin of the information needed for the first living systems.",
-        "Origin-of-life research investigates how nonliving chemistry might have produced the first reproducing systems. Some proposals involve RNA before modern DNA-based cells.",
+        "Origin-of-life researchers have proposed possible pathways from nonliving chemistry to life, but no complete pathway has been established as the one life actually took.",
+        "Scientists choose and control conditions in laboratory experiments. Successful experiments can show that chemical steps are possible without establishing how life arose in the past.",
         "Mutation and natural selection can alter organisms that already reproduce. Their operation does not by itself establish how life began.",
         "The bacterial flagellum has coordinated parts that work as a motor. Michael Behe argues that such systems are evidence of design.",
         "Researchers have proposed evolutionary pathways involving parts with earlier functions. Those proposals can be examined for how they account for the complete motor."
@@ -951,8 +952,8 @@ const questions = [
           "https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet"
         ],
         [
-          "National Human Genome Research Institute | RNA Fact Sheet",
-          "https://www.genome.gov/about-genomics/educational-resources/fact-sheets/ribonucleic-acid-fact-sheet"
+          "Fletcher, Diggines & Elani | Molecular systems engineering of synthetic cells",
+          "https://pubmed.ncbi.nlm.nih.gov/41495211/"
         ]
       ]
     },
@@ -960,7 +961,7 @@ const questions = [
     "core": [
       "The order of DNA's bases is used by cells to make proteins and regulate other functions. Cells also have machinery that copies and reads that information.",
       "Intelligence is a known cause of written instructions and working machines. Stephen Meyer argues that intelligence best explains the origin of the information needed for the first living systems.",
-      "The origin of life asks how nonliving chemistry could have produced a system capable of storing information, using it, and reproducing. Scientists are investigating possible pathways, including simpler RNA-based systems.",
+      "Researchers have proposed chemical routes to the first living system, but no complete route has been established as the one life actually took. Lab experiments can test possible steps without settling that history.",
       "The bacterial flagellum is a tiny motor with several parts working together. Michael Behe calls systems whose present function depends on such parts irreducibly complex.",
       "Behe argues that the origin of the coordinated motor is better explained by design. Proposed evolutionary pathways need to explain how the parts came to work together.",
       "Taken with the earlier case for a rational Creator, the information and machinery of life give us reasons to infer an intelligent source."
@@ -975,17 +976,21 @@ const questions = [
         "They can produce changes in organisms that already reproduce. The origin-of-life question goes further back: how did the first system capable of preserving and passing on information arise?"
       ],
       [
-        "“Scientists are studying how life could come from nonliving chemicals.”",
-        "Yes. Researchers have proposed several possible pathways, including systems based on RNA. The complete route from nonliving chemistry to the first living system remains an open question. I think intelligence offers a positive explanation worth examining."
+        "“Scientists have proposed ways life might have come from nonliving chemicals.”",
+        "They have, and researchers have demonstrated some chemical steps. What they have not established is a complete pathway shown to be the one by which the first living system actually arose. The origin of information and reproduction still needs explaining."
+      ],
+      [
+        "“If scientists make life in a laboratory, wouldn't that settle the question?”",
+        "It would show that intelligent researchers assembled life under conditions they selected. It might also show that those chemical steps are possible. It would not, on its own, tell us whether the first living thing arose through the same steps without anyone arranging the conditions."
       ],
       [
         "“Some parts of the flagellum could have served other functions.”",
         "That is one proposed route, and it needs to be taken seriously. Behe's argument asks how those parts came together as a functioning motor. The evidence for the complete pathway matters."
       ]
     ],
-    "limits": "The note illustrates an argument from information; DNA is biological rather than written language. A first living system may have been simpler than today's DNA-based cells. Origin-of-life proposals and the evolutionary history of the flagellum should be evaluated on their evidence.",
-    "practice": "A friend says, “Scientists can explain how living things change, and they're studying how chemicals could have become life. Why bring God into it?” How would you explain what the information and machinery inside cells add to the case for a Creator?",
-    "model": "We can see living things change, but I would also ask how the first living system arose. Scientists are studying possible routes from chemistry to life, and that's worth following. The question is how something capable of storing information, using it, and reproducing got started. We know intelligence can produce instructions and put working machines together. When I look at the information in DNA and machinery like the bacterial flagellum, I see good reasons to infer design, especially after the earlier arguments for a Creator.",
+    "limits": "The note illustrates how information can point to intelligence without making DNA identical to human language. Early life need not have resembled today's DNA-based cells. Lab experiments can test whether particular chemical steps work, while the historical route to the first life remains unresolved. Behe's flagellum argument should be examined on its evidence.",
+    "practice": "A friend says, “Scientists are trying to make life from scratch in a lab. If they succeed, won't that show how life began without a Creator?” How would you answer?",
+    "model": "Scientists have proposed ways that chemistry might have led to life, but none has been established as the route the first living system actually took. And when researchers run lab experiments, they are choosing the materials and arranging the conditions. Even if they succeed in making life, that would show what intelligent people accomplished. It could show the chemistry is possible, too. But it would not establish that life first arose that way without guidance. The instructions in DNA and machinery like the flagellum give me positive reasons to infer design, especially alongside the earlier case for a Creator.",
     "sources": [
       [
         "Stephen C. Meyer | Signature in the Cell: The DNA Enigma",
@@ -1004,14 +1009,14 @@ const questions = [
         "https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet"
       ],
       [
-        "National Human Genome Research Institute | RNA Fact Sheet",
-        "https://www.genome.gov/about-genomics/educational-resources/fact-sheets/ribonucleic-acid-fact-sheet"
+        "Fletcher, Diggines & Elani | Molecular systems engineering of synthetic cells",
+        "https://pubmed.ncbi.nlm.nih.gov/41495211/"
       ]
     ],
     "evidence": {
       "claim": "DNA carries biological instructions that cells use, and cells contain coordinated machinery. The origin-of-life question asks how the first system capable of using and passing on information arose.",
-      "establishes": "The NHGRI DNA and RNA fact sheets explain what these molecules do, including the possibility of early RNA-based systems. Stephen Meyer argues from the origin of biological information to intelligence. Michael Behe makes the design argument from coordinated molecular machinery.",
-      "caution": "The early history of life is an active research field; some proposals involve simpler RNA-based systems before DNA. The claim that design best explains biological origins is contested, as is Behe's interpretation of the flagellum. DNA also does not carry meaning in precisely the way a human note does.",
+      "establishes": "The NHGRI DNA fact sheet explains the role of genetic instructions. Fletcher and colleagues review the laboratory work involved in building synthetic cell systems. Stephen Meyer argues that biological information points to intelligence, while Michael Behe argues from coordinated molecular machinery.",
+      "caution": "Scientists have demonstrated possible chemical steps but have not established a complete historical pathway for the first life. A successful laboratory construction could show chemical feasibility under the conditions researchers chose. It would not, by itself, demonstrate an unguided historical origin or prove that intelligence is necessary. The analogy with written language and Behe's interpretation of the flagellum also have limits.",
       "resources": [
         {
           "type": "Design argument",
@@ -1045,9 +1050,9 @@ const questions = [
         },
         {
           "type": "Science reference",
-          "title": "National Human Genome Research Institute | RNA Fact Sheet",
-          "why": "Explains RNA's roles and why some scientists study it as a possible basis for early living systems.",
-          "url": "https://www.genome.gov/about-genomics/educational-resources/fact-sheets/ribonucleic-acid-fact-sheet"
+          "title": "Fletcher, Diggines & Elani | Molecular systems engineering of synthetic cells",
+          "why": "Reviews how researchers design and assemble artificial cell systems in the laboratory and the challenges that remain.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41495211/"
         }
       ]
     },
@@ -1071,10 +1076,6 @@ const questions = [
       [
         "Origin of life",
         "The question of how the first living system arose from what came before it."
-      ],
-      [
-        "RNA",
-        "A molecule that can carry biological information and help some chemical reactions happen. Scientists investigate whether early living systems used RNA before DNA."
       ]
     ],
     "conclusion": "Living cells contain instructions and coordinated machinery, and we know intelligence can produce both. The origin of the first living system raises the question of how information and reproduction began at all. Given the earlier reasons for believing in a Creator, I believe the information and machinery of life point toward intentional design.",
@@ -1088,8 +1089,8 @@ const questions = [
       },
       {
         "after": "body",
-        "question": "Why is the origin of life a different question from changes in living things?",
-        "answer": "Mutation and natural selection work in systems that already reproduce. The origin-of-life question asks how the first system capable of storing information and reproducing began."
+        "question": "If researchers eventually produced life from nonliving materials in a lab, what would they have shown?",
+        "answer": "They would have shown what intelligent researchers could achieve under conditions they arranged, and that certain chemistry can work. It would not, by itself, establish that the first life arose by the same route without guidance."
       },
       {
         "after": "facts",
@@ -1108,11 +1109,11 @@ const questions = [
       ]
     },
     "conversationTips": [
-      "Start with the note on the fridge. Ask why you recognize a writer, then explain how the order of DNA's bases matters to a cell.",
-      "Connect DNA to the bigger question of life's beginning. Modern cells use DNA, but possible earlier systems might have used RNA or something simpler.",
-      "Explain why the origin of life differs from changes in organisms that already reproduce. Do not claim that researchers have no ideas about life's beginning.",
-      "Use the flagellum as a concrete example of how coordinated molecular parts work together. Explain Behe's question without claiming that earlier parts could never have had other jobs.",
-      "Finish with the positive case: intelligence can produce instructions and machinery, and we have already considered reasons to believe in a living Creator."
+      "Start with the note on the fridge. Explain why we recognize a writer, then show how the order of DNA's bases matters to a cell.",
+      "Connect DNA to the first living system. Scientists have suggested pathways from chemistry to life, but none has been established as the route life actually took.",
+      "Explain what laboratory experiments can show. Researchers choose the materials and conditions; even a successful result would not, on its own, establish what happened without guidance in the past.",
+      "Distinguish life's beginning from changes in organisms that already reproduce.",
+      "Use the flagellum to explain Behe's argument from coordinated machinery. Finish by connecting the evidence back to the earlier case for a rational Creator."
     ]
   },
   {
@@ -3716,8 +3717,8 @@ const jordanResolutions = {
     "lines": [
       "Jordan comes back to the note. “So you're saying the order of DNA matters in the same way the words on that note matter?”",
       "“The cell uses the order to do something,” you say. “We know minds can produce instructions. Meyer asks where the information needed for the first living system came from.”",
-      "“People are studying how that might have happened without life already being there, though,” Jordan says.",
-      "“They are, including ideas about simpler systems that may have used RNA. Those are worth examining. I think the ability of intelligence to produce information gives us a good reason to consider design.”",
+      "“But scientists are trying to make life from chemicals in the lab,” Jordan says. “If they succeed, wouldn't that settle it?”",
+      "“It would show what intelligent scientists managed to build, and it could show that the chemistry is possible. But a lab result wouldn't tell us how the first life arose without somebody arranging those conditions. No complete pathway has been established as the one life actually took.”",
       "“And the little motor?”",
       "“The flagellum works because its parts fit together. Behe asks how those parts came together as a working motor. I think its design is another piece of evidence.”",
       "Jordan nods slowly. “I see the connection you're making. I still want to read about the alternatives.” He glances up as you reach the intersection ahead."
