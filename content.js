@@ -884,7 +884,7 @@ const questions = [
       ]
     ],
     "conclusion": "The conditions necessary for life are remarkably specific. Change certain settings of the universe, and life would not be possible. Given the evidence for a Creator we have already considered, I believe intentional design provides a better explanation for why our universe has these conditions.",
-    "thread": "Last time, Jordan asked for something more specific than saying nature looks complicated. Now we look at the universe's basic physical settings and ask why they permit life at all.",
+    "thread": "We have seen why order in nature can point to design. Now look at something more specific: the conditions that make life possible anywhere in the universe.",
     "bigIdea": "The universe has the conditions life needs, even though many other settings would make life impossible. A Creator who intended life to exist would have a reason to make the universe this way.",
     "checkpoints": [
       {
@@ -1056,7 +1056,7 @@ const questions = [
       ]
     ],
     "conclusion": "DNA carries instructions that cells use, and molecular machinery such as the bacterial flagellum depends on parts working together. We know intelligence can produce instructions and build coordinated machines. Stephen Meyer and Michael Behe argue that intelligence best explains the origin of these features. Alongside the case for a Creator we have already examined, I believe the information and machinery of life give us further evidence of design.",
-    "thread": "Jordan has seen how the universe's basic conditions allow life. Now he wants to know whether the information and machinery inside living cells give us more specific evidence for design.",
+    "thread": "The last lesson looked at the conditions that allow life to exist. Now look inside a living cell. Does the information in DNA and the machinery that uses it give us further evidence of design?",
     "bigIdea": "DNA contains instructions the cell uses, and living cells contain machinery with many working parts. We know intelligence can produce both. These features give us positive reasons to infer a Designer.",
     "checkpoints": [
       {
@@ -1211,7 +1211,7 @@ const questions = [
       ]
     ],
     "conclusion": "Objective moral values and duties fit naturally with a perfectly good personal God as their foundation.",
-    "thread": "The world does not only look ordered. It also confronts us with real duties, dignity, guilt, justice, and evil.",
+    "thread": "We have looked at the physical world for evidence of a Creator. Now consider something different: why are some actions truly right or wrong?",
     "bigIdea": "If objective moral values and duties are real, they need an adequate foundation. A perfectly good personal God explains both moral value and moral obligation.",
     "checkpoints": [
       {
@@ -1355,7 +1355,7 @@ const questions = [
       ]
     ],
     "conclusion": "A rational Creator gives a strong explanation for both an intelligible world and minds capable of knowing it.",
-    "thread": "One last Step 1 question turns the spotlight on us: why should human reason be able to know truth at all?",
+    "thread": "We have asked what makes right and wrong real. But what about the minds making those judgments? Why should we trust our reasoning when we search for truth?",
     "bigIdea": "Naturalism has to explain not only why brains produce useful behavior, but why human reasoning is genuinely truth-directed. Theism gives a natural home for rational minds, logical laws, and an intelligible world.",
     "checkpoints": [
       {
@@ -2302,7 +2302,7 @@ const questions = [
       ]
     ],
     "conclusion": "The trilemma challenges the “great teacher only” view, while the resurrection gives the positive reason to call Jesus Lord.",
-    "thread": "If Jesus really made those claims and rose from the dead, “good teacher but not Lord” becomes hard to hold. This lesson puts that tension into a memorable form.",
+    "thread": "If Jesus made the claims we have examined, can we still call Him nothing more than a good moral teacher? The evidence for His resurrection makes that question harder to avoid.",
     "bigIdea": "If Jesus really made the extraordinary claims we have examined, “merely a great moral teacher” is unstable: those claims were knowingly false, sincerely but radically mistaken, or true.",
     "checkpoints": [
       {
@@ -2751,7 +2751,7 @@ const questions = [
       ]
     ],
     "conclusion": "Jesus consistently receives the Old Testament as authoritative revelation from God.",
-    "thread": "Start with the Scriptures Jesus already had. How did he treat the Old Testament?",
+    "thread": "If the risen Jesus speaks with God's authority, we should ask what He believed about Scripture. First, consider the Old Testament—the Scriptures He taught and quoted.",
     "bigIdea": "Jesus consistently treats Israel’s Scriptures as the authoritative Word of God: what Scripture says carries God’s authority, cannot simply be set aside, and must be fulfilled.",
     "checkpoints": [
       {
@@ -3111,7 +3111,7 @@ const questions = [
       ]
     ],
     "conclusion": "The classical case moves from a Creator to the risen Christ and finally to God’s authoritative revelation in Scripture.",
-    "thread": "Now put the chain together from beginning to end. The point is not a slogan; it is a reasoned path from Creator to Scripture.",
+    "thread": "We have followed the argument from a Creator to Jesus' resurrection and His view of Scripture. Now put the pieces together: do they give us good reason to believe God has spoken?",
     "bigIdea": "The cumulative classical-apologetic path reaches a Christian conclusion: the Creator has acted in Jesus, vindicated him by resurrection, and given authoritative revelation through the Scriptures Jesus received and the apostles he authorized.",
     "checkpoints": [
       {
@@ -3263,7 +3263,7 @@ const questions = [
       ]
     ],
     "conclusion": "Good apologetics starts by finding the real point of disagreement and answering that issue clearly.",
-    "thread": "The core classical case is complete. The bonus section now turns from the guided course to application: use the method in real conversations and in whatever additional objections or topics are added here over time.",
+    "thread": "The core case for Christianity is complete. How do we use what we have learned when someone asks a question or raises an objection?",
     "bigIdea": "Good apologetics conversations begin with listening and questions. Find the real claim, discover the person’s reasons, and answer one issue at a time.",
     "checkpoints": [
       {
@@ -3606,7 +3606,7 @@ const questions = [
       ]
     },
     "conclusion": "Observed biological change is real, but it does not establish universal common ancestry or show that unguided mechanisms can explain the information, machinery, and origin of life.",
-    "thread": "Origins can easily become a debate about labels. This lesson keeps the claims separate so the evidence for observed change is not allowed to do more work than it actually does.",
+    "thread": "The design lessons raised questions about the origin of life. This bonus study looks at how observed biological changes, claims about common ancestry, and our worldview fit into that discussion.",
     "bigIdea": "Observed change and natural selection are real. Universal common ancestry and the sufficiency of unguided mechanisms are larger claims, and biological information, molecular machinery, common design, and origin-of-life evidence keep intelligent creation firmly in the discussion.",
     "checkpoints": [
       {
