@@ -664,7 +664,7 @@ const questions = [
     ],
     "limits": "The eye, circulation, and the water cycle give us actual examples of order to consider. The next two studies examine more specific evidence from the universe's physical conditions and from living cells.",
     "practice": "Someone says, “Snowflakes form intricate patterns without a designer, so organized patterns never count as evidence of intelligence.” How would you distinguish mere complexity from the kind of organization used in a design inference?",
-    "model": "When I see parts working together to do something, I have a reason to consider design. Complexity alone isn't enough—snowflakes are a good example of that. I'd look at the particular system and ask which explanation fits the evidence best.",
+    "model": "When I see parts working together to do something, I have a reason to consider design. Complexity alone isn't enough. Snowflakes are a good example of that. I'd look at the particular system and ask which explanation fits the evidence best.",
     "sources": [
       [
         "William Paley | Natural Theology (1802)",
@@ -2791,7 +2791,7 @@ const questions = [
       ]
     ],
     "conclusion": "Jesus consistently receives the Old Testament as authoritative revelation from God.",
-    "thread": "If the risen Jesus speaks with God's authority, we should ask what He believed about Scripture. First, consider the Old Testament—the Scriptures He taught and quoted.",
+    "thread": "If the risen Jesus speaks with God's authority, we should ask what He believed about Scripture. First, consider the Old Testament, the Scriptures He taught and quoted.",
     "bigIdea": "Jesus consistently treats Israel’s Scriptures as the authoritative Word of God: what Scripture says carries God’s authority, cannot simply be set aside, and must be fulfilled.",
     "checkpoints": [
       {
