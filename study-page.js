@@ -71,7 +71,7 @@
     if(q.limits) html+=`<section class="study-section"><div class="eyebrow">KEEP THE CLAIM CLEAR</div><p>${esc(q.limits)}</p></section>`;
     const sources=sourceItems(q);
     if(sources.length){
-      html+=`<section class="study-section sources"><div class="eyebrow">GO DEEPER</div><h2>Sources for further study</h2><ul>${sources.map(r=>"<li><a href='"+esc(r.url)+"' target='_blank' rel='noopener noreferrer'>"+esc(r.title)+"</a>"+(r.why?" — "+esc(r.why):"")+"</li>").join("")}</ul></section>`;
+      html+=`<section class="study-section sources"><div class="eyebrow">GO DEEPER</div><h2>Sources for further study</h2><ul>${sources.map(r=>"<li><a href='"+esc(r.url)+"' target='_blank' rel='noopener noreferrer'>"+esc(r.title)+"</a>"+(r.why?": "+esc(r.why):"")+"</li>").join("")}</ul></section>`;
     }
     html+=`<div class="course-return"><p>Continue in the full course to track your progress and explore more lessons.</p><a class="study-button primary" href="/#questions">Return to full course for more lessons</a></div>`;
     html+=`<nav class="study-pager" aria-label="Previous and next lessons">${prev?"<a href='"+pathFor(prev.id)+"'><span>Previous study</span>"+esc(prev.title)+"</a>":"<div></div>"}${next?"<a href='"+pathFor(next.id)+"'><span>Next study</span>"+esc(next.title)+"</a>":"<div></div>"}</nav>`;
