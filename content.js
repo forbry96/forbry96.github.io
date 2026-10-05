@@ -1123,13 +1123,15 @@ const questions = [
     "title": "If right and wrong are real, what makes them real?",
     "teaser": "Most of us live as if some things are truly right or wrong, even when people or cultures disagree. What can make moral truth bigger than human opinion?",
     "lesson": {
-      "heading": "Objective morality, grounding, and the Euthyphro question",
-      "body": "The moral argument can be stated very simply:\n\n1. If God does not exist, objective moral values and duties do not exist.\n2. Objective moral values and duties do exist.\n3. Therefore, God exists.\n\nThe important word is objective. If torturing an innocent person for amusement is objectively wrong, then it remains wrong even if the person doing it approves of it or even if an entire culture approves of it. That is very different from saying you prefer one flavor of ice cream over another.\n\nThe key distinction is that explaining why someone feels that something is wrong is not the same as explaining why it actually is wrong. Evolution, culture, family, and experience may all help explain how moral beliefs develop, but those explanations do not by themselves tell us whether the beliefs are objectively true.\n\nChristian theism gives a foundation for both moral value and moral duty. Moral value is grounded in God’s perfectly good nature. Moral duties are what we ought or ought not do, and they come from the rightful authority of the Creator.\n\nThe Euthyphro problem asks whether something is good only because God commands it, or whether God has to follow some moral standard above Himself. Christianity does not have to accept either option. God does not invent goodness arbitrarily, and He does not answer to a higher moral law. His commands flow from His necessarily good character.\n\nThe moral argument is not about who can recognize morality or behave morally. It is about what makes morality real in the first place.",
+      "heading": "What makes right and wrong real?",
+      "body": "Think about the driver who nearly hit the cyclist. Jordan said he was wrong. Suppose the driver thought the cyclist deserved it. Or suppose everyone watching agreed with him. Would that make his actions right? Of course not. The cyclist could have been seriously hurt, and the driver had a responsibility to be careful.\n\nThat is what we mean when we say something is objectively right or wrong. We are claiming it is true regardless of what a person or society thinks. The cyclist's life matters, and the driver had a duty to treat him with care. The first is about moral value, and the second is about moral duty.\n\nNow consider where those standards come from. People make laws, and societies develop rules for how we should treat one another. But people and societies can be wrong. If a society approved of mistreating innocent people, we could still say the society was wrong. Its approval would not make the mistreatment good.\n\nWe can also study why people develop moral beliefs. Our families, cultures, and perhaps our biological history help shape them. But knowing why someone believes an action is wrong does not settle whether the action really is wrong. We still have to ask what makes moral goodness and moral obligation real.\n\nChristianity gives an answer. Goodness is grounded in God's perfectly good character. Human beings have worth because they were made by Him. And because He is our Creator, He has rightful authority over how we treat one another. His requirements do not stop applying when someone refuses to acknowledge them. God is more than someone powerful enough to make rules: He is good, and His commands reflect that character.\n\nThat explains both sides of what happened at the intersection. The cyclist matters, and the driver owed him care. I think a perfectly good, personal Creator makes better sense of both than treating morality as something people invent for themselves.\n\nThe moral argument is often put this way:\n\n1. If God does not exist, objective moral values and duties do not exist.\n2. Objective moral values and duties do exist.\n3. Therefore, God exists.\n\nIf the first two statements are true, the conclusion follows. The second fits the way we recognize real wrongdoing, even when others approve of it. The first asks what can ultimately ground that moral reality. Some philosophers argue that moral truths exist without God. I think the God we have already been considering gives the better explanation for both the worth of people and the duties we owe them.\n\nThis argument adds something different to our earlier case. We have looked at the universe and life for signs of a Creator. Now we have reason to believe that Creator is also perfectly good.",
       "facts": [
-        "Moral values concern good and evil; moral duties concern what we ought or ought not do.",
-        "Moral epistemology, how we know moral truths, is different from moral ontology, what makes them true and binding.",
-        "Evolutionary or social explanations of moral feelings do not by themselves tell us whether those moral judgments are objectively true.",
-        "The moral argument complements the earlier arguments by pointing toward a personal and morally perfect foundation of reality."
+        "Objective morality means that some things are truly right or wrong regardless of what an individual or society believes.",
+        "Moral value concerns what is good or bad. Moral duty concerns what we really ought or ought not do.",
+        "People and societies can recognize or reject moral duties; their agreement alone does not determine whether those duties are true.",
+        "Explaining how moral beliefs develop is different from explaining what makes those beliefs true.",
+        "Christian theism grounds goodness in God's perfectly good character and moral duties in His rightful authority as Creator.",
+        "The three-premise moral argument is logically valid, but its first premise is disputed. Some philosophers defend objective morality without God."
       ],
       "further": [
         [
@@ -1146,28 +1148,36 @@ const questions = [
         ]
       ]
     },
-    "why": "The moral argument is not saying that Christians are good people and atheists are bad people. The question is much deeper than that. If some things are really right or wrong regardless of what anyone thinks, what makes those moral truths real and binding?",
+    "why": "The last few lessons looked at the physical world for evidence of design. The moral argument begins with something different. When Jordan says the driver should have acted differently, what makes that obligation real even if the driver disagrees?",
     "core": [
-      "A standard moral argument is: if God does not exist, objective moral values and duties do not exist; objective moral values and duties do exist; therefore God exists.",
-      "“Objective” means true or binding independently of what an individual or society happens to think.",
-      "The argument is about moral ontology, what grounds moral reality, not about whether an atheist can recognize or perform good actions.",
-      "Christian theism grounds moral value in God’s perfectly good nature and moral duties in God’s rightful authority.",
-      "Moral experience gives us prima facie reason to believe that some acts really are right or wrong.",
-      "The Euthyphro dilemma is answered by rejecting both arbitrary commands and a standard above God: goodness is grounded in God’s nature."
+      "We recognize that some actions are wrong even when the person doing them, or the society around them, approves.",
+      "The moral argument asks what makes those judgments objectively true. Moral value concerns what is good; moral duty concerns what we ought to do.",
+      "A society can make rules, but it can also make unjust rules. Its approval cannot, by itself, be the final standard of right and wrong.",
+      "Christianity grounds goodness in God's perfectly good character, gives human beings worth as His creatures, and grounds our duties in His rightful authority.",
+      "The standard moral argument says that if God does not exist, objective moral values and duties do not exist; objective values and duties do exist; therefore God exists. Its conclusion follows if both premises are true.",
+      "Some philosophers defend objective moral truths without God. I think a perfectly good personal Creator gives the stronger explanation of human worth and binding moral duties."
     ],
     "pressure": [
       [
-        "“Evolution explains morality.”",
-        "Evolution may help explain why human beings developed certain moral instincts. That does not answer the whole question. Explaining why someone has a moral belief is different from explaining whether that belief is objectively true and why a person is actually obligated to follow it."
+        "“I don't believe in God, and I still know right from wrong.”",
+        "You can know something is wrong without first settling what makes it wrong. The question here is about the source of moral truth and obligation, not whether someone who rejects God can recognize or do good."
       ],
       [
-        "“Couldn’t moral values just exist as brute facts?”",
-        "You could say moral values simply exist as brute facts, but then you still have to explain why impersonal moral facts create real duties for persons and why human beings have objective worth. A perfectly good personal Creator gives a more unified explanation."
+        "“Evolution explains morality.”",
+        "Evolutionary explanations may help us understand how moral instincts developed. They do not, by themselves, tell us whether a judgment is true or why a person really ought to act on it. Those are the questions this argument raises."
+      ],
+      [
+        "“Couldn't moral truths exist without God?”",
+        "Some philosophers think objective moral truths are basic facts that do not depend on God. That is a genuine alternative. I think it still leaves a question about why those truths carry obligations for persons. A perfectly good personal Creator gives a connected explanation of both goodness and duty."
+      ],
+      [
+        "“Is something good just because God commands it?”",
+        "No. Christianity holds that God is perfectly good by nature. His commands flow from that character, so goodness is neither an arbitrary choice He makes nor a standard above Him that He has to obey. This is the Christian response to the Euthyphro problem."
       ]
     ],
-    "limits": "Do not argue that atheists are immoral or that every moral disagreement proves God. Keep the issue on the grounding of objective value and obligation.",
-    "practice": "A coworker says, “Morality is just whatever a society agrees on. If society changes its rules, right and wrong change too.” How would you respond if some moral duties are objectively real?",
-    "model": "I would ask whether a society could be genuinely wrong about something it strongly approved. If the answer is yes, then social agreement cannot be what makes something morally right. The moral argument asks what makes moral duties objectively binding even when a person or culture rejects them.",
+    "limits": "Explain the difference between knowing right from wrong and what makes it right or wrong. Do not suggest that people without faith cannot behave morally, or that every person who believes in objective morality must already agree with the first premise.",
+    "practice": "A coworker says, “I don't believe in God, but I know it's wrong for a boss to take advantage of employees. Why would we need God to know that?” How would you explain what the moral argument actually claims?",
+    "model": "I agree that you don't have to believe in God to know that exploiting people is wrong. The question is what makes it wrong even if the boss and everyone else approve of it. I think people have real worth because they were made by a perfectly good Creator, and we have duties to one another because He has rightful authority over us. That explains both why taking advantage of someone is wrong and why the duty applies even when a person ignores it.",
     "sources": [
       [
         "Stanford Encyclopedia of Philosophy | Moral Arguments for the Existence of God",
@@ -1179,9 +1189,9 @@ const questions = [
       ]
     ],
     "evidence": {
-      "claim": "These sources distinguish objective moral values and duties from the question of whether unbelievers can behave morally.",
-      "establishes": "Reasonable Faith gives the deductive form, while Biola and Stand to Reason compare theistic grounding with rival accounts.",
-      "caution": "The argument still has to defend objective morality and explain why theism grounds it better than the alternatives.",
+      "claim": "The moral argument moves from our experience of real moral values and obligations to the question of what ultimately grounds them.",
+      "establishes": "Reasonable Faith develops the deductive argument; the Stanford Encyclopedia of Philosophy surveys theistic moral arguments and objective moral theories without God. Biola and Stand to Reason explore the moral-realism debate and objections.",
+      "caution": "The argument's first premise is disputed. Some non-theistic philosophers defend objective moral truths. The lesson argues that a perfectly good Creator provides a better foundation, rather than treating moral realism as exclusive to believers.",
       "resources": [
         {
           "type": "Curriculum",
@@ -1233,39 +1243,42 @@ const questions = [
         "The challenge asking whether something is good because God commands it or God commands it because it is already good. The Christian response here is that goodness is rooted in God's own character."
       ]
     ],
-    "conclusion": "Objective moral values and duties fit naturally with a perfectly good personal God as their foundation.",
-    "thread": "We have looked at the physical world for evidence of a Creator. Now consider something different: why are some actions truly right or wrong?",
-    "bigIdea": "If objective moral values and duties are real, they need an adequate foundation. A perfectly good personal God explains both moral value and moral obligation.",
+    "conclusion": "Some actions really are wrong, and we have duties to one another that do not disappear when people disagree. I believe God's good character and His authority as Creator best explain both our worth and those obligations.",
+    "thread": "We have looked at the universe and living things for evidence of a Creator. Now we're asking a different kind of question: why are some actions right or wrong regardless of what anyone thinks?",
+    "bigIdea": "Some things really are right or wrong even when people disagree. I believe a perfectly good Creator best explains why people have real worth and why moral duties bind us.",
     "checkpoints": [
       {
         "after": "core",
-        "question": "Jordan says the reckless driver was really wrong, not merely annoying. What kind of moral claim has he made?",
-        "answer": "He has made an objective moral claim: that the action was wrong regardless of the driver’s personal opinion about it."
+        "question": "Jordan says the driver was wrong even if everyone approved. What does he mean?",
+        "answer": "He means the driver had a real duty to protect the cyclist, regardless of what the driver or other people thought."
       },
       {
         "after": "body",
-        "question": "Does the moral argument say atheists cannot be good people?",
-        "answer": "No. It asks what grounds objective moral truth and obligation, not who is capable of behaving morally."
+        "question": "Why wouldn't everyone's approval make the driver's actions right?",
+        "answer": "A society can agree on a rule and still be mistaken. Objective morality means the driver's obligation does not depend on public approval."
       },
       {
         "after": "facts",
-        "question": "How does Christian theism answer the Euthyphro dilemma?",
-        "answer": "Goodness is grounded in God’s necessarily good nature, and God’s commands express that nature rather than inventing morality arbitrarily."
+        "question": "How does Christian theism explain both moral value and moral duty?",
+        "answer": "God's perfectly good character grounds what is good, and His rightful authority as Creator grounds our obligations to one another."
       }
     ],
     "story": {
       "title": "That was wrong",
       "lines": [
-        "At an intersection, a driver cuts off a cyclist badly enough that the cyclist has to brake hard to avoid being hit. Instead of apologizing, the driver leans on the horn, shouts through the window, and speeds away.",
-        "Jordan watches the car disappear. “That was wrong. Not just rude, he could have seriously hurt somebody.”",
-        "You ask whether he means he personally dislikes what happened or that the driver really should not have done it even if the driver thought it was fine.",
-        "Jordan gives you a look. “Obviously I mean he really should not have done it. So where does that ‘should’ come from?”"
+        "At the intersection, a driver cuts directly in front of a cyclist. The cyclist brakes hard to avoid him. The driver honks, yells out the window, and speeds away.",
+        "Jordan watches the car go. “He could have seriously hurt that guy. That was wrong.”",
+        "“Would it still be wrong if the driver thought he was justified?” you ask.",
+        "“Of course. It would still be wrong.”",
+        "“What if everyone watching agreed with the driver?”",
+        "Jordan looks at you. “It would still be wrong. So what makes it wrong even when people don't agree?”"
       ]
     },
     "conversationTips": [
-      "This argument is not about whether atheists can be decent people. The issue is what makes moral values and duties objectively true and binding.",
-      "An evolutionary or cultural explanation for why we developed a moral belief answers one question. It does not yet tell us whether the belief is actually true.",
-      "Use a clear moral example before jumping into a politically loaded one. Otherwise the conversation can turn into a fight over the example instead of the argument."
+      "Start with a familiar example, such as the reckless driver. Ask whether the action would still be wrong if everyone approved.",
+      "Explain the difference between something having value and someone having a duty. In this case, the cyclist's life matters and the driver owed him care.",
+      "Do not tell someone they need to believe in God to recognize wrongdoing. Ask what makes the wrongdoing real even when a person denies it.",
+      "If someone argues that moral facts can exist without God, take that seriously. Explain why you think a good personal Creator better accounts for human worth and binding duties."
     ]
   },
   {
@@ -3729,11 +3742,15 @@ const jordanResolutions = {
     ]
   },
   "8": {
-    "title": "Morality is more than preference",
+    "title": "Why that duty matters",
     "lines": [
-      "You make one thing clear first: the argument is not that atheists cannot know right from wrong or behave morally.",
-      "The question is what makes moral value and obligation objective rather than something created by personal preference or social agreement. The Christian answer is that they ultimately rest in the character and authority of a necessarily good personal God.",
-      "Jordan glances back toward the intersection. “So when I said the driver was really wrong, I was saying more than ‘I did not like that.’”"
+      "Jordan glances back toward the intersection. “I get why what the driver did was wrong. But people could just agree on rules for driving safely.”",
+      "“They could,” you say. “But if everyone decided tomorrow that reckless driving was fine, the cyclist's life wouldn't stop mattering. We're asking why his life has value and why the driver owed him care in the first place.”",
+      "“And you think God explains both?”",
+      "“Yes. I believe people have worth because a good Creator made them, and that Creator has the authority to tell us how we should treat one another. The driver's opinion can't cancel that duty.”",
+      "Jordan thinks about it. “I can see why you think that. I'm still not sure God is the only way to explain it.”",
+      "“Some people argue that moral truths exist on their own. I think a good personal God makes better sense of the duties we owe one another.”",
+      "Jordan looks down the road. “I still wonder why people have such a strong sense of right and wrong to begin with.”"
     ]
   },
   "9": {
