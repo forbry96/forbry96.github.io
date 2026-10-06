@@ -1559,7 +1559,7 @@ const questions = [
     "story": {
       "title": "The cemetery",
       "lines": [
-        "A shortcut takes you past an old cemetery. Jordan looks through the fence at the headstones and says, “This is still the part of Christianity I have the hardest time with. Dead people stay dead.”",
+        "A few days later, a shortcut takes you past an old cemetery. Jordan looks through the fence at the headstones. “Okay, say I grant that there may be a Creator. That still does not get me to Christianity. Dead people stay dead.”",
         "You tell him Christianity agrees that dead people do not naturally come back to life.",
         "“Right,” he says. “So when somebody tells me Jesus rose from the dead, my first reaction is that it did not happen.”",
         "He looks back at the cemetery. “Why should believing in a Creator make me take a miracle claim seriously instead of ruling it out?”"
