@@ -3701,71 +3701,67 @@ const jordanResolutions = {
   "3": {
     "title": "Dependent reality points beyond itself",
     "lines": [
-      "You return to Jordan’s suggestion that the universe might simply be the stopping point. You tell him the argument does depend on one important idea: contingent reality should have an explanation for why it exists rather than not.",
-      "Jordan says, “But what if I just deny that when we get to the universe?” You tell him he can, but then he is choosing a brute stopping point rather than explaining the universe. And if he calls the universe necessary instead, he still has to show why this physical reality could not have failed to exist.",
-      "Jordan thinks about it. “I could still say the universe is just a brute fact, though.” He pauses. “But then I guess you'd ask me why that's a good place to stop looking for an explanation.”"
+      "You return to Jordan’s suggestion that the universe might simply be the stopping point. You tell him the argument depends on a basic idea: contingent reality should have an explanation for why it exists rather than not.",
+      "Jordan is quiet for a moment. “I could still call the universe a brute fact, but I see the problem. That feels more like stopping the question than answering it.”",
+      "He nods. “A necessary foundation makes more sense than I expected. But if there is something behind the universe, what else can we know about it?”"
     ]
   },
   "4": {
     "title": "A beginning requires a cause beyond the physical beginning",
     "lines": [
       "You clarify the part Jordan had heard misstated: the Kalam does not say everything has a cause. It says whatever begins to exist has a cause.",
-      "If physical space, time, matter, and energy begin with the universe, then the ultimate cause cannot simply be another physical event sitting earlier inside the same spacetime.",
-      "Jordan says, “Okay, that at least fixes the ‘who caused God?’ objection. I can still argue about whether the universe really began, but now I know what the argument actually says.”"
+      "If physical space, time, matter, and energy began with the universe, then the ultimate cause cannot simply be another physical event sitting earlier inside the same spacetime.",
+      "Jordan nods. “Okay. If the universe really began, then something beyond the physical universe caused it. I can see that. That sounds a lot closer to a Creator than I expected.”",
+      "He looks around the park. “But what makes you think that cause is anything like a mind?”"
     ]
   },
   "5": {
     "title": "The watch is not the evidence",
     "lines": [
-      "Jordan comes back to the watch. “I see why you think somebody made this. But with nature, how do you know something did not just happen through natural processes?”",
-      "You tell him that the watch cannot settle that question. “It shows why we recognize design in something we already know people make. With nature, we have to look at the evidence itself. Think about how the parts of the eye work together, or how the heart and lungs depend on one another.”",
-      "“But natural processes produce order too,” Jordan says.",
-      "“They do. That is why I would not say every complicated thing must have a Designer. I think intelligence is worth considering because we know minds can arrange things for a purpose. The question is whether natural processes alone are enough to explain the order we are looking at.”",
-      "Jordan thinks about it. “I can see why you'd consider design, but I'd need something more specific before agreeing.” You tell him the next step is to look at the basic conditions of the universe that make life possible at all."
+      "Jordan comes back to the watch. “So the point is not that nature is literally a watch. It is that parts arranged toward a purpose are the kind of thing minds can produce?”",
+      "“Exactly. The watch is just an easy example. With nature, we have to look at the actual features and ask what explains them best.”",
+      "You talk through the eye, the heart and lungs, and the difference between mere complexity and parts working together for a job.",
+      "Jordan looks down at the watch again. “I still want something more specific than ‘nature looks designed,’ but I get why purpose would count as evidence for a mind. Design is not as quick an argument as I thought it was.”",
+      "You tell him the next step is to look at the basic conditions of the universe that make life possible at all."
     ]
   },
   "6": {
     "title": "Why design belongs in the explanation",
     "lines": [
-      "“So the cosmological constant is one of the things you'd point to?” Jordan asks. “If it were different, there might not even be galaxies?”",
-      "“That's right. And it's one example of how much the universe depends on its basic settings.”",
-      "Jordan shrugs. “Maybe we got lucky. Or maybe there are a lot of other universes, and this is the one that worked.”",
-      "“Possibly, if those other universes really exist and their conditions vary enough. But luck doesn't set the constants, and we haven't observed another universe. We'd still need to show what produces them.”",
-      "“So why do you think a Creator explains it better?”",
-      "“Because we've already looked at reasons to believe there is a rational Creator. If He intended to make a world where life could exist, these are just the conditions He would need to establish. That gives us a reason for the result instead of simply saying it happened.”",
-      "Jordan looks up again. “I want to check those examples for myself.” You nod. “You should.”"
+      "Jordan goes back over the examples. “So the point is that the universe did not just need to exist. It needed the kind of settings that allow stars, chemistry, and life.”",
+      "“Right. And if those settings could have been different, then it is fair to ask why they fall in the life-permitting range.”",
+      "Jordan looks up at the stars again. “I guess saying ‘we are here, so of course we see a universe that allows life’ only explains why we can notice it. It does not explain why the conditions are there.”",
+      "He pauses. “I still want to know whether a multiverse can explain it, but I can see why design is a serious explanation, especially if there are already other reasons to think a Creator exists.”"
     ]
   },
   "7": {
     "title": "Where did those systems come from?",
     "lines": [
-      "Jordan comes back to the note. “So you're saying the order of DNA matters in the same way the words on that note matter?”",
-      "“The cell uses the order to do something,” you say. “We know minds can produce instructions. Meyer asks where the information needed for the first living system came from.”",
-      "“But scientists are trying to make life from chemicals in the lab,” Jordan says. “If they succeed, wouldn't that settle it?”",
-      "“It would show what intelligent scientists managed to build, and it could show that the chemistry is possible. But a lab result wouldn't tell us how the first life arose without somebody arranging those conditions. No complete pathway has been established as the one life actually took.”",
-      "“And the little motor?”",
-      "“The flagellum works because its parts fit together. Behe asks how those parts came together as a working motor. I think its design is another piece of evidence.”",
-      "Jordan nods slowly. “I see the connection you're making. I still want to read about the alternatives.” He glances up as you reach the intersection ahead."
+      "Jordan comes back to the note. “So the point is not that DNA is literally English. It is that the order carries information the cell actually uses.”",
+      "“Right. And intelligence is something we already know can produce instructions and coordinated machines.”",
+      "You talk through the first-life problem and the flagellum again, including why laboratory work can show what chemistry is capable of without automatically showing that the first life arose without guidance.",
+      "Jordan nods slowly. “The information part is stronger than I expected. I am not ready to say every question in biology is settled, but I see why a mind belongs in the discussion instead of being ruled out from the start.”",
+      "He glances toward the intersection ahead. “So you think the same Creator also explains things that are not physical, like right and wrong?”"
     ]
   },
   "8": {
     "title": "Why that duty matters",
     "lines": [
-      "Jordan glances back toward the intersection. “But couldn't people just agree on traffic rules so nobody gets hurt?”",
-      "“Sure. But if everyone agreed tomorrow that reckless driving was fine, the cyclist would still matter. The driver would still owe him care.”",
-      "“And you think that comes from God?”",
-      "“Yes. I believe God made us and gave us real worth. He's good, and He has authority over us. The driver doesn't get to decide that duty doesn't apply to him.”",
-      "Jordan thinks about it. “I can see why you believe that. I'm still not sure right and wrong need God, though.”",
-      "“Some people argue they don't. I think the Creator we've been talking about makes better sense of it.”",
-      "Jordan turns back toward the road. “Then why do people have such a strong sense of right and wrong to begin with?”"
+      "Jordan glances back toward the intersection. “I could say traffic rules are just agreements. But I do not think that explains everything. If a whole group decided it was fine to hurt somebody for no reason, I would still say they were wrong.”",
+      "“That is the point,” you say. “If some things are really wrong regardless of what anyone thinks, then morality is more than preference.”",
+      "You explain that Christianity grounds goodness in God's character, human worth in the fact that He made us, and moral duty in His authority as Creator.",
+      "Jordan thinks about it. “I do not think I can reduce all of that to opinion. Some things really are wrong. And I can see why a good Creator gives you a foundation for saying that.”",
+      "He looks over. “So if this Creator explains the universe, design, and morality, where does our ability to reason fit?”"
     ]
   },
   "9": {
-    "title": "Why a rational Creator matters",
+    "title": "The case is starting to add up",
     "lines": [
-      "You agree that accurate perception can help an organism survive. But Jordan's question goes further: why should a mind shaped by physical processes be able to reason about logic, mathematics, and truths beyond immediate survival?",
-      "You explain the Christian starting point. If the world comes from a rational Creator and human beings are made to know that world, there is a reason to expect the world to be intelligible and our minds to be capable of understanding it.",
-      "Jordan says, “That fits with what you've been saying about a rational Creator. I'm still not convinced it rules out a natural explanation of reasoning, though.”"
+      "You agree that accurate perception can help an organism survive, but you come back to Jordan's larger question: why should minds produced only for survival also be trustworthy when reasoning about logic, mathematics, morality, or God?",
+      "You explain the Christian view again. If reality comes from a rational Creator and human beings were made to know that world, there is a reason to expect both an intelligible universe and minds capable of understanding it.",
+      "Jordan walks for a few seconds without saying anything. Then he starts counting the pieces off on his fingers. “The universe needs an explanation. It looks like it had a beginning. There are signs of purpose, the conditions for life are strange, life itself has information in it, and I do think some things are really right or wrong.”",
+      "He looks over. “I am not saying every question is answered, but okay. Maybe we really do live in a universe with a Creator.”",
+      "Then he smiles. “But that still does not prove Christianity. How do you get from a Creator to Jesus rising from the dead?”"
     ]
   },
   "10": {
@@ -3773,7 +3769,8 @@ const jordanResolutions = {
     "lines": [
       "You tell Jordan that Christianity agrees with him about the ordinary course of nature: dead people stay dead. A resurrection would be a miracle precisely because nature would not produce it on its own.",
       "If a Creator exists, though, divine action cannot be ruled out simply because it goes beyond what nature does by itself.",
-      "Jordan nods slowly. “Fine. Possible is not the same thing as happened. So now you have to show me why I should think it actually happened.”"
+      "Jordan nods. “All right. If there really is a Creator, I cannot just say a resurrection is impossible before looking at the evidence.”",
+      "He points back toward the cemetery. “So show me why you think it actually happened.”"
     ]
   },
   "11": {
@@ -3781,7 +3778,8 @@ const jordanResolutions = {
     "lines": [
       "You explain that having convictions does not make a source useless. Historians regularly use interested, partisan, religious, and political sources; they just have to evaluate them carefully.",
       "So the New Testament can first be treated as ancient documents making historical claims without assuming inspiration.",
-      "Jordan says, “Fair enough. I wouldn't throw out a source just because the writer had beliefs. But how early are these accounts? And how do we know they're reliable?”"
+      "Jordan nods. “That is fair. Being a Christian source does not automatically make it bad history.”",
+      "Then he asks, “So how early are these accounts, and what makes you think the important claims go back to what actually happened?”"
     ]
   },
   "12": {
@@ -3789,7 +3787,8 @@ const jordanResolutions = {
     "lines": [
       "You tell Jordan that the case does not rest on one title or one sentence. It comes from Jesus’ actions, authority, titles, relationship to the Father, role in judgment, and the way those pieces fit together.",
       "Any one piece can be debated. The question is what best explains the whole pattern.",
-      "Jordan says, “I thought you had one verse in mind where Jesus just says He's God. You're saying we need to look at more than that. But how do we know those claims go back to Jesus Himself?”"
+      "Jordan nods. “That is more than I expected. ‘Jesus was just a good teacher’ sounds harder to maintain if that whole pattern really goes back to Him.”",
+      "He pauses. “Then the resurrection matters even more, because it would tell us whether those claims had anything behind them.”"
     ]
   },
   "13": {
@@ -3797,7 +3796,8 @@ const jordanResolutions = {
     "lines": [
       "You start with the strongest point: Jesus really died by Roman crucifixion. Roman executions were meant to kill, and both Christian and non-Christian sources place His death under Pontius Pilate.",
       "You then look at the burial and empty-tomb claims. The early burial tradition, the named burial in the Gospels, and the accounts of the women finding the tomb empty all deserve to be considered. Together, these facts give the resurrection case a physical setting.",
-      "Jordan says, “All right. If Jesus really died, the survival explanation has a much bigger problem. But what about the people who said they saw Him afterward?”"
+      "Jordan nods. “If Jesus really died, then the survival idea is a lot weaker than I thought. And if the tomb was empty too, something still needs to explain what happened next.”",
+      "He looks at you. “So what about the people who said they saw Him?”"
     ]
   },
   "14": {
@@ -3805,7 +3805,8 @@ const jordanResolutions = {
     "lines": [
       "You go back through the early proclamation and Paul's report of appearances, including to Peter, James, and Paul himself. The earliest Christians proclaimed that Jesus had been raised, and their conviction needs an explanation.",
       "A vision theory may address some experiences, and a moved-body theory may address the tomb. But each has to account for the other pieces too. The resurrection brings the early proclamation, the appearances, and the physical claim together in one explanation.",
-      "Jordan takes another sip of coffee. “I'm not ruling out the other explanations yet. But I get why a theory that only explains the empty tomb isn't enough on its own.”"
+      "Jordan sits with that for a moment. “I still have questions, but the resurrection pulls the pieces together better than I expected. The alternatives all seem to explain one part and leave something else hanging.”",
+      "He looks down at his coffee. “If God really raised Jesus, then I guess the next question is what that says about who Jesus was.”"
     ]
   },
   "15": {
@@ -3813,7 +3814,7 @@ const jordanResolutions = {
     "lines": [
       "You tell Jordan that the trilemma asks what follows if Jesus really made the extraordinary claims described in the Gospels. A person making those claims cannot easily be set aside as merely a wise moral teacher.",
       "There is still a historical question about whether Jesus made those claims. But if He did, the resurrection gives us a positive reason to take His claim to lordship seriously.",
-      "Jordan says, “I never liked being handed only three choices. But if Jesus really said those things, and God really raised Him, then calling Him just a good teacher would be pretty hard to defend.”"
+      "Jordan nods. “Then ‘great teacher and nothing more’ does not really work. If He made those claims and God raised Him, Lord is not just one option on a list. There is evidence pointing that way.”"
     ]
   },
   "16": {
@@ -3821,15 +3822,17 @@ const jordanResolutions = {
     "lines": [
       "You point Jordan back to the setting of the resurrection: Jesus had made extraordinary claims, was rejected and executed, and was then proclaimed raised from the dead. The meaning of the event comes from that history.",
       "If God raised Jesus in the middle of that dispute, then the resurrection is God's vindication of Him. That gives us reason to receive His teaching as authoritative, not merely to acknowledge that something extraordinary occurred.",
-      "Jordan says, “Okay, that's different from just saying a miracle happened. You're saying the resurrection has something to say about who Jesus claimed to be.”"
+      "Jordan nods. “Yes, I see that. If God raised the man who was making those claims, that would be God siding with Jesus.”",
+      "He looks over. “Then what Jesus actually taught matters a lot more than I thought it did.”"
     ]
   },
   "17": {
     "title": "Vindication changes how Jesus’ teaching is received",
     "lines": [
       "You agree that the resurrection does not remove the need to ask what Jesus actually taught.",
-      "But once a teaching is reasonably established as his, the resurrection changes its weight. It is no longer just one ancient religious opinion among many.",
-      "Jordan says, “I think I get that. History still has to tell me what he taught, but the resurrection is why I cannot treat that teaching casually.”"
+      "But once a teaching is reasonably established as His, the resurrection changes its weight. It is no longer just one ancient religious opinion among many.",
+      "Jordan says, “Then I see the step. History still has to tell me what Jesus taught, but if God vindicated Him, I cannot treat that teaching like just another person's opinion.”",
+      "He thinks for a moment. “So what did Jesus actually say about Scripture?”"
     ]
   },
   "18": {
@@ -3837,15 +3840,17 @@ const jordanResolutions = {
     "lines": [
       "You show Jordan how Jesus appeals to Scripture: He responds to temptation with “It is written,” treats Genesis as the Creator speaking, and says that Scripture cannot be broken.",
       "That pattern matters. Jesus receives Israel's Scriptures as authoritative, and He treats their words as God's Word rather than merely quoting them as respected religious literature.",
-      "Jordan says, “Then if I take Jesus' authority seriously, I also have to take seriously what He believed about Scripture.”"
+      "Jordan nods. “Then if I am taking Jesus seriously, I cannot just brush off the Old Testament as ordinary religious writing. That follows.”",
+      "He looks at you. “But Jesus never handed His followers a twenty-seven-book New Testament. How do you get there?”"
     ]
   },
   "19": {
-    "title": "Christ’s authority reaches the New Testament through his apostles",
+    "title": "Christ’s authority reaches the New Testament through His apostles",
     "lines": [
       "You tell Jordan that the authority comes before the later councils. Jesus commissions apostles as authorized witnesses and teachers, so their authority is received from Christ.",
       "The church then has to recognize which writings genuinely belong to that apostolic witness. The fact that some books required more discussion does not mean a council created their authority.",
-      "Jordan says, “I always thought a council sat down and picked the books. You're saying the church was trying to recognize what had already been handed down from the apostles?”"
+      "Jordan nods. “That makes more sense than the idea that a council just invented the Bible. The claim is that the authority starts with Christ and His apostles, and the church recognizes the writings that carry it.”",
+      "He turns toward home. “So now we have gone from a Creator all the way to Scripture.”"
     ]
   },
   "20": {
@@ -3853,8 +3858,9 @@ const jordanResolutions = {
     "lines": [
       "You go back through the chain with Jordan one last time, but more briefly than before. The earlier arguments give reasons for a Creator. If God exists, miracles are possible. The historical case then focuses on Jesus and the resurrection.",
       "If God raised Jesus, Jesus is vindicated. Jesus receives the Old Testament as God’s Word and authorizes apostles whose witness stands behind the New Testament. That is how the argument reaches revelation without assuming inspiration at the beginning.",
-      "Jordan looks down at the Bible. “So that is the route. I still have questions, but I see why the Bible is not just where you started because you already believed it.”",
-      "He sets it back on the shelf, then pauses. “I am probably going to think of five more objections after you leave,” he says with a small laugh. “But maybe next time, instead of just another argument, you can tell me more about Jesus himself.” He hesitates for a second, then adds, “And if you are going to church Sunday, I would come with you.” You smile. “I would like that.”"
+      "Jordan looks down at the Bible. “I started this thinking the Bible was just where you began because you already believed it. Now I can see how you argued your way to it.”",
+      "He sets it back on the shelf. “I still have questions, but Christianity is a lot harder to dismiss than I thought.” He smiles. “And if you are going to church Sunday, I would come with you.”",
+      "You smile. “I would like that.”"
     ]
   }
 };
