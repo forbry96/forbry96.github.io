@@ -1183,7 +1183,7 @@ const questions = [
     ],
     "limits": "Keep knowing right from wrong separate from what makes it right or wrong. The argument is about the foundation of morality, not whether people who reject God can act morally.",
     "practice": "A coworker says, “I don't believe in God, but I know it's wrong for a boss to take advantage of employees. Why would we need God to know that?” How would you explain what the moral argument actually claims?",
-    "model": "You can know it's wrong for a boss to take advantage of someone without believing in God. My question is what makes it wrong, even if the boss and everyone else approve of it. I believe people have real worth because a good Creator made them, and we owe one another certain duties because He has authority over us. That's why I think God gives us a better foundation for right and wrong.",
+    "model": "You do not have to believe in God before you can recognize that it is wrong. The question is what makes it wrong even if the boss and everyone else approve of it. If morality is only opinion, you can say you dislike what the boss is doing, but not that he really ought not do it. Christianity says goodness is rooted in God's character, people have real worth because He made them, and our duties have authority because He is our Creator. That's why I think God gives a better foundation for right and wrong.",
     "sources": [
       [
         "Stanford Encyclopedia of Philosophy | Moral Arguments for the Existence of God",
@@ -1195,7 +1195,7 @@ const questions = [
       ]
     ],
     "evidence": {
-      "claim": "The moral argument moves from our experience of real moral values and obligations to the question of what ultimately grounds them.",
+      "claim": "The moral argument moves from real moral values and obligations to the question of what grounds goodness, human worth, and our duty to do what is right.",
       "establishes": "Reasonable Faith develops the deductive argument; the Stanford Encyclopedia of Philosophy surveys theistic moral arguments and objective moral theories without God. Biola and Stand to Reason explore the moral-realism debate and objections.",
       "caution": "The argument's first premise is disputed. Some non-theistic philosophers defend objective moral truths. The lesson argues that a perfectly good Creator provides a better foundation, rather than treating moral realism as exclusive to believers.",
       "resources": [
@@ -1265,8 +1265,8 @@ const questions = [
       },
       {
         "after": "facts",
-        "question": "How does Christian theism explain both moral value and moral duty?",
-        "answer": "God's perfectly good character grounds what is good, and His rightful authority as Creator grounds our obligations to one another."
+        "question": "How does Christian theism explain goodness, human worth, and moral duty?",
+        "answer": "God's perfectly good character grounds goodness, people have real worth because He made them, and His rightful authority as Creator grounds our obligations to one another."
       }
     ],
     "story": {
