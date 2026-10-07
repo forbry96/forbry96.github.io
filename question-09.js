@@ -113,7 +113,7 @@
     ]
   ],
   "conclusion": "A physical cause can explain why a thought happened without telling us whether the thought is reasonable. Rational thought depends on reasons actually supporting conclusions. A rational Creator gives a strong explanation for why an intelligible world and minds capable of knowing it fit together.",
-  "thread": "We have looked at the universe, life, and morality for reasons to believe in a Creator. But every one of those arguments depends on reason. So before Step 1 ends, ask why our minds should be able to know truth at all.",
+  "thread": "Jordan's last question turns the discussion back on something we have used in every lesson so far: reason itself. If explaining where a belief came from is not the same as showing that it is true, what makes our reasoning trustworthy?",
   "bigIdea": "There is a difference between what causes a thought and what makes the thought reasonable. Naturalism has to explain why reasons can really support conclusions, while theism begins with a rational source for both the world and our minds.",
   "checkpoints": [
     {
@@ -133,11 +133,11 @@
     }
   ],
   "story": {
-    "title": "Can evolution explain our thinking too?",
+    "title": "Why trust the mind doing the reasoning?",
     "lines": [
-      "Jordan is still thinking about the moral discussion when he says, “Could evolution explain that? Creatures that cooperate survive better, so maybe moral instincts develop because they help groups survive.”",
-      "Then he adds, “And why not reason too? Brains that understand what is around them probably survive better than brains that do not.”",
-      "You ask him a different question. “Suppose you told me a bridge was unsafe. If I asked why, and you said, ‘Because neurons fired in my brain,’ would that give me a reason to stay off the bridge?”",
+      "Jordan picks up where you left off. “You said explaining where a moral belief came from does not tell us whether the belief is true. So what about reason itself?”",
+      "He thinks for a second. “If our brains have a physical history, why should I trust them when I use logic, math, or arguments about God?”",
+      "You give him an example. “Suppose you told me a bridge was unsafe. If I asked why, and you said, ‘Because neurons fired in my brain,’ would that give me a reason to stay off the bridge?”",
       "Jordan laughs. “No.”",
       "“What if you said there was a huge crack in one of the supports?”",
       "“That would.”",
