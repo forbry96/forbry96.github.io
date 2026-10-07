@@ -1288,148 +1288,158 @@ const questions = [
       "If someone thinks moral truths can exist without God, ask what gives those truths authority over us and what makes every person objectively valuable. Then explain why you believe a good personal Creator is the better foundation."
     ]
   },
-  {
+    {
     "id": 9,
     "cat": "naturalism",
     "tag": "Reason",
     "title": "Why can we trust reason?",
-    "teaser": "Our brains have physical causes. But what makes a thought reasonable, true, or worth believing?",
+    "teaser": "Our brains are involved whenever we think. But what makes one thought reasonable and another mistaken, and why should our minds be able to discover truth?",
     "lesson": {
-      "heading": "Cause, reason, truth, and reliable minds",
-      "body": "When you reason from one belief to another, you are doing more than describing what happened in your brain. You are saying that one belief gives you a reason for accepting another because there is a real logical connection between them.\n\nThat distinction matters. A physical description of neurons firing may explain part of what is happening in your brain, but it does not by itself explain why one conclusion follows from another or why you ought to believe a conclusion when the evidence supports it.\n\nNatural selection can certainly favor organisms that interact successfully with their environment. Often, having true beliefs is useful for survival. Here is the question, though: is survival alone enough to explain our ability to reason about abstract logic, mathematics, metaphysics, and truths that may have no immediate survival value?\n\nHere is the part a worldview has to explain. The issue is not whether a naturalist can reason well. Of course they can. The issue is why a process shaped by survival should also give us confidence in abstract, truth-directed reasoning. If reality comes from a rational Creator who made rational creatures, that fit makes sense.\n\nAlvin Plantinga develops one version of this concern against evolutionary naturalism. His argument is that if naturalism and evolution together give us a serious reason to doubt the reliability of the cognitive faculties that produced our beliefs, then we also have reason to doubt our belief in naturalism and evolution. The important point is not that naturalists cannot reason. Obviously they can. The question is whether the worldview gives a good explanation for why reason should be reliable.\n\nTheism gives a different starting point. If reality comes from a rational God and human beings are created as rational creatures in an ordered world, then the connection between our minds and the world makes sense. We can still reason badly, but we have a foundation for believing that truth, logic, and rational thought are real and that our minds are generally capable of knowing them.",
+      "heading": "What caused a thought is not the same as what makes it reasonable",
+      "body": "Suppose I ask why you think a bridge is unsafe. You could say, “Because neurons fired in my brain.” That tells me something about what happened physically. It still does not tell me whether you have a good reason to believe the bridge is unsafe. If you say, “Because I saw a large crack in a support beam,” now you have given me a reason.\n\nThat distinction is the main point of this lesson. The cause of a thought and the reason for believing it are not the same answer. When we reason, we do not just notice that one thought came after another. We believe a conclusion because the evidence actually supports it.\n\nConsider two people who both believe the bridge is unsafe. The first person believes it because he saw the cracked support. The second believes it because someone gave him a drug that makes him terrified of bridges. Both beliefs involve activity in a brain. Both have physical causes. But only one person has evidence that the bridge is actually unsafe.\n\nThat shows why the physical cause of a belief cannot be the whole question. A brain scan could tell us what parts of someone's brain were active while he worked through an argument. It could not tell us whether the argument was good. To answer that, we still have to ask whether the evidence supports the conclusion, whether the reasoning follows, and whether a mistake was made.\n\nNow put that inside naturalism. Naturalism says that nature is all there is and that human minds ultimately come from natural physical processes. That does not mean a naturalist cannot reason. Of course naturalists reason. The question is whether physical causes alone are enough to explain the reasoning they are doing.\n\nA naturalist does not normally say, “I believe naturalism because my brain happened to produce that belief.” He gives reasons. He points to evidence. He expects those reasons to count in favor of his conclusion. So naturalism has to explain more than why one brain state caused another. It also has to explain why one belief can really give us a good reason for another. C. S. Lewis and Victor Reppert have pressed versions of this problem.\n\nPlantinga raises a related question. Natural selection favors traits that help organisms survive and reproduce. True beliefs often help with that, so survival and truth can overlap. But they are not exactly the same thing. Plantinga argues that if naturalism and evolution give us reason to doubt whether our minds are generally reliable, that doubt would also reach our belief in naturalism. It is a related argument, but the main point here is simpler: explaining what caused a thought is not the same as explaining why the thought is reasonable.\n\nChristianity gives a direct answer. Reality ultimately comes from a rational God. He made an ordered world and creatures capable of knowing it. On that view, it is not surprising that logic applies, that evidence can point toward truth, or that human minds can understand the world around them. We can reason badly, but there is a reason to expect our minds to be capable of truth at all.\n\nSo the point is not that brains do not matter. They do. It is that describing what happens in the brain does not by itself tell us whether the reasoning is good. Theism gives us a rational source for both the world we are trying to understand and the minds doing the understanding.",
       "facts": [
-        "The argument distinguishes evolutionary naturalism from evolution considered within a theistic worldview.",
-        "Plantinga’s argument is mainly a defeater argument: it aims to show that evolutionary naturalism cannot be rationally affirmed if it undermines cognitive reliability.",
-        "The success of science itself assumes that observation, memory, inference, and mathematics are generally truth-conducive.",
-        "Theism explains both an intelligible world and minds intended to know truth."
+        "A physical cause of a belief is not the same thing as a good reason for believing it.",
+        "Two beliefs can both have physical causes even when only one is supported by evidence.",
+        "Lewis and Reppert challenge naturalism to explain rational inference, not merely the physical process of thought.",
+        "Plantinga raises a related question about whether evolutionary naturalism gives us enough reason to trust our cognitive faculties.",
+        "Theism gives a positive explanation for an intelligible world and minds capable of knowing truth."
       ],
       "further": [
         [
-          "Stanford Encyclopedia of Philosophy | Naturalism",
-          "https://plato.stanford.edu/entries/naturalism/"
+          "Victor Reppert | The Argument from Reason",
+          "https://www.lewissociety.org/reason/"
         ],
         [
-          "Internet Encyclopedia of Philosophy | Epistemology",
-          "https://iep.utm.edu/epistemo/"
+          "Reasonable Faith | Plantinga's Evolutionary Argument against Naturalism",
+          "https://www.reasonablefaith.org/writings/question-answer/plantingas-evolutionary-argument-against-naturalism-707/"
         ]
       ]
     },
-    "why": "Every argument in this course depends on reason, which means reason itself should be part of the worldview discussion. If our minds are capable of discovering truth, logic, and mathematics, our worldview should be able to explain why.",
+    "why": "Every argument in this course depends on our ability to follow reasons and evidence. So before Step 1 ends, it makes sense to ask why we should expect our minds to be capable of knowing truth in the first place.",
     "core": [
-      "Reason is not merely the occurrence of thoughts; it involves beliefs being supported by other beliefs because the support is logically relevant.",
-      "A causal explanation of why a brain state occurred is different from a rational explanation of why a conclusion is true.",
-      "Naturalism therefore has to explain why cognitive faculties shaped for survival are reliable enough for truth-directed reasoning.",
-      "Plantinga’s evolutionary argument against naturalism argues that if naturalism and evolution undermine confidence in our cognitive reliability, they also undermine confidence in naturalism itself.",
-      "Theism offers a positive explanation: a rational Creator made an orderly world and creatures capable of knowing it.",
-      "This is not an argument against biological change as such; the target is evolutionary naturalism."
+      "A cause explains why a thought happened. A reason explains why the thought is worth believing.",
+      "Two people can reach the same belief through physical brain processes while only one has evidence that actually supports the belief.",
+      "Naturalism therefore has to explain more than thoughts occurring. It has to explain why reasons can actually support conclusions.",
+      "Plantinga raises a related reliability question about naturalism and evolution, but it is not the main argument of this lesson.",
+      "Theism gives a positive answer: a rational Creator made an intelligible world and rational creatures capable of knowing it."
     ],
     "pressure": [
       [
-        "“Evolution favors accurate thinking because false beliefs get you killed.”",
-        "Accurate beliefs can certainly aid survival, which gives the naturalist something to work with. The remaining question is whether survival selection by itself explains our ability to know abstract truths and whether a physical cause of a belief is the same thing as a rational justification for believing it."
+        "“Brain science explains thought.”",
+        "Brain science can explain a great deal about what happens physically while we think. The argument is asking a different question. Does describing the brain also tell us whether the thought was reasonable? A brain process can produce either a well-supported belief or a mistaken one, so we still have to ask whether the evidence actually supports the conclusion."
       ],
       [
-        "“Christians reason badly too.”",
-        "Of course Christians reason badly too. The argument is not that believing in God makes a person infallible. It is asking which worldview gives the better explanation for why rational standards exist and why human minds are generally able to discover truth."
+        "“Evolution favors accurate thinking. Animals with false beliefs die.”",
+        "True beliefs can certainly help an organism survive. Plantinga's point is that survival and truth are not exactly the same thing. More importantly for the main argument here, even a reliable brain still leaves the question of why evidence can count as a good reason for one conclusion rather than another."
+      ],
+      [
+        "“Are you saying atheists cannot reason?”",
+        "No. Atheists and naturalists reason just as Christians do. The question is not who can reason. It is which worldview gives the better explanation for the rational ability everyone is already using."
       ]
     ],
-    "limits": "Treat this as a worldview-level argument, not as proof that every evolutionary account of cognition fails. Its force is the fit between reason, truth, and a rational source of reality.",
-    "practice": "Someone says, “Every belief is nothing more than brain chemistry, so reasoning is just neurons causing other neurons to fire.” How would you explain the question the argument from reason raises?",
-    "model": "There is a difference between what physically causes a belief and why we should think it is true. Describing what neurons did may explain how a thought occurred, but it does not tell me whether the conclusion actually follows from the evidence. The question is whether a worldview can explain minds that really know logical and mathematical truth.",
+    "limits": "This is not an argument against neuroscience, and it does not claim that every human thought is reliable. Brains are involved in reasoning, and people make mistakes. The question is whether a physical description alone explains rational inference and our ability to know truth.",
+    "practice": "Someone says, “Once neuroscience explains what happens in the brain when we think, there is nothing else left to explain.” How would you respond in ordinary language?",
+    "model": "Neuroscience can explain a lot about what happens physically while we think. But that is not the same as showing whether a thought is reasonable. If I think a bridge is unsafe because I saw a cracked support, the crack gives me evidence. If a drug simply makes me afraid of bridges, that belief still has a physical cause, but it does not give me evidence that the bridge is unsafe. I think a rational Creator gives a better explanation for why our minds can actually recognize reasons and discover truth.",
     "sources": [
       [
-        "Stanford Encyclopedia of Philosophy | Naturalism",
-        "https://plato.stanford.edu/entries/naturalism/"
+        "Victor Reppert | The Argument from Reason",
+        "https://www.lewissociety.org/reason/"
       ],
       [
-        "Reasonable Faith | Plantinga’s Evolutionary Argument against Naturalism",
+        "Reasonable Faith | Plantinga's Evolutionary Argument against Naturalism",
         "https://www.reasonablefaith.org/writings/question-answer/plantingas-evolutionary-argument-against-naturalism-707/"
       ]
     ],
     "evidence": {
-      "claim": "These sources ask whether naturalism can explain rational inference and trustworthy cognitive faculties.",
-      "establishes": "Plantinga’s evolutionary argument and Lewis’s argument from reason take different routes, but both press the question of why minds should be truth-directed.",
-      "caution": "These are philosophical arguments, not empirical disproofs of biological evolution.",
+      "claim": "The argument from reason asks whether explaining the physical causes of thought is enough to explain rational inference: believing something because the evidence actually supports it.",
+      "establishes": "Lewis and Reppert focus on the difference between physical causes and rational grounds. Plantinga raises a related but separate question about cognitive reliability under evolutionary naturalism. Theism gives a positive reason to expect rational minds in an intelligible world.",
+      "caution": "These arguments target naturalism, not neuroscience itself. They do not require denying that brain processes are involved in reasoning.",
       "resources": [
         {
-          "type": "Apologetics",
-          "title": "Reasonable Faith | Plantinga’s Evolutionary Argument Against Naturalism",
-          "why": "Presents the reliability-defeater argument in a step-by-step form.",
+          "type": "Argument from reason",
+          "title": "Victor Reppert | The Argument from Reason",
+          "why": "Develops the Lewis-style case that naturalism has difficulty accounting for genuine rational inference.",
+          "url": "https://www.lewissociety.org/reason/"
+        },
+        {
+          "type": "Evolutionary argument",
+          "title": "Reasonable Faith | Plantinga's Evolutionary Argument Against Naturalism",
+          "why": "Presents the reliability-defeater argument and explains why its target is naturalism together with evolution.",
           "url": "https://www.reasonablefaith.org/writings/question-answer/plantingas-evolutionary-argument-against-naturalism-707/"
         },
         {
+          "type": "Lewis background",
+          "title": "C. S. Lewis Institute | C. S. Lewis on Miracles",
+          "why": "Explains Lewis's concern that a worldview should not undercut the reasoning used to defend it.",
+          "url": "https://www.cslewisinstitute.org/resources/c-s-lewis-on-miracles/"
+        },
+        {
+          "type": "Theistic fit",
+          "title": "Biola | Fittingness and the Existence of God",
+          "why": "Explains why an orderly, intelligible world fits naturally with a universe produced by an intelligent mind.",
+          "url": "https://www.biola.edu/blogs/good-book-blog/2020/fittingness-and-the-existence-of-god"
+        },
+        {
           "type": "Apologetics",
-          "title": "Reasonable Faith | Blackwell Companion: Argument from Reason",
-          "why": "Summarizes Victor Reppert’s argument that naturalism struggles to account for truth-directed rational inference.",
-          "url": "https://www.reasonablefaith.org/media/reasonable-faith-podcast/blackwell-companion-book/"
-        },
-        {
-          "type": "Teaching",
-          "title": "Ligonier | God in the Dock: The Apologetics of C.S. Lewis",
-          "why": "Highlights Lewis’s critique that nature alone cannot explain rational thought, morality, and conscience.",
+          "title": "Ligonier | God in the Dock: The Apologetics of C. S. Lewis",
+          "why": "Places Lewis's argument from reason within his broader critique of naturalism.",
           "url": "https://learn.ligonier.org/articles/god-dock"
-        },
-        {
-          "type": "Curriculum",
-          "title": "Impact Apologetics | Thinking Skill and Truth",
-          "why": "Places reasoning and truth at the foundation of the apologetic case.",
-          "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
-        },
-        {
-          "type": "Curriculum",
-          "title": "Ligonier | Defending Your Faith",
-          "why": "Examines logic, perception, and why rational belief matters when making a case for God.",
-          "url": "https://learn.ligonier.org/series/defending-your-faith"
         }
       ]
     },
     "terms": [
       [
         "Naturalism",
-        "The view that nature is all there is and that mind ultimately comes from the physical world."
+        "The view that nature is all there is and that human minds ultimately arise from natural physical processes."
       ],
       [
-        "Reason",
-        "The evidence or logic that supports a belief, not merely the physical event that caused the thought."
+        "Rational inference",
+        "Accepting a conclusion because reasons or evidence actually support it."
       ],
       [
-        "Logic",
-        "The basic rules that help us tell whether a conclusion really follows from the reasons given."
+        "Cognitive reliability",
+        "Our general ability to form beliefs that are true rather than consistently mistaken."
       ]
     ],
-    "conclusion": "A rational Creator gives a strong explanation for both an intelligible world and minds capable of knowing it.",
-    "thread": "We have asked what makes right and wrong real. But what about the minds making those judgments? Why should we trust our reasoning when we search for truth?",
-    "bigIdea": "Naturalism has to explain not only why brains produce useful behavior, but why human reasoning is genuinely truth-directed. Theism gives a natural home for rational minds, logical laws, and an intelligible world.",
+    "conclusion": "A physical cause can explain why a thought happened without telling us whether the thought is reasonable. Rational thought depends on reasons actually supporting conclusions. A rational Creator gives a strong explanation for why an intelligible world and minds capable of knowing it fit together.",
+    "thread": "We have looked at the universe, life, and morality for reasons to believe in a Creator. But every one of those arguments depends on reason. So before Step 1 ends, ask why our minds should be able to know truth at all.",
+    "bigIdea": "There is a difference between what causes a thought and what makes the thought reasonable. Naturalism has to explain why reasons can really support conclusions, while theism begins with a rational source for both the world and our minds.",
     "checkpoints": [
       {
         "after": "core",
-        "question": "Jordan says evolution can explain what caused our beliefs. What further question does the argument from reason ask?",
-        "answer": "Whether our beliefs are rationally justified and truth-directed, not merely what physical or evolutionary causes produced them."
+        "question": "Two people both think a bridge is unsafe. One saw a cracked support. The other was given a drug that makes him afraid of bridges. What is the important difference?",
+        "answer": "Both beliefs have physical causes in the brain, but only the first person has evidence that actually supports the belief. What caused a thought and what makes it reasonable are different questions."
       },
       {
         "after": "body",
-        "question": "What view is Plantinga’s argument aimed at?",
-        "answer": "The conjunction of naturalism and evolution, not biological evolution by itself."
+        "question": "Why is describing what happened in the brain not enough to show that a belief is reasonable?",
+        "answer": "Because the same kind of physical brain process can be involved in a well-supported belief or a mistaken one. We still have to ask whether the evidence actually supports the conclusion."
       },
       {
         "after": "facts",
-        "question": "What positive explanation does theism offer?",
-        "answer": "A rational Creator is the source of both an orderly world and rational creatures capable of knowing it."
+        "question": "What role does Plantinga's argument play in this lesson?",
+        "answer": "It adds a related question about whether evolutionary naturalism gives us enough reason to trust our cognitive faculties. The main argument of the lesson is the difference between what causes a thought and what makes it reasonable."
       }
     ],
     "story": {
       "title": "Can evolution explain our thinking too?",
       "lines": [
         "Jordan is still thinking about the moral discussion when he says, “Could evolution explain that? Creatures that cooperate survive better, so maybe moral instincts develop because they help groups survive.”",
-        "Then he adds, “And why not reason too? Brains that track reality probably survive better than brains that do not.”",
-        "You ask him whether explaining why a belief showed up in somebody’s brain is the same thing as showing that the belief is actually reasonable or true.",
-        "He slows down. “Maybe not. But then why should we trust brains shaped for survival when we use them for things like logic, math, or arguments about God?”"
+        "Then he adds, “And why not reason too? Brains that understand what is around them probably survive better than brains that do not.”",
+        "You ask him a different question. “Suppose you told me a bridge was unsafe. If I asked why, and you said, ‘Because neurons fired in my brain,’ would that give me a reason to stay off the bridge?”",
+        "Jordan laughs. “No.”",
+        "“What if you said there was a huge crack in one of the supports?”",
+        "“That would.”",
+        "“So what is the difference?”",
+        "Jordan looks at you. “One tells you what happened in my brain. The other tells you why I think the bridge is unsafe.”"
       ]
     },
     "conversationTips": [
-      "The important distinction is between what caused a belief to occur and what makes the belief rationally justified. Those are not the same question.",
-      "There is no need to say naturalists cannot reason or that evolution makes knowledge impossible. The question is which worldview better explains rational minds, logical truth, and our ability to know.",
-      "If the discussion becomes technical, come back to the basic issue: what makes logical truth and rational obligation more than physical events happening in a brain?"
+      "Start with the bridge example. Do not begin with Plantinga or technical philosophy.",
+      "Keep asking the simplest question: what is the difference between what caused the belief and what makes the belief reasonable?",
+      "If someone says the brain can cause a belief and the belief can still be rational, agree. That is not a problem for the argument. The point is that the physical cause alone does not tell us whether the belief is rational.",
+      "If you are struggling with the complexity of this argument, stay with the bridge example. You do not need to explain Plantinga or every philosophical detail. If you can explain why a cracked support gives you a reason to believe the bridge is unsafe while a drug-induced fear does not, you understand the main point.",
+      "Do not say naturalists cannot reason. Their ability to reason is part of what the argument is asking their worldview to explain."
     ]
   },
   {
@@ -3755,11 +3765,14 @@ const jordanResolutions = {
     ]
   },
   "9": {
-    "title": "The case is starting to add up",
+    "title": "Why the difference matters",
     "lines": [
-      "You agree that accurate perception can help an organism survive, but you come back to Jordan's larger question: why should minds produced only for survival also be trustworthy when reasoning about logic, mathematics, morality, or God?",
-      "You explain the Christian view again. If reality comes from a rational Creator and human beings were made to know that world, there is a reason to expect both an intelligible universe and minds capable of understanding it.",
-      "Jordan walks for a few seconds without saying anything. Then he starts counting the pieces off on his fingers. “The universe needs an explanation. It looks like it had a beginning. There are signs of purpose, the conditions for life are strange, life itself has information in it, and I do think some things are really right or wrong.”",
+      "You give Jordan one more version of the bridge example. “Two people can both think the bridge is unsafe. One saw the cracked support. The other was given a drug that makes him terrified of bridges.”",
+      "Jordan nods. “Both thoughts happen in a brain, but only one person actually has a reason to think the bridge is unsafe.”",
+      "“Right. So knowing what physically caused a belief does not settle whether the belief is reasonable.”",
+      "He thinks for a moment. “I get that better now. You are not arguing that brains have nothing to do with reason. You are asking why reasons and evidence can actually lead us toward truth.”",
+      "“Exactly. And I think that makes good sense if a rational Creator made both the world and minds capable of understanding it.”",
+      "Jordan starts counting the earlier arguments off on his fingers. “The universe needs an explanation. It looks like it had a beginning. There are signs of purpose, the conditions for life are strange, life itself has information in it, and I do think some things are really right or wrong.”",
       "He looks over. “I am not saying every question is answered, but okay. Maybe we really do live in a universe with a Creator.”",
       "Then he smiles. “But that still does not prove Christianity. How do you get from a Creator to Jesus rising from the dead?”"
     ]
