@@ -7,12 +7,12 @@
     "teaser": "If every thought has a physical cause, what makes some thoughts reasonable and others not? And why should our minds be able to discover truth?",
     "lesson": {
       "heading": "A cause for a thought is not the same as a reason to believe it",
-      "body": "Suppose I ask why you think a bridge is unsafe. You could say, ‘Because neurons fired in my brain.’ That may describe part of what happened physically, but it does not tell me whether your belief is reasonable. If you say, ‘Because I saw a large crack in a support beam,’ now you have given me a reason to believe the bridge is unsafe.\n\nThat difference is the main point of this lesson. A cause explains why a thought happened. A reason tells us why the thought is worth believing. When we reason, we do not merely move from one brain state to another. We see that one claim supports another and accept the conclusion because the support is there. If the evidence did not support the conclusion, neurons firing would not turn a bad argument into a good one.\n\nThat raises a question for naturalism. If every thought is ultimately explained only by non-rational physical causes, where does rational inference fit? Physical causes can explain why one brain state follows another. But reasoning involves something more: one belief counts in favor of another because there is a real logical or evidential connection between them. C. S. Lewis and Victor Reppert press this point in different ways. A worldview has to account not only for thoughts happening, but for people actually reasoning from grounds to conclusions.\n\nThis matters because naturalism itself is supposed to be a conclusion we accept because the evidence and arguments support it. If a naturalistic account reduces all of our thinking to a chain of non-rational causes and cannot explain how reasons matter as reasons, then it weakens the very reasoning used to argue for naturalism. The problem is not that naturalists cannot reason. Of course they can. The question is whether naturalism gives a good account of the reasoning they are clearly able to do.\n\nAlvin Plantinga raises a related but different challenge. Natural selection directly favors behavior that helps organisms survive and reproduce. True beliefs often help with that, so the two can overlap. But survival and truth are not the same thing. Plantinga argues that if naturalism and evolution together give us reason to doubt whether our cognitive faculties are generally reliable, then that doubt reaches every belief produced by those faculties, including the belief in naturalism itself. His target is evolutionary naturalism, not biological evolution by itself.\n\nChristian theism starts in a different place. If reality comes from a rational God, the world is the work of a mind rather than the accidental product of something that never thought at all. If that God also made human beings able to know the world, then it makes sense that reality is intelligible, that logical relations are real, and that our minds can usually recognize evidence and follow it toward truth. We still make mistakes, but reason itself has a foundation.\n\nThat is the point to remember. Naturalism has to explain more than brains that produce useful behavior. It has to explain rational inference, truth, and why reasons can actually justify beliefs. Theism puts a rational mind at the foundation of reality, so rational minds discovering truth in an orderly world are exactly the kind of thing we would expect.",
+      "body": "Suppose I ask why you think a bridge is unsafe. You could say, ‘Because neurons fired in my brain.’ That tells me something about what happened physically. It still does not tell me whether you have a good reason to believe the bridge is unsafe. If you say, ‘Because I saw a large crack in a support beam,’ now you have given me a reason.\n\nThe distinction is simple. The cause of a thought and the reason for believing it are not the same answer. When we reason, we are not just noticing that one thought came after another. We believe a conclusion because the evidence really supports it. If it does not, the fact that a brain produced the conclusion does not make the reasoning good.\n\nNow put that inside naturalism. If physical causes are the whole story behind our thoughts, naturalism still has to explain why reasons can count for or against a belief. A chain of brain events can tell us how one state led to the next. Rational inference asks a different question: did the first belief actually give us a good reason for the second? C. S. Lewis and Victor Reppert press this point. A complete account of thought has to explain more than thoughts occurring. It has to explain why some inferences are rational and others are not.\n\nThat matters because a naturalist does not normally believe naturalism merely because a brain event caused the belief. He believes it because he thinks the evidence supports it. So the worldview has to make sense of reasons actually having that role. Otherwise it is using rational inference while failing to explain it.\n\nPlantinga comes at the problem from another angle. Natural selection directly favors behavior that helps organisms survive and reproduce. True beliefs often help with that, so survival and truth can overlap. But they are not the same thing. Plantinga argues that if naturalism and evolution together give us reason to doubt whether our cognitive faculties are generally reliable, then that doubt reaches every belief those faculties produce, including the belief in naturalism itself. His target is evolutionary naturalism, not biological evolution by itself.\n\nChristianity gives a direct answer. Reality ultimately comes from a rational God. He made an ordered world and creatures capable of knowing it. On that view, it is not surprising that logic applies, that evidence can point toward truth, or that human minds can understand things far beyond what is immediately useful for survival. We can reason badly, but there is a reason to expect our minds to be capable of truth at all.\n\nSo the main point is not that brains do not matter. They do. It is that describing the brain is not yet the same thing as explaining rational inference. Theism gives us a rational source for both the world we are trying to understand and the minds doing the understanding.",
       "facts": [
         "A physical cause of a belief is not the same thing as a rational ground for believing it.",
-        "Rational inference involves seeing that one claim supports another and accepting a conclusion because of that support.",
-        "Lewis and Reppert use the argument from reason to challenge whether a fully naturalistic account can explain rational inference without undermining it.",
-        "Plantinga's evolutionary argument against naturalism is a related reliability argument: if evolutionary naturalism gives us reason to distrust our cognitive faculties, it also gives us reason to distrust belief in naturalism.",
+        "Rational inference involves accepting a conclusion because the reasons or evidence actually support it.",
+        "Lewis and Reppert challenge naturalism to explain how rational inference fits if physical causes are the whole story behind thought.",
+        "Plantinga's evolutionary argument against naturalism is a separate reliability argument: if evolutionary naturalism gives us reason to distrust our cognitive faculties, it also gives us reason to distrust belief in naturalism.",
         "Theism gives a positive explanation for an intelligible world and minds intended to know truth."
       ],
       "further": [
@@ -26,11 +26,11 @@
         ]
       ]
     },
-    "why": "Every argument in this course asks us to follow reasons and evidence. If our worldview cannot explain what it means for one belief to be supported by another, it creates a problem for the very reasoning used to defend that worldview.",
+    "why": "Every argument in this course asks us to follow reasons and evidence. If a worldview cannot explain what it means for one belief to be supported by another, that is a problem for the reasoning used to defend the worldview itself.",
     "core": [
       "A cause can explain why a thought occurred. A reason explains why the thought should be believed.",
-      "Real reasoning involves more than one brain event following another. A conclusion is rational when the evidence or premises actually support it.",
-      "Lewis and Reppert argue that naturalism has to explain how rational grounds can matter if all thought is ultimately exhausted by non-rational physical causes.",
+      "A conclusion is rational when the evidence or premises actually support it, not merely because one brain event followed another.",
+      "Lewis and Reppert argue that naturalism still has to explain how reasons can matter as reasons if physical causes are the whole story behind thought.",
       "Plantinga adds a different challenge: natural selection favors survival, not truth as such. If evolutionary naturalism undermines confidence in our cognitive reliability, it also undermines confidence in naturalism itself.",
       "Theism gives a positive account: a rational Creator made an intelligible world and rational creatures capable of knowing it."
     ],
@@ -41,16 +41,16 @@
       ],
       [
         "“Evolution favors true beliefs because false beliefs get you killed.”",
-        "True beliefs often do help survival, so there is real overlap. Plantinga's point is that natural selection directly selects for successful behavior, not truth in every area of thought. The larger argument from reason also remains: even a reliable brain still needs an account of why logical and evidential relations can make a belief rational."
+        "True beliefs often do help survival, so there is real overlap. Plantinga's point is that natural selection directly selects for successful behavior, not truth in every area of thought. Even then, the larger question remains: what makes one belief a rational reason for another rather than merely the physical cause of another brain state?"
       ],
       [
         "“Are you saying atheists cannot reason?”",
-        "No. Naturalists obviously reason, just as Christians do. The argument asks which worldview gives the better explanation for that shared ability. The existence of naturalists who reason is part of the thing naturalism has to explain."
+        "No. Naturalists obviously reason, just as Christians do. The argument asks which worldview gives the better explanation for that shared ability. Their ability to reason is not a problem for the argument. It is part of what the worldview has to explain."
       ]
     ],
-    "limits": "Do not turn this into an argument against neuroscience or biological evolution. Brain processes are involved in reasoning. The question is whether a complete naturalistic story is enough to explain rational inference, justified belief, and generally reliable minds.",
+    "limits": "Do not turn this into an argument against neuroscience or biological evolution. Brain processes are involved in reasoning. The question is whether a complete naturalistic account is enough to explain rational inference, justified belief, and generally reliable minds.",
     "practice": "Someone says, “Once neuroscience explains which brain processes cause our thoughts, there is nothing left to explain about reason.” How would you respond in ordinary language?",
-    "model": "Knowing what caused a thought in the brain is not the same as knowing whether the thought is reasonable. If I believe a bridge is unsafe, neurons are involved either way, but the crack in the support beam is what gives me a reason to believe it. Reasoning depends on one belief actually supporting another. The question is whether a worldview made only of non-rational physical causes can explain that, or whether a rational source of reality makes better sense of it.",
+    "model": "Knowing what caused a thought in the brain is not the same as knowing whether the thought is reasonable. If I believe a bridge is unsafe, neurons are involved either way, but the crack in the support beam is what gives me a reason to believe it. The question is whether physical causes alone explain why one belief can actually support another, or whether a rational source of reality makes better sense of that.",
     "sources": [
       [
         "Victor Reppert | The Argument from Reason",
@@ -63,7 +63,7 @@
     ],
     "evidence": {
       "claim": "The argument from reason asks whether a worldview can explain not only the physical causes of thoughts, but rational inference itself: beliefs being accepted because reasons and evidence actually support them.",
-      "establishes": "Lewis and Reppert focus on the difference between non-rational causes and rational grounds. Plantinga adds a separate challenge about whether evolutionary naturalism gives us enough reason to trust the faculties that produce our beliefs. Together they put pressure on naturalism while theism gives a positive reason to expect rational minds in an intelligible world.",
+      "establishes": "Lewis and Reppert focus on the difference between physical causes and rational grounds. Plantinga adds a separate challenge about whether evolutionary naturalism gives us enough reason to trust the faculties that produce our beliefs. Together they put pressure on naturalism while theism gives a positive reason to expect rational minds in an intelligible world.",
       "caution": "These arguments target naturalism, especially views that treat a complete physical account as the whole explanation of thought. They do not require denying neuroscience or biological evolution.",
       "resources": [
         {
@@ -81,7 +81,7 @@
         {
           "type": "Lewis background",
           "title": "C. S. Lewis Institute | C. S. Lewis on Miracles",
-          "why": "Explains Lewis's concern that naturalism cannot undermine reason without also undermining its own case.",
+          "why": "Explains Lewis's concern that a worldview should not undercut the reasoning used to defend it.",
           "url": "https://www.cslewisinstitute.org/resources/c-s-lewis-on-miracles/"
         },
         {
@@ -112,19 +112,19 @@
         "Our general ability to form beliefs that are true rather than consistently mistaken."
       ]
     ],
-    "conclusion": "A brain event can cause a thought. It takes a rational connection to make the thought worth believing. A rational Creator gives a strong explanation for why minds can recognize truth in an intelligible world.",
+    "conclusion": "A brain event can cause a thought without making the thought reasonable. Rational inference depends on reasons actually supporting conclusions. A rational Creator gives a strong explanation for why minds can recognize truth in an intelligible world.",
     "thread": "We have asked what makes right and wrong real. Now turn the question back on the tool we have used throughout the course: reason itself. What makes reasoning more than physical events happening in a brain?",
-    "bigIdea": "Reason is more than one brain event causing another. We believe conclusions because reasons actually support them. Naturalism has to explain how truth-directed rational inference fits into a world of non-rational causes; theism starts with a rational source of reality.",
+    "bigIdea": "A brain can cause a thought without making it a good reasoned conclusion. Rational inference depends on reasons actually supporting what we believe. If physical causes are the whole story, naturalism still has to explain that connection. Theism begins with a rational source of reality.",
     "checkpoints": [
       {
         "after": "core",
         "question": "What is the difference between a cause of a belief and a reason for believing it?",
-        "answer": "A cause explains why the thought occurred. A reason explains why the belief is rationally supported or worth accepting as true."
+        "answer": "A cause explains why the thought occurred. A reason explains why the belief is actually supported and worth accepting as true."
       },
       {
         "after": "body",
         "question": "Why is saying “neurons caused the thought” not enough to explain rational inference?",
-        "answer": "Because rational inference also requires that one belief actually support another and that the conclusion be accepted because of that support. A physical sequence alone does not tell us whether the reasoning is good."
+        "answer": "Because rational inference also requires that one belief actually support another. A physical sequence tells us what happened, but not whether the reasoning was good."
       },
       {
         "after": "facts",
