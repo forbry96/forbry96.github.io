@@ -653,7 +653,7 @@ function openStep1QuickReference(){
       const key=item.reviewLabel;
       if(key && !missedUnique.some(x=>x.label===key)) missedUnique.push({label:key,ids:item.reviewStudyIds||[]});
     });
-    const reviewLinks = missedUnique.length ? `<div class="step-check-review-links"><span>WORTH ANOTHER LOOK</span>${missedUnique.map(x=>`<div><strong>${esc(x.label)}</strong>${x.ids.filter(id=>id>=3&&id<=9).map(id=>`<button type="button" data-review-study="${id}">Study ${id}</button>`).join('')}</div>`).join('')}</div>` : '';
+    const reviewLinks = missedUnique.length ? `<div class="step-check-review-links"><span>WORTH ANOTHER LOOK</span>${missedUnique.map(x=>`<div><strong>${esc(x.label)}</strong>${x.ids.filter(id=>id>=1&&id<=9).map(id=>`<button type="button" data-review-study="${id}">Study ${id}</button>`).join('')}</div>`).join('')}</div>` : '';
 
     document.querySelector('#step1CheckpointForm').remove();
     document.querySelector('#step1CheckpointResults').innerHTML = `<div class="test-score"><span>Step 1 checkpoint</span><strong>${score}/${r.questions.length}</strong><b>${Math.round((score/r.questions.length)*100)}%</b><p><strong>${esc(band.title)}</strong> ${esc(band.body)}</p></div>${reviewLinks}<details class="test-review-wrap"><summary>Review answers</summary>${review}</details>`;
@@ -683,7 +683,7 @@ function showModal(html, mode='default'){
   document.body.style.overflow = 'hidden';
   document.querySelector('.modal-panel').scrollTop = 0;
   requestAnimationFrame(()=>{
-    const first = mode==='lesson' ? document.querySelector('#lessonBack') : document.querySelector('#closeModal');
+    const first = mode==='lesson' ? document.querySelector('.lesson-back') : document.querySelector('#closeModal');
     first?.focus();
   });
 }
