@@ -3984,7 +3984,7 @@ const step1QuickReference = {
       "opts": [
         "Natural processes can make order, so the design argument only applies to living things.",
         "Any highly unlikely pattern is evidence of design, even when a natural process already explains it.",
-        "Natural processes can make order; the real question is what best explains the particular purposeful arrangement being discussed.",
+        "Natural processes can make order; ask what best explains the purposeful arrangement actually being discussed.",
         "Snowflakes are designed because regular patterns cannot arise from unguided physical laws."
       ],
       "a": 2,
@@ -4071,7 +4071,7 @@ const step1QuickReference = {
     "title": "Put the pieces together",
     "intro": "The quiz checks whether you can recognize the structure. This part asks whether you could explain it.",
     "prompt": "A friend says, “Maybe the universe just exists. Maybe if it began, there is some cause we do not know about. Natural processes could explain design, morality could come from society or evolution, and our brains evolved because accurate thinking helps us survive. Why add a Creator?”",
-    "model": "I would not try to make one argument prove everything. Contingency asks why dependent reality exists at all, and Kalam gives another reason to think the universe depends on something beyond itself. Design, fine-tuning, and the information and machinery in life give us reasons to consider intelligence and purpose. Morality asks what makes real right and wrong binding, and reason asks why our thoughts can be more than physical events and actually be supported by evidence. I think a necessary, intelligent, good, and rational Creator makes better sense of those things together.",
+    "model": "I would not try to make one argument prove everything. Contingency asks why dependent reality exists at all, and Kalam gives another reason to think the universe depends on something beyond itself. Design, fine-tuning, and the information and machinery in life give us reasons to consider intelligence and purpose. Morality asks what makes real right and wrong binding, and reason asks why describing the physical cause of a thought is not enough to explain why the thought is reasonable. I think a necessary, intelligent, good, and rational Creator makes better sense of those things together.",
     "pushback": "The friend responds, “But couldn't there just be a different natural explanation for each of those things?”",
     "pushbackModel": "There could be different proposed explanations, and they should be considered. The question is how well they explain the same evidence. Step 1 has given several different lines of evidence that fit together under theism. I would compare that overall explanation with the alternatives rather than assume either side wins just by naming a possibility."
   },
