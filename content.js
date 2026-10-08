@@ -3950,8 +3950,8 @@ const step1QuickReference = {
       "q": "Someone says, “Maybe the universe has always existed. If it never began, then there is no need for God.” Which response best keeps the contingency and Kalam arguments separate?",
       "opts": [
         "If the universe were eternal, both arguments would fail because both require a first moment.",
-        "An eternal universe would affect Kalam, but contingency could still ask why dependent physical reality exists at all.",
-        "An eternal universe would answer contingency, while Kalam could still ask what caused each event within it.",
+        "An eternal universe would affect Kalam, but contingency could still ask why dependent reality exists at all.",
+        "An eternal universe would answer contingency because it would need no explanation outside itself, while Kalam could still ask why each event has a cause.",
         "Whether the universe began is irrelevant to both arguments because neither argument deals with beginnings."
       ],
       "a": 1,
@@ -3966,8 +3966,8 @@ const step1QuickReference = {
       "id": "s1q2",
       "q": "Suppose someone accepts the Kalam conclusion that the universe has a cause beyond itself. What can you reasonably say at that point?",
       "opts": [
-        "A cause beyond the physical universe is established; later arguments help fill out what that cause is like.",
-        "A personal and morally good Creator has been established; later arguments mainly confirm those details.",
+        "Kalam gets us to a cause beyond the physical universe; other arguments are needed to say more about that cause.",
+        "A personal and morally good Creator has already been established; the later arguments mainly give additional examples that confirm the same conclusion.",
         "Calling the cause God is simply a definition, so there is no need for any further argument.",
         "Only an earlier physical cause has been established, not anything beyond physical reality."
       ],
@@ -3983,8 +3983,8 @@ const step1QuickReference = {
       "q": "Someone says, “Snowflakes form naturally, so order does not point to design.” Which response best fits the design argument taught here?",
       "opts": [
         "Natural processes can make order, so the design argument only applies to living things.",
-        "Any highly unlikely pattern is evidence of design, even when a natural process already explains it.",
-        "Natural processes can make order; ask what best explains the purposeful arrangement actually being discussed.",
+        "Any highly unlikely or complicated pattern is evidence of design, especially when we cannot describe every step by which a natural process formed it.",
+        "Natural processes can make order; ask what best explains the purposeful arrangement being discussed.",
         "Snowflakes are designed because regular patterns cannot arise from unguided physical laws."
       ],
       "a": 2,
@@ -4015,9 +4015,9 @@ const step1QuickReference = {
       "q": "Which pairing correctly states the different questions asked by the moral argument and the argument from reason?",
       "opts": [
         "Morality asks why people cooperate; reason asks why brains produce thoughts.",
-        "Morality asks what grounds real duties; reason asks what makes beliefs rationally supported rather than merely caused.",
+        "Morality asks what grounds real duties; reason asks what makes a belief reasonable rather than merely caused.",
         "Morality asks whether atheists can behave well; reason asks whether naturalists are capable of logic.",
-        "Morality asks why cultures disagree; reason asks why people reach different conclusions from the same evidence."
+        "Morality asks why cultures and individuals disagree about right and wrong; reason asks why people can look at the same evidence and reach opposite conclusions."
       ],
       "a": 1,
       "exp": "The moral argument asks what makes objective value and duty real and binding. The argument from reason asks what accounts for rational support and our ability to know truth, not whether naturalists can reason.",
