@@ -3889,13 +3889,13 @@ const step1QuickReference = {
       "items": [
         {
           "title": "Contingency",
-          "body": "Things in the universe depend on other things. If everything were dependent, we would still need an explanation for why dependent reality exists at all.",
-          "adds": "A necessary foundation that does not depend on anything else."
+          "body": "Most things we experience are contingent: they exist, but they depend on something else and could have failed to exist. Explaining one dependent thing by another can tell us how the pieces are connected, but it still leaves the larger question of why there is any dependent reality at all. The contingency argument says that dependent reality ultimately needs to rest in something necessary that does not receive its existence from anything else.",
+          "adds": "A necessary, self-existent foundation for everything else that exists."
         },
         {
           "title": "Kalam",
-          "body": "Things that begin to exist have causes. If the universe began to exist, then the universe needs a cause beyond itself.",
-          "adds": "A cause beyond the physical universe that did not itself begin and is powerful enough to account for the universe."
+          "body": "The Kalam starts with a simple argument: whatever begins to exist has a cause; the universe began to exist; therefore the universe has a cause. The lesson looks at both premises, including philosophical reasons for a beginning and scientific evidence that the physical universe has a finite history. If space, time, matter, and energy began with the universe, the ultimate cause cannot simply be another physical thing inside it.",
+          "adds": "An eternal cause beyond the physical universe, powerful enough to bring the physical order into being."
         }
       ],
       "takeaway": "Contingency and Kalam both point beyond physical reality to a necessary, eternal, and powerful cause."
@@ -3906,18 +3906,18 @@ const step1QuickReference = {
       "items": [
         {
           "title": "Design",
-          "body": "Complexity by itself is not enough. The question is whether we find parts arranged to accomplish a purpose. Minds are a cause we already know can arrange things toward a goal.",
-          "adds": "Purposeful arrangement gives us a positive reason to consider a mind."
+          "body": "The design argument is not simply, “This is complicated, so it must be designed.” The lesson focuses on parts working together toward a purpose, like the parts of a watch working together to tell time. Minds are known to arrange things toward a goal, while natural processes can also produce order, so the real question is which explanation best accounts for the particular feature we are looking at.",
+          "adds": "When we really do find parts working together for a purpose, a mind is a real explanation to consider."
         },
         {
           "title": "Fine-tuning",
-          "body": "The universe has the conditions needed for stars, chemistry, and life. A Creator who intended life has a reason to make a universe capable of supporting it.",
-          "adds": "The universe does not merely exist. Its basic setup fits purposeful creation."
+          "body": "Before life could exist anywhere, the universe needed the right conditions for stable atoms, lasting stars, and complex chemistry. Fine-tuning asks why the basic settings of the universe fall within the ranges that allow those things to exist. A Creator who intended life has a reason to make a life-permitting universe, while alternatives such as luck or a multiverse still have to explain the conditions we actually observe.",
+          "adds": "The life-permitting setup of the universe fits naturally with purposeful creation."
         },
         {
           "title": "Biological design",
-          "body": "DNA contains information cells actually use, and living systems contain coordinated molecular machinery. Intelligence is already known to produce instructions and machines.",
-          "adds": "The information and machinery in life give us another reason to consider an intelligent source."
+          "body": "DNA contains information that cells actually use to make proteins and regulate other functions, and cells contain machinery that copies, reads, and uses those instructions. Intelligence is already a known cause of instructions and working machines. The lesson also asks how the first living system gained the information and machinery needed to store information, use it, and reproduce in the first place.",
+          "adds": "The information and coordinated machinery in life give us good reason to consider an intelligent source."
         }
       ],
       "takeaway": "These arguments give us reason to think that cause is intelligent and purposeful, not only powerful."
@@ -3928,13 +3928,13 @@ const step1QuickReference = {
       "items": [
         {
           "title": "Morality",
-          "body": "Some things really are right or wrong regardless of what anyone thinks. A perfectly good personal Creator gives us a foundation for goodness, human worth, moral duty, and accountability.",
-          "adds": "Moral reality points toward a Creator who is good and personal, not merely powerful."
+          "body": "The moral argument begins with the claim that some things really are right or wrong even when a person or an entire society approves of them. It separates moral value, what is good or bad, from moral duty, what we actually ought to do. Christianity grounds goodness in God's character, human worth in the fact that He made us, and our duties in His authority as Creator.",
+          "adds": "A perfectly good personal Creator gives a foundation for goodness, human worth, and real moral duties."
         },
         {
           "title": "Reason",
-          "body": "There is a difference between what causes a thought and what makes the thought reasonable. A rational Creator gives us a good explanation for why the universe is understandable and why our minds can recognize evidence and discover truth.",
-          "adds": "A rational Creator gives us a reason to expect an understandable world and minds capable of knowing it."
+          "body": "The argument from reason asks us to separate two questions: what caused a thought, and what makes that thought reasonable? The bridge example shows the difference. A brain process can be involved whether a belief is well supported or mistaken, so describing the physical cause alone does not tell us whether the evidence actually supports the conclusion. A rational Creator gives us a reason to expect both an intelligible world and minds capable of knowing it.",
+          "adds": "A rational Creator helps explain why reasons can really support conclusions and why our minds can discover truth."
         }
       ],
       "takeaway": "These last two arguments move beyond the physical universe. A good and rational Creator gives us a foundation for moral truth and helps explain why rational minds can know the world."
