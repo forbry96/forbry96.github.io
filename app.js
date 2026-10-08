@@ -554,11 +554,20 @@ function openQuestion(id){
   document.querySelectorAll('[data-open-next]').forEach(btn=>btn.onclick=()=>{closeModal(); openQuestion(Number(btn.dataset.openNext));});
 }
 
+function step1ChallengePreviewHtml(r){
+  return `<section class="step-check-section step-challenge-preview">
+    <span class="step-check-kicker">CONVERSATION PRACTICE</span>
+    <h3>${esc(r.challenge.title)}</h3>
+    <p>${esc(r.challenge.lockedNote)}</p>
+    <div class="step-check-practice-preview"><strong>What you will do:</strong> answer one cumulative objection in your own words, compare it with a model, then respond to one follow-up.</div>
+  </section>`;
+}
+
 function step1ChallengeHtml(r){
   const c = r.challenge;
   const h = r.handoff;
   return `<section class="step-check-section step-challenge">
-    <span class="step-check-kicker">CONVERSATION CHALLENGE</span>
+    <span class="step-check-kicker">CONVERSATION PRACTICE</span>
     <h3>${esc(c.title)}</h3>
     <p>${esc(c.intro)}</p>
     <blockquote>${esc(c.prompt)}</blockquote>
@@ -624,7 +633,7 @@ function openStep1QuickReference(){
       <form id="step1CheckpointForm" class="test-form">${quizHtml}<button class="button primary" type="submit">Score my checkpoint</button></form>
       <div id="step1CheckpointResults"></div>
     </section>
-    <div id="step1ChallengeHolder">${prior?step1ChallengeHtml(r):''}</div>`;
+    <div id="step1ChallengeHolder">${prior?step1ChallengeHtml(r):step1ChallengePreviewHtml(r)}</div>`;
 
   showModal(html, 'lesson');
   document.querySelector('#step1ReviewBack').onclick = closeModal;
