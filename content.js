@@ -3881,7 +3881,7 @@ const jordanResolutions = {
 const step1QuickReference = {
   "title": "Step 1 Review + Checkpoint",
   "intro": "You have worked through several different reasons for believing reality makes more sense with God than without Him. Before moving into Christianity specifically, use this page to review how the arguments fit together and see what may still need another look.",
-  "note": "This does not count as a lesson or affect course completion. It is simply a checkpoint to help you see what is sticking.",
+  "note": "This does not count as a lesson or affect course completion. Use it to see what you remember and what may be worth reviewing.",
   "sections": [
     {
       "title": "Why is there a universe at all?",
@@ -3907,7 +3907,7 @@ const step1QuickReference = {
         {
           "title": "Design",
           "body": "Complexity by itself is not enough. The question is whether we find parts arranged to accomplish a purpose. Minds are a cause we already know can arrange things toward a goal.",
-          "adds": "A mind becomes a positive explanation for purposeful arrangement."
+          "adds": "Purposeful arrangement gives us a positive reason to consider a mind."
         },
         {
           "title": "Fine-tuning",
@@ -3937,11 +3937,11 @@ const step1QuickReference = {
           "adds": "A rational Creator gives us a reason to expect an understandable world and minds capable of knowing it."
         }
       ],
-      "takeaway": "Morality and reason add something different: a good and rational Creator gives us a foundation for moral truth and rational minds."
+      "takeaway": "These last two arguments move beyond the physical universe. A good and rational Creator gives us a foundation for moral truth and helps explain why rational minds can know the world."
     }
   ],
   "synthesisTitle": "Where Step 1 gets us",
-  "synthesis": "Taken together, these arguments point toward a necessary, eternal, powerful, intelligent, purposeful, rational, and good Creator. No single argument has to establish all of that by itself. The case builds as the different arguments reinforce one another.",
+  "synthesis": "Taken together, these arguments point toward a necessary, eternal, powerful, intelligent, purposeful, rational, and good Creator. No single argument gets us there by itself. Each one adds something to the larger case.",
   "checkpointTitle": "Check your understanding",
   "checkpointIntro": "These questions are a little harder than the checks inside each study. The goal is to see whether you understand how the arguments fit together, not just whether you remember their names.",
   "questions": [
@@ -4048,30 +4048,30 @@ const step1QuickReference = {
     {
       "min": 5,
       "title": "You have the main structure.",
-      "body": "You are keeping the arguments separate while also seeing how they fit together. Try the conversation challenge without looking back at the review."
+      "body": "You are keeping the arguments separate and seeing how they fit together. Try the conversation challenge next without looking back at the review."
     },
     {
       "min": 3,
       "title": "You have most of it.",
-      "body": "A few parts of the case may still be blending together. Look at the questions you missed and review those parts before trying the conversation challenge."
+      "body": "A few parts of the case may still be blending together. Check the questions you missed and review those parts before trying the conversation challenge."
     },
     {
       "min": 0,
       "title": "Spend a little more time with Step 1.",
-      "body": "That is what this checkpoint is for. Review the sections above and revisit any studies that still feel unclear before moving on."
+      "body": "Go back through the sections above and revisit any studies that still feel unclear before moving on."
     }
   ],
   "challenge": {
     "title": "Put the pieces together",
-    "intro": "The quiz checks whether you can recognize the structure. This part asks whether you could explain it.",
+    "intro": "The quiz checks whether you recognize how the case fits together. Now try explaining it in your own words.",
     "prompt": "A friend says, “Maybe the universe just exists. Maybe if it began, there is some cause we do not know about. Natural processes could explain design, morality could come from society or evolution, and our brains evolved because accurate thinking helps us survive. Why add a Creator?”",
     "model": "I would not try to make one argument prove everything. Contingency asks why dependent reality exists at all, and Kalam gives another reason to think the universe depends on something beyond itself. Design, fine-tuning, and the information and machinery in life give us reasons to consider intelligence and purpose. Morality asks what makes real right and wrong binding, and reason asks why describing the physical cause of a thought is not enough to explain why the thought is reasonable. I think a necessary, intelligent, good, and rational Creator makes better sense of those things together.",
     "pushback": "The friend responds, “But couldn't there just be a different natural explanation for each of those things?”",
-    "pushbackModel": "There could be different proposed explanations, and they should be considered. The question is how well they explain the same evidence. Step 1 has given several different lines of evidence that fit together under theism. I would compare that overall explanation with the alternatives rather than assume either side wins just by naming a possibility."
+    "pushbackModel": "There could be different proposed explanations, and they should be considered. The question is how well they explain the same evidence. Step 1 gives several different lines of evidence that fit together if there is a Creator. I would compare that explanation with the alternatives rather than assume either side wins just by naming a possibility."
   },
   "handoff": {
     "title": "What Step 1 has not shown yet",
-    "body": "Step 1 gives us good reason to believe reality comes from a Creator. It has not shown that Christianity is true. We still have to ask whether this Creator has acted in history and revealed Himself. The next study begins that move by asking whether miracles can be ruled out if God exists.",
+    "body": "Step 1 gives us good reason to believe reality comes from a Creator. It has not shown that Christianity is true. We still have to ask whether this Creator has acted in history and revealed Himself. The next study starts there by asking whether miracles can be ruled out if God exists.",
     "button": "Continue to the bridge: Are miracles possible?"
   }
 };
