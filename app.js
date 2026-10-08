@@ -969,7 +969,7 @@ function importProgress(file){
 }
 
 function resetProgress(){
-  if(!confirm('Clear all saved study completion, practice, and test scores from this browser?')) return;
+  if(!confirm('Clear all saved study completion, practice, checkpoint, and test scores from this browser?')) return;
   progressState = defaultState();
   try { localStorage.removeItem(STORAGE_KEY); } catch {}
   saveState();
