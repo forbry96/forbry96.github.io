@@ -817,3 +817,42 @@ input,select{padding:11px 12px}
   .progress-stats{grid-template-columns:1fr}
   .step-check-section-head{grid-template-columns:34px minmax(0,1fr)}
 }
+
+
+/* TEMPORARY OCTOBER 2026 V2 ANNOUNCEMENT
+   Remove this entire block with the matching HTML announcement when the rollout is finished. */
+.v2-announcement{
+  border-bottom:1px solid var(--line);
+  background:#f7f2e8;
+}
+.v2-announcement-inner{
+  display:grid;
+  grid-template-columns:auto minmax(0,1fr);
+  gap:18px;
+  align-items:center;
+  padding-top:14px;
+  padding-bottom:14px;
+}
+.v2-announcement-label{
+  display:inline-block;
+  font-size:9px;
+  line-height:1.2;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+  font-weight:850;
+  color:var(--accent);
+  white-space:nowrap;
+}
+.v2-announcement p{
+  margin:0;
+  color:var(--ink);
+  font-size:14px;
+  line-height:1.55;
+}
+.v2-announcement strong{font-weight:800}
+@media(max-width:700px){
+  .v2-announcement-inner{grid-template-columns:1fr;gap:5px;padding-top:13px;padding-bottom:13px}
+  .v2-announcement-label{white-space:normal}
+  .v2-announcement p{font-size:13.5px}
+}
+/* END TEMPORARY OCTOBER 2026 V2 ANNOUNCEMENT */
