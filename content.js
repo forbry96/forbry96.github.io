@@ -3898,7 +3898,7 @@ const step1QuickReference = {
           "adds": "A cause beyond the physical universe that did not itself begin and is powerful enough to account for the universe."
         }
       ],
-      "takeaway": "The universe does not appear to explain itself. These arguments point beyond dependent physical reality to a necessary, eternal, and powerful cause."
+      "takeaway": "Taken together, contingency and Kalam point beyond physical reality to a necessary, eternal, and powerful cause."
     },
     {
       "title": "Why does the universe look purposeful?",
@@ -3907,7 +3907,7 @@ const step1QuickReference = {
         {
           "title": "Design",
           "body": "Complexity by itself is not enough. The question is whether we find parts arranged to accomplish a purpose. Minds are a cause we already know can arrange things toward a goal.",
-          "adds": "Intelligence becomes a serious explanation rather than merely an unexplained cause."
+          "adds": "A mind becomes a positive explanation for purposeful arrangement."
         },
         {
           "title": "Fine-tuning",
@@ -3917,10 +3917,10 @@ const step1QuickReference = {
         {
           "title": "Biological design",
           "body": "DNA contains information cells actually use, and living systems contain coordinated molecular machinery. Intelligence is already known to produce instructions and machines.",
-          "adds": "The case for intelligence and purpose becomes more specific when we look at life itself."
+          "adds": "The information and machinery in life give us another reason to consider an intelligent source."
         }
       ],
-      "takeaway": "The cause behind reality increasingly looks not only powerful, but intelligent and purposeful."
+      "takeaway": "These arguments give us reason to think that cause is intelligent and purposeful, not only powerful."
     },
     {
       "title": "What about morality and reason?",
@@ -3934,10 +3934,10 @@ const step1QuickReference = {
         {
           "title": "Reason",
           "body": "There is a difference between what causes a thought and what makes the thought reasonable. A rational Creator gives us a good explanation for why the universe is understandable and why our minds can recognize evidence and discover truth.",
-          "adds": "A rational source of reality makes sense of both the world we are trying to understand and the minds doing the understanding."
+          "adds": "A rational Creator gives us a reason to expect an understandable world and minds capable of knowing it."
         }
       ],
-      "takeaway": "The Creator suggested by the earlier arguments also makes sense of moral reality and rational minds."
+      "takeaway": "Morality and reason add something different: a good and rational Creator gives us a foundation for moral truth and rational minds."
     }
   ],
   "synthesisTitle": "Where Step 1 gets us",
@@ -4039,15 +4039,9 @@ const step1QuickReference = {
       "a": 2,
       "exp": "The course has treated Step 1 as a cumulative case. The question is not whether theism uses fewer explanations by definition or whether every alternative has been disproved. It is which worldview gives the better explanation of the evidence taken together.",
       "reviewStudyIds": [
-        1,
-        3,
-        5,
-        6,
-        7,
-        8,
-        9
+        1
       ],
-      "reviewLabel": "Study 1 and Step 1: Comparing explanations"
+      "reviewLabel": "Study 1: Comparing explanations"
     }
   ],
   "scoreBands": [
