@@ -3879,39 +3879,207 @@ const jordanResolutions = {
 };
 
 const step1QuickReference = {
-  "title": "Step 1 quick reference: Why believe God exists?",
-  "intro": "The case for God does not rest on one argument. These are the main ideas from Studies 3–9 in a form you can review in a minute.",
-  "points": [
-    [
-      "Contingency",
-      "Dependent things do not explain themselves. The whole dependent order points to a necessary foundation."
-    ],
-    [
-      "Kalam",
-      "If the universe began, it requires a cause beyond the physical universe."
-    ],
-    [
-      "Design",
-      "Parts fitted together to do a job are the kind of thing minds are known to produce. That makes design a real explanation to consider."
-    ],
-    [
-      "Fine-tuning",
-      "The basic setup of the universe permits stars, chemistry, and life. That fits naturally with purposeful choice."
-    ],
-    [
-      "Biological design",
-      "Life contains functional information and tightly coordinated molecular machinery. Intelligence is a known cause of instructions and machines."
-    ],
-    [
-      "Morality",
-      "Some things are really right or wrong regardless of opinion. A perfectly good personal God gives a foundation for moral truth, duty, worth, and accountability."
-    ],
-    [
-      "Reason",
-      "We do not merely have thoughts; we can judge them by truth and logic. A rational Creator makes sense of rational minds living in an understandable world."
-    ]
+  "title": "Step 1 Review + Checkpoint",
+  "intro": "You have worked through several different reasons for believing reality makes more sense with God than without Him. Before moving into Christianity specifically, use this page to review how the arguments fit together and see what may still need another look.",
+  "note": "This does not count as a lesson or affect course completion. It is simply a checkpoint to help you see what is sticking.",
+  "sections": [
+    {
+      "title": "Why is there a universe at all?",
+      "studies": "Studies 3–4",
+      "items": [
+        {
+          "title": "Contingency",
+          "body": "Things in the universe depend on other things. If everything were dependent, we would still need an explanation for why dependent reality exists at all.",
+          "adds": "A necessary foundation that does not depend on anything else."
+        },
+        {
+          "title": "Kalam",
+          "body": "Things that begin to exist have causes. If the universe began to exist, then the universe needs a cause beyond itself.",
+          "adds": "A cause beyond the physical universe that did not itself begin and is powerful enough to account for the universe."
+        }
+      ],
+      "takeaway": "The universe does not appear to explain itself. These arguments point beyond dependent physical reality to a necessary, eternal, and powerful cause."
+    },
+    {
+      "title": "Why does the universe look purposeful?",
+      "studies": "Studies 5–7",
+      "items": [
+        {
+          "title": "Design",
+          "body": "Complexity by itself is not enough. The question is whether we find parts arranged to accomplish a purpose. Minds are a cause we already know can arrange things toward a goal.",
+          "adds": "Intelligence becomes a serious explanation rather than merely an unexplained cause."
+        },
+        {
+          "title": "Fine-tuning",
+          "body": "The universe has the conditions needed for stars, chemistry, and life. A Creator who intended life has a reason to make a universe capable of supporting it.",
+          "adds": "The universe does not merely exist. Its basic setup fits purposeful creation."
+        },
+        {
+          "title": "Biological design",
+          "body": "DNA contains information cells actually use, and living systems contain coordinated molecular machinery. Intelligence is already known to produce instructions and machines.",
+          "adds": "The case for intelligence and purpose becomes more specific when we look at life itself."
+        }
+      ],
+      "takeaway": "The cause behind reality increasingly looks not only powerful, but intelligent and purposeful."
+    },
+    {
+      "title": "What about morality and reason?",
+      "studies": "Studies 8–9",
+      "items": [
+        {
+          "title": "Morality",
+          "body": "Some things really are right or wrong regardless of what anyone thinks. A perfectly good personal Creator gives us a foundation for goodness, human worth, moral duty, and accountability.",
+          "adds": "Moral reality points toward a Creator who is good and personal, not merely powerful."
+        },
+        {
+          "title": "Reason",
+          "body": "There is a difference between what causes a thought and what makes the thought reasonable. A rational Creator gives us a good explanation for why the universe is understandable and why our minds can recognize evidence and discover truth.",
+          "adds": "A rational source of reality makes sense of both the world we are trying to understand and the minds doing the understanding."
+        }
+      ],
+      "takeaway": "The Creator suggested by the earlier arguments also makes sense of moral reality and rational minds."
+    }
   ],
-  "bottom": "These arguments reinforce one another. Dependent reality, a beginning, purposeful order, fine-tuning, biological information, objective morality, and rational thought all fit naturally with a rational Creator. You do not have to settle the young-earth versus old-earth debate before making that larger case."
+  "synthesisTitle": "Where Step 1 gets us",
+  "synthesis": "Taken together, these arguments point toward a necessary, eternal, powerful, intelligent, purposeful, rational, and good Creator. No single argument has to establish all of that by itself. The case builds as the different arguments reinforce one another.",
+  "checkpointTitle": "Check your understanding",
+  "checkpointIntro": "These questions are a little harder than the checks inside each study. The goal is to see whether you understand how the arguments fit together, not just whether you remember their names.",
+  "questions": [
+    {
+      "id": "s1q1",
+      "q": "Someone says, “Maybe the universe has always existed. If it never began, then there is no need for God.” Which response best keeps the contingency and Kalam arguments separate?",
+      "opts": [
+        "If the universe were eternal, both arguments would fail because both require a first moment.",
+        "An eternal universe would affect Kalam, but contingency could still ask why dependent physical reality exists at all.",
+        "An eternal universe would answer contingency, while Kalam could still ask what caused each event within it.",
+        "Whether the universe began is irrelevant to both arguments because neither argument deals with beginnings."
+      ],
+      "a": 1,
+      "exp": "Kalam specifically argues from a beginning. Contingency does not require the universe to have a beginning; it asks why dependent reality exists at all.",
+      "reviewStudyIds": [
+        3,
+        4
+      ],
+      "reviewLabel": "Studies 3–4: Contingency and Kalam"
+    },
+    {
+      "id": "s1q2",
+      "q": "Suppose someone accepts the Kalam conclusion that the universe has a cause beyond itself. What can you reasonably say at that point?",
+      "opts": [
+        "A cause beyond the physical universe is established; later arguments help fill out what that cause is like.",
+        "A personal and morally good Creator has been established; later arguments mainly confirm those details.",
+        "Calling the cause God is simply a definition, so there is no need for any further argument.",
+        "Only an earlier physical cause has been established, not anything beyond physical reality."
+      ],
+      "a": 0,
+      "exp": "Kalam gets the argument to a cause beyond the physical universe. It should not be made to prove every attribute of God or Christianity by itself.",
+      "reviewStudyIds": [
+        4
+      ],
+      "reviewLabel": "Study 4: Kalam"
+    },
+    {
+      "id": "s1q3",
+      "q": "Someone says, “Snowflakes form naturally, so order does not point to design.” Which response best fits the design argument taught here?",
+      "opts": [
+        "Natural processes can make order, so the design argument only applies to living things.",
+        "Any highly unlikely pattern is evidence of design, even when a natural process already explains it.",
+        "Natural processes can make order; the real question is what best explains the particular purposeful arrangement being discussed.",
+        "Snowflakes are designed because regular patterns cannot arise from unguided physical laws."
+      ],
+      "a": 2,
+      "exp": "The design argument here is not simply 'order exists, therefore design.' It asks what best explains particular features such as purposeful arrangement.",
+      "reviewStudyIds": [
+        5
+      ],
+      "reviewLabel": "Study 5: Design"
+    },
+    {
+      "id": "s1q4",
+      "q": "Researchers eventually produce a simple self-replicating system from nonliving chemistry in a carefully controlled lab. What would that result show, by itself?",
+      "opts": [
+        "That life originally arose through that same chemical route without guidance.",
+        "That intelligent control is unnecessary whenever those chemicals are present.",
+        "That the tested chemical route can work under the conditions the researchers supplied.",
+        "That natural selection can explain how the first self-replicating system formed."
+      ],
+      "a": 2,
+      "exp": "A laboratory result can show what chemistry is capable of under the conditions researchers set up. By itself, it would not establish that the first life arose by the same route without guidance in the past.",
+      "reviewStudyIds": [
+        7
+      ],
+      "reviewLabel": "Study 7: Biological design"
+    },
+    {
+      "id": "s1q5",
+      "q": "Which pairing correctly states the different questions asked by the moral argument and the argument from reason?",
+      "opts": [
+        "Morality asks why people cooperate; reason asks why brains produce thoughts.",
+        "Morality asks what grounds real duties; reason asks what makes beliefs rationally supported rather than merely caused.",
+        "Morality asks whether atheists can behave well; reason asks whether naturalists are capable of logic.",
+        "Morality asks why cultures disagree; reason asks why people reach different conclusions from the same evidence."
+      ],
+      "a": 1,
+      "exp": "The moral argument asks what makes objective value and duty real and binding. The argument from reason asks what accounts for rational support and our ability to know truth, not whether naturalists can reason.",
+      "reviewStudyIds": [
+        8,
+        9
+      ],
+      "reviewLabel": "Studies 8–9: Morality and reason"
+    },
+    {
+      "id": "s1q6",
+      "q": "Someone offers a separate natural explanation for each part of Step 1 and asks, “Why prefer one Creator to several different explanations?” Which response best reflects the way the course has built the case?",
+      "opts": [
+        "Prefer the Creator because one explanation is simpler than several separate ones.",
+        "Reject the natural explanations because Step 1 has already disproved them.",
+        "Compare which worldview explains the whole set of evidence better.",
+        "Hold off on any conclusion until every natural alternative is ruled out."
+      ],
+      "a": 2,
+      "exp": "The course has treated Step 1 as a cumulative case. The question is not whether theism uses fewer explanations by definition or whether every alternative has been disproved. It is which worldview gives the better explanation of the evidence taken together.",
+      "reviewStudyIds": [
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "reviewLabel": "Study 1 and Step 1: Comparing explanations"
+    }
+  ],
+  "scoreBands": [
+    {
+      "min": 5,
+      "title": "You have the main structure.",
+      "body": "You are keeping the arguments separate while also seeing how they fit together. Try the conversation challenge without looking back at the review."
+    },
+    {
+      "min": 3,
+      "title": "You have most of it.",
+      "body": "A few parts of the case may still be blending together. Look at the questions you missed and review those parts before trying the conversation challenge."
+    },
+    {
+      "min": 0,
+      "title": "Spend a little more time with Step 1.",
+      "body": "That is what this checkpoint is for. Review the sections above and revisit any studies that still feel unclear before moving on."
+    }
+  ],
+  "challenge": {
+    "title": "Put the pieces together",
+    "intro": "The quiz checks whether you can recognize the structure. This part asks whether you could explain it.",
+    "prompt": "A friend says, “Maybe the universe just exists. Maybe if it began, there is some cause we do not know about. Natural processes could explain design, morality could come from society or evolution, and our brains evolved because accurate thinking helps us survive. Why add a Creator?”",
+    "model": "I would not try to make one argument prove everything. Contingency asks why dependent reality exists at all, and Kalam gives another reason to think the universe depends on something beyond itself. Design, fine-tuning, and the information and machinery in life give us reasons to consider intelligence and purpose. Morality asks what makes real right and wrong binding, and reason asks why our thoughts can be more than physical events and actually be supported by evidence. I think a necessary, intelligent, good, and rational Creator makes better sense of those things together.",
+    "pushback": "The friend responds, “But couldn't there just be a different natural explanation for each of those things?”",
+    "pushbackModel": "There could be different proposed explanations, and they should be considered. The question is how well they explain the same evidence. Step 1 has given several different lines of evidence that fit together under theism. I would compare that overall explanation with the alternatives rather than assume either side wins just by naming a possibility."
+  },
+  "handoff": {
+    "title": "What Step 1 has not shown yet",
+    "body": "Step 1 gives us good reason to believe reality comes from a Creator. It has not shown that Christianity is true. We still have to ask whether this Creator has acted in history and revealed Himself. The next study begins that move by asking whether miracles can be ruled out if God exists.",
+    "button": "Continue to the bridge: Are miracles possible?"
+  }
 };
 
 const step2QuickReference = {
