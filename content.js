@@ -3996,12 +3996,12 @@ const step1QuickReference = {
     },
     {
       "id": "s1q4",
-      "q": "Researchers eventually produce a simple self-replicating system from nonliving chemistry in a carefully controlled lab. What would that result show, by itself?",
+      "q": "Researchers eventually build life from nonliving materials in a carefully controlled lab. What would that result show, by itself?",
       "opts": [
-        "That life originally arose through that same chemical route without guidance.",
-        "That intelligent control is unnecessary whenever those chemicals are present.",
-        "That the tested chemical route can work under the conditions the researchers supplied.",
-        "That natural selection can explain how the first self-replicating system formed."
+        "That life originally arose through that same route without guidance.",
+        "That intelligent control is unnecessary whenever those materials are present.",
+        "That scientists can produce life under the conditions they supplied.",
+        "That natural selection can explain how the first living system formed."
       ],
       "a": 2,
       "exp": "A laboratory result can show what chemistry is capable of under the conditions researchers set up. By itself, it would not establish that the first life arose by the same route without guidance in the past.",
