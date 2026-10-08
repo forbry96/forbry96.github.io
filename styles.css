@@ -783,7 +783,7 @@ input,select{padding:11px 12px}
 .step-check-section-head{display:grid;grid-template-columns:40px minmax(0,1fr);gap:14px;align-items:start;margin-bottom:16px}
 .step-check-number{width:34px;height:34px;border-radius:50%;display:grid;place-items:center;background:var(--ink);color:var(--paper);font-weight:800}
 .step-check-kicker{display:block;font-size:10px;letter-spacing:.13em;text-transform:uppercase;font-weight:850;color:var(--accent);margin-bottom:5px}
-.step-check-section h3,.step-check-synthesis h3,.step-challenge h3,.step-handoff h3{font-family:var(--serif);font-size:30px;font-weight:500;line-height:1.12;margin:0 0 10px}
+.step-check-section h3,.step-check-synthesis h3,.step-challenge h3,.step-challenge-preview h3,.step-handoff h3{font-family:var(--serif);font-size:30px;font-weight:500;line-height:1.12;margin:0 0 10px}
 .step-check-review-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
 .step-check-review-grid article{border:1px solid var(--line);background:var(--paper);padding:18px}
 .step-check-review-grid h4{font-family:var(--serif);font-size:21px;font-weight:500;margin:0 0 8px}
@@ -800,6 +800,8 @@ input,select{padding:11px 12px}
 .step-check-review-links strong{margin-right:auto;font-size:13px}
 .step-check-review-links button{border:1px solid var(--line);background:var(--white);padding:6px 9px;border-radius:4px;font-size:12px;cursor:pointer}
 .step-check-review-links button:hover{border-color:#b8aa95}
+.step-check-practice-preview{margin-top:14px;padding:14px 16px;border:1px dashed var(--line);background:var(--soft);font-size:13px;line-height:1.6;color:var(--muted)}
+.step-check-practice-preview strong{color:var(--ink)}
 .step-challenge blockquote,.step-check-pushback blockquote{font-family:var(--serif);font-size:22px;line-height:1.4;margin:16px 0;padding:18px;border-left:3px solid var(--accent);background:var(--paper)}
 .step-check-text-label{display:block;margin:15px 0 7px;font-size:11px;letter-spacing:.08em;text-transform:uppercase;font-weight:800;color:var(--muted)}
 .step-check-textarea{width:100%;min-height:120px;padding:12px;border:1px solid var(--line);background:var(--white);resize:vertical;margin-bottom:10px}
