@@ -581,11 +581,11 @@ function wireStep1Challenge(r){
   if(modelButton){
     modelButton.onclick = () => {
       const answer = document.querySelector('#step1ChallengeInput')?.value.trim();
-      document.querySelector('#step1ChallengeModelHolder').innerHTML = `<div class="step-check-model"><span>ONE POSSIBLE RESPONSE</span><p>${esc(r.challenge.model)}</p>${answer?'':'<small>Try writing your own response first if you want a better test of what you remember.</small>'}</div>`;
+      document.querySelector('#step1ChallengeModelHolder').innerHTML = `<div class="step-check-model"><span>ONE POSSIBLE RESPONSE</span><p>${esc(r.challenge.model)}</p>${answer?'':'<small>You will get a better sense of what you remember if you answer before checking the model.</small>'}</div>`;
       document.querySelector('#step1PushbackHolder').innerHTML = `<div class="step-check-pushback"><span>ONE MORE PUSHBACK</span><blockquote>${esc(r.challenge.pushback)}</blockquote><label class="step-check-text-label" for="step1PushbackInput">How would you answer?</label><textarea id="step1PushbackInput" class="step-check-textarea" placeholder="Keep it short and answer the actual objection."></textarea><button class="button secondary" type="button" id="step1PushbackModel">Show a possible response</button><div id="step1PushbackModelHolder"></div></div>`;
       document.querySelector('#step1PushbackModel').onclick = () => {
         const answer2 = document.querySelector('#step1PushbackInput')?.value.trim();
-        document.querySelector('#step1PushbackModelHolder').innerHTML = `<div class="step-check-model"><span>ONE POSSIBLE RESPONSE</span><p>${esc(r.challenge.pushbackModel)}</p>${answer2?'':'<small>Writing your own answer first makes this a better checkpoint.</small>'}</div>`;
+        document.querySelector('#step1PushbackModelHolder').innerHTML = `<div class="step-check-model"><span>ONE POSSIBLE RESPONSE</span><p>${esc(r.challenge.pushbackModel)}</p>${answer2?'':'<small>Answer first if you can, then compare it with the model.</small>'}</div>`;
       };
     };
   }
