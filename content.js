@@ -3898,7 +3898,7 @@ const step1QuickReference = {
           "adds": "A cause beyond the physical universe that did not itself begin and is powerful enough to account for the universe."
         }
       ],
-      "takeaway": "Taken together, contingency and Kalam point beyond physical reality to a necessary, eternal, and powerful cause."
+      "takeaway": "Contingency and Kalam both point beyond physical reality to a necessary, eternal, and powerful cause."
     },
     {
       "title": "Why does the universe look purposeful?",
@@ -3943,7 +3943,7 @@ const step1QuickReference = {
   "synthesisTitle": "Where Step 1 gets us",
   "synthesis": "Taken together, these arguments point toward a necessary, eternal, powerful, intelligent, purposeful, rational, and good Creator. No single argument gets us there by itself. Each one adds something to the larger case.",
   "checkpointTitle": "Check your understanding",
-  "checkpointIntro": "These questions are a little harder than the checks inside each study. The goal is to see whether you understand how the arguments fit together, not just whether you remember their names.",
+  "checkpointIntro": "These questions are a little harder than the checks inside each study. They are meant to show whether you understand how the arguments fit together, not just whether you remember their names.",
   "questions": [
     {
       "id": "s1q1",
@@ -4037,7 +4037,7 @@ const step1QuickReference = {
         "Hold off on any conclusion until every natural alternative is ruled out."
       ],
       "a": 2,
-      "exp": "The course has treated Step 1 as a cumulative case. The question is not whether theism uses fewer explanations by definition or whether every alternative has been disproved. It is which worldview gives the better explanation of the evidence taken together.",
+      "exp": "Step 1 is a cumulative case. It does not win just because it gives one explanation, and it does not require every alternative to be disproved first. The issue is which worldview gives the better explanation of the evidence as a whole.",
       "reviewStudyIds": [
         1
       ],
@@ -4067,7 +4067,7 @@ const step1QuickReference = {
     "prompt": "A friend says, “Maybe the universe just exists. Maybe if it began, there is some cause we do not know about. Natural processes could explain design, morality could come from society or evolution, and our brains evolved because accurate thinking helps us survive. Why add a Creator?”",
     "model": "I would not try to make one argument prove everything. Contingency asks why dependent reality exists at all, and Kalam gives another reason to think the universe depends on something beyond itself. Design, fine-tuning, and the information and machinery in life give us reasons to consider intelligence and purpose. Morality asks what makes real right and wrong binding, and reason asks why describing the physical cause of a thought is not enough to explain why the thought is reasonable. I think a necessary, intelligent, good, and rational Creator makes better sense of those things together.",
     "pushback": "The friend responds, “But couldn't there just be a different natural explanation for each of those things?”",
-    "pushbackModel": "There could be different proposed explanations, and they should be considered. The question is how well they explain the same evidence. Step 1 gives several different lines of evidence that fit together if there is a Creator. I would compare that explanation with the alternatives rather than assume either side wins just by naming a possibility."
+    "pushbackModel": "There could be different proposed explanations, and they should be considered. They still have to be compared by how well they explain the same evidence. Step 1 gives several different lines of evidence that fit together if there is a Creator. I would compare that explanation with the alternatives rather than assume either side wins just by naming a possibility."
   },
   "handoff": {
     "title": "What Step 1 has not shown yet",
