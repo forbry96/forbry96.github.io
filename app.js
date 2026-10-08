@@ -604,7 +604,7 @@ function wireStep1Challenge(r){
   });
 }
 
-function openStep1QuickReference(){
+function openStep1QuickReference(options={}){
   const r = step1QuickReference;
   const prior = progressState.step1Checkpoint;
   const reviewHtml = r.sections.map((section,index)=>`<section class="step-check-section">
@@ -638,6 +638,9 @@ function openStep1QuickReference(){
   showModal(html, 'lesson');
   document.querySelector('#step1ReviewBack').onclick = closeModal;
   if(prior) wireStep1Challenge(r);
+  if(options.scrollToQuiz){
+    requestAnimationFrame(()=>document.querySelector('#step1QuizSection')?.scrollIntoView({block:'start'}));
+  }
 
   document.querySelector('#step1CheckpointForm').onsubmit = e => {
     e.preventDefault();
@@ -665,7 +668,8 @@ function openStep1QuickReference(){
     const reviewLinks = missedUnique.length ? `<div class="step-check-review-links"><span>WORTH ANOTHER LOOK</span>${missedUnique.map(x=>`<div><strong>${esc(x.label)}</strong>${x.ids.filter(id=>id>=1&&id<=9).map(id=>`<button type="button" data-review-study="${id}">Study ${id}</button>`).join('')}</div>`).join('')}</div>` : '';
 
     document.querySelector('#step1CheckpointForm').remove();
-    document.querySelector('#step1CheckpointResults').innerHTML = `<div class="test-score"><span>Step 1 checkpoint</span><strong>${score}/${r.questions.length}</strong><b>${Math.round((score/r.questions.length)*100)}%</b><p><strong>${esc(band.title)}</strong> ${esc(band.body)}</p></div>${reviewLinks}<details class="test-review-wrap"><summary>Review answers</summary>${review}</details>`;
+    document.querySelector('#step1CheckpointResults').innerHTML = `<div class="test-score"><span>Step 1 checkpoint</span><strong>${score}/${r.questions.length}</strong><b>${Math.round((score/r.questions.length)*100)}%</b><p><strong>${esc(band.title)}</strong> ${esc(band.body)}</p></div><div class="step-check-retake"><button class="button secondary" type="button" id="retakeStep1Checkpoint">Retake checkpoint</button><p>Your current score stays saved until you submit the new attempt.</p></div>${reviewLinks}<details class="test-review-wrap"><summary>Review answers</summary>${review}</details>`;
+    document.querySelector('#retakeStep1Checkpoint')?.addEventListener('click',()=>openStep1QuickReference({scrollToQuiz:true}));
     document.querySelectorAll('[data-review-study]').forEach(btn=>btn.onclick=()=>{
       closeModal();
       openQuestion(Number(btn.dataset.reviewStudy));
