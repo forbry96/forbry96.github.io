@@ -3889,12 +3889,12 @@ const step1QuickReference = {
       "items": [
         {
           "title": "Contingency",
-          "body": "Most things we experience are contingent: they exist, but they depend on something else and could have failed to exist. Explaining one dependent thing by another can tell us how the pieces are connected, but it still leaves the larger question of why there is any dependent reality at all. The contingency argument says that dependent reality ultimately needs to rest in something necessary that does not receive its existence from anything else.",
+          "body": "Most things we experience are contingent. They exist, but they depend on something else and did not have to exist. We can explain one dependent thing by pointing to another, but that still leaves the bigger question of why there is any dependent reality at all. The contingency argument says that dependent reality ultimately has to rest in something necessary that does not depend on anything else for its existence.",
           "adds": "A necessary, self-existent foundation for everything else that exists."
         },
         {
           "title": "Kalam",
-          "body": "The Kalam starts with a simple argument: whatever begins to exist has a cause; the universe began to exist; therefore the universe has a cause. The lesson looks at both premises, including philosophical reasons for a beginning and scientific evidence that the physical universe has a finite history. If space, time, matter, and energy began with the universe, the ultimate cause cannot simply be another physical thing inside it.",
+          "body": "The Kalam is simple to state: whatever begins to exist has a cause; the universe began to exist; therefore the universe has a cause. The first premise asks whether things can simply begin without a cause. The second asks whether the universe really had a beginning, using both philosophical arguments and scientific evidence. If space, time, matter, and energy began with the universe, the ultimate cause cannot simply be another physical thing inside it.",
           "adds": "An eternal cause beyond the physical universe, powerful enough to bring the physical order into being."
         }
       ],
@@ -3906,17 +3906,17 @@ const step1QuickReference = {
       "items": [
         {
           "title": "Design",
-          "body": "The design argument is not simply, “This is complicated, so it must be designed.” The lesson focuses on parts working together toward a purpose, like the parts of a watch working together to tell time. Minds are known to arrange things toward a goal, while natural processes can also produce order, so the real question is which explanation best accounts for the particular feature we are looking at.",
+          "body": "The design argument is not simply, “This is complicated, so it must be designed.” The watch matters because its parts are arranged to do something: tell time. The same question can be asked in nature when different parts work together toward a purpose. Minds are known to arrange things toward a goal. Natural processes can also produce order, so we still have to ask what best explains the particular feature we are looking at.",
           "adds": "When we really do find parts working together for a purpose, a mind is a real explanation to consider."
         },
         {
           "title": "Fine-tuning",
-          "body": "Before life could exist anywhere, the universe needed the right conditions for stable atoms, lasting stars, and complex chemistry. Fine-tuning asks why the basic settings of the universe fall within the ranges that allow those things to exist. A Creator who intended life has a reason to make a life-permitting universe, while alternatives such as luck or a multiverse still have to explain the conditions we actually observe.",
+          "body": "Before life could exist anywhere, the universe needed the right conditions for stable atoms, lasting stars, and complex chemistry. Fine-tuning looks at the basic settings in physics that make those things possible. Change some of them enough, and life would not be possible. A Creator who intended life has a reason to make a life-permitting universe. Alternatives such as luck or a multiverse still have to be compared with that explanation.",
           "adds": "The life-permitting setup of the universe fits naturally with purposeful creation."
         },
         {
           "title": "Biological design",
-          "body": "DNA contains information that cells actually use to make proteins and regulate other functions, and cells contain machinery that copies, reads, and uses those instructions. Intelligence is already a known cause of instructions and working machines. The lesson also asks how the first living system gained the information and machinery needed to store information, use it, and reproduce in the first place.",
+          "body": "DNA contains information that cells actually use to make proteins and control other functions, and cells contain machinery that copies, reads, and uses those instructions. Intelligence is already a known cause of instructions and working machines. That pushes the question back to the first living system: where did the information and machinery needed to store information, use it, and reproduce come from?",
           "adds": "The information and coordinated machinery in life give us good reason to consider an intelligent source."
         }
       ],
@@ -3928,12 +3928,12 @@ const step1QuickReference = {
       "items": [
         {
           "title": "Morality",
-          "body": "The moral argument begins with the claim that some things really are right or wrong even when a person or an entire society approves of them. It separates moral value, what is good or bad, from moral duty, what we actually ought to do. Christianity grounds goodness in God's character, human worth in the fact that He made us, and our duties in His authority as Creator.",
+          "body": "Some things really are right or wrong even when a person, or a whole society, approves of them. Moral value asks what is good or bad. Moral duty asks what we actually ought to do. Christianity grounds goodness in God's character, human worth in the fact that He made us, and our duties in His authority as Creator.",
           "adds": "A perfectly good personal Creator gives a foundation for goodness, human worth, and real moral duties."
         },
         {
           "title": "Reason",
-          "body": "The argument from reason asks us to separate two questions: what caused a thought, and what makes that thought reasonable? The bridge example shows the difference. A brain process can be involved whether a belief is well supported or mistaken, so describing the physical cause alone does not tell us whether the evidence actually supports the conclusion. A rational Creator gives us a reason to expect both an intelligible world and minds capable of knowing it.",
+          "body": "The argument from reason separates two questions: what caused a thought, and what makes that thought reasonable? Think back to the bridge. A brain process is involved whether someone believes the bridge is unsafe because of a cracked support or because a drug made him afraid of bridges. The physical cause alone does not tell us whether the belief is supported by good reasons. A rational Creator gives us a reason to expect both an intelligible world and minds capable of knowing it.",
           "adds": "A rational Creator helps explain why reasons can really support conclusions and why our minds can discover truth."
         }
       ],
@@ -4063,11 +4063,12 @@ const step1QuickReference = {
   ],
   "challenge": {
     "title": "Put the pieces together",
-    "intro": "The quiz checks whether you recognize how the case fits together. Now try explaining it in your own words.",
-    "prompt": "A friend says, “Maybe the universe just exists. Maybe if it began, there is some cause we do not know about. Natural processes could explain design, morality could come from society or evolution, and our brains evolved because accurate thinking helps us survive. Why add a Creator?”",
-    "model": "I would not try to make one argument prove everything. Contingency asks why dependent reality exists at all, and Kalam gives another reason to think the universe depends on something beyond itself. Design, fine-tuning, and the information and machinery in life give us reasons to consider intelligence and purpose. Morality asks what makes real right and wrong binding, and reason asks why describing the physical cause of a thought is not enough to explain why the thought is reasonable. I think a necessary, intelligent, good, and rational Creator makes better sense of those things together.",
-    "pushback": "The friend responds, “But couldn't there just be a different natural explanation for each of those things?”",
-    "pushbackModel": "There could be different proposed explanations, and they should be considered. They still have to be compared by how well they explain the same evidence. Step 1 gives several different lines of evidence that fit together if there is a Creator. I would compare that explanation with the alternatives rather than assume either side wins just by naming a possibility."
+    "intro": "The quiz checks whether you recognize how the case fits together. This part checks whether you can actually explain it.",
+    "prompt": "A friend says, “I get that you have several arguments, but couldn't each of these things just have its own natural explanation? Maybe the universe just exists. Maybe the things that look designed came about through natural processes. Morality could come from society or evolution, and our brains developed because accurate thinking helps us survive. Why think all of that points to a Creator?”",
+    "model": "I would not say one argument proves everything. The strength of the case is that the pieces point in the same direction. Contingency asks why dependent reality exists at all, and Kalam gives another reason to think the universe has a cause beyond itself. Design, fine-tuning, and the information and machinery in life give us reasons to consider intelligence and purpose. Morality asks what grounds real moral duties, and reason asks why explaining the physical cause of a thought is not the same as showing that the thought is reasonable. I think a necessary, intelligent, good, and rational Creator makes better sense of all of that together.",
+    "pushback": "The friend says, “Okay, but why couldn't each one just have its own natural explanation?”",
+    "pushbackModel": "They could, and I would want to look at those explanations. But naming a possible explanation is not the same as showing that it explains the evidence well. Step 1 gives several different lines of evidence that fit together if there is a Creator. I would compare that explanation with the alternatives rather than assume a natural explanation wins just because one can be suggested.",
+    "lockedNote": "After you score the six questions, the conversation practice opens here. You will answer a cumulative objection in your own words, compare it with a model response, and then handle one follow-up."
   },
   "handoff": {
     "title": "What Step 1 has not shown yet",
