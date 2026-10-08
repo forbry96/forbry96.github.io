@@ -104,7 +104,7 @@ function renderProgress(){
   const step1Score = document.querySelector('#step1Score');
   if(step1Score) step1Score.textContent = scoreLabel(progressState.step1Checkpoint);
   document.querySelector('#practiceScore').textContent = `${progressState.practiced.length} topic${progressState.practiced.length===1?'':'s'}`;
-  document.querySelector('#startPreTest').textContent = progressState.pre ? 'Retake the optional pre-test' : 'Take the optional pre-test';
+  document.querySelector('#startPreTest').textContent = progressState.pre ? 'Retake the pre-test' : 'Take the pre-test';
   ['heroPreTest','methodPreTest'].forEach(id => {
     const button = document.querySelector('#'+id);
     if(button) button.textContent = progressState.pre ? 'Retake the pre-test' : 'Take the pre-test';
