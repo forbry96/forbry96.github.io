@@ -2514,7 +2514,7 @@ const questions = [
   "story": {
     "title": "What would the resurrection mean?",
     "lines": [
-      "Jordan has stopped arguing that resurrection is impossible. Now he asks a different question. “Say I grant it. Say God really raised Jesus. Why does that make Jesus right about everything?”",
+      "Jordan is not trying to explain the resurrection away as quickly now. “I still have questions, but I can see why you think resurrection fits the evidence better than the alternatives. If God really raised Jesus, what would that mean about Him?”",
       "You tell him that the argument is not that any miracle makes any person automatically right.",
       "“Then what changes?” he asks.",
       "You remind him what came before the resurrection: Jesus’ extraordinary claims, His rejection, and His execution. “If God raised that Jesus, the event is not random. God is giving a verdict on the person who was rejected.”"
@@ -2655,7 +2655,7 @@ const questions = [
   "story": {
     "title": "What did Jesus think about the Bible?",
     "lines": [
-      "Jordan sees the next move. “If God really vindicated Jesus, then I understand why what Jesus teaches matters.”",
+      "Jordan sees the next move. “If that is where the evidence leads, then I understand why what Jesus teaches matters.”",
       "He points to a Bible on the table. “But you still have to get from Jesus to this.”",
       "You agree. “Then we should start with the Scriptures Jesus already had.”",
       "Jordan asks, “And how do you know Jesus really thought those writings were God’s Word instead of people later putting that view on Him?”"
@@ -2981,7 +2981,7 @@ const questions = [
   "teaser": "Put the whole case together: from the Creator, to the risen Christ, to the Old and New Testament Scriptures, and finally to why God’s Word can be trusted as true.",
   "lesson": {
     "heading": "The whole argument in one chain",
-    "body": "We can now put the second half of the course together without skipping any of the major links.\n\nStep 1 gave us a cumulative case for a rational, personal, perfectly good Creator. Because God exists, miracles cannot be ruled out simply because nature could not produce them. That opened the historical question rather than answering it in advance.\n\nWe then treated the New Testament writings first as ancient sources rather than assuming they were inspired. We found positive reasons to take those sources seriously and then asked what particular claims the evidence could establish. There is good historical reason to think Jesus made extraordinary claims about His identity and authority, that He was crucified and died, and that the resurrection best explains the early proclamation, appearance claims, transformed witnesses, and tomb evidence taken together.\n\nThe resurrection is the hinge. God did not raise an unknown person in a vacuum. He raised the Jesus whose claims had been publicly disputed and who had been executed. In that setting, the resurrection functions as God’s vindication of Jesus. The perfectly good Creator is confirming the authority of the person who was rejected.\n\nThat authority then leads us to revelation. We have historical reason to think Jesus consistently received Israel’s Scriptures as God’s authoritative Word. The Hebrew Scriptures He received correspond in content to the books of the Protestant Old Testament, though arranged and counted differently.\n\nJesus also established an authorized apostolic witness. The earliest Christian evidence already knows the Twelve and recognized apostles, and apostolic teaching was written, circulated, and received very early. The New Testament canon was not invented at Nicaea. A large core was functioning authoritatively long before later councils, while a smaller group of books was examined longer before broad agreement. The surviving manuscript tradition also gives us the evidence needed to recover the text rather than leaving us dependent on one late copy.\n\nThat is how the argument reaches Scripture rather than beginning with it. We did not say, “The Bible is God’s Word, therefore Christianity is true,” and then use Christianity to prove the Bible. We moved from reasons for God, to the historical case for Jesus, to the authority of the risen Jesus, to the Scriptures He received and the apostolic witness He authorized.\n\nOne final premise makes the conclusion about truth clear. The God argued for earlier is perfectly good. A perfectly good God is not deceptive. If these Scriptures are genuinely His revelation, then what God communicates through them is trustworthy and true.\n\nThat does not make every reader or translation infallible. We still have to interpret Scripture carefully, pay attention to genre and context, and distinguish what a text actually teaches from what someone may wrongly read into it. Nor does inspiration mean every manuscript copy has been transmitted without a single variant. The claim is about God’s truthful revelation given through human authors and faithfully available to us through the preserved text.\n\nThe destination of the course is therefore stronger than “some kind of God probably exists.” The cumulative case gives us good reason to believe that the Creator has acted in Jesus Christ and has spoken through the Old and New Testament Scriptures.",
+    "body": "We can now put the second half of the course together without skipping any of the major links.\n\nStep 1 gave us a cumulative case for a rational, personal, perfectly good Creator. Because God exists, miracles cannot be ruled out simply because nature could not produce them. That opened the historical question rather than answering it in advance.\n\nWe then treated the New Testament writings first as ancient sources rather than assuming they were inspired. We found positive reasons to take those sources seriously and then asked what particular claims the evidence could establish. There is good historical reason to think Jesus made extraordinary claims about His identity and authority, that He was crucified and died, and that the resurrection best explains the early proclamation, appearance claims, transformed witnesses, and tomb evidence taken together.\n\nThe resurrection is the hinge. God did not raise an unknown person in a vacuum. He raised the Jesus whose claims had been publicly disputed and who had been executed. In that setting, the resurrection functions as God’s vindication of Jesus. The perfectly good Creator is confirming the authority of the person who was rejected.\n\nThat authority then leads us to revelation. We have historical reason to think Jesus consistently received Israel’s Scriptures as God’s authoritative Word. The Hebrew Scriptures He received correspond in content to the books of the Protestant Old Testament, though arranged and counted differently.\n\nJesus also established an authorized apostolic witness. The earliest Christian evidence already knows the Twelve and recognized apostles, and apostolic teaching was written, circulated, and received very early. The New Testament canon was not invented at Nicaea. A large core was functioning authoritatively long before later councils, while a smaller group of books was examined longer before broad agreement. The surviving manuscript tradition also gives us the evidence needed to recover the text rather than leaving us dependent on one late copy.\n\nThat is how the argument reaches Scripture rather than beginning with it. We did not say, “The Bible is God’s Word, therefore Christianity is true,” and then use Christianity to prove the Bible. We moved from reasons for God, to the historical case for Jesus, to the authority of the risen Jesus, to the Scriptures He received and the apostolic witness He authorized.\n\nThere is one more step before the conclusion about truth follows. The God argued for earlier is perfectly good. A perfectly good God is not deceptive. If these Scriptures are genuinely His revelation, then what God communicates through them is trustworthy and true.\n\nThat does not make every reader or translation infallible. We still have to interpret Scripture carefully, pay attention to genre and context, and distinguish what a text actually teaches from what someone may wrongly read into it. Nor does inspiration mean every manuscript copy has been transmitted without a single variant. The claim is about God’s truthful revelation given through human authors and faithfully available to us through the preserved text.\n\nSo the course ends somewhere stronger than “some kind of God probably exists.” The cumulative case gives us good reason to believe that the Creator has acted in Jesus Christ and has spoken through the Old and New Testament Scriptures.",
     "facts": [
       "The course does not assume biblical inspiration in order to establish the resurrection.",
       "The historical case first establishes the authority of the risen Jesus, then asks what He taught and whom He authorized.",
@@ -4150,7 +4150,7 @@ const lessonModules = [
     "label": "Step 2 · Christian evidences",
     "shortLabel": "Step 2",
     "title": "Has God spoken in Jesus Christ?",
-    "description": "Move from early historical sources to Jesus’ claims, death and resurrection, then follow the resurrection’s meaning through Christ’s authority to Scripture.",
+    "description": "Move from historically usable sources to Jesus’ claims, death and resurrection, then follow His vindication through the Old Testament, the apostles, the New Testament canon, and Scripture’s truthfulness.",
     "studyIds": [
       11,
       12,
@@ -4166,7 +4166,7 @@ const lessonModules = [
     "core": true,
     "groups": [
       {
-        "title": "Historical foundation",
+        "title": "Historical starting point",
         "studyIds": [
           11,
           12,
@@ -4174,7 +4174,7 @@ const lessonModules = [
         ]
       },
       {
-        "title": "Resurrection and verdict",
+        "title": "Resurrection and vindication",
         "studyIds": [
           14,
           15,
@@ -4210,7 +4210,7 @@ const lessonModules = [
 const orientation = {
   "definition": {
     "title": "What is classical apologetics?",
-    "body": "Classical apologetics usually starts one step back from the Bible. It first asks whether the world gives us good reason to believe in God: why anything exists, whether the universe had a beginning, whether nature shows design, whether morality is objective, and whether reason itself makes sense. Then it turns to Christianity in particular: Jesus, the New Testament, and the resurrection.\n\nThere is no single script every classical apologist follows. They disagree about which arguments are strongest and how far each argument gets us. What they share is the basic two-step approach: make the case for God, then examine the historical case for Christianity.",
+    "body": "Classical apologetics usually starts one step back from the Bible. It first asks whether the world gives us good reason to believe in God: why anything exists, whether the universe had a beginning, whether nature shows design, whether morality is objective, and whether reason itself makes sense. Then it turns to Christianity in particular: Jesus, the resurrection, and whether the risen Christ gives us reason to receive Scripture as God’s Word.\n\nThere is no single script every classical apologist follows. They disagree about which arguments are strongest and how far each argument gets us. What they share is the basic two-step approach: make the case for God, then examine the historical case for Christianity.",
     "points": [
       "Start with reasons that can be discussed with someone who does not already accept the Bible.",
       "Do not jump from “God exists” to “Christianity is true.” That second step needs evidence of its own.",
