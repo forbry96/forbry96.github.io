@@ -1,129 +1,139 @@
 questions.push({
   "id": 18,
   "cat": "christianity",
-  "tag": "Scripture",
-  "title": "How did Jesus treat the Old Testament?",
-  "teaser": "The divinely vindicated Jesus consistently treats Israel’s Scriptures as God’s authoritative Word, not merely as helpful religious literature.",
+  "tag": "Authority",
+  "title": "Did Jesus authorize apostles to speak for Him?",
+  "teaser": "The New Testament cannot be reached simply by saying Jesus was authoritative. We need historical reason to think He appointed witnesses to carry His teaching after Him.",
   "lesson": {
-    "heading": "Jesus receives the Scriptures as God speaking",
-    "body": "If Jesus is our trustworthy authority, his view of Scripture matters. Across the Gospels, Jesus appeals to the Old Testament as decisive. He answers temptation with ‘It is written.’ He says that Scripture cannot be broken. He treats words written in Genesis as something God said. He appeals to the Law, Prophets, and Psalms as a unified body that points to God’s purposes.\n\nJesus also treats Old Testament persons and events as part of the history and moral world his hearers share: Adam and Eve, Noah, Abraham, Moses, David, Elijah, Jonah, and others. The argument does not need to turn every reference into a separate debate over genre or chronology. The larger point is that Jesus does not handle Israel’s Scriptures as a merely human collection whose authority he can set aside whenever convenient.\n\nThis gives the classical argument a strong next step. If the resurrection vindicates Jesus, and Jesus receives the Old Testament as God’s authoritative Scripture, then Christians have reason to receive the Old Testament on Jesus’ authority.\n\nOne caution is important: this lesson does not claim that one saying from Jesus by itself gives a complete modern table of contents for the Protestant Old Testament. Questions about the exact boundaries of the canon have their own history. The claim here is about Jesus’ view of the recognized Scriptures of Israel as divine, reliable, and authoritative.",
+    "heading": "From Jesus’ authority to authorized witnesses",
+    "body": "Accepting Jesus’ view of the Old Testament still does not give us the New Testament. Jesus did not hand His followers a bound collection of twenty-seven books. The next link is the apostles.\n\nThe existence of the Twelve is not a late idea that appears only after Christianity had developed. The Synoptic Gospels repeatedly describe Jesus choosing a distinct group of twelve, sending them out, and giving them a representative role. Paul, writing earlier than the Gospels, can refer to “the Twelve” in the resurrection tradition he received. That gives us an early line of evidence that this group belonged to the movement from the beginning.\n\nThe number twelve matters as well. In a Jewish setting it naturally points to the twelve tribes of Israel and fits Jesus’ announcement of God’s kingdom and the restoration of God’s people. It is not a random administrative detail.\n\nThe traditions also present these men as more than ordinary students. Jesus sends them to preach His message and act in His name. Matthew and Luke preserve sayings in which receiving Jesus’ messengers is connected with receiving Jesus Himself. The exact wording of individual commission sayings can be discussed, but the broader pattern is early and widespread: Jesus selected representatives to continue His witness.\n\nThe earliest Christian evidence after Jesus fits the same picture. Paul distinguishes earlier apostles from himself, visits Peter and James, refers to James, Cephas, and John as recognized leaders, and defends his own apostleship as a commission from the risen Christ. That makes little sense if apostolic authority was simply invented much later by the church.\n\nThis authority is delegated, not independent. The apostles matter because of the One who sent them. They do not replace Jesus. They bear witness to Him and teach in His name.\n\nThat still leaves another question. An authorized apostle speaking and teaching is not yet the same thing as a twenty-seven-book New Testament. We now have to ask how apostolic teaching came to be written, circulated, received as Scripture, and preserved—and why these books, rather than every early Christian writing, belong to that collection.",
     "facts": [
-      "Jesus repeatedly introduces Old Testament texts with the assumption that what is written carries binding authority.",
-      "In John 10:35, Jesus says Scripture cannot be broken.",
-      "In Matthew 19, Jesus cites Genesis and speaks of the text as what the Creator said.",
-      "Luke 24 presents Jesus referring to the Law of Moses, the Prophets, and the Psalms as the scriptural witness to God’s plan.",
-      "Jesus treats a wide range of Old Testament people and events as meaningful and authoritative for his teaching."
+      "Paul’s early resurrection tradition already refers to “the Twelve,” showing that the group was not a late Gospel invention.",
+      "The Synoptic traditions consistently present Jesus selecting and sending a distinct group of twelve.",
+      "The number twelve fits Jesus’ Jewish setting and His kingdom message by echoing the twelve tribes of Israel.",
+      "Jesus’ messengers are presented as representatives who preach His message and act in His name.",
+      "Paul’s undisputed letters show an early structure of recognized apostles and his own need to defend a commission from the risen Jesus.",
+      "Apostolic authority is delegated from Christ; it does not arise from a later church vote.",
+      "Establishing apostolic authority still does not by itself identify the full New Testament canon."
     ],
     "further": [
       [
-        "The Gospel Coalition | Jesus’s View of the Old Testament",
-        "https://www.thegospelcoalition.org/essay/jesuss-view-old-testament/"
+        "Ligonier | What Is an Apostle?",
+        "https://learn.ligonier.org/articles/what-is-an-apostle"
       ],
       [
-        "Bible reference | John 10:34–36",
-        "https://www.biblegateway.com/passage/?search=John%2010%3A34-36&version=ESV"
+        "Ligonier | The Authority of the Apostles",
+        "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-authority-of-the-apostles"
       ],
       [
-        "Bible reference | Matthew 19:3–6",
-        "https://www.biblegateway.com/passage/?search=Matthew%2019%3A3-6&version=ESV"
-      ],
-      [
-        "Bible reference | Luke 24:44–47",
-        "https://www.biblegateway.com/passage/?search=Luke%2024%3A44-47&version=ESV"
+        "Bible reference | Mark 3:13–19; Matthew 10:1–15, 40; Luke 10:16; 1 Corinthians 15:3–8; Galatians 1–2",
+        "https://www.biblegateway.com/passage/?search=Mark%203%3A13-19%3B%20Matthew%2010%3A1-15%2C40%3B%20Luke%2010%3A16%3B%201%20Corinthians%2015%3A3-8%3B%20Galatians%201-2&version=ESV"
       ]
     ]
   },
-  "why": "This is the first direct Scripture-authority step. Rather than assuming the Old Testament’s inspiration, the argument receives it through the authority of the resurrected Christ.",
+  "why": "The argument from Jesus to the New Testament needs an actual bridge. Historically establishing that Jesus appointed and authorized representatives keeps us from jumping straight from “Jesus is Lord” to “therefore twenty-seven later books are Scripture.”",
   "core": [
-    "Jesus regularly treats written Scripture as a decisive authority.",
-    "He can speak of a biblical text as what God said, showing a close connection between Scripture’s words and God’s speech.",
-    "He says Scripture cannot be broken and appeals to its wording in argument.",
-    "He receives the Law, Prophets, and Writings as the authoritative scriptural world in which his mission is understood.",
-    "Therefore, if Jesus is divinely vindicated, his view gives Christians strong reason to receive the Old Testament as God’s authoritative Word."
+    "The Twelve appear in early Christian evidence, including Paul, not only in later Gospel narratives.",
+    "Jesus’ selection of twelve makes sense within His Jewish kingdom mission and the symbolism of Israel’s twelve tribes.",
+    "The Gospel traditions consistently present the apostles as people Jesus sent to carry His message.",
+    "The earliest Pauline evidence shows recognized apostles functioning with authority in the first Christian generation.",
+    "Their authority is delegated from Christ: they matter because He commissioned them to bear witness in His name.",
+    "This establishes an authoritative apostolic witness but not yet the exact twenty-seven-book New Testament."
   ],
   "pressure": [
     [
-      "“Jesus was just accommodating the beliefs of his culture.”",
-      "That is possible to propose, but it is not what the texts themselves suggest. Jesus uses Scripture as his own authority in temptation, controversy, ethics, and explanation of his mission, not merely as a concession to other people’s beliefs."
+      "“The church just gave certain leaders authority after Jesus was gone.”",
+      "The evidence for a distinct apostolic group is earlier than a later developed church structure. Paul already knows of the Twelve and recognized apostles, and the Gospel traditions consistently connect their role to Jesus Himself."
     ],
     [
-      "“Jesus quoted the Old Testament, but that does not prove every book.”",
-      "Right. This lesson is not pretending one quotation settles the exact boundaries of a modern canon. It establishes Jesus’ settled posture toward Israel’s Scriptures as divine and authoritative. Canon boundaries can be discussed separately."
+      "“Why should Paul count if he was not one of the original Twelve?”",
+      "Paul does not pretend to be one of the original Twelve. He grounds his apostleship in a later commission from the risen Jesus and interacts with the earlier apostles, who recognized his mission. His case is distinct and should be argued as such."
     ],
     [
-      "“What about difficult Old Testament passages?”",
-      "Those are important questions, but they are a later interpretive issue. The apologetic step here is narrower: what view of Scripture did Jesus himself display?"
-    ],
-    [
-      "“Could Jesus be wrong about ancient history?”",
-      "If the previous argument has established Jesus as the divinely vindicated Lord, then treating him as simply mistaken about revelation creates a serious conflict with the authority just established."
+      "“Even if Jesus authorized apostles, that does not prove the New Testament.”",
+      "Correct. This lesson is only the bridge to apostolic authority. The next question is which writings genuinely carry that apostolic witness and how the church recognized them."
     ]
   ],
-  "limits": "This lesson establishes Jesus’ high view of Israel’s Scriptures. It does not by itself settle every question about the exact Old Testament canon, textual criticism, genre, or how every difficult passage should be interpreted.",
-  "practice": "Someone says, “Even if Jesus rose, why should that make me trust the Old Testament?” Give the connection in a few sentences.",
-  "model": "If God raised Jesus, I have strong reason to trust Jesus as a divine authority. When Jesus handles the Old Testament, he treats it as binding Scripture, speaks of its words as God speaking, and says Scripture cannot be broken. So I do not have to start by assuming the Old Testament is inspired. I can receive it because of the authority of the Jesus whom the resurrection vindicates.",
+  "limits": "This lesson establishes the historical case for a Christ-authorized apostolic witness. It does not yet establish the complete New Testament canon or claim that every early Christian writer had apostolic authority.",
+  "practice": "Someone says, “Jesus may have been authoritative, but Paul and the other apostles were just later church leaders speaking for themselves.” How would you respond?",
+  "model": "I would ask whether apostolic authority really began later. Paul’s early letters already know a recognized group of apostles, and even the early resurrection tradition refers to the Twelve. The Gospel traditions consistently present Jesus selecting and sending representatives to carry His message. Their authority is not supposed to be independent of Jesus; it comes from the person who commissioned them.",
   "sources": [
     [
-      "The Gospel Coalition | Jesus’s View of the Old Testament",
-      "https://www.thegospelcoalition.org/essay/jesuss-view-old-testament/"
+      "Ligonier | What Is an Apostle?",
+      "https://learn.ligonier.org/articles/what-is-an-apostle"
     ],
     [
-      "Bible reference | John 10:34–36",
-      "https://www.biblegateway.com/passage/?search=John%2010%3A34-36&version=ESV"
+      "Bible reference | 1 Corinthians 15:3–8; Galatians 1–2",
+      "https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A3-8%3B%20Galatians%201-2&version=ESV"
     ]
   ],
   "evidence": {
-    "claim": "Jesus consistently treats the Old Testament Scriptures as divine, reliable, and authoritative.",
-    "establishes": "The Gospel passages show Jesus appealing to Scripture as decisive, identifying scriptural words with God’s speech, and treating the major divisions of Israel’s Scriptures as authoritative witnesses.",
-    "caution": "The evidence supports Jesus’ high view of Scripture; it should not be stretched into a claim that one verse alone settles every later question about canon boundaries or interpretation.",
+    "claim": "The apostolic office is rooted in the earliest Christian evidence and in traditions of Jesus selecting and sending representatives.",
+    "establishes": "Paul’s early letters, the tradition of the Twelve, and the Gospel commissioning material together support a first-generation apostolic witness rather than a much later invention.",
+    "caution": "Historical evidence for apostolic authority does not by itself identify every canonical book. That is the next question.",
     "resources": [
       {
-        "type": "Biblical studies",
-        "title": "The Gospel Coalition | Jesus’s View of the Old Testament",
-        "why": "Surveys the range of ways Jesus uses and describes Israel’s Scriptures.",
-        "url": "https://www.thegospelcoalition.org/essay/jesuss-view-old-testament/"
+        "type": "Teaching",
+        "title": "Ligonier | What Is an Apostle?",
+        "why": "Explains the distinction between a disciple and a commissioned apostolic representative and the delegated nature of apostolic authority.",
+        "url": "https://learn.ligonier.org/articles/what-is-an-apostle"
       },
       {
-        "type": "Primary Christian source",
-        "title": "John 10:34–36",
-        "why": "Contains Jesus’ statement that Scripture cannot be broken.",
-        "url": "https://www.biblegateway.com/passage/?search=John%2010%3A34-36&version=ESV"
+        "type": "Teaching",
+        "title": "Ligonier | The Authority of the Apostles",
+        "why": "Traces the argument from Jesus’ authority to those He commissioned to speak in His name.",
+        "url": "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-authority-of-the-apostles"
       },
       {
-        "type": "Primary Christian source",
-        "title": "Matthew 19:3–6",
-        "why": "Shows Jesus treating the words of Genesis as the Creator’s authoritative speech.",
-        "url": "https://www.biblegateway.com/passage/?search=Matthew%2019%3A3-6&version=ESV"
-      },
-      {
-        "type": "Primary Christian source",
-        "title": "Luke 24:44–47",
-        "why": "Shows Jesus appealing broadly to the Law, Prophets, and Psalms in explaining his mission.",
-        "url": "https://www.biblegateway.com/passage/?search=Luke%2024%3A44-47&version=ESV"
+        "type": "Bible reference",
+        "title": "Mark 3:13–19; 1 Corinthians 15:3–8; Galatians 1–2",
+        "why": "Provides early and varied evidence for the Twelve, recognized apostles, and Paul’s relationship to the earlier apostolic witnesses.",
+        "url": "https://www.biblegateway.com/passage/?search=Mark%203%3A13-19%3B%201%20Corinthians%2015%3A3-8%3B%20Galatians%201-2&version=ESV"
       }
     ]
   },
-  "thoughts": [
-    "What does Jesus mean when he treats Scripture as decisive in an argument?",
-    "Why is Matthew 19 important for connecting written Scripture with God’s speech?",
-    "What can this lesson establish without settling every canon question?",
-    "How does Jesus’ view of the Old Testament follow from the resurrection argument?"
-  ],
   "terms": [
     [
-      "Scripture",
-      "Sacred writings received as authoritative revelation from God."
+      "Apostle",
+      "An authorized messenger or representative sent to bear witness and speak in the name of the one who sent him."
     ],
     [
-      "Canon",
-      "The recognized collection of writings received as Scripture."
+      "The Twelve",
+      "The distinct group of twelve disciples Jesus selected, symbolically connected with Israel and prominent in the earliest Christian tradition."
     ],
     [
-      "Authority of Scripture",
-      "The claim that Scripture rightly governs belief and obedience because it is God’s Word."
+      "Delegated authority",
+      "Authority received from another rather than possessed independently."
     ]
   ],
-  "conclusion": "Remember this: the resurrected Christ does not treat the Old Testament as optional religious advice. He receives Scripture as God’s authoritative Word.",
-  "thread": "Study 17 established why Jesus’ teaching deserves trust. Study 18 asks what Jesus says and does with the Scriptures he inherited, giving the argument its first direct bridge to the Bible.",
-  "bigIdea": "We receive the Old Testament through the authority of the divinely vindicated Jesus."
+  "conclusion": "There is good historical reason to think Jesus established an authorized apostolic witness to carry His teaching. The next question is how that witness reaches the writings of the New Testament.",
+  "thread": "Jesus receives Israel’s Scriptures as God’s Word. But the New Testament did not yet exist during most of His earthly ministry. How do we get from the authority of Jesus to authoritative writings after Him?",
+  "bigIdea": "Jesus did not leave Christianity without authorized witnesses. The apostles stand between the authority of the risen Christ and the New Testament writings that preserve the apostolic witness.",
+  "checkpoints": [
+    {
+      "after": "core",
+      "question": "Why does Paul’s reference to “the Twelve” matter?",
+      "answer": "Paul’s letter is early, and the phrase shows that a distinct group of twelve was already part of the resurrection tradition rather than being invented much later by the Gospel writers."
+    },
+    {
+      "after": "body",
+      "question": "What has this lesson established—and what has it not established yet?",
+      "answer": "It establishes an early, Christ-authorized apostolic witness. It has not yet shown which writings belong to the New Testament canon."
+    }
+  ],
+  "story": {
+    "title": "Jesus did not hand them twenty-seven books",
+    "lines": [
+      "Jordan sees the problem immediately. “Okay. Jesus had the Old Testament. But He never handed the disciples a New Testament.”",
+      "You agree. “Right. So we should not jump there.”",
+      "“Then what comes next?”",
+      "You tell him that Jesus did leave something before there was a New Testament collection: authorized witnesses.",
+      "Jordan says, “Then show me that the apostles really came from Jesus and were not just later church leaders claiming authority for themselves.”"
+    ]
+  },
+  "conversationTips": [
+    "Do not jump from Jesus’ authority straight to a twenty-seven-book canon. Establish the apostolic bridge first.",
+    "Use Paul carefully: he is not one of the Twelve, but his early letters are valuable evidence that recognized apostolic authority already existed.",
+    "Keep delegated authority clear. The apostles are authoritative because of Christ, not because the church later promoted them."
+  ]
 });
