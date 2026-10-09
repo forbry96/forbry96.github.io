@@ -1785,1428 +1785,1371 @@ const questions = [
   ]
 },
   {
-    "id": 12,
-    "cat": "christianity",
-    "tag": "Jesus",
-    "title": "Who did Jesus claim to be?",
-    "teaser": "Before asking what the resurrection means, first ask what Jesus said and did that made his identity such a serious question.",
-    "lesson": {
-      "heading": "The cumulative historical case for Jesus’ identity",
-      "body": "When someone says, “Jesus never claimed to be God,” the best response is not to search for one English sentence where Jesus says those exact words. Jesus was a first-century Jew, and His claims about identity and authority come through several different words, actions, and titles.\n\nOne place to start is with what Jesus does. He forgives sins on His own authority, claims lordship over the Sabbath, speaks with authority over God’s law, and makes a person’s response to Him central to that person’s relationship with God. Those are not ordinary claims for a religious teacher.\n\nAdditionally, Jesus repeatedly calls Himself the Son of Man. That title can sound modest to us, but in important contexts it points back to Daniel 7, where a heavenly figure receives dominion and an everlasting kingdom. Jesus also speaks of Himself as the one who will come in glory and judge.\n\nWe also see a unique relationship between Jesus and the Father, and John records even more explicit claims involving preexistence and unity with the Father. The argument should not rest on any one title by itself, because terms such as “Son of God” can have more than one meaning depending on the context.\n\nWhy do those details matter? Because the argument is not that one title automatically means Jesus is God. It is that Jesus repeatedly places Himself where an ordinary teacher or prophet would not: forgiving sins on His own authority, ruling over the Sabbath, speaking of final judgment, and tying a person's response to Him to that person's standing with God. The pattern is what makes the evidence significant.\n\nThe case is cumulative. The words, actions, titles, authority, and role of Jesus all fit together. Taken as a whole, Jesus does not present Himself as only a moral teacher pointing people toward God. He places Himself in a category that requires us to decide who He actually is.",
-      "facts": [
-        "Forgiving sins matters because Jesus does not merely announce that God has forgiven; He acts with personal authority.",
-        "The Son of Man title can be ordinary in some contexts, but key sayings clearly invoke Daniel 7’s heavenly ruler.",
-        "Jesus’ authority over Sabbath, judgment, salvation, and His unique sonship all contribute to the cumulative case.",
-        "John’s explicit language should be considered with the Synoptic evidence rather than used as the only basis of the case."
-      ],
-      "further": [
-        [
-          "Reasonable Faith | Rediscovering the Historical Jesus",
-          "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-goddoes-god-exist1/rediscovering-the-historical-jesus-the-evidence-for-jesus/"
-        ],
-        [
-          "Bible reference | Mark 2:1–12",
-          "https://www.biblegateway.com/passage/?search=Mark%202%3A1-12&version=ESV"
-        ],
-        [
-          "Bible reference | Mark 14:61–64",
-          "https://www.biblegateway.com/passage/?search=Mark%2014%3A61-64&version=ESV"
-        ],
-        [
-          "Bible reference | John 8:48–59; 10:22–39",
-          "https://www.biblegateway.com/passage/?search=John%208%3A48-59%3B%20John%2010%3A22-39&version=ESV"
-        ],
-        [
-          "Oxford Academic | Jesus’ Son of Man self-designation and divinity",
-          "https://academic.oup.com/book/27347/chapter-abstract/197087305"
-        ]
-      ]
-    },
-    "why": "The resurrection can only vindicate Jesus if we first know what kind of claims Jesus was making. The case should not depend on finding one sentence where Jesus uses the exact words we would use today. We need to look at the whole picture of what He said and did.",
-    "core": [
-      "The case for Jesus’ divine identity is cumulative; it does not depend on finding one modern sentence such as “I am God.”",
-      "Jesus acts with authority to forgive sins and places Himself in roles associated with God.",
-      "He claims authority over the Sabbath and speaks as one greater than ordinary prophets or teachers.",
-      "His use of the Son of Man title, especially in connection with Daniel 7, includes heavenly authority and final judgment.",
-      "Jesus makes a person’s response to Him central to salvation and judgment and claims a unique relationship with the Father.",
-      "The Gospel of John states the claims most explicitly, but the broader pattern is not limited to John."
+  "id": 12,
+  "cat": "christianity",
+  "tag": "Jesus",
+  "title": "Who did Jesus claim to be?",
+  "teaser": "Before the resurrection can vindicate Jesus, we need historical reason to think He really made the kinds of claims the Gospels attribute to Him.",
+  "lesson": {
+    "heading": "What can we historically say about Jesus’ view of Himself?",
+    "body": "The last study gave us a method: do not assume the New Testament is inspired, but do not dismiss it either. Ask what particular claims the historical evidence can support. That matters here because the resurrection can only vindicate Jesus if we have good reason to know what kind of claims He actually made.\n\nWe do not need to authenticate every sentence attributed to Jesus before we can say anything about His self-understanding. The better question is whether several historically serious strands point in the same direction.\n\nOne example is the parable of the wicked tenants. Jesus describes a landowner who sends servant after servant and finally sends his beloved son and heir. The point of the story falls apart if the son is simply one more servant. Jesus places Himself in a different category from the prophets who came before Him: the unique Son and heir. That does not prove the whole Christian doctrine of Christ by itself, but it is an important piece of Jesus’ own self-understanding.\n\nAnother strand appears in the saying preserved in Matthew 11:27 and Luke 10:22. Jesus describes a unique relationship between Himself and the Father and presents Himself as the one through whom the Father is known. Matthew and Luke preserve the saying in material they share, so the claim is not resting on one isolated verse in one Gospel.\n\nJesus’ repeated use of the title Son of Man adds another piece. The phrase can be ordinary in some settings, but in important sayings Jesus connects Himself with the figure of Daniel 7 who receives authority, glory, an everlasting kingdom, and the role of judgment. The title also matters historically because the Gospels repeatedly place it on Jesus’ own lips while the early church more commonly calls Him Christ, Lord, or Son of God. That makes it less natural to explain the whole pattern as a later Christian title simply placed back into Jesus’ mouth.\n\nHis actions point in the same direction. Jesus forgives sins with personal authority, claims authority over the Sabbath, speaks as one who will judge, and makes a person’s response to Him central to that person’s response to God. Those actions are spread across the Gospel traditions and fit the same larger picture.\n\nJohn records the most explicit claims about preexistence and unity with the Father. We should not make the entire historical case depend on John alone, but John strengthens a picture that is already present in the earlier Synoptic material.\n\nThe point is not that one title or one saying proves everything Christians later confessed about Jesus. The historical case is cumulative. Several different sayings, actions, and themes give us good reason to think Jesus really did place Himself in an extraordinary relationship to God and claim an authority no ordinary teacher or prophet would claim. That is enough for the next question to matter: what happened to this Jesus after He was rejected and executed?",
+    "facts": [
+      "The historical case for Jesus’ self-understanding does not depend on one verse or on first assuming Gospel inspiration.",
+      "The wicked-tenants parable presents the son as distinct from the servants and fits Jesus’ claim to a unique place in God’s mission.",
+      "Matthew 11:27 and Luke 10:22 preserve a striking claim about Jesus’ unique relationship with the Father in material shared by both Gospels.",
+      "Jesus’ Son of Man language is widespread in the Gospel tradition and, in key contexts, points to Daniel 7’s heavenly ruler and judge.",
+      "Jesus’ actions—such as forgiving sins and claiming authority over the Sabbath—fit the same larger pattern of extraordinary authority.",
+      "John gives the most explicit language, but the case does not depend on John alone."
     ],
-    "pressure": [
+    "further": [
       [
-        "“Those divine claims were added later.”",
-        "That is a historical claim, so it has to be tested rather than assumed. The high view of Jesus is not found only in the latest Gospel material. We see exalted claims across different Gospel traditions, and very early Pauline material already presents Jesus in an extraordinary way."
+        "Reasonable Faith | Jesus the Son of God",
+        "https://www.reasonablefaith.org/writings/question-answer/jesus-the-son-of-god/"
       ],
       [
-        "“Son of God can just mean a human king.”",
-        "That title can be used more broadly, including for a human king, which is exactly why the case should not be built on that title alone. The argument comes from the whole pattern of Jesus’ claims, actions, Son of Man language, authority, and role in judgment."
-      ]
-    ],
-    "limits": "Do not hang the entire identity case on one verse. The strongest introductory treatment shows how several independent strands fit together.",
-    "practice": "A friend says, “Son of Man just means a human being, so that title gives no reason to think Jesus claimed unusual authority.” How would you place that title inside the larger case for Jesus’ identity?",
-    "model": "I would not make the whole argument depend on one title. “Son of God” and “Son of Man” can have different meanings depending on context. I would look at the whole pattern: Jesus forgives sins, claims unusual authority, uses Daniel 7 language, speaks of judging the world, and describes a unique relationship with the Father. Taken together, those claims require an explanation.",
-    "sources": [
-      [
-        "Reasonable Faith | Rediscovering the Historical Jesus",
-        "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-goddoes-god-exist1/rediscovering-the-historical-jesus-the-evidence-for-jesus/"
+        "Reasonable Faith | Who Is the Real Jesus?",
+        "https://www.reasonablefaith.org/writings/popular-writings/christianity-other-faiths/who-is-the-real-jesus-the-jesus-of-the-bible-or-the-jesus-of-the-quran/"
       ],
       [
-        "Bible reference | Mark 2:1–12",
-        "https://www.biblegateway.com/passage/?search=Mark%202%3A1-12&version=ESV"
-      ]
-    ],
-    "evidence": {
-      "claim": "These sources build the case for Jesus’ self-understanding from several kinds of evidence rather than one proof text.",
-      "establishes": "They look at Jesus’ titles, actions, forgiveness of sins, authority, relationship to the Father, and role in judgment.",
-      "caution": "Individual titles can mean different things in different contexts, so the case is strongest when the strands are considered together.",
-      "resources": [
-        {
-          "type": "Apologetics",
-          "title": "Reasonable Faith | The Evidence for Jesus",
-          "why": "Develops Jesus’ radical self-concept as the divine Son of God using historical criteria.",
-          "url": "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-goddoes-god-exist1/rediscovering-the-historical-jesus-the-evidence-for-jesus/"
-        },
-        {
-          "type": "Apologetics",
-          "title": "Reasonable Faith | Jesus the Son of God",
-          "why": "Uses the wicked tenants, Matthew 11:27, and other sayings to argue for Jesus’ unique sonship.",
-          "url": "https://www.reasonablefaith.org/writings/question-answer/jesus-the-son-of-god/"
-        },
-        {
-          "type": "Apologetics",
-          "title": "Stand to Reason | Jesus’ Unique Claims About Himself",
-          "why": "Catalogs Jesus’ titles, authority, forgiveness, judgment, and explicit identity claims.",
-          "url": "https://www.str.org/w/jesus-unique-claims-about-himself"
-        },
-        {
-          "type": "Curriculum",
-          "title": "Impact Apologetics | What Did Jesus Say?",
-          "why": "Examines Jesus' teaching and the claims He made about His identity.",
-          "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
-        },
-        {
-          "type": "Curriculum",
-          "title": "Ligonier | Defending Your Faith: The Deity of Christ",
-          "why": "Discusses Jesus' claims and the case for His deity.",
-          "url": "https://learn.ligonier.org/series/defending-your-faith/the-deity-of-christ"
-        }
-      ]
-    },
-    "terms": [
-      [
-        "Son of Man",
-        "Jesus’ most frequent self-designation in the Gospels. Some uses connect with the exalted figure of Daniel 7."
+        "Biola | The Remarkable State of Jesus Research",
+        "https://www.biola.edu/blogs/think-biblically/2023/the-remarkable-state-of-jesus-research"
       ],
       [
-        "Divine prerogative",
-        "An authority or action that belongs especially to God, such as final judgment or the forgiveness of sins."
-      ],
-      [
-        "Cumulative case",
-        "An argument in which several pieces of evidence support the conclusion together."
+        "Bible reference | Mark 12:1–12; Matthew 11:25–27; Mark 14:61–64",
+        "https://www.biblegateway.com/passage/?search=Mark%2012%3A1-12%3B%20Matthew%2011%3A25-27%3B%20Mark%2014%3A61-64&version=ESV"
       ]
-    ],
-    "conclusion": "Jesus’ words and actions together present a claim to extraordinary, uniquely divine authority.",
-    "thread": "If the sources are historically usable, the next question is obvious: what did Jesus actually claim about himself?",
-    "bigIdea": "Jesus’ divine authority is not based on one isolated proof text. His titles, actions, authority, relationship to the Father, and role in judgment all fit together.",
-    "checkpoints": [
-      {
-        "after": "core",
-        "question": "Jordan asks why Jesus did not use the exact English sentence “I am God.” Why is that too narrow a test?",
-        "answer": "Jesus’ identity is a cumulative historical question involving his actions, titles, authority, relationship to the Father, and claimed role in judgment, not one modern wording."
-      },
-      {
-        "after": "body",
-        "question": "Why is the cumulative pattern of Jesus’ claims more important than one title by itself?",
-        "answer": "Because no single title has to carry the whole argument. His authority to forgive sins, His claims over the Sabbath, His Son of Man language, His role in judgment, and His relationship to the Father all point in the same direction."
-      }
-    ],
-    "story": {
-      "title": "Was Jesus only a teacher?",
-      "lines": [
-        "Jordan says he is willing to treat the New Testament as historical material for the sake of the argument. “But what if Jesus was basically a really good religious teacher and his followers made him into something bigger afterward?”",
-        "You tell him that depends on what Jesus actually claimed about himself.",
-        "Jordan says, “Just do not give me one verse where the English translation sounds like exactly what a church creed says. I want to know what the whole picture looks like.”",
-        "Then he asks, “When you put all of it together, what did Jesus actually seem to think about himself?”"
-      ]
-    },
-    "conversationTips": [
-      "The case is stronger when it does not depend on one verse or one title. Let the larger pattern of Jesus’ words, actions, authority, and role do the work.",
-      "If one title turns out to have a broader range of meanings, grant that. One ambiguous term does not erase the rest of the evidence.",
-      "Once the objection becomes “Jesus never really said those things,” the conversation has moved back to historical sources. Answer that question instead of mixing it with the identity question."
     ]
   },
-  {
-    "id": 13,
-    "cat": "christianity",
-    "tag": "Jesus",
-    "title": "Did Jesus really die, and was the tomb empty?",
-    "teaser": "The resurrection claim has a physical starting point: Jesus was executed, buried, and the earliest tomb tradition says the burial place was later empty.",
-    "lesson": {
-      "heading": "Death first, then burial and the tomb",
-      "body": "The resurrection case has to begin with the death of Jesus. Roman crucifixion was designed to kill, and Jesus’ execution under Pontius Pilate is supported by multiple Christian sources and also by non-Christian sources. The claim that Jesus really died is one of the strongest historical pieces of the resurrection case.\n\nThe burial matters because it gives the story a concrete physical setting. The Gospels name Joseph of Arimathea as the person who buried Jesus, and burial is also part of the early tradition Paul records in 1 Corinthians 15.\n\nThen we come to the empty tomb. The evidence for it is not equally strong in every respect, but there are several reasons to take it seriously.\n\nThe empty-tomb accounts are connected to the burial tradition, women are named as the first discoverers despite the limited public status of female testimony in that culture, and the resurrection was proclaimed in Jerusalem where the burial had taken place. Additionally, the earliest opposing explanations do not appear to be based on producing Jesus’ body.\n\nWhy does that combination matter? If Jesus truly died, survival theories lose force. If He was buried and the tomb was later empty, then an explanation also has to account for what happened to His body. None of that proves resurrection by itself, but it narrows the field. Any serious explanation has to account for a real death, the burial tradition, and the empty-tomb evidence together.\n\nHere is the important point: death, burial, and the condition of the tomb are separate pieces of evidence. We should give each one the weight the evidence supports and then ask which explanation best accounts for the whole picture.",
-      "facts": [
-        "Tacitus independently places Jesus’ execution under Pontius Pilate.",
-        "The early 1 Corinthians 15 tradition includes both death and burial.",
-        "The role of women in the discovery tradition is often treated as evidence against a simple apologetic invention.",
-        "The empty tomb is more debated than the crucifixion, so the course uses it as one strand of a cumulative case rather than the whole case."
-      ],
-      "further": [
-        [
-          "Tacitus | Annals 15.44",
-          "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html"
-        ],
-        [
-          "1 Corinthians 15:3–8",
-          "https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A3-8&version=ESV"
-        ],
-        [
-          "Cambridge New Testament Studies | The Historicity of the Empty Tomb of Jesus",
-          "https://www.cambridge.org/core/journals/new-testament-studies/article/abs/historicity-of-the-empty-tomb-of-jesus1/39C53623AC0517088951E31CF346B540"
-        ],
-        [
-          "John Granger Cook | Resurrection and the Question of an Empty Tomb",
-          "https://www.cambridge.org/core/journals/new-testament-studies/article/resurrection-in-paganism-and-the-question-of-an-empty-tomb-in-1-corinthians-15/EF4DE640BE9104A454C7847ECF899313"
-        ]
-      ]
+  "why": "The resurrection only vindicates Jesus in a meaningful way if we have historical reason to know what He claimed before His death. This lesson applies the method from the previous study to Jesus’ own self-understanding.",
+  "core": [
+    "We do not need to prove every Gospel saying authentic before asking what Jesus historically claimed about Himself.",
+    "The strongest introductory case looks for several historically serious strands rather than one proof text.",
+    "The wicked-tenants parable presents Jesus as the unique Son and heir, distinct from the prophets who came before Him.",
+    "The Father-Son saying in Matthew and Luke presents Jesus in a unique relationship to God and as the one through whom the Father is known.",
+    "Jesus’ Son of Man sayings, especially those connected to Daniel 7, place Him in a role of heavenly authority and judgment.",
+    "His actions involving forgiveness, Sabbath authority, judgment, and people’s response to Him fit the same pattern.",
+    "John makes the claims most explicit, but the historical case is already present without making John carry the whole argument."
+  ],
+  "pressure": [
+    [
+      "“Those divine claims were added later.”",
+      "That possibility has to be tested against the evidence rather than assumed. The case does not depend on one late-sounding sentence. Different sayings, actions, and traditions point in the same direction, including material found in the Synoptic Gospels and traditions that fit Jesus’ first-century Jewish setting."
+    ],
+    [
+      "“Jesus never said the exact words ‘I am God.’”",
+      "That is too narrow a test. A first-century Jewish teacher did not have to use a modern English sentence to make an extraordinary claim about His identity. The question is what Jesus said and did in His own setting and what those claims meant there."
+    ],
+    [
+      "“Son of Man just means a human being.”",
+      "It can be used in an ordinary sense, which is why the argument should not depend on the title by itself. In sayings tied to Daniel 7, however, Jesus connects the title with heavenly authority, glory, and judgment. That fits the larger pattern rather than standing alone."
+    ]
+  ],
+  "limits": "This lesson does not try to authenticate every saying in the Gospels or derive the full doctrine of Christ from one historical argument. It establishes a historically defensible pattern of extraordinary self-understanding that gives the resurrection its apologetic significance.",
+  "practice": "A friend says, “The Gospel writers made Jesus sound divine later. How do you know Jesus Himself actually thought He was anything more than a prophet?” How would you answer without simply saying, “because the Bible says so”?",
+  "model": "I would not build the answer on one verse. I would point to several different strands that historians can examine: Jesus distinguishes Himself from the prophets as the Son and heir, speaks of a unique relationship with the Father, repeatedly uses Son of Man language tied to Daniel 7, forgives sins, and claims unusual authority. The question is whether that whole pattern is better explained as later invention or as something rooted in Jesus Himself.",
+  "sources": [
+    [
+      "Reasonable Faith | Jesus the Son of God",
+      "https://www.reasonablefaith.org/writings/question-answer/jesus-the-son-of-god/"
+    ],
+    [
+      "Biola | The Remarkable State of Jesus Research",
+      "https://www.biola.edu/blogs/think-biblically/2023/the-remarkable-state-of-jesus-research"
+    ]
+  ],
+  "evidence": {
+    "claim": "These sources support a historical rather than merely devotional case for Jesus’ extraordinary self-understanding.",
+    "establishes": "They examine sayings and actions attributed to Jesus and explain why the case can be made from several strands rather than from one isolated proof text or a prior assumption of inspiration.",
+    "caution": "Historical arguments work in degrees of confidence. The course does not need every saying to be equally certain for the larger pattern to be well supported.",
+    "resources": [
+      {
+        "type": "Historical apologetics",
+        "title": "Reasonable Faith | Jesus the Son of God",
+        "why": "Works through the wicked-tenants parable and the Father-Son saying as evidence for Jesus’ own self-understanding.",
+        "url": "https://www.reasonablefaith.org/writings/question-answer/jesus-the-son-of-god/"
+      },
+      {
+        "type": "Historical apologetics",
+        "title": "Reasonable Faith | Who Is the Real Jesus?",
+        "why": "Explains the historical case for Jesus’ Son of Man and Son of God claims in their Jewish setting.",
+        "url": "https://www.reasonablefaith.org/writings/popular-writings/christianity-other-faiths/who-is-the-real-jesus-the-jesus-of-the-bible-or-the-jesus-of-the-quran/"
+      },
+      {
+        "type": "Scholarship discussion",
+        "title": "Biola | The Remarkable State of Jesus Research",
+        "why": "Craig Blomberg discusses how current historical-Jesus research evaluates the Gospel traditions and what can be known historically about Jesus.",
+        "url": "https://www.biola.edu/blogs/think-biblically/2023/the-remarkable-state-of-jesus-research"
+      },
+      {
+        "type": "Bible reference",
+        "title": "Mark 12:1–12; Matthew 11:25–27; Mark 14:61–64",
+        "why": "These passages provide the principal examples discussed in the lesson.",
+        "url": "https://www.biblegateway.com/passage/?search=Mark%2012%3A1-12%3B%20Matthew%2011%3A25-27%3B%20Mark%2014%3A61-64&version=ESV"
+      }
+    ]
+  },
+  "terms": [
+    [
+      "Historical claim",
+      "A claim about the past that can be evaluated from surviving sources and evidence."
+    ],
+    [
+      "Son of Man",
+      "Jesus’ frequent self-designation. In important contexts it draws on Daniel 7 and its figure who receives heavenly authority and an everlasting kingdom."
+    ],
+    [
+      "Cumulative case",
+      "An argument whose force comes from several lines of evidence fitting together."
+    ]
+  ],
+  "conclusion": "There is good historical reason to think Jesus really did claim an extraordinary identity and authority. The resurrection therefore has a specific person and a specific set of claims to vindicate.",
+  "thread": "The sources are historically usable. Now we apply that method to the first claim the rest of the Christian case needs: what did Jesus actually think and claim about Himself?",
+  "bigIdea": "Several historically serious strands of Jesus’ words and actions point to the same conclusion: He did not present Himself as merely another prophet or teacher.",
+  "checkpoints": [
+    {
+      "after": "core",
+      "question": "Why is it better to build the case from several strands rather than one sentence where Jesus supposedly says exactly what a later creed says?",
+      "answer": "Because the historical question is about the whole pattern of Jesus’ self-understanding. Several independent or differently shaped sayings and actions can support that pattern even if one individual text is disputed."
     },
-    "why": "Before we talk about appearances or resurrection, we need a real physical starting point. If Jesus did not actually die, then whatever happened later would not be a resurrection. We also need to know what happened to His body after the crucifixion.",
-    "core": [
-      "Jesus’ death by Roman crucifixion is one of the strongest historical facts in the entire case.",
-      "The burial tradition names Joseph of Arimathea and appears in early material connected to the passion narrative.",
-      "The empty-tomb case draws on the early burial tradition, women as the first discoverers, the Jerusalem setting, and the absence of a competing body tradition.",
-      "The empty tomb is important but should not be asked to prove the resurrection by itself.",
-      "The physical starting point is therefore: Jesus truly died, was buried, and there is a serious historical case that the burial place was found empty."
+    {
+      "after": "body",
+      "question": "What is one reason the Son of Man pattern matters historically?",
+      "answer": "The Gospels repeatedly put the title on Jesus’ own lips, while the early church more commonly used titles such as Christ, Lord, and Son of God. That makes the repeated self-use of Son of Man less natural as a later title simply invented for Jesus."
+    }
+  ],
+  "story": {
+    "title": "Did Jesus really say that?",
+    "lines": [
+      "Jordan picks up where he left off. “I understand that you can use Christian writings as historical sources. But that does not mean everything they put in Jesus’ mouth actually came from Him.”",
+      "You agree. Treating a document as evidence does not mean accepting every sentence without examination.",
+      "He says, “Then before you tell me the resurrection proves Jesus was right, I want to know what Jesus actually claimed in the first place.”",
+      "You tell him that is exactly the next question. We do not need one magic verse. We need to ask whether several historically serious strands give us the same picture of Jesus."
+    ]
+  },
+  "conversationTips": [
+    "Do not answer “Jesus never said I am God” by hunting for one English sentence. Explain what Jesus’ claims meant in His own Jewish setting.",
+    "When a particular saying is disputed, do not panic. Ask whether the larger historical pattern still stands.",
+    "Keep the historical conclusion appropriately sized: this lesson establishes Jesus’ extraordinary self-understanding; the resurrection will provide the positive reason to believe those claims were true."
+  ]
+},
+  {
+  "id": 13,
+  "cat": "christianity",
+  "tag": "Jesus",
+  "title": "Did Jesus really die, and was the tomb empty?",
+  "teaser": "The resurrection claim has a physical starting point: Jesus was executed, buried, and the earliest tomb tradition says the burial place was later empty.",
+  "lesson": {
+    "heading": "Death first, then burial and the tomb",
+    "body": "The resurrection case has to begin with the death of Jesus. Roman crucifixion was designed to kill, and Jesus’ execution under Pontius Pilate is supported by multiple Christian sources and also by non-Christian sources. The claim that Jesus really died is one of the strongest historical pieces of the resurrection case.\n\nThe burial matters because it gives the story a concrete physical setting. The Gospels name Joseph of Arimathea as the person who buried Jesus, and burial is also part of the early tradition Paul records in 1 Corinthians 15.\n\nThen we come to the empty tomb. The evidence for it is not equally strong in every respect, but there are several reasons to take it seriously.\n\nThe empty-tomb accounts are connected to the burial tradition, women are named as the first discoverers despite the limited public status of female testimony in that culture, and the resurrection was proclaimed in Jerusalem where the burial had taken place. Additionally, the earliest opposing explanations do not appear to be based on producing Jesus’ body.\n\nWhy does that combination matter? If Jesus truly died, survival theories lose force. If He was buried and the tomb was later empty, then an explanation also has to account for what happened to His body. None of that proves resurrection by itself, but it narrows the field. Any serious explanation has to account for a real death, the burial tradition, and the empty-tomb evidence together.\n\nHere is the important point: death, burial, and the condition of the tomb are separate pieces of evidence. We should give each one the weight the evidence supports and then ask which explanation best accounts for the whole picture.",
+    "facts": [
+      "Tacitus independently places Jesus’ execution under Pontius Pilate.",
+      "The early 1 Corinthians 15 tradition includes both death and burial.",
+      "The role of women in the discovery tradition is often treated as evidence against a simple apologetic invention.",
+      "The empty tomb is more debated than the crucifixion, so the course uses it as one strand of a cumulative case rather than the whole case."
     ],
-    "pressure": [
+    "further": [
       [
-        "“Maybe Jesus survived crucifixion.”",
-        "The survival theory has to explain how Jesus survived a Roman crucifixion that was meant to kill Him and then produced the kind of resurrection belief we see in the earliest Christians. Given the evidence for His execution and death, Survival is not the better explanation."
+        "Tacitus | Annals 15.44",
+        "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html"
       ],
       [
-        "“Maybe the tomb story was invented later.”",
-        "It is possible to argue that the tomb tradition developed later, but then that explanation has to account for the early burial tradition, the continuity between the burial and empty-tomb accounts, the women as discoverers, and the Jerusalem setting. The tomb evidence should not be treated as unquestionable, but it is historically serious."
-      ]
-    ],
-    "limits": "Jesus' death is a particularly strong historical starting point. The burial and empty-tomb evidence also matter, and the next study considers them alongside the appearance claims and earliest proclamation.",
-    "practice": "Someone says, “Maybe Jesus fainted on the cross, later recovered, and the disciples mistook that for resurrection.” How would you evaluate that explanation?",
-    "model": "Start with the evidence that Jesus actually died by crucifixion. A survival theory then has to explain how a badly injured survivor produced the belief that Jesus had conquered death and appeared in a transformed state. That does not explain the death evidence and the later resurrection belief as well as the alternatives.",
-    "sources": [
-      [
-        "Cambridge | Pontius Pilate in History and Interpretation",
-        "https://www.cambridge.org/core/books/abs/pontius-pilate-in-history-and-interpretation/preface/BFE4DF55CCA5A59E787E10FE48D42441"
-      ],
-      [
-        "PubMed | Execution by Crucifixion: History, Methods and Cause of Death",
-        "https://pubmed.ncbi.nlm.nih.gov/7561527/"
+        "1 Corinthians 15:3–8",
+        "https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A3-8&version=ESV"
       ],
       [
         "Cambridge New Testament Studies | The Historicity of the Empty Tomb of Jesus",
         "https://www.cambridge.org/core/journals/new-testament-studies/article/abs/historicity-of-the-empty-tomb-of-jesus1/39C53623AC0517088951E31CF346B540"
       ],
       [
-        "Reasonable Faith | The Resurrection of Jesus",
-        "https://www.reasonablefaith.org/writings/popular-writings/jesus-of-nazareth/the-resurrection-of-jesus/"
+        "John Granger Cook | Resurrection and the Question of an Empty Tomb",
+        "https://www.cambridge.org/core/journals/new-testament-studies/article/resurrection-in-paganism-and-the-question-of-an-empty-tomb-in-1-corinthians-15/EF4DE640BE9104A454C7847ECF899313"
       ]
-    ],
-    "evidence": {
-      "claim": "These sources begin the resurrection case with Jesus’ death, then move to burial and the empty tomb.",
-      "establishes": "Jesus’ death by crucifixion has stronger historical support than every detail of the burial and tomb traditions, which is why the lesson gives them different levels of confidence.",
-      "caution": "The case should not pretend that death, burial, and the empty tomb all have exactly the same historical certainty.",
-      "resources": [
-        {
-          "type": "Apologetics",
-          "title": "Reasonable Faith | The Resurrection of Jesus",
-          "why": "Presents burial and empty-tomb evidence, including early tradition, women witnesses, and Jewish counterclaims.",
-          "url": "https://www.reasonablefaith.org/writings/popular-writings/jesus-of-nazareth/the-resurrection-of-jesus/"
-        },
-        {
-          "type": "Historical case",
-          "title": "Reasonable Faith | The Historicity of the Empty Tomb",
-          "why": "A detailed treatment of the Pauline and Gospel evidence used for the empty tomb.",
-          "url": "https://www.reasonablefaith.org/writings/scholarly-writings/wallace-matson-and-the-crude-cosmological-argument/the-historicity-of-the-empty-tomb-of-jesus/"
-        },
-        {
-          "type": "Teaching",
-          "title": "Ligonier | When Did Jesus Die?",
-          "why": "States Jesus’ death by crucifixion as a historical fact and discusses its first-century setting.",
-          "url": "https://learn.ligonier.org/articles/when-did-jesus-die"
-        },
-        {
-          "type": "Apologetics",
-          "title": "Stand to Reason | This One Thing Could Destroy Christianity Completely",
-          "why": "Builds a simple resurrection case from death/burial, empty tomb, and transformed witnesses.",
-          "url": "https://www.str.org/w/this-one-thing-could-destroy-christianity-completely"
-        },
-        {
-          "type": "Curriculum",
-          "title": "Ligonier | Alive: How the Resurrection of Christ Changes Everything",
-          "why": "Examines the evidence offered for Jesus' resurrection.",
-          "url": "https://learn.ligonier.org/series/alive-how-the-resurrection-of-christ-changes-everything"
-        }
-      ]
-    },
-    "terms": [
-      [
-        "Crucifixion",
-        "A Roman method of punishment and execution in which a victim was fixed or suspended on a cross or similar structure."
-      ],
-      [
-        "Corroboration",
-        "When another source supports part of the same historical claim."
-      ],
-      [
-        "Swoon theory",
-        "The idea that Jesus did not really die on the cross but only appeared dead and later recovered."
-      ],
-      [
-        "Pontius Pilate",
-        "The Roman prefect of Judea who ordered Jesus’ crucifixion."
-      ],
-      [
-        "Empty tomb",
-        "The historical claim that Jesus’ burial place was later found without his body."
-      ],
-      [
-        "Burial tradition",
-        "The early Gospel material describing where and by whom Jesus was buried."
-      ]
-    ],
-    "conclusion": "The resurrection case begins with a real death, an early burial tradition, and serious evidence that the tomb was empty.",
-    "thread": "Those claims matter because Jesus was not merely debated; he was executed. Before asking whether he rose, we need the physical starting point.",
-    "bigIdea": "The resurrection case starts with a firmly historical death, then asks what happened to Jesus’ body: burial and empty-tomb evidence create a concrete problem every explanation must address.",
-    "checkpoints": [
-      {
-        "after": "core",
-        "question": "Jordan suggests Jesus may only have survived crucifixion. Why would that change the resurrection claim?",
-        "answer": "A bodily resurrection requires a real death. Survival and later recovery would be a different explanation and must be compared with the historical evidence."
-      },
-      {
-        "after": "body",
-        "question": "Why does the burial matter?",
-        "answer": "It connects Jesus’ death to a concrete burial setting and makes the later condition of the tomb historically relevant."
-      },
-      {
-        "after": "facts",
-        "question": "Why should the empty tomb not stand alone as proof?",
-        "answer": "Because an empty tomb by itself does not identify what happened; it becomes much stronger when combined with appearances and the origin of resurrection belief."
-      }
-    ],
-    "story": {
-      "title": "What if Jesus did not die?",
-      "lines": [
-        "Jordan has been thinking about Jesus’ claims when he says, “Even if Jesus said all of that, the resurrection still depends on him actually being dead.”",
-        "He points out that people sometimes survive things nobody expects them to survive. “What if crucifixion did not kill him?”",
-        "You tell him that is a fair place to start, because if Jesus survived, whatever happened later would not be resurrection.",
-        "Jordan adds, “And then there is the burial and empty tomb stuff. How certain are we about all of that?”"
-      ]
-    },
-    "conversationTips": [
-      "Lead with the strongest point, Jesus’ death by crucifixion. The burial and empty tomb matter, but they do not have to be presented as though every detail has the same level of certainty.",
-      "A challenge to the empty tomb changes the weight of that piece of the case. It does not make the early resurrection proclamation or appearance claims disappear.",
-      "Think of each historical fact as carrying its own weight. One disputed piece should affect that piece, not automatically erase the whole case."
     ]
   },
-  {
-    "id": 14,
-    "cat": "christianity",
-    "tag": "Resurrection",
-    "title": "Did Jesus rise from the dead?",
-    "teaser": "Put the early proclamation, reported appearances, empty tomb, and competing explanations together and ask what best explains the whole pattern.",
-    "lesson": {
-      "heading": "The evidence and the explanatory comparison",
-      "body": "The first thing to make clear is that the argument is not, “The Bible says Jesus rose, therefore Jesus rose.” We have already separated the historical use of the New Testament from the later question of inspiration. Here we are asking what explanation best accounts for the historical evidence.\n\nOne of the most important pieces is the tradition Paul records in 1 Corinthians 15. Paul says he is passing on something he had received: that Christ died, was buried, was raised, and appeared to Cephas, the Twelve, more than five hundred people, James, all the apostles, and finally Paul. The wording is widely understood to contain traditional material that predates the letter itself, which puts the resurrection proclamation very early.\n\nThe appearance claims also are not limited to one person or one source. They involve individuals and groups, committed followers and people who were not already followers in the same way. James, Jesus’ brother, becomes a leader in the Jerusalem church, and Paul changes from persecuting Christians to becoming a missionary after an experience he understood as an appearance of the risen Jesus.\n\nAdditionally, the empty tomb gives the case a physical component, and the earliest Christians specifically proclaimed bodily resurrection. They were not only saying that Jesus lived on in their memories or that His soul survived death.\n\nNow we have to compare explanations. Hallucination theories may explain some individual experiences, but they do not naturally explain the entire set of evidence. Conspiracy theories have to explain the sincere conviction of the witnesses and the cost many of them accepted. A moved-body theory may address the tomb but not the appearances or the origin of the resurrection proclamation.\n\nGiven this, the resurrection gives the strongest explanation of the whole body of evidence once the existence of God and the possibility of miracles are already on the table. The alternatives should be compared against that same evidence rather than given a pass merely because they avoid a supernatural conclusion.",
-      "facts": [
-        "The 1 Corinthians 15 tradition is one of the earliest pieces of resurrection evidence and names specific witnesses.",
-        "Appearance traditions include both individuals and groups and are found in more than one source stream.",
-        "James and Paul are important because neither fits the simple category of an already committed disciple expecting resurrection.",
-        "A good explanation should account for the widest body of evidence with reasonable explanatory power and without ad hoc additions.",
-        "The historical facts and the inference to resurrection are distinct steps: historians may agree on data while disagreeing about whether a miracle is the best explanation."
-      ],
-      "further": [
-        [
-          "Reasonable Faith | The Resurrection of Jesus",
-          "https://www.reasonablefaith.org/writings/popular-writings/jesus-of-nazareth/the-resurrection-of-jesus/"
-        ],
-        [
-          "Cambridge NTS | Pre-Pauline Formula",
-          "https://www.cambridge.org/core/journals/new-testament-studies/article/abs/resurrection-of-jesus-in-the-prepauline-formula-of-1-cor-1535/B98A7CB0EDE64897CAFEE83263BE6289"
-        ],
-        [
-          "Cambridge NTS | Empty Tomb and 1 Corinthians 15",
-          "https://www.cambridge.org/core/journals/new-testament-studies/article/resurrection-in-paganism-and-the-question-of-an-empty-tomb-in-1-corinthians-15/EF4DE640BE9104A454C7847ECF899313"
-        ],
-        [
-          "Stanford Encyclopedia of Philosophy | Abduction",
-          "https://plato.stanford.edu/entries/abduction/"
-        ]
-      ]
+  "why": "Before we talk about appearances or resurrection, we need a real physical starting point. If Jesus did not actually die, then whatever happened later would not be a resurrection. We also need to know what happened to His body after the crucifixion.",
+  "core": [
+    "Jesus’ death by Roman crucifixion is one of the strongest historical facts in the entire case.",
+    "The burial tradition names Joseph of Arimathea and appears in early material connected to the passion narrative.",
+    "The empty-tomb case draws on the early burial tradition, women as the first discoverers, the Jerusalem setting, and the absence of a competing body tradition.",
+    "The empty tomb is important but should not be asked to prove the resurrection by itself.",
+    "The physical starting point is therefore: Jesus truly died, was buried, and there is a serious historical case that the burial place was found empty."
+  ],
+  "pressure": [
+    [
+      "“Maybe Jesus survived crucifixion.”",
+      "The survival theory has to explain how Jesus survived a Roman crucifixion that was meant to kill Him and then produced the kind of resurrection belief we see in the earliest Christians. Given the evidence for His execution and death, Survival is not the better explanation."
+    ],
+    [
+      "“Maybe the tomb story was invented later.”",
+      "It is possible to argue that the tomb tradition developed later, but then that explanation has to account for the early burial tradition, the continuity between the burial and empty-tomb accounts, the women as discoverers, and the Jerusalem setting. The tomb evidence should not be treated as unquestionable, but it is historically serious."
+    ]
+  ],
+  "limits": "Jesus' death is a particularly strong historical starting point. The burial and empty-tomb evidence also matter, and the next study considers them alongside the appearance claims and earliest proclamation.",
+  "practice": "Someone says, “Maybe Jesus fainted on the cross, later recovered, and the disciples mistook that for resurrection.” How would you evaluate that explanation?",
+  "model": "Start with the evidence that Jesus actually died by crucifixion. A survival theory then has to explain how a badly injured survivor produced the belief that Jesus had conquered death and appeared in a transformed state. That does not explain the death evidence and the later resurrection belief as well as the alternatives.",
+  "sources": [
+    [
+      "Cambridge | Pontius Pilate in History and Interpretation",
+      "https://www.cambridge.org/core/books/abs/pontius-pilate-in-history-and-interpretation/preface/BFE4DF55CCA5A59E787E10FE48D42441"
+    ],
+    [
+      "PubMed | Execution by Crucifixion: History, Methods and Cause of Death",
+      "https://pubmed.ncbi.nlm.nih.gov/7561527/"
+    ],
+    [
+      "Cambridge New Testament Studies | The Historicity of the Empty Tomb of Jesus",
+      "https://www.cambridge.org/core/journals/new-testament-studies/article/abs/historicity-of-the-empty-tomb-of-jesus1/39C53623AC0517088951E31CF346B540"
+    ],
+    [
+      "Reasonable Faith | The Resurrection of Jesus",
+      "https://www.reasonablefaith.org/writings/popular-writings/jesus-of-nazareth/the-resurrection-of-jesus/"
+    ]
+  ],
+  "evidence": {
+    "claim": "These sources begin the resurrection case with Jesus’ death, then move to burial and the empty tomb.",
+    "establishes": "Jesus’ death by crucifixion has stronger historical support than every detail of the burial and tomb traditions, which is why the lesson gives them different levels of confidence.",
+    "caution": "The case should not pretend that death, burial, and the empty tomb all have exactly the same historical certainty.",
+    "resources": [
+      {
+        "type": "Apologetics",
+        "title": "Reasonable Faith | The Resurrection of Jesus",
+        "why": "Presents burial and empty-tomb evidence, including early tradition, women witnesses, and Jewish counterclaims.",
+        "url": "https://www.reasonablefaith.org/writings/popular-writings/jesus-of-nazareth/the-resurrection-of-jesus/"
+      },
+      {
+        "type": "Historical case",
+        "title": "Reasonable Faith | The Historicity of the Empty Tomb",
+        "why": "A detailed treatment of the Pauline and Gospel evidence used for the empty tomb.",
+        "url": "https://www.reasonablefaith.org/writings/scholarly-writings/wallace-matson-and-the-crude-cosmological-argument/the-historicity-of-the-empty-tomb-of-jesus/"
+      },
+      {
+        "type": "Teaching",
+        "title": "Ligonier | When Did Jesus Die?",
+        "why": "States Jesus’ death by crucifixion as a historical fact and discusses its first-century setting.",
+        "url": "https://learn.ligonier.org/articles/when-did-jesus-die"
+      },
+      {
+        "type": "Apologetics",
+        "title": "Stand to Reason | This One Thing Could Destroy Christianity Completely",
+        "why": "Builds a simple resurrection case from death/burial, empty tomb, and transformed witnesses.",
+        "url": "https://www.str.org/w/this-one-thing-could-destroy-christianity-completely"
+      },
+      {
+        "type": "Curriculum",
+        "title": "Ligonier | Alive: How the Resurrection of Christ Changes Everything",
+        "why": "Examines the evidence offered for Jesus' resurrection.",
+        "url": "https://learn.ligonier.org/series/alive-how-the-resurrection-of-christ-changes-everything"
+      }
+    ]
+  },
+  "terms": [
+    [
+      "Crucifixion",
+      "A Roman method of punishment and execution in which a victim was fixed or suspended on a cross or similar structure."
+    ],
+    [
+      "Corroboration",
+      "When another source supports part of the same historical claim."
+    ],
+    [
+      "Swoon theory",
+      "The idea that Jesus did not really die on the cross but only appeared dead and later recovered."
+    ],
+    [
+      "Pontius Pilate",
+      "The Roman prefect of Judea who ordered Jesus’ crucifixion."
+    ],
+    [
+      "Empty tomb",
+      "The historical claim that Jesus’ burial place was later found without his body."
+    ],
+    [
+      "Burial tradition",
+      "The early Gospel material describing where and by whom Jesus was buried."
+    ]
+  ],
+  "conclusion": "The resurrection case begins with a real death, an early burial tradition, and serious evidence that the tomb was empty.",
+  "thread": "We now have historical reason to think Jesus made extraordinary claims about Himself. The next question is what happened to Him: did He really die, and what became of His body?",
+  "bigIdea": "The resurrection case starts with a firmly historical death, then asks what happened to Jesus’ body: burial and empty-tomb evidence create a concrete problem every explanation must address.",
+  "checkpoints": [
+    {
+      "after": "core",
+      "question": "Jordan suggests Jesus may only have survived crucifixion. Why would that change the resurrection claim?",
+      "answer": "A bodily resurrection requires a real death. Survival and later recovery would be a different explanation and must be compared with the historical evidence."
     },
-    "why": "The resurrection is the historical center of Christianity, so the case should not rest on one impressive-sounding fact. The stronger case looks at several pieces of evidence together and then asks which explanation makes the best sense of all of them.",
-    "core": [
-      "The resurrection argument begins with several historical facts or strongly supported data points rather than with the conclusion “a miracle happened.”",
-      "Paul preserves an early tradition in 1 Corinthians 15 that Jesus died, was buried, was raised, and appeared to named witnesses.",
-      "Individuals and groups reported appearances, including Peter, the Twelve, James, and Paul; the Gospel traditions add further appearance accounts.",
-      "The empty tomb forms an independent physical strand of the case.",
-      "The disciples’ sudden and sincere resurrection proclamation, together with the conversions of James and Paul, also requires explanation.",
-      "The final step is explanatory comparison: which hypothesis best explains the whole set of evidence?"
+    {
+      "after": "body",
+      "question": "Why does the burial matter?",
+      "answer": "It connects Jesus’ death to a concrete burial setting and makes the later condition of the tomb historically relevant."
+    },
+    {
+      "after": "facts",
+      "question": "Why should the empty tomb not stand alone as proof?",
+      "answer": "Because an empty tomb by itself does not identify what happened; it becomes much stronger when combined with appearances and the origin of resurrection belief."
+    }
+  ],
+  "story": {
+    "title": "What if Jesus did not die?",
+    "lines": [
+      "Jordan is still thinking about Jesus’ claims. “All right. Say there is real historical reason to think Jesus said and did those things. None of that matters if the resurrection story never gets off the ground.”",
+      "He points out that people sometimes survive things nobody expects them to survive. “What if crucifixion did not kill him?”",
+      "You tell him that is a fair place to start, because if Jesus survived, whatever happened later would not be resurrection.",
+      "Jordan adds, “And then there is the burial and empty tomb stuff. How certain are we about all of that?”"
+    ]
+  },
+  "conversationTips": [
+    "Lead with the strongest point, Jesus’ death by crucifixion. The burial and empty tomb matter, but they do not have to be presented as though every detail has the same level of certainty.",
+    "A challenge to the empty tomb changes the weight of that piece of the case. It does not make the early resurrection proclamation or appearance claims disappear.",
+    "Think of each historical fact as carrying its own weight. One disputed piece should affect that piece, not automatically erase the whole case."
+  ]
+},
+  {
+  "id": 14,
+  "cat": "christianity",
+  "tag": "Resurrection",
+  "title": "Did Jesus rise from the dead?",
+  "teaser": "Put the early proclamation, reported appearances, empty tomb, and competing explanations together and ask what best explains the whole pattern.",
+  "lesson": {
+    "heading": "The evidence and the explanatory comparison",
+    "body": "The first thing to make clear is that the argument is not, “The Bible says Jesus rose, therefore Jesus rose.” We have already separated the historical use of the New Testament from the later question of inspiration. Here we are asking what explanation best accounts for the historical evidence.\n\nOne of the most important pieces is the tradition Paul records in 1 Corinthians 15. Paul says he is passing on something he had received: that Christ died, was buried, was raised, and appeared to Cephas, the Twelve, more than five hundred people, James, all the apostles, and finally Paul. The wording is widely understood to contain traditional material that predates the letter itself, which puts the resurrection proclamation very early.\n\nThe appearance claims also are not limited to one person or one source. They involve individuals and groups, committed followers and people who were not already followers in the same way. James, Jesus’ brother, becomes a leader in the Jerusalem church, and Paul changes from persecuting Christians to becoming a missionary after an experience he understood as an appearance of the risen Jesus.\n\nAdditionally, the empty tomb gives the case a physical component, and the earliest Christians specifically proclaimed bodily resurrection. They were not only saying that Jesus lived on in their memories or that His soul survived death.\n\nNow we have to compare explanations. Hallucination theories may explain some individual experiences, but they do not naturally explain the entire set of evidence. Conspiracy theories have to explain the sincere conviction of the witnesses and the cost many of them accepted. A moved-body theory may address the tomb but not the appearances or the origin of the resurrection proclamation.\n\nGiven this, the resurrection gives the strongest explanation of the whole body of evidence once the existence of God and the possibility of miracles are already on the table. The alternatives should be compared against that same evidence rather than given a pass merely because they avoid a supernatural conclusion.",
+    "facts": [
+      "The 1 Corinthians 15 tradition is one of the earliest pieces of resurrection evidence and names specific witnesses.",
+      "Appearance traditions include both individuals and groups and are found in more than one source stream.",
+      "James and Paul are important because neither fits the simple category of an already committed disciple expecting resurrection.",
+      "A good explanation should account for the widest body of evidence with reasonable explanatory power and without ad hoc additions.",
+      "The historical facts and the inference to resurrection are distinct steps: historians may agree on data while disagreeing about whether a miracle is the best explanation."
     ],
-    "pressure": [
-      [
-        "“People have grief visions.”",
-        "Grief visions are real, and they may explain some individual experiences. The difficulty is that the resurrection case includes different kinds of appearance claims, group reports, Paul and James, the empty tomb, and a specifically bodily resurrection proclamation. Grief experiences do not explain the whole set as well."
-      ],
-      [
-        "“Legends can grow quickly.”",
-        "Legends can develop quickly, but the resurrection claim is already present in very early Pauline tradition. Given this, a legend explanation has to account for why the central resurrection proclamation appears so close to the beginning of the Christian movement rather than only showing up much later."
-      ]
-    ],
-    "limits": "The case draws on early proclamation, appearance claims, the transformed convictions of witnesses, and the tomb evidence together. Compare the alternatives against the same collection of facts.",
-    "practice": "A coworker says, “The disciples invented the resurrection because they needed to keep their movement alive after Jesus died.” How would you test that explanation against the whole case?",
-    "model": "What does the conspiracy theory actually explain? It has to account for the early resurrection proclamation, the appearance claims, Paul and James, the tomb evidence, and the disciples acting as though they genuinely believed they had seen the risen Jesus. Suffering for a belief does not make the belief true, but it does make deliberate invention harder to explain.",
-    "sources": [
+    "further": [
       [
         "Reasonable Faith | The Resurrection of Jesus",
         "https://www.reasonablefaith.org/writings/popular-writings/jesus-of-nazareth/the-resurrection-of-jesus/"
+      ],
+      [
+        "Cambridge NTS | Pre-Pauline Formula",
+        "https://www.cambridge.org/core/journals/new-testament-studies/article/abs/resurrection-of-jesus-in-the-prepauline-formula-of-1-cor-1535/B98A7CB0EDE64897CAFEE83263BE6289"
+      ],
+      [
+        "Cambridge NTS | Empty Tomb and 1 Corinthians 15",
+        "https://www.cambridge.org/core/journals/new-testament-studies/article/resurrection-in-paganism-and-the-question-of-an-empty-tomb-in-1-corinthians-15/EF4DE640BE9104A454C7847ECF899313"
       ],
       [
         "Stanford Encyclopedia of Philosophy | Abduction",
         "https://plato.stanford.edu/entries/abduction/"
       ]
-    ],
-    "evidence": {
-      "claim": "These sources build the resurrection case from several lines of evidence and compare competing explanations.",
-      "establishes": "They emphasize early proclamation, appearance claims, Paul and James, transformed belief, and tomb evidence rather than one supposed knockdown fact.",
-      "caution": "The evidence is historically discussable even though the resurrection conclusion remains contested, especially because historians differ on whether supernatural explanations are admissible.",
-      "resources": [
-        {
-          "type": "Apologetics",
-          "title": "Reasonable Faith | The Resurrection of Jesus",
-          "why": "A full cumulative case from burial, empty tomb, appearances, and the origin of resurrection belief.",
-          "url": "https://www.reasonablefaith.org/writings/popular-writings/jesus-of-nazareth/the-resurrection-of-jesus/"
-        },
-        {
-          "type": "Apologetics",
-          "title": "Stand to Reason | Less Is More: A Case for the Resurrection",
-          "why": "Explains the minimal-facts method and why the Bible can first be used as historical literature.",
-          "url": "https://www.str.org/w/less-is-more-a-case-for-the-resurrection"
-        },
-        {
-          "type": "Apologetics",
-          "title": "Stand to Reason | What’s the Best Explanation?",
-          "why": "Compares resurrection with rival hypotheses by explanatory power and scope.",
-          "url": "https://www.str.org/w/what-s-the-best-explanation-"
-        },
-        {
-          "type": "Teaching",
-          "title": "Ligonier | Eyewitnesses of the Resurrected Lord",
-          "why": "Emphasizes post-resurrection appearances rather than drawing the case from the empty tomb alone.",
-          "url": "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/eyewitnesses-of-the-resurrected-lord"
-        },
-        {
-          "type": "Curriculum",
-          "title": "Ligonier | For Sure: The Evidence for the Resurrection",
-          "why": "Examines historical evidence offered for the resurrection of Jesus.",
-          "url": "https://learn.ligonier.org/series/alive-how-the-resurrection-of-christ-changes-everything/for-sure-the-evidence-for-the-resurrection"
-        }
-      ]
-    },
-    "terms": [
-      [
-        "Resurrection",
-        "The claim that God raised Jesus from death to embodied life, not merely that his spirit survived."
-      ],
-      [
-        "Inference to the best explanation",
-        "Comparing competing explanations and asking which one best accounts for the evidence."
-      ],
-      [
-        "Early proclamation",
-        "The fact that resurrection was already part of the Christian message in its earliest period."
-      ],
-      [
-        "Appearance report",
-        "A claim that someone or a group encountered Jesus alive after his death."
-      ]
-    ],
-    "conclusion": "The resurrection is the best explanation when the early proclamation, appearances, tomb evidence, and transformed witnesses are considered together.",
-    "thread": "Jesus is dead and the tomb evidence is on the table. Now comes the central question: what happened next?",
-    "bigIdea": "The resurrection case is cumulative: early resurrection proclamation, reported appearances to individuals and groups, the transformed witnesses, Paul and James, and the tomb evidence are best explained together by Jesus’ bodily resurrection.",
-    "checkpoints": [
-      {
-        "after": "core",
-        "question": "Jordan suggests that someone moved Jesus’ body. What must that explanation do besides address the empty tomb?",
-        "answer": "It must also account for the early resurrection proclamation, reported appearances, transformed witnesses such as Paul and James, and the larger historical pattern."
-      },
-      {
-        "after": "body",
-        "question": "Why are James and Paul useful pieces of evidence?",
-        "answer": "Both underwent striking changes connected to experiences they understood as appearances of the risen Jesus, and neither is easily explained as an expectant follower seeing what he already wanted to see."
-      },
-      {
-        "after": "facts",
-        "question": "What is the final step after establishing the evidence?",
-        "answer": "Compare competing explanations and ask which one best accounts for the whole set of facts."
-      }
-    ],
-    "story": {
-      "title": "Put all the evidence on the table",
-      "lines": [
-        "You and Jordan stop for coffee halfway through the walk. Once you sit down, he says, “All right. What is the best evidence that Jesus actually rose?”",
-        "You tell him the case does not really rest on one knockout fact. There are several pieces that have to be considered together.",
-        "Jordan starts throwing out alternatives. “Maybe people had visions. Maybe somebody moved the body. Maybe the story changed as it spread. I am not saying I know, but those all sound possible.”",
-        "He takes a sip of coffee. “So if there is no one fact that settles it, how do you decide which explanation is actually best?”"
-      ]
-    },
-    "conversationTips": [
-      "Every alternative explanation has to face the same body of evidence, not just the one fact it handles best.",
-      "The disciples’ willingness to suffer can support sincerity, but sincerity is not the same thing as truth. Do not make it prove more than it does.",
-      "Let a cumulative case flex. If one historical point turns out to be weaker than you thought, adjust its weight honestly and then look again at the whole pattern."
     ]
   },
-  {
-    "id": 15,
-    "cat": "christianity",
-    "tag": "Jesus",
-    "title": "Liar, lunatic, or Lord?",
-    "teaser": "If Jesus made the extraordinary claims we have just examined, admiring him simply as an ethical teacher does not take his own claims seriously.",
-    "lesson": {
-      "heading": "What Lewis’s argument does and does not claim",
-      "body": "If Jesus really made the extraordinary claims we have looked at, then we cannot comfortably describe Him as only a great moral teacher. That is the main point of the classic liar, lunatic, or Lord argument.\n\nIf Jesus knowingly made false claims about His identity and authority, then He would be deceiving people in a very serious way. If He sincerely believed the claims but was completely mistaken about who He was, then we would also have a problem calling Him simply a wise moral teacher. If the claims were true, then Lord becomes a real option.\n\nHere is where the argument is sometimes overstated: those are not the only imaginable possibilities. Someone can also argue that the Gospel accounts distorted or exaggerated what Jesus originally claimed. That is often called the legend hypothesis.\n\nBut that is really a different question. Liar and lunatic ask what we should conclude if Jesus actually made the claims. Legend asks whether He made them in the first place. We have already started addressing that historical question by looking at the sources and the cumulative evidence for Jesus’ self-understanding.\n\nThe trilemma is best used as a way of forcing the identity question, not as proof by itself. The positive reason for accepting Jesus’ claims comes from the resurrection, which gives us evidence that God vindicated Him.",
-      "facts": [
-        "The argument has force only after there is historical reason to attribute extraordinary claims to Jesus.",
-        "It should not be used to diagnose Jesus clinically; the point is the incompatibility between radical self-mistake and the “merely wise teacher” category.",
-        "Legend is a challenge to the historical premise, not simply another psychological option alongside liar or lunatic.",
-        "The resurrection is the main positive evidence for the “Lord” conclusion."
-      ],
-      "further": [
-        [
-          "Reasonable Faith | Rediscovering the Historical Jesus",
-          "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-goddoes-god-exist1/rediscovering-the-historical-jesus-the-evidence-for-jesus/"
-        ],
-        [
-          "Reasonable Faith | Resurrection",
-          "https://www.reasonablefaith.org/videos/interviews-panels/resurrection-veritas-forum/"
-        ]
-      ]
+  "why": "The resurrection is the historical center of Christianity, so the case should not rest on one impressive-sounding fact. The stronger case looks at several pieces of evidence together and then asks which explanation makes the best sense of all of them.",
+  "core": [
+    "The resurrection argument begins with several historical facts or strongly supported data points rather than with the conclusion “a miracle happened.”",
+    "Paul preserves an early tradition in 1 Corinthians 15 that Jesus died, was buried, was raised, and appeared to named witnesses.",
+    "Individuals and groups reported appearances, including Peter, the Twelve, James, and Paul; the Gospel traditions add further appearance accounts.",
+    "The empty tomb forms an independent physical strand of the case.",
+    "The disciples’ sudden and sincere resurrection proclamation, together with the conversions of James and Paul, also requires explanation.",
+    "The final step is explanatory comparison: which hypothesis best explains the whole set of evidence?"
+  ],
+  "pressure": [
+    [
+      "“People have grief visions.”",
+      "Grief visions are real, and they may explain some individual experiences. The difficulty is that the resurrection case includes different kinds of appearance claims, group reports, Paul and James, the empty tomb, and a specifically bodily resurrection proclamation. Grief experiences do not explain the whole set as well."
+    ],
+    [
+      "“Legends can grow quickly.”",
+      "Legends can develop quickly, but the resurrection claim is already present in very early Pauline tradition. Given this, a legend explanation has to account for why the central resurrection proclamation appears so close to the beginning of the Christian movement rather than only showing up much later."
+    ]
+  ],
+  "limits": "The case draws on early proclamation, appearance claims, the transformed convictions of witnesses, and the tomb evidence together. Compare the alternatives against the same collection of facts.",
+  "practice": "A coworker says, “The disciples invented the resurrection because they needed to keep their movement alive after Jesus died.” How would you test that explanation against the whole case?",
+  "model": "What does the conspiracy theory actually explain? It has to account for the early resurrection proclamation, the appearance claims, Paul and James, the tomb evidence, and the disciples acting as though they genuinely believed they had seen the risen Jesus. Suffering for a belief does not make the belief true, but it does make deliberate invention harder to explain.",
+  "sources": [
+    [
+      "Reasonable Faith | The Resurrection of Jesus",
+      "https://www.reasonablefaith.org/writings/popular-writings/jesus-of-nazareth/the-resurrection-of-jesus/"
+    ],
+    [
+      "Stanford Encyclopedia of Philosophy | Abduction",
+      "https://plato.stanford.edu/entries/abduction/"
+    ]
+  ],
+  "evidence": {
+    "claim": "These sources build the resurrection case from several lines of evidence and compare competing explanations.",
+    "establishes": "They emphasize early proclamation, appearance claims, Paul and James, transformed belief, and tomb evidence rather than one supposed knockdown fact.",
+    "caution": "The evidence is historically discussable even though the resurrection conclusion remains contested, especially because historians differ on whether supernatural explanations are admissible.",
+    "resources": [
+      {
+        "type": "Apologetics",
+        "title": "Reasonable Faith | The Resurrection of Jesus",
+        "why": "A full cumulative case from burial, empty tomb, appearances, and the origin of resurrection belief.",
+        "url": "https://www.reasonablefaith.org/writings/popular-writings/jesus-of-nazareth/the-resurrection-of-jesus/"
+      },
+      {
+        "type": "Apologetics",
+        "title": "Stand to Reason | Less Is More: A Case for the Resurrection",
+        "why": "Explains the minimal-facts method and why the Bible can first be used as historical literature.",
+        "url": "https://www.str.org/w/less-is-more-a-case-for-the-resurrection"
+      },
+      {
+        "type": "Apologetics",
+        "title": "Stand to Reason | What’s the Best Explanation?",
+        "why": "Compares resurrection with rival hypotheses by explanatory power and scope.",
+        "url": "https://www.str.org/w/what-s-the-best-explanation-"
+      },
+      {
+        "type": "Teaching",
+        "title": "Ligonier | Eyewitnesses of the Resurrected Lord",
+        "why": "Emphasizes post-resurrection appearances rather than drawing the case from the empty tomb alone.",
+        "url": "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/eyewitnesses-of-the-resurrected-lord"
+      },
+      {
+        "type": "Curriculum",
+        "title": "Ligonier | For Sure: The Evidence for the Resurrection",
+        "why": "Examines historical evidence offered for the resurrection of Jesus.",
+        "url": "https://learn.ligonier.org/series/alive-how-the-resurrection-of-christ-changes-everything/for-sure-the-evidence-for-the-resurrection"
+      }
+    ]
+  },
+  "terms": [
+    [
+      "Resurrection",
+      "The claim that God raised Jesus from death to embodied life, not merely that his spirit survived."
+    ],
+    [
+      "Inference to the best explanation",
+      "Comparing competing explanations and asking which one best accounts for the evidence."
+    ],
+    [
+      "Early proclamation",
+      "The fact that resurrection was already part of the Christian message in its earliest period."
+    ],
+    [
+      "Appearance report",
+      "A claim that someone or a group encountered Jesus alive after his death."
+    ]
+  ],
+  "conclusion": "The resurrection is the best explanation when the early proclamation, appearances, tomb evidence, and transformed witnesses are considered together.",
+  "thread": "Jesus really died, and the burial and tomb evidence give us a physical starting point. Now put the early proclamation, appearances, witnesses, and tomb evidence together and ask what best explains them.",
+  "bigIdea": "The resurrection case is cumulative: early resurrection proclamation, reported appearances to individuals and groups, the transformed witnesses, Paul and James, and the tomb evidence are best explained together by Jesus’ bodily resurrection.",
+  "checkpoints": [
+    {
+      "after": "core",
+      "question": "Jordan suggests that someone moved Jesus’ body. What must that explanation do besides address the empty tomb?",
+      "answer": "It must also account for the early resurrection proclamation, reported appearances, transformed witnesses such as Paul and James, and the larger historical pattern."
     },
-    "why": "The liar, lunatic, or Lord argument is memorable, but it should not be used as a shortcut. It only becomes useful after we have already asked the historical question of what Jesus actually claimed about Himself.",
-    "core": [
-      "Lewis’s trilemma challenges the idea that Jesus can be reduced to a merely admirable moral teacher if His extraordinary personal claims are substantially historical.",
-      "If Jesus knowingly made false divine claims, “liar” becomes relevant.",
-      "If He sincerely made those claims while being radically mistaken about His identity, “lunatic” or profound delusion is the second branch of the classic argument.",
-      "If the claims are true, “Lord” fits.",
-      "The modern historical challenge of legend or later development attacks the premise that Jesus really made the claims, so it should be handled by Studies 11–12 rather than made an equal fourth branch.",
-      "The resurrection supplies the positive reason for accepting Lord rather than merely eliminating alternatives."
+    {
+      "after": "body",
+      "question": "Why are James and Paul useful pieces of evidence?",
+      "answer": "Both underwent striking changes connected to experiences they understood as appearances of the risen Jesus, and neither is easily explained as an expectant follower seeing what he already wanted to see."
+    },
+    {
+      "after": "facts",
+      "question": "What is the final step after establishing the evidence?",
+      "answer": "Compare competing explanations and ask which one best accounts for the whole set of facts."
+    }
+  ],
+  "story": {
+    "title": "Put all the evidence on the table",
+    "lines": [
+      "You and Jordan stop for coffee halfway through the walk. Once you sit down, he says, “All right. What is the best evidence that Jesus actually rose?”",
+      "You tell him the case does not really rest on one knockout fact. There are several pieces that have to be considered together.",
+      "Jordan starts throwing out alternatives. “Maybe people had visions. Maybe somebody moved the body. Maybe the story changed as it spread. I am not saying I know, but those all sound possible.”",
+      "He takes a sip of coffee. “So if there is no one fact that settles it, how do you decide which explanation is actually best?”"
+    ]
+  },
+  "conversationTips": [
+    "Every alternative explanation has to face the same body of evidence, not just the one fact it handles best.",
+    "The disciples’ willingness to suffer can support sincerity, but sincerity is not the same thing as truth. Do not make it prove more than it does.",
+    "Let a cumulative case flex. If one historical point turns out to be weaker than you thought, adjust its weight honestly and then look again at the whole pattern."
+  ]
+},
+  {
+  "id": 15,
+  "cat": "christianity",
+  "tag": "Jesus",
+  "title": "Liar, lunatic, or Lord?",
+  "teaser": "If Jesus made the extraordinary claims we have just examined, admiring him simply as an ethical teacher does not take his own claims seriously.",
+  "lesson": {
+    "heading": "What Lewis’s argument does and does not claim",
+    "body": "If Jesus really made the extraordinary claims we have looked at, then we cannot comfortably describe Him as only a great moral teacher. That is the main point of the classic liar, lunatic, or Lord argument.\n\nIf Jesus knowingly made false claims about His identity and authority, then He would be deceiving people in a very serious way. If He sincerely believed the claims but was completely mistaken about who He was, then we would also have a problem calling Him simply a wise moral teacher. If the claims were true, then Lord becomes a real option.\n\nHere is where the argument is sometimes overstated: those are not the only imaginable possibilities. Someone can also argue that the Gospel accounts distorted or exaggerated what Jesus originally claimed. That is often called the legend hypothesis.\n\nBut that is really a different question. Liar and lunatic ask what we should conclude if Jesus actually made the claims. Legend asks whether He made them in the first place. We have already started addressing that historical question by looking at the sources and the cumulative evidence for Jesus’ self-understanding.\n\nThe trilemma is best used as a way of forcing the identity question, not as proof by itself. The positive reason for accepting Jesus’ claims comes from the resurrection, which gives us evidence that God vindicated Him.",
+    "facts": [
+      "The argument has force only after there is historical reason to attribute extraordinary claims to Jesus.",
+      "It should not be used to diagnose Jesus clinically; the point is the incompatibility between radical self-mistake and the “merely wise teacher” category.",
+      "Legend is a challenge to the historical premise, not simply another psychological option alongside liar or lunatic.",
+      "The resurrection is the main positive evidence for the “Lord” conclusion."
     ],
-    "pressure": [
+    "further": [
       [
-        "“Those are not the only logical possibilities.”",
-        "That’s correct, liar, lunatic, and Lord are not every logical possibility. The argument does not work as a formal proof. Its value is that it challenges the idea that Jesus can make extraordinary claims and still be reduced to nothing more than a good moral teacher."
-      ],
-      [
-        "“Maybe the claims were legendary.”",
-        "If the claims were legendary, then we need to go back to the historical evidence and ask whether Jesus actually made them. That is a fair objection, but it does not defeat the argument by itself. It moves the discussion back to the reliability and early character of the evidence we already examined."
-      ]
-    ],
-    "limits": "The trilemma brings the question of Jesus' identity into focus. The historical case for His claims and the resurrection gives us the reason to take His claim to lordship seriously.",
-    "practice": "Someone says, “Jesus was probably a wise teacher, but his followers later turned him into a divine figure.” How would you explain what must be established before the liar-lunatic-Lord argument has force?",
-    "model": "The historical question comes first. The liar, lunatic, or Lord argument only matters if Jesus really made the extraordinary claims attributed to Him. Once that is established, simply calling Him a great moral teacher becomes difficult. The resurrection is then the positive reason for believing the claims were true.",
-    "sources": [
-      [
-        "Reasonable Faith | Historical Jesus",
+        "Reasonable Faith | Rediscovering the Historical Jesus",
         "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-goddoes-god-exist1/rediscovering-the-historical-jesus-the-evidence-for-jesus/"
-      ]
-    ],
-    "evidence": {
-      "claim": "These sources treat the trilemma as a challenge to the idea that Jesus was only a great moral teacher.",
-      "establishes": "More recent treatments also make clear that a legend objection attacks the historical premise rather than adding a fourth psychological category.",
-      "caution": "The trilemma is not an exhaustive formal proof and should not be used as a mental-health diagnosis.",
-      "resources": [
-        {
-          "type": "Teaching",
-          "title": "Ligonier | The Awkwardness of Easter",
-          "why": "Explains the classic Lord/liar/lunatic challenge to the “great teacher only” view.",
-          "url": "https://learn.ligonier.org/articles/the-awkwardness-of-easter"
-        },
-        {
-          "type": "Biola",
-          "title": "Biola | Best-Selling Evangelistic Book Update",
-          "why": "Sean McDowell explains the trilemma, its historical premise, the “legend” addition, and updated sensitivity around the slogan.",
-          "url": "https://www.biola.edu/blogs/think-biblically/2024/best-selling-evangelistic-book-update"
-        },
-        {
-          "type": "Curriculum",
-          "title": "Impact Apologetics | Jesus Claimed and Proved to Be God",
-          "why": "Connects Jesus' extraordinary claims with the historical case for His identity.",
-          "url": "https://impactapologetics.com/high-school/"
-        },
-        {
-          "type": "Teaching",
-          "title": "Ligonier | The Good Book",
-          "why": "Uses Lewis’s trilemma to explain why “good teacher but merely human” is unstable given Jesus’ claims.",
-          "url": "https://learn.ligonier.org/articles/state-theology-good-book"
-        },
-        {
-          "type": "Curriculum",
-          "title": "Ligonier | Defending Your Faith: The Deity of Christ",
-          "why": "Examines Jesus' claims and the case for His deity.",
-          "url": "https://learn.ligonier.org/series/defending-your-faith/the-deity-of-christ"
-        }
-      ]
-    },
-    "terms": [
-      [
-        "Trilemma",
-        "An argument presenting three main options. Here, the classic form is liar, lunatic, or Lord."
       ],
       [
-        "Legend hypothesis",
-        "The proposal that major claims about Jesus developed through later storytelling rather than going back substantially to Jesus himself."
-      ],
-      [
-        "Synthesis",
-        "Putting several earlier lines of evidence together to see what overall conclusion they support."
-      ]
-    ],
-    "conclusion": "The trilemma challenges the “great teacher only” view, while the resurrection gives the positive reason to call Jesus Lord.",
-    "thread": "If Jesus made the claims we have examined, can we still call Him nothing more than a good moral teacher? The evidence for His resurrection makes that question harder to avoid.",
-    "bigIdea": "If Jesus really made the extraordinary claims we have examined, “merely a great moral teacher” is unstable: those claims were knowingly false, sincerely but radically mistaken, or true.",
-    "checkpoints": [
-      {
-        "after": "core",
-        "question": "Jordan wants to call Jesus a great teacher while setting aside Jesus’ extraordinary self-claims. What does the trilemma force him to consider?",
-        "answer": "If Jesus substantially made those claims, Jordan must ask whether Jesus was knowingly false, sincerely but radically mistaken, or telling the truth rather than simply ignoring the claims."
-      },
-      {
-        "after": "body",
-        "question": "Why is “legend” a different kind of objection?",
-        "answer": "Because it says the claims were added or distorted later rather than explaining Jesus’ own intentions or beliefs."
-      }
-    ],
-    "story": {
-      "title": "A great teacher?",
-      "lines": [
-        "As you leave the coffee shop, Jordan says, “I still think somebody could admire Jesus without believing he was God. Plenty of people call him a great teacher.”",
-        "You ask whether that description fits comfortably if Jesus really made the kinds of claims you have been discussing.",
-        "Jordan shrugs. “Maybe he was wrong about himself. Maybe he knew it was not true. Or maybe his followers put words in his mouth later.”",
-        "Then he says, “So what is the point of that ‘liar, lunatic, or Lord’ thing people always quote?”"
-      ]
-    },
-    "conversationTips": [
-      "Use the trilemma late, not as a shortcut. It only becomes useful after you have dealt with the historical question of what Jesus actually claimed.",
-      "A legend objection sends the conversation back to the source evidence. It challenges the premise that Jesus made the claims; it does not answer the trilemma once that premise is granted.",
-      "“Lunatic” is traditional shorthand, not a medical diagnosis. The real issue is whether Jesus could be profoundly mistaken about who He was."
-    ]
-  },
-  {
-    "id": 16,
-    "cat": "christianity",
-    "tag": "Jesus",
-    "title": "What does the resurrection say about Jesus?",
-    "teaser": "If God raised Jesus after Jesus made extraordinary claims, the resurrection is not just a strange event. It is divine confirmation in a specific historical setting.",
-    "lesson": {
-      "heading": "Why the resurrection means more than “something strange happened”",
-      "body": "Suppose the resurrection case is successful. That would establish more than the fact that something unusual happened to Jesus.\n\nJesus had already made extraordinary claims about His identity, authority, mission, and future role. He was then rejected and executed. If God raised that same Jesus from the dead, the resurrection functions as vindication. In other words, God is overturning the human verdict against Jesus and confirming the person whose claims were under dispute.\n\nThe New Testament repeatedly connects the resurrection with this kind of vindication. Romans 1 connects resurrection with Jesus as Son of God in power. Acts presents the resurrection as God reversing the verdict of those who killed Him, and Acts 17 connects resurrection with Jesus as the one God appointed to judge.\n\nThe significance of this miracle lies in whose resurrection it was and what Jesus had claimed beforehand. In that setting, the resurrection gives us a reason to understand God's action as the vindication of Jesus and to receive His teaching with unique authority.\n\nThe resurrection becomes the bridge from asking what happened historically to asking what we should believe about Jesus and what He taught about God and revelation.",
-      "facts": [
-        "The meaning of the resurrection depends on the identity and claims of the person raised.",
-        "The resurrection reverses the public verdict of crucifixion and functions as divine confirmation.",
-        "The immediate apologetic conclusion is Jesus’ vindication and authority, not automatic proof of every later doctrine.",
-        "That authority provides the bridge to Jesus’ teaching about Scripture and the apostles."
-      ],
-      "further": [
-        [
-          "Ligonier | The Purpose of Miracles",
-          "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-purpose-of-miracles"
-        ],
-        [
-          "Reasonable Faith | Resurrection – Veritas Forum",
-          "https://www.reasonablefaith.org/videos/interviews-panels/resurrection-veritas-forum/"
-        ],
-        [
-          "Bible reference | Acts 17:30–31",
-          "https://www.biblegateway.com/passage/?search=Acts%2017%3A30-31&version=ESV"
-        ]
-      ]
-    },
-    "why": "If the resurrection happened, the next question is what it means. We should not treat it as a random miracle disconnected from Jesus’ claims. Its significance comes from who Jesus claimed to be and the circumstances in which God raised Him.",
-    "core": [
-      "A resurrection by God is not merely an odd survival event; it is a divine act directed toward the person who was raised.",
-      "Because Jesus had already made extraordinary claims about His identity and authority, God’s raising Him would function as vindication of those claims.",
-      "The resurrection therefore supports Jesus’ status as Messiah and Lord and confirms His authority.",
-      "This does not mean every later Christian doctrine is proven in one step; it establishes the authority of the risen Jesus from whom the next steps proceed.",
-      "The apologetic chain now shifts from “What happened?” to “Whose teaching should we trust?”"
-    ],
-    "pressure": [
-      [
-        "“A resurrection would only show that Jesus came back to life.”",
-        "If we imagined an extraordinary revival with no context, the meaning could be unclear. But Jesus’ resurrection is not presented in isolation. It happens after His public claims, mission, rejection, and execution. That context is what gives the event its apologetic meaning."
-      ],
-      [
-        "“So one miracle proves every Christian doctrine?”",
-        "No, one miracle does not instantly prove every Christian doctrine. What it gives us is strong reason to accept Jesus as vindicated by God. From there, we still need to ask what Jesus actually taught and whom He authorized."
-      ]
-    ],
-    "limits": "The resurrection is understood in the context of Jesus' claims, mission, rejection, and execution. That context is why God's raising Jesus carries such significance for His authority.",
-    "practice": "Someone says, “Even if God raised Jesus, that only proves God can perform miracles. It does not tell us anything about Jesus’ authority.” How would you answer?",
-    "model": "The context matters here. Jesus had already made extraordinary claims and was then rejected and executed. If God raised that same Jesus from the dead, the resurrection functions as God’s reversal of the human verdict. It is not just a strange event; it is vindication of the person whose claims were being disputed.",
-    "sources": [
-      [
-        "Ligonier | The Purpose of Miracles",
-        "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-purpose-of-miracles"
-      ],
-      [
-        "Reasonable Faith | Resurrection – Veritas Forum",
+        "Reasonable Faith | Resurrection",
         "https://www.reasonablefaith.org/videos/interviews-panels/resurrection-veritas-forum/"
       ]
-    ],
-    "evidence": {
-      "claim": "These sources connect the resurrection with God’s vindication of Jesus rather than treating it as an isolated wonder.",
-      "establishes": "Biola, Ligonier, and Reasonable Faith all emphasize that the meaning of the resurrection comes from Jesus’ prior claims and mission.",
-      "caution": "Vindication gives us a reason to take Jesus’ authority seriously; it does not instantly prove every later Christian doctrine.",
-      "resources": [
-        {
-          "type": "Biola",
-          "title": "Biola | From Belief in Jesus to Belief in the New Testament",
-          "why": "Formulates the bridge: God raised Jesus, therefore God ratified Jesus’ teachings, then asks what Jesus taught about Scripture.",
-          "url": "https://www.biola.edu/blogs/good-book-blog/2021/from-belief-in-jesus-to-belief-in-the-new-testament"
-        },
-        {
-          "type": "Teaching",
-          "title": "Ligonier | The Resurrection",
-          "why": "Explains resurrection as both evidence and the Father’s vindication of the Son.",
-          "url": "https://learn.ligonier.org/sermons/mark-resurrection-2"
-        },
-        {
-          "type": "Apologetics",
-          "title": "Reasonable Faith | The Son Rises",
-          "why": "Explains why the religio-historical context of Jesus’ resurrection gives the event its meaning.",
-          "url": "https://www.reasonablefaith.org/media/reasonable-faith-podcast/the-son-rises/"
-        },
-        {
-          "type": "Curriculum",
-          "title": "Impact Apologetics | Conclusion: So, What If It’s True?",
-          "why": "Asks what follows if the evidence for Jesus' identity and resurrection is true.",
-          "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
-        },
-        {
-          "type": "Curriculum",
-          "title": "Ligonier | Understanding the Gospel: Resurrection and Justification",
-          "why": "Explains why Jesus' resurrection matters for Christian belief.",
-          "url": "https://learn.ligonier.org/series/understanding-the-gospel/resurrection-and-justification"
-        }
-      ]
-    },
-    "terms": [
-      [
-        "Vindication",
-        "Public confirmation that a person or claim should be regarded as right or genuine."
-      ],
-      [
-        "Authentication",
-        "Evidence that confirms someone as a genuine messenger or authority."
-      ],
-      [
-        "Divine authority",
-        "Authority that comes from God and therefore carries more than ordinary human opinion."
-      ]
-    ],
-    "conclusion": "The resurrection functions as God’s vindication of Jesus and gives His teaching unique authority.",
-    "thread": "If Jesus rose, the question changes. We are no longer asking only what happened to him; we have to ask what God was saying by raising him.",
-    "bigIdea": "In the context of Jesus’ prior claims, God’s raising him from the dead functions as divine vindication: God publicly confirms the person and authority that had been rejected at the cross.",
-    "checkpoints": [
-      {
-        "after": "core",
-        "question": "Jordan says the resurrection would only show that miracles happen. What important context is he leaving out?",
-        "answer": "The person being raised had already made extraordinary claims. In that context, God raising Jesus functions as vindication of Jesus and his authority."
-      },
-      {
-        "after": "body",
-        "question": "What is the next apologetic question once Jesus is vindicated?",
-        "answer": "What does this authoritative Jesus teach about God, Scripture, and the people He commissions?"
-      }
-    ],
-    "story": {
-      "title": "What would the resurrection mean?",
-      "lines": [
-        "The resurrection conversation continues on the walk home. Jordan says, “Suppose I granted it for the sake of argument. Why does that mean everything Jesus said was true?”",
-        "You tell him that is too broad a conclusion. The question is what the resurrection means in the context of Jesus’ claims, mission, rejection, and execution.",
-        "Jordan says, “Okay, but God doing something extraordinary for Jesus is not automatically the same thing as God endorsing every claim Jesus made.”",
-        "He looks over. “So why call the resurrection a vindication of Jesus instead of just a miracle?”"
-      ]
-    },
-    "conversationTips": [
-      "The resurrection should not be asked to prove every Christian doctrine at once. The immediate issue is what it says about Jesus and His authority.",
-      "Its meaning comes from the context: Jesus’ claims, mission, rejection, execution, and then resurrection.",
-      "If a person grants the event but not the idea of vindication, stay with that question. Ask what God raising this particular person would mean in that setting."
     ]
   },
-  {
-    "id": 17,
-    "cat": "christianity",
-    "tag": "Authority",
-    "title": "If Jesus is Lord, can we trust what he teaches?",
-    "teaser": "The argument now moves from an event to a teacher: if Jesus is divinely vindicated, his teaching about God cannot be treated as merely one fallible religious opinion.",
-    "lesson": {
-      "heading": "From vindicated person to trustworthy teacher",
-      "body": "The structure matters here. We did not begin by saying, “The Bible is God’s Word, therefore Jesus rose from the dead.” We treated the New Testament as historical evidence and argued toward the resurrection without first assuming inspiration.\n\nIf that argument succeeds, we now have a reason to trust Jesus that we did not assume at the beginning. God has vindicated Him through the resurrection.\n\nThe earliest Christian preaching treats the resurrection this way too. Romans 1:4 connects Jesus’ resurrection with His status as the Son of God in power. In Acts 2, Peter argues from God raising Jesus to Jesus’ lordship and messianic status, and Acts 17 says God gave assurance of Jesus’ role as judge by raising Him from the dead. The resurrection is not being treated as a random miracle. It is God’s public vindication of Jesus in the context of the claims He had already made.\n\nThat changes how we receive what Jesus teaches. If an ordinary ancient teacher tells you something about God, you still have to evaluate that teaching as one human claim among others. But if God has raised Jesus from the dead in the context of His claims and mission, then Jesus is not simply one teacher among many.\n\nHistorical study still matters. We need to establish what Jesus actually said, what He meant, and whether the sources preserve His teaching accurately. Once we have good reason to say a teaching came from Jesus, God's vindication of Him changes how we ought to receive it.",
-      "facts": [
-        "This is the classical-apologetic move from Christian evidences to the authority of Christ.",
-        "Romans 1:4 connects Jesus’ resurrection with His status as the Son of God in power.",
-        "Acts 2 and Acts 17 use the resurrection as God’s public confirmation of Jesus’ identity and authority.",
-        "The sequence avoids a simple “Bible proves Jesus, Jesus proves Bible” circle.",
-        "Jesus’ authority is the bridge, not a claim that the New Testament canon has already been established.",
-        "The next two studies separately consider Jesus’ treatment of the Old Testament and His authorization of the apostolic witness."
-      ],
-      "further": [
-        [
-          "Bible reference | Romans 1:3–4; Acts 2:32–36; Acts 17:30–31",
-          "https://www.biblegateway.com/passage/?search=Romans%201%3A3-4%3B%20Acts%202%3A32-36%3B%20Acts%2017%3A30-31&version=ESV"
-        ],
-        [
-          "Bible reference | John 7:16–18",
-          "https://www.biblegateway.com/passage/?search=John%207%3A16-18&version=ESV"
-        ],
-        [
-          "Bible reference | John 12:44–50",
-          "https://www.biblegateway.com/passage/?search=John%2012%3A44-50&version=ESV"
-        ],
-        [
-          "Bible reference | Titus 1:1–2",
-          "https://www.biblegateway.com/passage/?search=Titus%201%3A1-2&version=ESV"
-        ]
-      ]
-    },
-    "why": "This is the point where the argument moves from the historical case for Jesus to the authority of His teaching. We did not assume Scripture at the beginning, so now we can ask what follows if the resurrection really does vindicate Jesus.",
-    "core": [
-      "The argument has not assumed biblical inspiration to reach this point; it has used early Christian documents historically.",
-      "If God raised Jesus, Jesus is a divinely vindicated authority rather than merely one religious voice among many.",
-      "A trustworthy divine authority is especially qualified to teach about God and God’s revelation.",
-      "We therefore have a non-circular reason to ask what Jesus taught about Scripture and whom He authorized to continue His witness.",
-      "Historical interpretation still matters: Jesus’ authority does not excuse us from carefully establishing what He actually taught."
+  "why": "The liar, lunatic, or Lord argument is memorable, but it should not be used as a shortcut. It becomes useful only after we have historical reason to think Jesus really made extraordinary claims and after the resurrection evidence gives us a positive reason to take those claims seriously.",
+  "core": [
+    "Lewis’s trilemma challenges the idea that Jesus can be reduced to a merely admirable moral teacher if His extraordinary personal claims are substantially historical.",
+    "If Jesus knowingly made false divine claims, “liar” becomes relevant.",
+    "If He sincerely made those claims while being radically mistaken about His identity, “lunatic” or profound delusion is the second branch of the classic argument.",
+    "If the claims are true, “Lord” fits.",
+    "The modern historical challenge of legend or later development attacks the premise that Jesus really made the claims, so it should be handled by Studies 11–12 rather than made an equal fourth branch.",
+    "The resurrection supplies the positive reason for accepting Lord rather than merely eliminating alternatives."
+  ],
+  "pressure": [
+    [
+      "“Those are not the only logical possibilities.”",
+      "That’s correct, liar, lunatic, and Lord are not every logical possibility. The argument does not work as a formal proof. Its value is that it challenges the idea that Jesus can make extraordinary claims and still be reduced to nothing more than a good moral teacher."
     ],
-    "pressure": [
-      [
-        "“You are still reasoning in a circle.”",
-        "A circular argument would assume the Bible is inspired in order to prove the resurrection and then use the resurrection to prove the Bible is inspired. That is not the path we have taken. We first used the documents historically, reached the resurrection, and only now are asking what Jesus’ authority means for Scripture."
-      ],
-      [
-        "“A miracle does not make someone infallible.”",
-        "An isolated miracle would not automatically make someone infallible. The argument depends on the resurrection happening in the context of Jesus’ prior claims, mission, and authority. It is God’s vindication of that person, not simply a strange event attached to someone at random."
-      ]
-    ],
-    "limits": "This step establishes why Jesus' teaching carries authority. The following studies ask what He taught about Scripture and how He authorized the apostles.",
-    "practice": "A friend says, “I could believe Jesus rose and still treat him as just one insightful religious teacher among many.” How would you explain why the resurrection changes that category?",
-    "model": "We first argued toward the resurrection without assuming inspiration. If God raised Jesus, then Jesus is not simply another religious teacher giving private opinions about God. We still have to establish what He actually taught, but once we do, His teaching carries the authority of the person God vindicated.",
-    "sources": [
-      [
-        "Bible reference | John 12:44–50",
-        "https://www.biblegateway.com/passage/?search=John%2012%3A44-50&version=ESV"
-      ]
-    ],
-    "evidence": {
-      "claim": "These sources trace the classical move from resurrection to Jesus’ authority and then toward Scripture.",
-      "establishes": "Romans 1 and Acts explicitly connect the resurrection with Jesus’ status and authority, while Biola, Ligonier, and Impact Apologetics trace the same move from the risen Jesus toward His teaching and Scripture.",
-      "caution": "We still have to establish historically what Jesus taught rather than treating every later canon conclusion as automatic.",
-      "resources": [
-        {
-          "type": "Bible reference",
-          "title": "Romans 1:3–4; Acts 2:32–36; Acts 17:30–31",
-          "why": "These passages treat the resurrection as God’s public confirmation of Jesus’ identity, lordship, and authority rather than as an isolated miracle.",
-          "url": "https://www.biblegateway.com/passage/?search=Romans%201%3A3-4%3B%20Acts%202%3A32-36%3B%20Acts%2017%3A30-31&version=ESV"
-        },
-        {
-          "type": "Biola",
-          "title": "Biola | From Belief in Jesus to Belief in the New Testament",
-          "why": "A direct formulation of the resurrection, then ratified teaching, then Scripture argument.",
-          "url": "https://www.biola.edu/blogs/good-book-blog/2021/from-belief-in-jesus-to-belief-in-the-new-testament"
-        },
-        {
-          "type": "Teaching",
-          "title": "Ligonier | The Authority of Jesus",
-          "why": "Shows the distinctive authority Jesus exercised in teaching and action.",
-          "url": "https://learn.ligonier.org/devotionals/authority-jesus"
-        },
-        {
-          "type": "Teaching",
-          "title": "Ligonier | All Authority in Heaven and on Earth",
-          "why": "Treats the risen Christ’s universal authority in the Great Commission.",
-          "url": "https://learn.ligonier.org/series/the-great-commission/all-authority-in-heaven-and-on-earth"
-        },
-        {
-          "type": "Curriculum",
-          "title": "Impact Apologetics | What Did Jesus Say?",
-          "why": "Connects Jesus’ identity with what he taught about the Bible after the New Testament reliability section.",
-          "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
-        },
-        {
-          "type": "Curriculum",
-          "title": "Ligonier | The Bible and Apologetics",
-          "why": "Explores how Christ's identity and authority relate to the authority of Scripture.",
-          "url": "https://learn.ligonier.org/series/defending-your-faith/the-bible-and-apologetics-part"
-        }
-      ]
-    },
-    "terms": [
-      [
-        "Authority",
-        "The right to teach, command, or speak in a way that deserves obedience or trust."
-      ],
-      [
-        "Circular reasoning",
-        "Using the conclusion one is trying to prove as a premise for proving it."
-      ],
-      [
-        "Interpretation",
-        "The work of understanding what a text or speaker actually means."
-      ]
-    ],
-    "conclusion": "The vindicated Jesus gives us an authority we did not assume at the beginning of the argument.",
-    "thread": "If God vindicated Jesus, his teaching carries a different kind of weight. So what does Jesus say about God and revelation?",
-    "bigIdea": "If God vindicated Jesus by raising him from the dead, Jesus’ teaching carries divine authority. We now have reason to trust what he says about God and revelation.",
-    "checkpoints": [
+    [
+      "“Maybe the claims were legendary.”",
+      "If the claims were legendary, then we need to go back to the historical evidence and ask whether Jesus actually made them. That is a fair objection, but it does not defeat the argument by itself. It moves the discussion back to the reliability and early character of the evidence we already examined."
+    ]
+  ],
+  "limits": "The trilemma brings the question of Jesus' identity into focus. The historical case for His claims and the resurrection gives us the reason to take His claim to lordship seriously.",
+  "practice": "Someone says, “Jesus was probably a wise teacher, but his followers later turned him into a divine figure.” How would you explain what must be established before the liar-lunatic-Lord argument has force?",
+  "model": "The historical question comes first. The liar, lunatic, or Lord argument only matters if Jesus really made the extraordinary claims attributed to Him. Once that is established, simply calling Him a great moral teacher becomes difficult. The resurrection is then the positive reason for believing the claims were true.",
+  "sources": [
+    [
+      "Reasonable Faith | Historical Jesus",
+      "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-goddoes-god-exist1/rediscovering-the-historical-jesus-the-evidence-for-jesus/"
+    ]
+  ],
+  "evidence": {
+    "claim": "These sources treat the trilemma as a challenge to the idea that Jesus was only a great moral teacher.",
+    "establishes": "More recent treatments also make clear that a legend objection attacks the historical premise rather than adding a fourth psychological category.",
+    "caution": "The trilemma is not an exhaustive formal proof and should not be used as a mental-health diagnosis.",
+    "resources": [
       {
-        "after": "core",
-        "question": "Jordan says that if Jesus was raised, every saying attributed to Jesus must automatically be authentic. Is that right?",
-        "answer": "No. Historical interpretation still matters. The resurrection tells us what authority to give Jesus’ teaching once we have good reason to establish what he taught."
+        "type": "Teaching",
+        "title": "Ligonier | The Awkwardness of Easter",
+        "why": "Explains the classic Lord/liar/lunatic challenge to the “great teacher only” view.",
+        "url": "https://learn.ligonier.org/articles/the-awkwardness-of-easter"
       },
       {
-        "after": "body",
-        "question": "Does Jesus’ vindication mean historical interpretation no longer matters?",
-        "answer": "No. We still have to establish what Jesus taught; His vindication tells us what authority to give that teaching once established."
-      }
-    ],
-    "story": {
-      "title": "What changes if Jesus is vindicated?",
-      "lines": [
-        "On the next walk, Jordan says, “I think I see what you are trying to do. You did not start by assuming the Bible was inspired. You argued toward the resurrection first.”",
-        "Then he adds, “But even if Jesus is vindicated, I still need to know what he actually taught. I cannot just accept every sentence somebody later attaches to him.”",
-        "You agree. The resurrection does not remove the need to ask historical questions about Jesus’ teaching.",
-        "Jordan says, “So if we really can establish that Jesus taught something, what difference does the resurrection make to whether I should believe it?”"
-      ]
-    },
-    "conversationTips": [
-      "Two questions need to stay separate: did Jesus actually teach this, and if He did, what follows from His vindication?",
-      "The resurrection does not let us skip the historical work of establishing what Jesus said.",
-      "When the source question comes up, answer it first. Once the teaching is reasonably established, then return to why Jesus’ authority matters."
-    ]
-  },
-  {
-    "id": 18,
-    "cat": "christianity",
-    "tag": "Scripture",
-    "title": "How did Jesus treat the Old Testament?",
-    "teaser": "The divinely vindicated Jesus consistently treats Israel’s Scriptures as God’s authoritative Word, not merely as helpful religious literature.",
-    "lesson": {
-      "heading": "How Jesus actually uses Scripture",
-      "body": "Throughout the Gospels, Jesus treats Israel’s Scriptures as authoritative. He repeatedly appeals to what is written as a decisive reason in His teaching and disputes, and He rebukes people for failing to understand the Scriptures.\n\nThis is more than Jesus simply quoting familiar religious literature. In Matthew 4, He repeatedly answers temptation with “It is written.” In Matthew 19, Jesus quotes Genesis and treats the words of the text as what the Creator said. In John 10, He says that Scripture cannot be broken.\n\nAfter the resurrection, Luke presents Jesus explaining His mission from Moses, the Prophets, and the Psalms. The consistent picture is that Jesus receives the Old Testament as God’s Word and understands His own mission as the fulfillment of that revelation.\n\nThose examples matter because Jesus is not treating Scripture as merely useful religious literature. He appeals to it as something that carries God's authority over belief and obedience. That is why His actual use of Scripture supports the conclusion that He received the Old Testament as God's Word.\n\nWhat this establishes is Jesus’ basic posture toward Scripture. If the resurrection gives us good reason to receive Jesus as the vindicated Lord, then accepting His authority while casually dismissing the Scriptures He treats as God’s authoritative Word creates a serious problem.",
-      "facts": [
-        "Jesus’ repeated “It is written” appeals show Scripture functioning as a final authority in argument and obedience.",
-        "Matthew 19 is a key example of Jesus treating the words of Genesis as God’s own speech.",
-        "John 10:35 summarizes His posture with “Scripture cannot be broken.”",
-        "Luke 24 presents the Law, Prophets, and Psalms as the scriptural framework for understanding Jesus’ mission."
-      ],
-      "further": [
-        [
-          "Bible reference | Matthew 4:1–11",
-          "https://www.biblegateway.com/passage/?search=Matthew%204%3A1-11&version=ESV"
-        ],
-        [
-          "The Gospel Coalition | Jesus’s View of the Old Testament",
-          "https://www.thegospelcoalition.org/essay/jesuss-view-old-testament/"
-        ],
-        [
-          "Bible reference | John 10:34–36",
-          "https://www.biblegateway.com/passage/?search=John%2010%3A34-36&version=ESV"
-        ],
-        [
-          "Bible reference | Matthew 19:3–6",
-          "https://www.biblegateway.com/passage/?search=Matthew%2019%3A3-6&version=ESV"
-        ],
-        [
-          "Bible reference | Luke 24:44–47",
-          "https://www.biblegateway.com/passage/?search=Luke%2024%3A44-47&version=ESV"
-        ]
-      ]
-    },
-    "why": "If Jesus is the vindicated Lord, then His view of Scripture matters. This lesson asks what Jesus actually does with the Old Testament rather than simply assuming a Christian doctrine of Scripture at the beginning.",
-    "core": [
-      "Jesus repeatedly appeals to the written Scriptures as decisive authority: “It is written” settles disputes and guides obedience.",
-      "He can speak of what Scripture says as what God says, linking the written text with divine speech.",
-      "Jesus says that Scripture cannot be broken and treats the Law, Prophets, and Psalms as the authoritative scriptural world He receives.",
-      "He treats major Old Testament people and events as meaningful parts of God’s revelation and reads His mission in continuity with those Scriptures.",
-      "The conclusion is that Jesus has a very high view of Israel’s Scriptures as God-given and authoritative.",
-      "This lesson should not pretend one saying from Jesus settles every later Protestant-Catholic canon question."
-    ],
-    "pressure": [
-      [
-        "“I accept Jesus, but not the Old Testament.”",
-        "You can say you accept Jesus while rejecting the Old Testament, but that creates a tension: Jesus repeatedly treats those Scriptures as God’s authoritative Word and as the story fulfilled in His own mission. If you accept Jesus’ authority, His view of Scripture has to matter to you."
-      ],
-      [
-        "“Jesus was simply a man of his time and shared his culture’s mistakes.”",
-        "That response is possible only if we first limit Jesus’ authority and say He shared a serious religious error of His culture. But if the resurrection vindicates Jesus in the way we have argued, we cannot simply dismiss His settled teaching on Scripture as a cultural mistake."
-      ]
-    ],
-    "limits": "This study establishes Jesus' treatment of Israel's Scriptures as God's authoritative Word. The next study considers the authority and recognition of the New Testament writings.",
-    "practice": "Someone says, “I follow Jesus, but I see the Old Testament as nothing more than Israel’s religious literature.” How would you explain why Jesus’ own treatment of Scripture matters?",
-    "model": "Look at how Jesus Himself treated the Old Testament. He repeatedly appeals to Scripture as decisive, speaks of it as God’s Word, says it cannot be broken, and explains His own mission through it. If I accept Jesus as the vindicated Lord, then His settled view of Scripture has to matter to me.",
-    "sources": [
-      [
-        "The Gospel Coalition | Jesus’s View of the Old Testament",
-        "https://www.thegospelcoalition.org/essay/jesuss-view-old-testament/"
-      ],
-      [
-        "Bible reference | John 10:34–36",
-        "https://www.biblegateway.com/passage/?search=John%2010%3A34-36&version=ESV"
-      ]
-    ],
-    "evidence": {
-      "claim": "These sources examine how Jesus treats Israel’s Scriptures.",
-      "establishes": "Matthew 4, Matthew 19, John 10, and Luke 24 show Jesus repeatedly appealing to Scripture as decisive authority, treating the written text as God speaking, and understanding His mission through Israel’s Scriptures.",
-      "caution": "Jesus’ high view of Scripture does not by itself settle every later canon, genre, textual, or interpretation question.",
-      "resources": [
-        {
-          "type": "Bible reference",
-          "title": "Matthew 4:1–11; Matthew 19:3–6; John 10:34–36; Luke 24:44–47",
-          "why": "These passages provide concrete examples of Jesus appealing to what is written, treating Scripture as God’s speech, saying it cannot be broken, and reading His mission through the Old Testament.",
-          "url": "https://www.biblegateway.com/passage/?search=Matthew%204%3A1-11%3B%20Matthew%2019%3A3-6%3B%20John%2010%3A34-36%3B%20Luke%2024%3A44-47&version=ESV"
-        },
-        {
-          "type": "Teaching",
-          "title": "Ligonier | Jesus and Authority",
-          "why": "Connects the authority of Christ directly to Jesus’ view of Scripture.",
-          "url": "https://learn.ligonier.org/devotionals/jesus-and-authority"
-        },
-        {
-          "type": "Biola",
-          "title": "Biola | Revisiting Jesus’ Attitude toward the Old Testament",
-          "why": "Argues that Jesus’ high view of Scripture can be established historically without first assuming inerrancy.",
-          "url": "https://www.biola.edu/blogs/good-book-blog/2019/revisiting-jesus-attitude-toward-the-old-testament"
-        },
-        {
-          "type": "Biola",
-          "title": "Biola | From Belief in Jesus to Belief in the New Testament",
-          "why": "Summarizes the claim that Jesus taught the divine inspiration and authority of Jewish Scripture.",
-          "url": "https://www.biola.edu/blogs/good-book-blog/2021/from-belief-in-jesus-to-belief-in-the-new-testament"
-        },
-        {
-          "type": "Curriculum",
-          "title": "Impact Apologetics | What Did Jesus Teach About the Bible?",
-          "why": "Examines how Jesus used Scripture and what He taught about its authority.",
-          "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
-        },
-        {
-          "type": "Curriculum",
-          "title": "Ligonier | The Bible and Apologetics",
-          "why": "Connects Jesus' authority with His teaching about Scripture.",
-          "url": "https://learn.ligonier.org/series/defending-your-faith/the-bible-and-apologetics-part-4"
-        }
-      ]
-    },
-    "terms": [
-      [
-        "Scripture",
-        "Sacred writings received as authoritative revelation from God."
-      ],
-      [
-        "Canon",
-        "The recognized collection of writings received as Scripture."
-      ],
-      [
-        "Authority of Scripture",
-        "The claim that Scripture rightly governs belief and obedience because it is God’s Word."
-      ]
-    ],
-    "conclusion": "Jesus consistently receives the Old Testament as authoritative revelation from God.",
-    "thread": "If the risen Jesus speaks with God's authority, we should ask what He believed about Scripture. First, consider the Old Testament, the Scriptures He taught and quoted.",
-    "bigIdea": "Jesus consistently treats Israel’s Scriptures as the authoritative Word of God: what Scripture says carries God’s authority, cannot simply be set aside, and must be fulfilled.",
-    "checkpoints": [
-      {
-        "after": "core",
-        "question": "Jordan says he can accept Jesus while dismissing the Old Testament as merely human religious literature. Why does Jesus’ own view matter?",
-        "answer": "If Jesus is the vindicated Lord, his consistent treatment of Israel’s Scriptures as God’s authoritative Word carries weight for anyone who claims to accept his authority."
+        "type": "Biola",
+        "title": "Biola | Best-Selling Evangelistic Book Update",
+        "why": "Sean McDowell explains the trilemma, its historical premise, the “legend” addition, and updated sensitivity around the slogan.",
+        "url": "https://www.biola.edu/blogs/think-biblically/2024/best-selling-evangelistic-book-update"
       },
       {
-        "after": "body",
-        "question": "Why do Jesus’ repeated appeals to Scripture matter for the conclusion of this lesson?",
-        "answer": "Because He treats Scripture as carrying God’s authority over belief and obedience. His consistent use of it gives us a reason to say He received the Old Testament as God’s Word."
+        "type": "Curriculum",
+        "title": "Impact Apologetics | Jesus Claimed and Proved to Be God",
+        "why": "Connects Jesus' extraordinary claims with the historical case for His identity.",
+        "url": "https://impactapologetics.com/high-school/"
+      },
+      {
+        "type": "Teaching",
+        "title": "Ligonier | The Good Book",
+        "why": "Uses Lewis’s trilemma to explain why “good teacher but merely human” is unstable given Jesus’ claims.",
+        "url": "https://learn.ligonier.org/articles/state-theology-good-book"
+      },
+      {
+        "type": "Curriculum",
+        "title": "Ligonier | Defending Your Faith: The Deity of Christ",
+        "why": "Examines Jesus' claims and the case for His deity.",
+        "url": "https://learn.ligonier.org/series/defending-your-faith/the-deity-of-christ"
       }
-    ],
-    "story": {
-      "title": "What did Jesus think of Scripture?",
-      "lines": [
-        "Jordan picks up the next question without much prompting. “If Jesus’ teaching carries that kind of authority, then what did he think about the Bible he had?”",
-        "You point out that for Jesus that means Israel’s Scriptures, not a completed New Testament.",
-        "“Right,” Jordan says. “That is what I mean. Christians sometimes jump from Jesus straight to the Bible on my shelf, but there are steps in between.”",
-        "He asks, “So what can we actually say about how Jesus treated the Old Testament?”"
-      ]
-    },
-    "conversationTips": [
-      "This lesson has a narrow job: show how Jesus treated Israel’s Scriptures. It does not have to settle every later canon question.",
-      "A difficult Old Testament passage may be worth discussing, but it is not automatically the question in front of you. Finish the question about Jesus’ own view of Scripture first.",
-      "You do not need to solve every Old Testament difficulty in one conversation to show that Jesus received those Scriptures as God’s authoritative Word."
     ]
   },
-  {
-    "id": 19,
-    "cat": "christianity",
-    "tag": "Scripture",
-    "title": "What about the New Testament?",
-    "teaser": "Jesus authorized apostles to speak in His name. The New Testament question is how their authoritative witness came to be written, received, and recognized as Scripture.",
-    "lesson": {
-      "heading": "From Christ to the apostles to the New Testament",
-      "body": "The New Testament begins with Jesus’ authority. Jesus chose apostles, commissioned them as His witnesses, and promised that the Holy Spirit would help them remember His teaching and guide their witness. The apostles were not simply later Christian teachers giving their own opinions. They spoke as men Christ had authorized to represent Him.\n\nThe basic chain is simple: God sends Christ, Christ authorizes the apostles, and the apostles teach the church in His name. If God raised Jesus from the dead, then the authority Jesus gives those apostles matters. Their teaching is not independent of Christ. It comes from the authority He gave them.\n\nThat connection is important. If the risen Jesus truly authorized the apostles, then their authority does not begin with a later church vote. It begins with Christ.\n\nThat apostolic teaching did not remain only oral. It was written down, circulated, read in the churches, and treated as authoritative. Paul expects his letters to be read publicly. Second Peter 3:15–16 refers to Paul’s letters alongside “the other Scriptures.” So we have evidence from within the New Testament itself that apostolic writings were already being received as Scripture.\n\nWe can also see that process continuing very early outside the New Testament. Near the end of the first century, 1 Clement tells the Corinthian church to take up Paul’s earlier letter to them. By the middle of the second century, Justin Martyr describes Christians gathering on Sunday and reading the “memoirs of the apostles” alongside the prophets. Later in the second century, Irenaeus argues from Matthew, Mark, Luke, and John as the church’s four Gospels. The point is not that every New Testament book was already universally settled. It is that apostolic writings were functioning as authoritative Christian texts long before fourth-century councils.\n\nThat history helps explain why the church’s later role was recognition, not creation. A council did not take ordinary Christian books and make them inspired by voting for them. The authority came from God through Christ and His apostles. The church then had to recognize which writings actually carried that apostolic authority.\n\nThat is why apostolicity mattered. Was the book written by an apostle or closely connected to apostolic testimony? Did it agree with the faith already received from the apostles? Was it being read and received throughout the churches? Those questions helped the church distinguish the writings that belonged to the apostolic witness from later Christian books that could still be useful without being Scripture.\n\nThere was broad early agreement on the core of the New Testament, especially the four Gospels, Acts, Paul’s letters, 1 Peter, and 1 John. A smaller number of books were discussed longer in some parts of the church. Those disagreements actually help us see the process more clearly. Christians were not simply accepting every Christian writing they could find. They were asking which writings really belonged to the apostolic witness they had already received.\n\nThe Council of Nicaea did not choose the New Testament canon. The twenty-seven-book list was recognized formally over time, but those books did not suddenly become authoritative in the fourth century. The history is messier than a complete list appearing all at once, but it is also very different from a later council inventing the New Testament. Apostolic writings were already functioning as Scripture while the church gradually reached agreement about the boundaries of the collection.",
-      "facts": [
-        "Jesus commissioned apostles to speak and teach in His name.",
-        "Acts 2:42 shows the earliest church centered on the apostles’ teaching.",
-        "Apostolic writings were circulated and read publicly in the churches.",
-        "2 Peter 3:15–16 places Paul’s letters alongside “the other Scriptures.”",
-        "1 Clement tells the Corinthians to read Paul’s earlier letter, Justin Martyr describes apostolic memoirs being read in worship, and Irenaeus argues from the church’s four Gospels.",
-        "There was broad early agreement on most New Testament books, with longer discussion around a smaller group.",
-        "The Council of Nicaea did not choose or create the New Testament canon."
-      ],
-      "further": [
-        [
-          "Primary source | 1 Clement 47",
-          "https://en.wikisource.org/wiki/1_Clement_(Hoole_translation)#CHAPTER_47"
-        ],
-        [
-          "Primary source | Justin Martyr, First Apology 67",
-          "https://ccel.org/ccel/justin_martyr/first_apology/anf01.viii.ii.lxvii.html"
-        ],
-        [
-          "Primary source | Irenaeus, Against Heresies 3.11",
-          "https://ccel.org/ccel/irenaeus/against_heresies_iii/anf01.ix.iv.xii.html"
-        ],
-        [
-          "Ligonier | The Authority of the Apostles",
-          "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-authority-of-the-apostles"
-        ],
-        [
-          "Ligonier | Authority and Canon",
-          "https://learn.ligonier.org/devotionals/authority-and-canon"
-        ],
-        [
-          "Ligonier | What Is the Canon of Scripture?",
-          "https://learn.ligonier.org/articles/what-is-the-canon-of-scripture"
-        ],
-        [
-          "The Gospel Coalition | The Biblical Canon",
-          "https://www.thegospelcoalition.org/essay/the-biblical-canon/"
-        ],
-        [
-          "Bible reference | John 14:25–26; 16:12–15",
-          "https://www.biblegateway.com/passage/?search=John%2014%3A25-26%3B%20John%2016%3A12-15&version=ESV"
-        ]
-      ]
+  "terms": [
+    [
+      "Trilemma",
+      "An argument presenting three main options. Here, the classic form is liar, lunatic, or Lord."
+    ],
+    [
+      "Legend hypothesis",
+      "The proposal that major claims about Jesus developed through later storytelling rather than going back substantially to Jesus himself."
+    ],
+    [
+      "Synthesis",
+      "Putting several earlier lines of evidence together to see what overall conclusion they support."
+    ]
+  ],
+  "conclusion": "The trilemma challenges the “great teacher only” view, while the resurrection gives the positive reason to call Jesus Lord.",
+  "thread": "If Jesus made the claims we have examined, can we still call Him nothing more than a good moral teacher? The evidence for His resurrection makes that question harder to avoid.",
+  "bigIdea": "If Jesus really made the extraordinary claims we have examined, “merely a great moral teacher” is unstable: those claims were knowingly false, sincerely but radically mistaken, or true.",
+  "checkpoints": [
+    {
+      "after": "core",
+      "question": "Jordan wants to call Jesus a great teacher while setting aside Jesus’ extraordinary self-claims. What does the trilemma force him to consider?",
+      "answer": "If Jesus substantially made those claims, Jordan must ask whether Jesus was knowingly false, sincerely but radically mistaken, or telling the truth rather than simply ignoring the claims."
     },
-    "why": "If Jesus is the vindicated Lord, then His authority does not stop with the words He personally spoke during His earthly ministry. He chose apostles to represent Him, teach in His name, and bear authoritative witness to what He had done. The New Testament question is how that authority reaches the writings the church received as Scripture.",
-    "core": [
-      "New Testament authority begins with Jesus, who commissioned apostles to teach and bear witness in His name.",
-      "The apostles’ authority is delegated from Christ, not created by the later church.",
-      "Apostolic teaching was written, circulated, read publicly, and treated as authoritative within the apostolic period.",
-      "2 Peter 3:15–16 is an important example of apostolic writings being treated as Scripture.",
-      "The church recognized the canon by asking about apostolic connection, consistency with apostolic teaching, and widespread reception.",
-      "Most New Testament books were received very early; discussion focused on a smaller group.",
-      "Nicaea did not choose the New Testament canon, and later councils recognized rather than created its authority."
+    {
+      "after": "body",
+      "question": "Why is “legend” a different kind of objection?",
+      "answer": "Because it says the claims were added or distorted later rather than explaining Jesus’ own intentions or beliefs."
+    }
+  ],
+  "story": {
+    "title": "A great teacher?",
+    "lines": [
+      "As you leave the coffee shop, Jordan says, “I still think somebody could admire Jesus without believing he was God. Plenty of people call him a great teacher.”",
+      "You ask whether that description fits comfortably if Jesus really made the kinds of claims you have been discussing.",
+      "Jordan shrugs. “Maybe he was wrong about himself. Maybe he knew it was not true. Or maybe his followers put words in his mouth later.”",
+      "Then he says, “So what is the point of that ‘liar, lunatic, or Lord’ thing people always quote?”"
+    ]
+  },
+  "conversationTips": [
+    "Use the trilemma late, not as a shortcut. It only becomes useful after you have dealt with the historical question of what Jesus actually claimed.",
+    "A legend objection sends the conversation back to the source evidence. It challenges the premise that Jesus made the claims; it does not answer the trilemma once that premise is granted.",
+    "“Lunatic” is traditional shorthand, not a medical diagnosis. The real issue is whether Jesus could be profoundly mistaken about who He was."
+  ]
+},
+  {
+  "id": 16,
+  "cat": "christianity",
+  "tag": "Authority",
+  "title": "What does the resurrection say about Jesus?",
+  "teaser": "If God raised the Jesus whose claims we have historically examined, the resurrection is not just an unusual event. It is God’s vindication of Jesus and gives His teaching unique authority.",
+  "lesson": {
+    "heading": "From resurrection to the authority of Jesus",
+    "body": "Suppose the historical case from the last several studies succeeds. Jesus really made extraordinary claims, He really died, and God raised Him from the dead. What follows from that?\n\nNot every miracle would automatically make every statement a person ever made true. That is not the argument. The meaning comes from the setting. Jesus had already placed Himself in an extraordinary relationship to God, claimed unusual authority, been rejected, and been executed. If the perfectly good Creator then raises that same Jesus from the dead, God is not acting in a historical vacuum. He is overturning the human verdict against Jesus and vindicating the person whose claims were under dispute.\n\nThe earliest Christian preaching treats the resurrection this way. Romans 1 connects Jesus’ resurrection with His status as Son of God in power. In Acts 2, Peter presents the resurrection as God reversing the verdict of those who crucified Jesus and declaring Him Lord and Christ. Acts 17 connects the resurrection with Jesus’ authority to judge.\n\nThat gives the resurrection a role larger than simply proving that miracles happen. It tells us whose teaching now carries unique weight. If God vindicated Jesus in the context of His claims, then Jesus is not one more ancient teacher offering a private opinion about God.\n\nHistorical work still matters. The resurrection does not mean that every sentence someone later attributes to Jesus becomes authentic automatically. We still have to ask whether a teaching really goes back to Him. We already did that with His self-understanding, and the next studies will do it with the teachings the argument now needs: His view of Israel’s Scriptures and His authorization of the apostles.\n\nOnce a teaching is historically well grounded as Jesus’ own, however, His resurrection changes how we receive it. We have reached an authority we did not assume at the beginning of the course.",
+    "facts": [
+      "The resurrection’s apologetic meaning comes from the identity and prior claims of the person raised.",
+      "An isolated miracle would not automatically make every teaching of a person infallible.",
+      "In the historical setting of Jesus’ claims, rejection, and execution, God’s raising Him functions as vindication.",
+      "Romans 1 and Acts connect the resurrection with Jesus’ identity, lordship, and authority.",
+      "Jesus’ vindication gives us a reason to trust teachings that can be historically established as His own.",
+      "The next question is therefore what this vindicated Jesus taught about Scripture and whom He authorized to speak for Him."
     ],
-    "pressure": [
+    "further": [
       [
-        "“The church chose the books centuries later.”",
-        "That gives the later church too much authority and ignores the earlier evidence. The four Gospels and Paul’s letters were already being read and treated as authoritative long before the fourth century. Councils later recognized the collection more formally, but they did not turn ordinary books into Scripture."
+        "Bible reference | Romans 1:3–4; Acts 2:32–36; Acts 17:30–31",
+        "https://www.biblegateway.com/passage/?search=Romans%201%3A3-4%3B%20Acts%202%3A32-36%3B%20Acts%2017%3A30-31&version=ESV"
       ],
       [
-        "“If some books were disputed, the canon must be arbitrary.”",
-        "The opposite conclusion makes more sense. If the church accepted every Christian book without question, that would be more concerning. The disputed books were examined because Christians cared whether they really belonged to the apostolic witness. Careful recognition is not the same thing as arbitrary selection."
+        "Biola | From Belief in Jesus to Belief in the New Testament",
+        "https://www.biola.edu/blogs/good-book-blog/2021/from-belief-in-jesus-to-belief-in-the-new-testament"
       ],
       [
-        "“Jesus never gave us a list of twenty-seven books.”",
-        "He did not, and the argument does not depend on Him doing so. He authorized apostles to teach and bear witness in His name. Once that authority is established, the canon question becomes which writings genuinely carry the apostolic witness Christ authorized."
+        "Ligonier | The Authority of Jesus",
+        "https://learn.ligonier.org/devotionals/authority-jesus"
       ]
+    ]
+  },
+  "why": "The resurrection is the hinge between the historical case for Jesus and the authority of His teaching. We need to show why God’s raising Jesus means more than simply that something miraculous happened.",
+  "core": [
+    "The resurrection does not occur in isolation; it comes after Jesus’ extraordinary claims, rejection, and execution.",
+    "If the perfectly good Creator raised Jesus, that act functions as God’s reversal of the verdict against Him.",
+    "The resurrection therefore vindicates Jesus’ identity and authority rather than merely showing that miracles can happen.",
+    "This does not authenticate every saying attributed to Jesus automatically; historical work still has to establish what He actually taught.",
+    "Once a teaching is historically established as Jesus’ own, His divine vindication gives us strong reason to trust it.",
+    "The argument can now move from what happened to Jesus to what Jesus taught about revelation."
+  ],
+  "pressure": [
+    [
+      "“A resurrection would only show that Jesus came back to life.”",
+      "That would be more plausible if the event had no context. But Jesus had already made extraordinary claims about His identity and authority and had been publicly rejected. God raising that same Jesus functions as vindication of the person and the claims that led to the dispute."
     ],
-    "limits": "Do not pretend the final 27-book list appeared all at once. The apologetic case is stronger when it shows the actual process: Christ, the apostles, apostolic writings, early reception, careful recognition, and final agreement.",
-    "practice": "A coworker says, “The church picked the books of the Bible hundreds of years after Jesus, so the New Testament is basically a church-made collection.” How would you answer?",
-    "model": "Start with Jesus, not with a later council. Jesus authorized apostles to teach and bear witness in His name. Their teaching was written down, circulated, and treated as authoritative very early. The church later had to recognize which writings genuinely carried that apostolic witness, but recognition is not the same thing as creating authority. Nicaea did not choose the New Testament, and a core collection was already functioning as Scripture long before the fourth century.",
-    "sources": [
+    [
+      "“A miracle does not make someone infallible.”",
+      "Correct. The argument is not that any miracle makes any person infallible. It is that the perfectly good God raised Jesus in the context of Jesus’ claims and mission. That gives us reason to receive Jesus as God’s vindicated authority."
+    ],
+    [
+      "“Does this mean every saying in the Gospels is automatically authentic?”",
+      "No. We still ask the historical question of whether a teaching really goes back to Jesus. His resurrection tells us what authority to give that teaching once it is established."
+    ]
+  ],
+  "limits": "The resurrection establishes Jesus as God’s vindicated authority; it does not remove the need to establish historically what Jesus taught. The next studies apply that historical work to the teachings needed for the argument to Scripture.",
+  "practice": "Someone says, “Even if God raised Jesus, that only proves God can do miracles. Why should that make me trust Jesus’ teaching?” How would you answer?",
+  "model": "The resurrection has to be read in its historical setting. Jesus had already made extraordinary claims about His identity and authority, and He was rejected and executed. If the perfectly good God then raised that same Jesus, God is overturning the verdict against Him. That gives us reason to trust Jesus as the person God vindicated, while still doing the historical work of establishing what He actually taught.",
+  "sources": [
+    [
+      "Biola | From Belief in Jesus to Belief in the New Testament",
+      "https://www.biola.edu/blogs/good-book-blog/2021/from-belief-in-jesus-to-belief-in-the-new-testament"
+    ],
+    [
+      "Bible reference | Romans 1:3–4; Acts 2:32–36; Acts 17:30–31",
+      "https://www.biblegateway.com/passage/?search=Romans%201%3A3-4%3B%20Acts%202%3A32-36%3B%20Acts%2017%3A30-31&version=ESV"
+    ]
+  ],
+  "evidence": {
+    "claim": "The resurrection is presented within the earliest Christian proclamation as God’s vindication of Jesus, not as an isolated wonder.",
+    "establishes": "The historical context of Jesus’ claims, rejection, and resurrection explains why the event bears on His authority, while preserving the need to establish His particular teachings historically.",
+    "caution": "Do not turn the argument into “a miracle makes someone infallible.” The force comes from who Jesus claimed to be, the character of the God who raises Him, and the setting in which the resurrection occurs.",
+    "resources": [
+      {
+        "type": "Biola",
+        "title": "Biola | From Belief in Jesus to Belief in the New Testament",
+        "why": "Lays out the move from resurrection to Jesus’ vindicated teaching and then toward Scripture.",
+        "url": "https://www.biola.edu/blogs/good-book-blog/2021/from-belief-in-jesus-to-belief-in-the-new-testament"
+      },
+      {
+        "type": "Bible reference",
+        "title": "Romans 1:3–4; Acts 2:32–36; Acts 17:30–31",
+        "why": "Shows early Christian interpretation of the resurrection as confirmation of Jesus’ identity, lordship, and authority.",
+        "url": "https://www.biblegateway.com/passage/?search=Romans%201%3A3-4%3B%20Acts%202%3A32-36%3B%20Acts%2017%3A30-31&version=ESV"
+      }
+    ]
+  },
+  "terms": [
+    [
+      "Vindication",
+      "Public confirmation that a person or claim should be regarded as right or genuine."
+    ],
+    [
+      "Divine authority",
+      "Authority that comes from God rather than merely from human opinion."
+    ],
+    [
+      "Historical attribution",
+      "The work of asking whether a saying or teaching really goes back to the historical person to whom it is attributed."
+    ]
+  ],
+  "conclusion": "If God raised Jesus in the context of Jesus’ extraordinary claims, the resurrection functions as God’s vindication of Him. We therefore have reason to trust the teachings that can be historically established as Jesus’ own.",
+  "thread": "The resurrection is the best explanation of the evidence. Now ask what that means: what does God’s act of raising Jesus tell us about the authority of the man who was raised?",
+  "bigIdea": "The resurrection is God’s vindication of Jesus. It gives the historically established teaching of Jesus an authority we did not assume at the beginning.",
+  "checkpoints": [
+    {
+      "after": "core",
+      "question": "Why doesn’t the argument simply say, “Jesus did a miracle, so everything He said must be true”?",
+      "answer": "Because the argument depends on the historical setting: Jesus made extraordinary claims, was rejected and executed, and then God raised Him. The resurrection functions as vindication of that person and His authority."
+    },
+    {
+      "after": "body",
+      "question": "What still has to happen before we use one of Jesus’ teachings as part of the argument?",
+      "answer": "We still need good historical reason to think the teaching actually goes back to Jesus. Once that is established, His vindication tells us why the teaching carries unique authority."
+    }
+  ],
+  "story": {
+    "title": "What would the resurrection mean?",
+    "lines": [
+      "Jordan has stopped arguing that resurrection is impossible. Now he asks a different question. “Say I grant it. Say God really raised Jesus. Why does that make Jesus right about everything?”",
+      "You tell him that the argument is not that any miracle makes any person automatically right.",
+      "“Then what changes?” he asks.",
+      "You remind him what came before the resurrection: Jesus’ extraordinary claims, His rejection, and His execution. “If God raised that Jesus, the event is not random. God is giving a verdict on the person who was rejected.”"
+    ]
+  },
+  "conversationTips": [
+    "Do not say “the resurrection proves every doctrine at once.” Let the argument move one step at a time.",
+    "Keep the character of God in view. The argument is about the perfectly good Creator vindicating Jesus, not an unknown supernatural force performing a strange event.",
+    "When someone challenges whether Jesus taught a particular thing, return to the historical question first. Then come back to what His vindication means for that teaching."
+  ]
+},
+  {
+  "id": 17,
+  "cat": "christianity",
+  "tag": "Scripture",
+  "title": "How did Jesus treat the Old Testament?",
+  "teaser": "If Jesus is God’s vindicated authority, His view of Scripture matters. The historical question is whether Jesus really treated Israel’s Scriptures as God’s authoritative Word.",
+  "lesson": {
+    "heading": "What did the historical Jesus believe about Scripture?",
+    "body": "We have reached a different kind of question. We are no longer asking whether the Bible should be trusted because it calls itself the Bible. We have argued to the authority of Jesus first. Now we can ask what this vindicated Jesus believed about the Scriptures He received.\n\nOnce again, we should not make everything depend on one isolated saying. The broad pattern matters. Across the Gospel traditions, Jesus appeals to Israel’s Scriptures in argument, treats what is written as binding, corrects people for misunderstanding it, and explains His own mission through it. That is exactly the kind of pattern we would expect from a first-century Jewish teacher who regarded these writings as God’s authoritative revelation.\n\nMatthew 4 repeatedly has Jesus answer temptation with “It is written.” In Mark 7, Jesus can contrast human tradition with the “word of God.” In Matthew 19, He quotes Genesis and speaks of the words in the text as what the Creator said. John 10 records Jesus saying that Scripture cannot be broken. Luke 24 presents Him reading His own mission through the Law, the Prophets, and the Psalms.\n\nIndividual passages can still be discussed historically, but the conclusion does not hang on any one of them. Jesus’ high view of Israel’s Scriptures appears broadly enough that it is difficult to explain His basic posture as a late Christian invention. It also fits naturally within the Jewish world in which He lived.\n\nThat gives the resurrection real importance for Scripture. If God vindicated Jesus, and we have good historical reason to think Jesus received Israel’s Scriptures as God’s Word, then His view of those Scriptures becomes a reason for us to receive them as well.\n\nWhich books are we talking about? Jesus did not carry a modern English Bible with thirty-nine Old Testament books arranged in our order. Jewish Scripture was commonly organized as the Law, the Prophets, and the Writings and counted fewer books because books we divide—such as Samuel, Kings, Chronicles, and the twelve Minor Prophets—were grouped together. The Protestant Old Testament contains the same Hebrew books, divided and arranged differently.\n\nThe exact history of the Old Testament canon deserves more study than one lesson can give it, especially because Christian traditions disagree over the Deuterocanonical or Apocryphal books. For this course, the important historical point is that Jesus receives the recognized Hebrew Scriptures of Israel as God’s authoritative Word, and the Protestant Old Testament corresponds in content to that Hebrew collection.\n\nSo the argument has now reached the Old Testament without assuming its inspiration at the beginning: the God who raised Jesus vindicated Him, and the historically grounded teaching of Jesus receives Israel’s Scriptures as God’s Word.",
+    "facts": [
+      "Jesus’ view of Scripture is supported by a broad pattern across the Gospel traditions rather than one proof text.",
+      "He appeals to what is written as decisive, treats Scripture as God’s speech, and reads His mission through Israel’s Scriptures.",
+      "This posture fits Jesus’ first-century Jewish setting and is historically more secure than any one disputed saying by itself.",
+      "The Jewish Scriptures were commonly organized as Law, Prophets, and Writings and counted differently from the Protestant thirty-nine-book arrangement.",
+      "The Protestant Old Testament contains the same Hebrew books, though divided and ordered differently.",
+      "The authority of the Old Testament is reached here through the authority of the vindicated Jesus rather than assumed at the start."
+    ],
+    "further": [
       [
-        "Ligonier | Authority and Canon",
-        "https://learn.ligonier.org/devotionals/authority-and-canon"
+        "Biola | Revisiting Jesus’ Attitude toward the Old Testament",
+        "https://www.biola.edu/blogs/good-book-blog/2019/revisiting-jesus-attitude-toward-the-old-testament"
+      ],
+      [
+        "Ligonier | The Scriptures",
+        "https://learn.ligonier.org/guides/the-scriptures"
       ],
       [
         "The Gospel Coalition | The Biblical Canon",
         "https://www.thegospelcoalition.org/essay/the-biblical-canon/"
-      ]
-    ],
-    "evidence": {
-      "claim": "These resources support the same basic case made in the lesson: Christ authorized the apostles, apostolic writings were received early, and the church recognized rather than created the canon.",
-      "establishes": "Ligonier and Kruger explain Christ’s delegated authority to the apostles and the recognition-not-creation distinction. 1 Clement, Justin Martyr, and Irenaeus provide early historical examples of Pauline letters, apostolic memoirs, and the four Gospels already functioning in the life and argument of the church well before fourth-century councils.",
-      "caution": "The recognition process was real and some books were discussed longer than others. The stronger apologetic does not hide that history; it explains why careful recognition is different from creating authority.",
-      "resources": [
-        {
-          "type": "Primary source",
-          "title": "1 Clement 47",
-          "why": "Near the end of the first century, the Roman church tells the Corinthians to take up Paul’s earlier letter to them, showing that his correspondence was still known and appealed to across churches.",
-          "url": "https://en.wikisource.org/wiki/1_Clement_(Hoole_translation)#CHAPTER_47"
-        },
-        {
-          "type": "Primary source",
-          "title": "Justin Martyr | First Apology 67",
-          "why": "Justin describes second-century Christian worship in which the memoirs of the apostles or writings of the prophets were read publicly.",
-          "url": "https://ccel.org/ccel/justin_martyr/first_apology/anf01.viii.ii.lxvii.html"
-        },
-        {
-          "type": "Primary source",
-          "title": "Irenaeus | Against Heresies 3.11",
-          "why": "Irenaeus argues from Matthew, Mark, Luke, and John as the church’s fourfold Gospel in the second century.",
-          "url": "https://ccel.org/ccel/irenaeus/against_heresies_iii/anf01.ix.iv.xii.html"
-        },
-        {
-          "type": "Teaching",
-          "title": "Ligonier | The Authority of the Apostles",
-          "why": "Explains that the apostles speak with authority delegated by Christ.",
-          "url": "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-authority-of-the-apostles"
-        },
-        {
-          "type": "Teaching",
-          "title": "Ligonier | Authority and Canon",
-          "why": "Explains the recognition-not-creation distinction and uses 2 Peter 3:15–16 as evidence that Paul’s letters were already being treated as Scripture.",
-          "url": "https://learn.ligonier.org/devotionals/authority-and-canon"
-        },
-        {
-          "type": "Teaching",
-          "title": "Ligonier | What Is the Canon of Scripture?",
-          "why": "Walks through apostolic origin, early reception, doctrinal consistency, and the historical process of canon recognition.",
-          "url": "https://learn.ligonier.org/articles/what-is-the-canon-of-scripture"
-        },
-        {
-          "type": "Apologetics",
-          "title": "The Gospel Coalition | The Biblical Canon",
-          "why": "Michael Kruger summarizes the case for divine qualities, apostolic connection, early reception, and confidence in the canon.",
-          "url": "https://www.thegospelcoalition.org/essay/the-biblical-canon/"
-        },
-        {
-          "type": "Apologetics",
-          "title": "Michael J. Kruger | Ten Basic Facts about the New Testament Canon",
-          "why": "Addresses common myths about late canon creation and explains why early disagreement over a few books does not make the canon arbitrary.",
-          "url": "https://michaeljkruger.com/the-complete-series-ten-basic-facts-about-the-nt-canon-that-every-christian-should-memorize/"
-        }
-      ]
-    },
-    "terms": [
-      [
-        "Apostle",
-        "An authorized messenger of Christ, especially the foundational witnesses commissioned by the risen Jesus."
       ],
       [
-        "Apostolicity",
-        "A book’s connection to the apostles and the authoritative teaching Christ entrusted to them."
-      ],
-      [
-        "Canon recognition",
-        "The church’s historical recognition of the writings it received as God-given Scripture, rather than the church creating their authority."
+        "Bible reference | Matthew 4:1–11; Mark 7:6–13; Matthew 19:3–6; John 10:34–36; Luke 24:44–47",
+        "https://www.biblegateway.com/passage/?search=Matthew%204%3A1-11%3B%20Mark%207%3A6-13%3B%20Matthew%2019%3A3-6%3B%20John%2010%3A34-36%3B%20Luke%2024%3A44-47&version=ESV"
       ]
-    ],
-    "conclusion": "Christ authorized the apostles, their teaching became written Scripture, and the church recognized the New Testament rather than creating its authority.",
-    "thread": "Jesus receives the Old Testament as God’s Word and then authorizes apostles to speak in His name. That is the bridge to the New Testament.",
-    "bigIdea": "The New Testament’s authority comes from Christ through His apostles. The church’s job was to recognize the writings that carried that apostolic authority, not to create their authority later.",
-    "checkpoints": [
-      {
-        "after": "core",
-        "question": "Where does New Testament authority begin in this argument?",
-        "answer": "With Christ. Jesus authorizes the apostles, and their authority is delegated from Him."
-      },
-      {
-        "after": "body",
-        "question": "What is the difference between recognizing the canon and creating it?",
-        "answer": "Recognition identifies writings that already carry apostolic and divine authority; creation would mean the church itself made them authoritative."
-      },
-      {
-        "after": "facts",
-        "question": "What is wrong with saying “Nicaea chose the Bible”?",
-        "answer": "Nicaea did not decide the New Testament canon, and a large core of apostolic writings was already being received as Scripture long before it."
-      }
-    ],
-    "story": {
-      "title": "But Jesus never handed us twenty-seven books",
-      "lines": [
-        "Jordan sees the next problem. “Okay, say Jesus treated the Old Testament as God’s Word. That still does not give you the New Testament.”",
-        "You tell him that is where the apostles matter.",
-        "He nods. “But the church still had to decide which writings counted, right? And some books were discussed longer than others.”",
-        "Then he asks, “How do you get from Jesus to twenty-seven New Testament books without just saying the church made the decision for everybody later?”"
-      ]
-    },
-    "conversationTips": [
-      "“The church chose the Bible” is too vague to answer well. Find out whether the person means a council created the books’ authority or that the church historically recognized the collection.",
-      "Recognition and creation are not the same thing. The apologetic claim is that apostolic writings carried authority before later councils formally listed the canon.",
-      "The longer discussion around a smaller number of books can be admitted openly. Careful disagreement over the boundaries is not the same thing as a late, arbitrary invention."
     ]
   },
-  {
-    "id": 20,
-    "cat": "christianity",
-    "tag": "Conclusion",
-    "title": "So, has God spoken?",
-    "teaser": "Put the whole second step together: the God argued for in Part 1 acts in history, vindicates Jesus, and gives us reason to receive Scripture as his Word.",
-    "lesson": {
-      "heading": "The whole argument in one chain",
-      "body": "The entire classical apologetics case can now be put together in one chain.\n\nWe started with reality itself. Contingency, the beginning of the universe, design, fine-tuning, biological information, morality, and reason gave us a cumulative case for a rational, personal Creator. A cumulative argument simply means that several lines of evidence work together rather than one argument having to prove everything by itself.\n\nOnce we had reason to believe God exists, we could no longer rule miracles out simply because they are not natural events. That allowed us to investigate Jesus historically and ask whether the resurrection actually happened.\n\nWe then used the New Testament as historical evidence before assuming divine inspiration. We looked at Jesus’ claims, His death, the tomb, the appearance traditions, the earliest resurrection proclamation, and the competing explanations. Given that evidence, we argued that the resurrection is the best explanation.\n\nIf God raised Jesus, then Jesus has been vindicated by God. His teaching therefore carries divine authority. Jesus receives the Old Testament as God’s authoritative revelation and authorizes apostles whose witness stands behind the New Testament.\n\nThe apostles also describe the revelation they received in explicitly divine terms. Paul tells the Thessalonians that they received the apostolic message not merely as human speech but as the word of God. Second Timothy describes Scripture as breathed out by God, and 2 Peter describes biblical prophecy as coming from men who spoke from God as they were carried along by the Holy Spirit. Paul can also describe his own apostolic instruction as a command of the Lord. Once we have reached the authority of Christ and the apostles through the earlier historical case, these claims about revelation are evidence to consider rather than assumptions we had to make at the beginning.\n\nThis is how the argument reaches divine inspiration rather than assuming it at the beginning. Revelation is God making truth known, and inspiration is God’s work in giving Scripture through human authors as His authoritative Word.\n\nOne more distinction matters: an authoritative Bible does not make every human interpretation infallible. We can misunderstand Scripture. The fact that a reader can misunderstand a message does not mean the message itself cannot be true.\n\nThe destination of the argument is not merely that some kind of God exists. It is that the Creator has acted in Jesus Christ and has spoken through the Scriptures.",
-      "facts": [
-        "The course deliberately avoids assuming inspiration during the earlier historical argument.",
-        "Each step contributes something distinct; no single argument is expected to prove the whole Christian worldview.",
-        "The resurrection is the hinge from historical investigation to Christ’s divine authority.",
-        "The apostles describe their message and Scripture in explicitly divine terms, including 1 Thessalonians 2:13, 2 Timothy 3:16, 2 Peter 1:20–21, and 1 Corinthians 14:37.",
-        "Scriptural authority and the infallibility of an individual interpretation are different claims."
-      ],
-      "further": [
-        [
-          "Bible reference | 1 Thessalonians 2:13; 2 Timothy 3:16–17; 2 Peter 1:20–21; 1 Corinthians 14:37",
-          "https://www.biblegateway.com/passage/?search=1%20Thessalonians%202%3A13%3B%202%20Timothy%203%3A16-17%3B%202%20Peter%201%3A20-21%3B%201%20Corinthians%2014%3A37&version=ESV"
-        ],
-        [
-          "Ligonier | The Authority and Inspiration of the Scriptures",
-          "https://learn.ligonier.org/articles/the-authority-and-inspiration-of-the-scriptures"
-        ],
-        [
-          "Ligonier | The Purpose of Miracles",
-          "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-purpose-of-miracles"
-        ],
-        [
-          "The Gospel Coalition | Jesus’s View of the Old Testament",
-          "https://www.thegospelcoalition.org/essay/jesuss-view-old-testament/"
-        ],
-        [
-          "Ligonier | The Authority of the Apostles",
-          "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-authority-of-the-apostles"
-        ],
-        [
-          "Ligonier | The New Testament Canon",
-          "https://learn.ligonier.org/devotionals/new-testament-canon"
-        ]
-      ]
+  "why": "If Jesus has been vindicated by God, His settled view of revelation matters. But because we did not assume Gospel inspiration at the beginning, we still need historical reason to think this really was Jesus’ view of Scripture.",
+  "core": [
+    "Jesus’ high view of Israel’s Scriptures is a repeated pattern rather than a conclusion resting on one isolated verse.",
+    "He treats what is written as authoritative in teaching, temptation, and dispute.",
+    "He can speak of the written text as God’s speech and describe Scripture as something that cannot simply be set aside.",
+    "He understands His own mission through the Law, Prophets, and Writings.",
+    "The Hebrew Bible underlying the Protestant Old Testament contains the same books, though they are counted and arranged differently.",
+    "Because Jesus is God’s vindicated authority, His historically grounded view of Scripture gives us reason to receive the Old Testament as God’s Word."
+  ],
+  "pressure": [
+    [
+      "“You are using the Gospels to prove the Bible again.”",
+      "We are using the Gospel documents historically, not assuming their inspiration. The question is whether the broad pattern of Jesus’ treatment of Scripture is historically well supported. If it is, then the authority comes from the Jesus whom the resurrection has already vindicated."
+    ],
+    [
+      "“Maybe Jesus was just a man of His time who shared His culture’s mistaken view of Scripture.”",
+      "That response is possible only by limiting Jesus’ authority. But the argument has already given independent reason to see Him as God’s vindicated authority. If that earlier case succeeds, His settled view of Scripture cannot simply be dismissed as a cultural mistake."
+    ],
+    [
+      "“Does Jesus prove the exact Protestant Old Testament?”",
+      "Jesus receives the Jewish Scriptures as God’s authoritative Word. The Protestant Old Testament corresponds in content to the Hebrew collection, though the books are divided and arranged differently. The history of the canon and the status of additional books should still be examined rather than hidden."
+    ]
+  ],
+  "limits": "This lesson establishes Jesus’ broad historical posture toward Israel’s Scriptures and explains the Protestant identification of those Hebrew books with the Old Testament. It does not pretend that every later canon dispute can be settled by one saying of Jesus.",
+  "practice": "A friend says, “I can follow Jesus and still treat the Old Testament as nothing more than ancient Jewish religious literature.” How would you answer without assuming the Old Testament’s inspiration first?",
+  "model": "I would start with Jesus rather than with an assertion about the Bible. Across the Gospel traditions, Jesus treats Israel’s Scriptures as authoritative, appeals to them as God’s Word, and understands His own mission through them. If there is good historical reason that this really was Jesus’ view, and God vindicated Jesus through the resurrection, then His view of Scripture has to matter to me.",
+  "sources": [
+    [
+      "Biola | Revisiting Jesus’ Attitude toward the Old Testament",
+      "https://www.biola.edu/blogs/good-book-blog/2019/revisiting-jesus-attitude-toward-the-old-testament"
+    ],
+    [
+      "The Gospel Coalition | The Biblical Canon",
+      "https://www.thegospelcoalition.org/essay/the-biblical-canon/"
+    ]
+  ],
+  "evidence": {
+    "claim": "These sources support both the historical case for Jesus’ high view of Scripture and the identification of the Hebrew scriptural collection with the books of the Protestant Old Testament.",
+    "establishes": "The case rests on a broad pattern in Jesus’ teaching and first-century Jewish evidence for a recognized Law-Prophets-Writings corpus rather than on one proof text.",
+    "caution": "The exact history of canon boundaries is a separate historical question and should not be reduced to a slogan. Other Christian traditions reach different conclusions about additional books.",
+    "resources": [
+      {
+        "type": "Historical apologetics",
+        "title": "Biola | Revisiting Jesus’ Attitude toward the Old Testament",
+        "why": "Directly addresses whether Jesus’ view of Scripture can be established historically without first assuming Gospel inspiration.",
+        "url": "https://www.biola.edu/blogs/good-book-blog/2019/revisiting-jesus-attitude-toward-the-old-testament"
+      },
+      {
+        "type": "Canon overview",
+        "title": "The Gospel Coalition | The Biblical Canon",
+        "why": "Surveys first-century evidence from Jesus, Josephus, and Philo for an established Jewish scriptural corpus.",
+        "url": "https://www.thegospelcoalition.org/essay/the-biblical-canon/"
+      },
+      {
+        "type": "Teaching",
+        "title": "Ligonier | The Scriptures",
+        "why": "Explains the Law-Prophets-Writings structure and the relationship between the Hebrew Bible’s twenty-four-book count and the Protestant thirty-nine-book Old Testament.",
+        "url": "https://learn.ligonier.org/guides/the-scriptures"
+      }
+    ]
+  },
+  "terms": [
+    [
+      "Hebrew Bible",
+      "The Jewish scriptural collection commonly arranged as the Law, Prophets, and Writings."
+    ],
+    [
+      "Canon",
+      "The recognized collection of writings received as Scripture."
+    ],
+    [
+      "Deuterocanonical books",
+      "Books included in the Old Testament canon of Roman Catholic and some Orthodox traditions but not in the Protestant Hebrew-based canon."
+    ]
+  ],
+  "conclusion": "The historically grounded Jesus consistently receives Israel’s Scriptures as God’s authoritative Word. If God vindicated Jesus, His view gives us good reason to receive the Old Testament He received.",
+  "thread": "The resurrection gives Jesus’ historically established teaching unique authority. The first revelation question is therefore straightforward: how did Jesus Himself treat the Scriptures already received by Israel?",
+  "bigIdea": "We reach the Old Testament through Jesus: historically, He receives Israel’s Scriptures as God’s authoritative Word, and His resurrection gives His view decisive weight.",
+  "checkpoints": [
+    {
+      "after": "core",
+      "question": "Why does the lesson use a broad pattern instead of resting everything on “Scripture cannot be broken” in John 10?",
+      "answer": "Because the historical conclusion is stronger when the same posture appears in many sayings, actions, and Gospel traditions rather than depending on one verse."
     },
-    "why": "This final core lesson is really a summary of the case we have built. The goal is to show how the pieces connect so that the conclusion is not simply “God exists,” but that the God who exists has acted in history and spoken.",
-    "core": [
-      "The classical-apologetics case is cumulative: reason and evidence lead from theism to Christian revelation rather than assuming the conclusion at the start.",
-      "Natural theology gives reasons for a Creator; the miracle bridge removes an a priori ban on divine action.",
-      "Historical evidence gives reasons for Jesus’ claims, death, and resurrection; resurrection vindicates Jesus’ authority.",
-      "Jesus receives the Old Testament as God’s authoritative Word and authorizes apostles whose witness stands behind the New Testament.",
-      "The resulting conclusion is that the God who exists has spoken in Christ and Scripture.",
-      "God’s truthfulness grounds confidence in revelation, while human interpreters remain fallible and must read carefully."
+    {
+      "after": "body",
+      "question": "Why can the Protestant Old Testament have thirty-nine books if the Hebrew Bible is often counted as twenty-four?",
+      "answer": "The content is the same, but several books are combined in the Jewish counting and the order is different."
+    }
+  ],
+  "story": {
+    "title": "What did Jesus think about the Bible?",
+    "lines": [
+      "Jordan sees the next move. “If God really vindicated Jesus, then I understand why what Jesus teaches matters.”",
+      "He points to a Bible on the table. “But you still have to get from Jesus to this.”",
+      "You agree. “Then we should start with the Scriptures Jesus already had.”",
+      "Jordan asks, “And how do you know Jesus really thought those writings were God’s Word instead of people later putting that view on Him?”"
+    ]
+  },
+  "conversationTips": [
+    "Start with the pattern of Jesus’ use of Scripture rather than immediately arguing about one favorite proof text.",
+    "Keep two questions separate: what Jesus believed about Scripture, and which books belong to the Old Testament canon.",
+    "Do not pretend the Protestant-Catholic canon question is imaginary. Explain why the course follows the Hebrew collection and give the learner sources for deeper study."
+  ]
+},
+  {
+  "id": 18,
+  "cat": "christianity",
+  "tag": "Authority",
+  "title": "Did Jesus authorize apostles to speak for Him?",
+  "teaser": "The New Testament cannot be reached simply by saying Jesus was authoritative. We need historical reason to think He appointed witnesses to carry His teaching after Him.",
+  "lesson": {
+    "heading": "From Jesus’ authority to authorized witnesses",
+    "body": "Accepting Jesus’ view of the Old Testament still does not give us the New Testament. Jesus did not hand His followers a bound collection of twenty-seven books. The next link is the apostles.\n\nThe existence of the Twelve is not a late idea that appears only after Christianity had developed. The Synoptic Gospels repeatedly describe Jesus choosing a distinct group of twelve, sending them out, and giving them a representative role. Paul, writing earlier than the Gospels, can refer to “the Twelve” in the resurrection tradition he received. That gives us an early line of evidence that this group belonged to the movement from the beginning.\n\nThe number twelve matters as well. In a Jewish setting it naturally points to the twelve tribes of Israel and fits Jesus’ announcement of God’s kingdom and the restoration of God’s people. It is not a random administrative detail.\n\nThe traditions also present these men as more than ordinary students. Jesus sends them to preach His message and act in His name. Matthew and Luke preserve sayings in which receiving Jesus’ messengers is connected with receiving Jesus Himself. The exact wording of individual commission sayings can be discussed, but the broader pattern is early and widespread: Jesus selected representatives to continue His witness.\n\nThe earliest Christian evidence after Jesus fits the same picture. Paul distinguishes earlier apostles from himself, visits Peter and James, refers to James, Cephas, and John as recognized leaders, and defends his own apostleship as a commission from the risen Christ. That makes little sense if apostolic authority was simply invented much later by the church.\n\nThis authority is delegated, not independent. The apostles matter because of the One who sent them. They do not replace Jesus. They bear witness to Him and teach in His name.\n\nThat still leaves another question. An authorized apostle speaking and teaching is not yet the same thing as a twenty-seven-book New Testament. We now have to ask how apostolic teaching came to be written, circulated, received as Scripture, and preserved—and why these books, rather than every early Christian writing, belong to that collection.",
+    "facts": [
+      "Paul’s early resurrection tradition already refers to “the Twelve,” showing that the group was not a late Gospel invention.",
+      "The Synoptic traditions consistently present Jesus selecting and sending a distinct group of twelve.",
+      "The number twelve fits Jesus’ Jewish setting and His kingdom message by echoing the twelve tribes of Israel.",
+      "Jesus’ messengers are presented as representatives who preach His message and act in His name.",
+      "Paul’s undisputed letters show an early structure of recognized apostles and his own need to defend a commission from the risen Jesus.",
+      "Apostolic authority is delegated from Christ; it does not arise from a later church vote.",
+      "Establishing apostolic authority still does not by itself identify the full New Testament canon."
     ],
-    "pressure": [
+    "further": [
       [
-        "“This still depends on documents from the Bible.”",
-        "The argument does use documents that are now part of the Bible. The important distinction is that using a document as historical evidence is not the same as assuming it has divine authority. We only reach the authority question after the historical argument leads us to the risen Jesus."
-      ],
-      [
-        "“If interpretation can be wrong, what good is an infallible Bible?”",
-        "Human interpretation can be wrong, but that does not make an infallible message useless. You can misunderstand something another person says without proving that the person failed to communicate truth. The answer is careful reading, context, comparison, and correction, not giving up on the possibility of revelation."
-      ]
-    ],
-    "limits": "The conclusion follows the whole argument: reasons for a Creator, the historical case for the risen Jesus, His authority, and His teaching about Scripture.",
-    "practice": "A small-group member asks you to explain to a skeptic, in about a minute, how classical apologetics moves from common ground to Scripture without assuming the Bible is inspired at the start. What would you say?",
-    "model": "I'd trace the argument from the beginning. We have reasons to believe in a Creator from the world and reason itself. If God exists, miracles are possible. Then I can investigate Jesus historically without assuming the Bible is inspired. If God raised Jesus, Jesus is vindicated. Jesus receives the Old Testament as God’s Word and authorizes apostles whose witness stands behind the New Testament. That is how the argument reaches Scripture rather than assuming it at the beginning.",
-    "sources": [
-      [
-        "Ligonier | The Purpose of Miracles",
-        "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-purpose-of-miracles"
-      ],
-      [
-        "The Gospel Coalition | Jesus’s View of the Old Testament",
-        "https://www.thegospelcoalition.org/essay/jesuss-view-old-testament/"
+        "Ligonier | What Is an Apostle?",
+        "https://learn.ligonier.org/articles/what-is-an-apostle"
       ],
       [
         "Ligonier | The Authority of the Apostles",
         "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-authority-of-the-apostles"
-      ]
-    ],
-    "evidence": {
-      "claim": "These sources show how the arguments for God, the historical case for Jesus, and the authority of Scripture connect.",
-      "establishes": "Biola, Reasonable Faith, and Impact Apologetics show the larger classical sequence, while the apostolic texts themselves describe Scripture and apostolic teaching as coming with divine authority. Ligonier’s treatment of inspiration explains how Christ’s authority, apostolic authority, and Scripture fit together.",
-      "caution": "A full doctrine of inspiration requires more biblical and theological work than one introductory apologetics lesson can provide.",
-      "resources": [
-        {
-          "type": "Bible reference",
-          "title": "1 Thessalonians 2:13; 2 Timothy 3:16–17; 2 Peter 1:20–21; 1 Corinthians 14:37",
-          "why": "These passages describe the apostolic message as God’s word, Scripture as God-breathed, biblical prophecy as coming from God through human authors, and apostolic instruction as carrying the Lord’s authority.",
-          "url": "https://www.biblegateway.com/passage/?search=1%20Thessalonians%202%3A13%3B%202%20Timothy%203%3A16-17%3B%202%20Peter%201%3A20-21%3B%201%20Corinthians%2014%3A37&version=ESV"
-        },
-        {
-          "type": "Teaching",
-          "title": "Ligonier | The Authority and Inspiration of the Scriptures",
-          "why": "B.B. Warfield traces Scripture’s authority through Christ’s authorization of the apostles and explains the apostolic claims about inspiration.",
-          "url": "https://learn.ligonier.org/articles/the-authority-and-inspiration-of-the-scriptures"
-        },
-        {
-          "type": "Curriculum",
-          "title": "Biola | Introduction to Christian Apologetics",
-          "why": "Connects the arguments for God's existence with the historical evidence for Christianity and Scripture.",
-          "url": "https://learn.biola.edu/courses/introduction-to-christian-apologetics"
-        },
-        {
-          "type": "Curriculum",
-          "title": "Impact Apologetics | Why I Still Don’t Have Enough Faith to Be an Atheist",
-          "why": "Follows truth, cosmological/design/moral arguments, miracles, New Testament reliability, Jesus, and a conclusion.",
-          "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
-        },
-        {
-          "type": "Method",
-          "title": "Reasonable Faith | Apologetics Seminar",
-          "why": "Describes positive apologetics as natural theology followed by Christian evidences.",
-          "url": "https://www.reasonablefaith.org/videos/video-lectures/apologetics-seminar/"
-        },
-        {
-          "type": "Biola",
-          "title": "Biola | From Belief in Jesus to Belief in the New Testament",
-          "why": "Shows the final bridge from resurrection and Jesus’ authority to Scripture.",
-          "url": "https://www.biola.edu/blogs/good-book-blog/2021/from-belief-in-jesus-to-belief-in-the-new-testament"
-        }
-      ]
-    },
-    "terms": [
-      [
-        "Revelation",
-        "God making truth known that people could not simply invent for themselves."
       ],
       [
-        "Divine inspiration",
-        "God’s work by which Scripture is given as his authoritative Word through human authors."
-      ],
-      [
-        "Cumulative argument",
-        "A connected case whose strength comes from several supported steps working together."
+        "Bible reference | Mark 3:13–19; Matthew 10:1–15, 40; Luke 10:16; 1 Corinthians 15:3–8; Galatians 1–2",
+        "https://www.biblegateway.com/passage/?search=Mark%203%3A13-19%3B%20Matthew%2010%3A1-15%2C40%3B%20Luke%2010%3A16%3B%201%20Corinthians%2015%3A3-8%3B%20Galatians%201-2&version=ESV"
       ]
-    ],
-    "conclusion": "The classical case moves from a Creator to the risen Christ and finally to God’s authoritative revelation in Scripture.",
-    "thread": "We have followed the argument from a Creator to Jesus' resurrection and His view of Scripture. Now put the pieces together: do they give us good reason to believe God has spoken?",
-    "bigIdea": "The cumulative classical-apologetic path reaches a Christian conclusion: the Creator has acted in Jesus, vindicated him by resurrection, and given authoritative revelation through the Scriptures Jesus received and the apostles he authorized.",
-    "checkpoints": [
-      {
-        "after": "core",
-        "question": "Holding the Bible, Jordan asks what prevents the whole argument from being circular. What is the key answer?",
-        "answer": "The New Testament is first examined as historical evidence without assuming inspiration. The conclusion about Scripture comes later through the authority of the risen Jesus."
-      },
-      {
-        "after": "body",
-        "question": "What is the hinge between historical evidence and Scripture’s authority?",
-        "answer": "The resurrection as God’s vindication of Jesus, which establishes Jesus as a trustworthy divine authority."
-      }
-    ],
-    "story": {
-      "title": "The Bible on the shelf",
-      "lines": [
-        "The walk ends at Jordan’s house. As the two of you step inside, a Bible is sitting on a shelf near the door. Jordan takes it down and turns it over in his hands.",
-        "He laughs a little. “We started with me asking why you believe Christianity, and somehow we ended up here.”",
-        "He thinks through the route out loud, but not very neatly: reasons for God, whether miracles are even possible, Jesus, the resurrection, Jesus’ authority, then Scripture. “I think I see how the pieces are supposed to connect.”",
-        "He looks at the Bible again. “But does that whole chain really get us from ‘there is a Creator’ to ‘God has spoken’?”"
-      ]
-    },
-    "conversationTips": [
-      "If the final conclusion is rejected, find the first link in the chain the person actually disputes. That is usually where the useful conversation begins.",
-      "You usually do not need to restart the whole case. If they grant God but reject miracles, start there; if they grant miracles but reject the resurrection evidence, start there.",
-      "A cumulative case can survive a weak supporting argument. Admit the weakness, adjust the weight, and ask whether the rest of the case still stands."
     ]
   },
+  "why": "The argument from Jesus to the New Testament needs an actual bridge. Historically establishing that Jesus appointed and authorized representatives keeps us from jumping straight from “Jesus is Lord” to “therefore twenty-seven later books are Scripture.”",
+  "core": [
+    "The Twelve appear in early Christian evidence, including Paul, not only in later Gospel narratives.",
+    "Jesus’ selection of twelve makes sense within His Jewish kingdom mission and the symbolism of Israel’s twelve tribes.",
+    "The Gospel traditions consistently present the apostles as people Jesus sent to carry His message.",
+    "The earliest Pauline evidence shows recognized apostles functioning with authority in the first Christian generation.",
+    "Their authority is delegated from Christ: they matter because He commissioned them to bear witness in His name.",
+    "This establishes an authoritative apostolic witness but not yet the exact twenty-seven-book New Testament."
+  ],
+  "pressure": [
+    [
+      "“The church just gave certain leaders authority after Jesus was gone.”",
+      "The evidence for a distinct apostolic group is earlier than a later developed church structure. Paul already knows of the Twelve and recognized apostles, and the Gospel traditions consistently connect their role to Jesus Himself."
+    ],
+    [
+      "“Why should Paul count if he was not one of the original Twelve?”",
+      "Paul does not pretend to be one of the original Twelve. He grounds his apostleship in a later commission from the risen Jesus and interacts with the earlier apostles, who recognized his mission. His case is distinct and should be argued as such."
+    ],
+    [
+      "“Even if Jesus authorized apostles, that does not prove the New Testament.”",
+      "Correct. This lesson is only the bridge to apostolic authority. The next question is which writings genuinely carry that apostolic witness and how the church recognized them."
+    ]
+  ],
+  "limits": "This lesson establishes the historical case for a Christ-authorized apostolic witness. It does not yet establish the complete New Testament canon or claim that every early Christian writer had apostolic authority.",
+  "practice": "Someone says, “Jesus may have been authoritative, but Paul and the other apostles were just later church leaders speaking for themselves.” How would you respond?",
+  "model": "I would ask whether apostolic authority really began later. Paul’s early letters already know a recognized group of apostles, and even the early resurrection tradition refers to the Twelve. The Gospel traditions consistently present Jesus selecting and sending representatives to carry His message. Their authority is not supposed to be independent of Jesus; it comes from the person who commissioned them.",
+  "sources": [
+    [
+      "Ligonier | What Is an Apostle?",
+      "https://learn.ligonier.org/articles/what-is-an-apostle"
+    ],
+    [
+      "Bible reference | 1 Corinthians 15:3–8; Galatians 1–2",
+      "https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A3-8%3B%20Galatians%201-2&version=ESV"
+    ]
+  ],
+  "evidence": {
+    "claim": "The apostolic office is rooted in the earliest Christian evidence and in traditions of Jesus selecting and sending representatives.",
+    "establishes": "Paul’s early letters, the tradition of the Twelve, and the Gospel commissioning material together support a first-generation apostolic witness rather than a much later invention.",
+    "caution": "Historical evidence for apostolic authority does not by itself identify every canonical book. That is the next question.",
+    "resources": [
+      {
+        "type": "Teaching",
+        "title": "Ligonier | What Is an Apostle?",
+        "why": "Explains the distinction between a disciple and a commissioned apostolic representative and the delegated nature of apostolic authority.",
+        "url": "https://learn.ligonier.org/articles/what-is-an-apostle"
+      },
+      {
+        "type": "Teaching",
+        "title": "Ligonier | The Authority of the Apostles",
+        "why": "Traces the argument from Jesus’ authority to those He commissioned to speak in His name.",
+        "url": "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-authority-of-the-apostles"
+      },
+      {
+        "type": "Bible reference",
+        "title": "Mark 3:13–19; 1 Corinthians 15:3–8; Galatians 1–2",
+        "why": "Provides early and varied evidence for the Twelve, recognized apostles, and Paul’s relationship to the earlier apostolic witnesses.",
+        "url": "https://www.biblegateway.com/passage/?search=Mark%203%3A13-19%3B%201%20Corinthians%2015%3A3-8%3B%20Galatians%201-2&version=ESV"
+      }
+    ]
+  },
+  "terms": [
+    [
+      "Apostle",
+      "An authorized messenger or representative sent to bear witness and speak in the name of the one who sent him."
+    ],
+    [
+      "The Twelve",
+      "The distinct group of twelve disciples Jesus selected, symbolically connected with Israel and prominent in the earliest Christian tradition."
+    ],
+    [
+      "Delegated authority",
+      "Authority received from another rather than possessed independently."
+    ]
+  ],
+  "conclusion": "There is good historical reason to think Jesus established an authorized apostolic witness to carry His teaching. The next question is how that witness reaches the writings of the New Testament.",
+  "thread": "Jesus receives Israel’s Scriptures as God’s Word. But the New Testament did not yet exist during most of His earthly ministry. How do we get from the authority of Jesus to authoritative writings after Him?",
+  "bigIdea": "Jesus did not leave Christianity without authorized witnesses. The apostles stand between the authority of the risen Christ and the New Testament writings that preserve the apostolic witness.",
+  "checkpoints": [
+    {
+      "after": "core",
+      "question": "Why does Paul’s reference to “the Twelve” matter?",
+      "answer": "Paul’s letter is early, and the phrase shows that a distinct group of twelve was already part of the resurrection tradition rather than being invented much later by the Gospel writers."
+    },
+    {
+      "after": "body",
+      "question": "What has this lesson established—and what has it not established yet?",
+      "answer": "It establishes an early, Christ-authorized apostolic witness. It has not yet shown which writings belong to the New Testament canon."
+    }
+  ],
+  "story": {
+    "title": "Jesus did not hand them twenty-seven books",
+    "lines": [
+      "Jordan sees the problem immediately. “Okay. Jesus had the Old Testament. But He never handed the disciples a New Testament.”",
+      "You agree. “Right. So we should not jump there.”",
+      "“Then what comes next?”",
+      "You tell him that Jesus did leave something before there was a New Testament collection: authorized witnesses.",
+      "Jordan says, “Then show me that the apostles really came from Jesus and were not just later church leaders claiming authority for themselves.”"
+    ]
+  },
+  "conversationTips": [
+    "Do not jump from Jesus’ authority straight to a twenty-seven-book canon. Establish the apostolic bridge first.",
+    "Use Paul carefully: he is not one of the Twelve, but his early letters are valuable evidence that recognized apostolic authority already existed.",
+    "Keep delegated authority clear. The apostles are authoritative because of Christ, not because the church later promoted them."
+  ]
+},
+  {
+  "id": 19,
+  "cat": "christianity",
+  "tag": "Scripture",
+  "title": "What about the New Testament?",
+  "teaser": "If Christ authorized apostles, the final historical question is how their witness became written Scripture, why these twenty-seven books were received, and whether their text has been preserved.",
+  "lesson": {
+    "heading": "From apostolic witness to the New Testament we have",
+    "body": "The last lesson established the bridge we needed: Jesus authorized an apostolic witness. But an authorized witness is still not the same thing as a twenty-seven-book New Testament. We now have to follow the evidence one more step.\n\nApostolic teaching began to circulate in writing during the first Christian generation. Paul’s letters are the clearest early example. He expects his letters to be read publicly in the churches and can describe his written instruction as carrying the Lord’s authority. Near the end of the first century, 1 Clement points the Corinthian church back to Paul’s earlier letter to them. That shows apostolic writings being preserved and appealed to across churches very early.\n\nThe same pattern broadens in the second century. Justin Martyr describes Christians gathering on Sunday and reading the “memoirs of the apostles” alongside the prophets. Irenaeus argues from Matthew, Mark, Luke, and John as the church’s four Gospels. This does not mean a complete twenty-seven-book list appeared immediately, but it does mean the central books were functioning authoritatively long before fourth-century councils.\n\nThat distinction matters. There was a large early core—especially the four Gospels and Paul’s letters—while a smaller group of books took longer to receive universal agreement. Christians discussed books such as James, Jude, 2 Peter, 2–3 John, and Revelation in some regions. The disagreement should not be hidden. It shows that the church was asking whether a writing genuinely belonged to the apostolic witness rather than accepting every Christian book that circulated.\n\nThe church’s role was therefore recognition, not creation. Christians looked at apostolic origin or close apostolic connection, consistency with the apostolic faith already received, and widespread use among the churches. Those questions were not a magic formula, but they help explain why some books were received broadly while other useful or popular Christian writings were not received as Scripture.\n\nThe Council of Nicaea did not choose the New Testament canon. The complete twenty-seven-book list appears clearly in the fourth century, but most of those books had already functioned as Scripture for generations. The later agreement settled the boundaries of a collection whose core was much older.\n\nOne final question remains: even if these are the right writings, do we still have what their authors wrote? This is where textual criticism belongs. The surviving manuscripts contain real variants because they were copied by hand. But having many manuscript witnesses gives scholars material to compare rather than leaving us with one late copy and no way to check it. Textual criticism works through those differences to recover the earliest attainable wording of the text. Some readings remain disputed, but the existence of variants does not mean the New Testament text has been lost.\n\nSo the argument does not depend on pretending that the canon dropped from heaven as a finished table of contents or that every manuscript copy is identical. The historical picture is stronger than that: Christ authorized apostles; apostolic teaching was written and circulated early; a large core was received very early; disputed books were examined over time; and the text has been preserved through a manuscript tradition that can be critically compared.",
+    "facts": [
+      "Paul’s letters were written, circulated, and read publicly within the first Christian generation.",
+      "1 Clement, Justin Martyr, and Irenaeus show apostolic writings functioning authoritatively well before fourth-century councils.",
+      "A large core of the New Testament was recognized early, while a smaller group of books was disputed longer in some regions.",
+      "The church’s historical role is best described as recognizing writings tied to the apostolic witness rather than creating their authority by vote.",
+      "The Council of Nicaea did not choose the New Testament canon.",
+      "The first surviving clear list of all twenty-seven books is later than the early core, which is why a complete list should not be confused with the beginning of the canon.",
+      "Textual variants are real, but the manuscript tradition gives scholars evidence to compare in recovering the earliest attainable text."
+    ],
+    "further": [
+      [
+        "Michael J. Kruger | An Essential Key to Understanding the Development of the NT Canon",
+        "https://michaeljkruger.com/an-essential-key-to-understanding-the-development-of-the-nt-canon/"
+      ],
+      [
+        "Michael J. Kruger | Early Christians and the Core NT Canon",
+        "https://michaeljkruger.com/10-misconceptions-about-the-nt-canon-5-early-christians-disagreed-widely-over-the-books-which-made-it-into-the-canon/"
+      ],
+      [
+        "CSNTM | What Is a Textual Variant?",
+        "https://new.csntm.org/2023/03/29/ask-the-prof-what-is-a-textual-variant/"
+      ],
+      [
+        "Primary source | 1 Clement 47",
+        "https://en.wikisource.org/wiki/1_Clement_(Hoole_translation)#CHAPTER_47"
+      ],
+      [
+        "Primary source | Justin Martyr, First Apology 67",
+        "https://ccel.org/ccel/justin_martyr/first_apology/anf01.viii.ii.lxvii.html"
+      ],
+      [
+        "Primary source | Irenaeus, Against Heresies 3.11",
+        "https://ccel.org/ccel/irenaeus/against_heresies_iii/anf01.ix.iv.xii.html"
+      ]
+    ]
+  },
+  "why": "The argument to Scripture is incomplete if it stops at apostolic authority. We still need to know how apostolic teaching reaches particular writings, why those writings were received as the New Testament, and whether their text has been preserved well enough for us to know what they say.",
+  "core": [
+    "Apostolic teaching began to circulate in written form during the first Christian generation.",
+    "Early Christian sources show the Gospels and Pauline letters being read, cited, and treated as authoritative well before later councils.",
+    "The historical evidence points to an early core canon rather than a fourth-century invention of the New Testament from scratch.",
+    "Some smaller books were disputed longer, and that disagreement should be acknowledged rather than hidden.",
+    "The church recognized writings connected to the apostolic witness; it did not create their authority merely by voting.",
+    "Nicaea did not select the New Testament canon.",
+    "Textual criticism addresses a different question from canon: whether we can recover the wording of the writings that were received.",
+    "The manuscript tradition contains variants but also supplies the comparative evidence scholars use to recover the earliest attainable text."
+  ],
+  "pressure": [
+    [
+      "“The church picked the books hundreds of years later.”",
+      "That picture ignores how early the central books were already functioning in Christian worship, teaching, and argument. Later agreement settled the boundaries of a collection whose core—the four Gospels, Paul, and other books—had been received much earlier."
+    ],
+    [
+      "“If some books were disputed, the canon is arbitrary.”",
+      "Disagreement over a smaller group does not mean Christians had no idea what belonged. It shows that they did not accept every Christian writing automatically. The disputed books were examined precisely because apostolic connection and reception mattered."
+    ],
+    [
+      "“Nicaea chose the Bible.”",
+      "The Council of Nicaea did not decide the New Testament canon. The canon developed through earlier use and recognition, with complete lists reflecting a process already underway for generations."
+    ],
+    [
+      "“There are textual variants, so we cannot know what the New Testament originally said.”",
+      "Variants exist because manuscripts were copied by hand. But the many surviving witnesses give scholars material to compare. Textual criticism is the process of using that evidence to recover the earliest attainable wording rather than assuming every copy is identical."
+    ]
+  ],
+  "limits": "This lesson gives the shape of the historical case for the twenty-seven-book New Testament and its preservation. A full defense of the authorship and canonicity of every disputed book would require much more space, so the deeper sources are provided for readers who want to examine individual books.",
+  "practice": "A coworker says, “The church chose the New Testament centuries after Jesus, and the copies all disagree anyway. How can that possibly be God’s Word?” How would you separate the canon question from the textual-preservation question and answer both?",
+  "model": "I would separate the issues. The canon question is which writings belong to the apostolic witness. A large core of the New Testament was already being used as authoritative very early, while a smaller group was examined longer before broad agreement. The text question is whether we still know what those writings said. Hand-copied manuscripts have variants, but having many witnesses lets scholars compare them and recover the earliest attainable wording. Neither issue is solved by pretending the history is perfectly simple.",
+  "sources": [
+    [
+      "Michael J. Kruger | An Essential Key to Understanding the Development of the NT Canon",
+      "https://michaeljkruger.com/an-essential-key-to-understanding-the-development-of-the-nt-canon/"
+    ],
+    [
+      "CSNTM | What Is a Textual Variant?",
+      "https://new.csntm.org/2023/03/29/ask-the-prof-what-is-a-textual-variant/"
+    ]
+  ],
+  "evidence": {
+    "claim": "The historical evidence shows an early apostolic core, a real but limited process of dispute and recognition, and a manuscript tradition that can be critically compared.",
+    "establishes": "The New Testament was not created from scratch by a late council, and the existence of textual variants is compatible with substantial recovery of the earliest text.",
+    "caution": "Do not claim there was universal agreement on all twenty-seven books from the beginning or that every manuscript is identical. The stronger case explains the actual history.",
+    "resources": [
+      {
+        "type": "Canon scholarship",
+        "title": "Michael J. Kruger | An Essential Key to Understanding the Development of the NT Canon",
+        "why": "Explains the early recognized core, the smaller disputed group, and why the fourth-century evidence should not be treated as the beginning of the canon.",
+        "url": "https://michaeljkruger.com/an-essential-key-to-understanding-the-development-of-the-nt-canon/"
+      },
+      {
+        "type": "Canon scholarship",
+        "title": "Michael J. Kruger | Early Christians and the Core NT Canon",
+        "why": "Shows that early disagreement was concentrated around a smaller number of books rather than the whole New Testament.",
+        "url": "https://michaeljkruger.com/10-misconceptions-about-the-nt-canon-5-early-christians-disagreed-widely-over-the-books-which-made-it-into-the-canon/"
+      },
+      {
+        "type": "Textual criticism",
+        "title": "CSNTM | What Is a Textual Variant?",
+        "why": "Explains what textual variants are and how manuscript comparison is used in New Testament textual criticism.",
+        "url": "https://new.csntm.org/2023/03/29/ask-the-prof-what-is-a-textual-variant/"
+      },
+      {
+        "type": "Primary sources",
+        "title": "1 Clement 47; Justin Martyr, First Apology 67; Irenaeus, Against Heresies 3.11",
+        "why": "Provide early examples of Pauline letters and apostolic Gospel writings being remembered, read, and treated authoritatively.",
+        "url": "https://en.wikisource.org/wiki/1_Clement_(Hoole_translation)#CHAPTER_47"
+      }
+    ]
+  },
+  "terms": [
+    [
+      "Canon recognition",
+      "The historical recognition of writings received as carrying apostolic and divine authority rather than the church creating that authority."
+    ],
+    [
+      "Textual variant",
+      "A place where surviving manuscript copies differ in wording, spelling, word order, or another textual detail."
+    ],
+    [
+      "Textual criticism",
+      "The comparison of manuscript evidence to determine the earliest attainable wording of a text."
+    ],
+    [
+      "Apostolicity",
+      "A writing’s connection to the apostles and the authoritative witness Christ entrusted to them."
+    ]
+  ],
+  "conclusion": "The New Testament rests on the apostolic witness Christ authorized, was recognized through a real historical process rather than invented by a late council, and has been preserved through a manuscript tradition we can critically examine.",
+  "thread": "Jesus authorized apostles to carry His witness. Now we have to complete the bridge: how did that apostolic witness become the New Testament, and how do we know we still have its text?",
+  "bigIdea": "The New Testament’s authority does not begin with a church council. It comes through Christ’s apostles; the church historically recognized their writings, and the manuscript tradition preserves the text for us to examine.",
+  "checkpoints": [
+    {
+      "after": "core",
+      "question": "Why doesn’t the fact that some books were disputed prove that the whole New Testament was uncertain?",
+      "answer": "Because a large core was already recognized early. The longer debates concerned a smaller number of books at the edges of the collection."
+    },
+    {
+      "after": "body",
+      "question": "What is the difference between a canon question and a textual question?",
+      "answer": "The canon question asks which writings belong to Scripture. The textual question asks what those writings originally said. They are related but different historical problems."
+    }
+  ],
+  "story": {
+    "title": "Why these books?",
+    "lines": [
+      "Jordan is willing to grant the apostolic step, but he is not finished. “Authorized apostles are one thing. A twenty-seven-book New Testament is another.”",
+      "You agree.",
+      "“So who picked the books?” he asks. “And if the manuscripts have differences, how do you even know what those books originally said?”",
+      "You tell him those are two different questions—canon and text—and both deserve an actual historical answer."
+    ]
+  },
+  "conversationTips": [
+    "Do not answer canon objections with “the Bible says these books belong in the Bible.” Use the historical evidence for apostolic connection and early reception.",
+    "Admit the disputed books. The history is more convincing when you explain why a smaller group took longer rather than pretending there was instant universal agreement.",
+    "Keep canon and textual criticism separate. One asks which books; the other asks what the text says.",
+    "Avoid manuscript-number arguments that imply quantity alone proves truth. Manuscripts help recover wording, not prove the events narrated."
+  ]
+},
+  {
+  "id": 20,
+  "cat": "christianity",
+  "tag": "Conclusion",
+  "title": "So, has God spoken?",
+  "teaser": "Put the whole case together: from the Creator, to the risen Christ, to the Old and New Testament Scriptures, and finally to why God’s Word can be trusted as true.",
+  "lesson": {
+    "heading": "The whole argument in one chain",
+    "body": "We can now put the second half of the course together without skipping any of the major links.\n\nStep 1 gave us a cumulative case for a rational, personal, perfectly good Creator. Because God exists, miracles cannot be ruled out simply because nature could not produce them. That opened the historical question rather than answering it in advance.\n\nWe then treated the New Testament writings first as ancient sources rather than assuming they were inspired. We found positive reasons to take those sources seriously and then asked what particular claims the evidence could establish. There is good historical reason to think Jesus made extraordinary claims about His identity and authority, that He was crucified and died, and that the resurrection best explains the early proclamation, appearance claims, transformed witnesses, and tomb evidence taken together.\n\nThe resurrection is the hinge. God did not raise an unknown person in a vacuum. He raised the Jesus whose claims had been publicly disputed and who had been executed. In that setting, the resurrection functions as God’s vindication of Jesus. The perfectly good Creator is confirming the authority of the person who was rejected.\n\nThat authority then leads us to revelation. We have historical reason to think Jesus consistently received Israel’s Scriptures as God’s authoritative Word. The Hebrew Scriptures He received correspond in content to the books of the Protestant Old Testament, though arranged and counted differently.\n\nJesus also established an authorized apostolic witness. The earliest Christian evidence already knows the Twelve and recognized apostles, and apostolic teaching was written, circulated, and received very early. The New Testament canon was not invented at Nicaea. A large core was functioning authoritatively long before later councils, while a smaller group of books was examined longer before broad agreement. The surviving manuscript tradition also gives us the evidence needed to recover the text rather than leaving us dependent on one late copy.\n\nThat is how the argument reaches Scripture rather than beginning with it. We did not say, “The Bible is God’s Word, therefore Christianity is true,” and then use Christianity to prove the Bible. We moved from reasons for God, to the historical case for Jesus, to the authority of the risen Jesus, to the Scriptures He received and the apostolic witness He authorized.\n\nOne final premise makes the conclusion about truth clear. The God argued for earlier is perfectly good. A perfectly good God is not deceptive. If these Scriptures are genuinely His revelation, then what God communicates through them is trustworthy and true.\n\nThat does not make every reader or translation infallible. We still have to interpret Scripture carefully, pay attention to genre and context, and distinguish what a text actually teaches from what someone may wrongly read into it. Nor does inspiration mean every manuscript copy has been transmitted without a single variant. The claim is about God’s truthful revelation given through human authors and faithfully available to us through the preserved text.\n\nThe destination of the course is therefore stronger than “some kind of God probably exists.” The cumulative case gives us good reason to believe that the Creator has acted in Jesus Christ and has spoken through the Old and New Testament Scriptures.",
+    "facts": [
+      "The course does not assume biblical inspiration in order to establish the resurrection.",
+      "The historical case first establishes the authority of the risen Jesus, then asks what He taught and whom He authorized.",
+      "Jesus’ historically grounded view leads to Israel’s Scriptures, while His authorization of apostles provides the bridge to the New Testament.",
+      "Canon and textual preservation are separate historical questions, and both matter when identifying the Scripture Christians possess today.",
+      "The final move from authoritative revelation to truth depends on God’s perfectly good and non-deceptive character.",
+      "Scriptural truthfulness does not make every interpretation, translation, or manuscript copy infallible.",
+      "Genre and authorial meaning matter when asking what Scripture actually affirms."
+    ],
+    "further": [
+      [
+        "Biola | From Belief in Jesus to Belief in the New Testament",
+        "https://www.biola.edu/blogs/good-book-blog/2021/from-belief-in-jesus-to-belief-in-the-new-testament"
+      ],
+      [
+        "The Gospel Coalition | The Biblical Canon",
+        "https://www.thegospelcoalition.org/essay/the-biblical-canon/"
+      ],
+      [
+        "Michael J. Kruger | An Essential Key to Understanding the Development of the NT Canon",
+        "https://michaeljkruger.com/an-essential-key-to-understanding-the-development-of-the-nt-canon/"
+      ],
+      [
+        "Ligonier | The Authority and Inspiration of the Scriptures",
+        "https://learn.ligonier.org/articles/the-authority-and-inspiration-of-the-scriptures"
+      ],
+      [
+        "CSNTM | The Center for the Study of New Testament Manuscripts",
+        "https://www.csntm.org/"
+      ]
+    ]
+  },
+  "why": "This final lesson should not merely repeat the topics we covered. It should show that the conclusion about Scripture actually follows from the chain the course has built and make clear where God’s truthfulness enters the argument.",
+  "core": [
+    "Natural theology gives us reasons for a rational, personal, perfectly good Creator.",
+    "The historical case for Jesus is built from sources before biblical inspiration is assumed.",
+    "The resurrection functions as God’s vindication of the Jesus whose claims and authority had been historically established.",
+    "The authority of Jesus gives us reason to receive the Old Testament He received and the apostolic witness He authorized.",
+    "Historical canon evidence identifies the New Testament as the written apostolic witness recognized by the church rather than created by it.",
+    "Textual criticism gives us access to the wording of those writings through the surviving manuscript tradition.",
+    "If Scripture is genuinely God’s revelation and God is perfectly good and truthful, then what Scripture affirms is true.",
+    "Human interpretation remains fallible, so careful reading, context, and genre still matter."
+  ],
+  "pressure": [
+    [
+      "“This is still circular because all your historical evidence comes from the Bible.”",
+      "Using documents that are now in the Bible as ordinary historical sources is not the same as assuming they have divine authority. The authority conclusion comes later, after the historical case reaches the risen Jesus and then follows His teaching and apostolic commission."
+    ],
+    [
+      "“You never proved every sentence in the Bible historically.”",
+      "We do not need to. Historical investigation establishes the authority through which Scripture is received as revelation. Once a truthful God is identified as the one speaking, the truthfulness of His revelation rests on His character rather than on independently re-proving every statement in Scripture."
+    ],
+    [
+      "“What about disputed canon books?”",
+      "The course does not hide them. A large core of the New Testament was recognized early, while a smaller group was examined longer. The canon conclusion rests on the historical process of apostolic connection, reception, and recognition rather than pretending every book had identical evidence from day one."
+    ],
+    [
+      "“What about contradictions or textual variants?”",
+      "A textual variant is a difference among manuscript copies, not automatically a contradiction in what the original authors taught. Textual criticism asks what the earliest text said; interpretation then asks what that text means. Difficult passages should be examined individually rather than used to erase the entire argument in advance."
+    ]
+  ],
+  "limits": "This course gives an introductory cumulative case for receiving the Protestant Old and New Testament Scriptures as God’s truthful Word. It does not replace detailed work on every canon dispute, textual variant, difficult passage, genre question, or theological doctrine.",
+  "practice": "Someone says, “I can follow your argument to Jesus, but I still do not see how that gets you all the way to saying the Bible is God’s true Word.” Explain the chain without simply saying, “because the Bible says so.”",
+  "model": "I would start where the course started. There are good reasons to believe in a perfectly good Creator. If God exists, miracles are possible, so we can investigate Jesus historically. The New Testament documents can first be used as historical sources without assuming inspiration. The evidence gives us reason to believe Jesus made extraordinary claims and that God raised Him from the dead. That vindicates Jesus’ authority. Historically, Jesus receives Israel’s Scriptures as God’s Word and authorizes apostles to carry His witness. Their teaching was written, received, and recognized in the New Testament. If those Scriptures are genuinely God’s revelation, then the character of a perfectly good God gives us reason to trust what He reveals as true.",
+  "sources": [
+    [
+      "Biola | From Belief in Jesus to Belief in the New Testament",
+      "https://www.biola.edu/blogs/good-book-blog/2021/from-belief-in-jesus-to-belief-in-the-new-testament"
+    ],
+    [
+      "The Gospel Coalition | The Biblical Canon",
+      "https://www.thegospelcoalition.org/essay/the-biblical-canon/"
+    ],
+    [
+      "Ligonier | The Authority and Inspiration of the Scriptures",
+      "https://learn.ligonier.org/articles/the-authority-and-inspiration-of-the-scriptures"
+    ]
+  ],
+  "evidence": {
+    "claim": "These sources support the final bridge from the historical case for Jesus to the authority, canon, preservation, and truthfulness of Scripture.",
+    "establishes": "The larger argument can move non-circularly from theism to Christ and then to Scripture, while canon and textual preservation are treated as real historical questions rather than assumed.",
+    "caution": "This is a cumulative apologetic case, not a claim that every subsidiary historical or textual question has been settled in one lesson.",
+    "resources": [
+      {
+        "type": "Method",
+        "title": "Biola | From Belief in Jesus to Belief in the New Testament",
+        "why": "Provides a clear version of the historical move from resurrection to Jesus’ authority and then toward Scripture.",
+        "url": "https://www.biola.edu/blogs/good-book-blog/2021/from-belief-in-jesus-to-belief-in-the-new-testament"
+      },
+      {
+        "type": "Canon overview",
+        "title": "The Gospel Coalition | The Biblical Canon",
+        "why": "Surveys historical evidence for both Old and New Testament canon recognition.",
+        "url": "https://www.thegospelcoalition.org/essay/the-biblical-canon/"
+      },
+      {
+        "type": "Canon scholarship",
+        "title": "Michael J. Kruger | An Essential Key to Understanding the Development of the NT Canon",
+        "why": "Explains the early core and later disputed books without treating the canon as a fourth-century invention.",
+        "url": "https://michaeljkruger.com/an-essential-key-to-understanding-the-development-of-the-nt-canon/"
+      },
+      {
+        "type": "Teaching",
+        "title": "Ligonier | The Authority and Inspiration of the Scriptures",
+        "why": "Connects Christ, apostolic authority, inspiration, and the truthfulness of God’s Word.",
+        "url": "https://learn.ligonier.org/articles/the-authority-and-inspiration-of-the-scriptures"
+      },
+      {
+        "type": "Textual criticism",
+        "title": "CSNTM | Center for the Study of New Testament Manuscripts",
+        "why": "Provides manuscript resources and explains the scholarly work of preserving and studying the New Testament text.",
+        "url": "https://www.csntm.org/"
+      }
+    ]
+  },
+  "terms": [
+    [
+      "Revelation",
+      "God making truth known that people could not simply invent for themselves."
+    ],
+    [
+      "Divine inspiration",
+      "God’s work in giving Scripture through human authors as His authoritative Word."
+    ],
+    [
+      "Inerrancy",
+      "The claim that Scripture, rightly understood according to what its authors affirm, does not teach falsehood."
+    ],
+    [
+      "Canon",
+      "The recognized collection of writings received as Scripture."
+    ],
+    [
+      "Textual criticism",
+      "The comparison of manuscript evidence to recover the earliest attainable wording of a text."
+    ]
+  ],
+  "conclusion": "The cumulative case gives us good reason to believe that the Creator has acted in Jesus Christ and has spoken through the Old and New Testament Scriptures. Because the God who speaks is perfectly good and truthful, His Word can be trusted as true.",
+  "thread": "We have moved from the Creator to the risen Christ, from Christ to the Scriptures He received and the apostles He authorized, and from those witnesses to the Bible. Now put the chain together and ask whether it reaches its intended conclusion.",
+  "bigIdea": "The course does not begin by assuming the Bible is God’s Word. It arrives at Scripture through the risen Christ and concludes that the truthful God has spoken.",
+  "checkpoints": [
+    {
+      "after": "core",
+      "question": "What keeps the final argument from being “the Bible is true because the Bible says it is true”?",
+      "answer": "The resurrection and Jesus’ authority are argued historically before inspiration is assumed. Scripture’s authority is reached through the vindicated Jesus and the apostolic witness He authorized."
+    },
+    {
+      "after": "body",
+      "question": "Why does God’s character matter once Scripture has been identified as His revelation?",
+      "answer": "Because the Creator argued for earlier is perfectly good rather than deceptive. If God truly speaks through Scripture, His character gives us reason to trust what He communicates as true."
+    }
+  ],
+  "story": {
+    "title": "The Bible on the shelf",
+    "lines": [
+      "The walk ends at Jordan’s house. A Bible is sitting on a shelf near the door, and he takes it down.",
+      "“I see the route now,” he says. “You did not start with this book and tell me I had to accept it first.”",
+      "He thinks through it out loud: the case for God, miracles, the historical sources, Jesus’ claims, His death and resurrection, Jesus’ authority, the Old Testament, the apostles, and then the New Testament.",
+      "He looks down at the Bible again. “So if all of those links hold, you are saying this is not just a record of people looking for God. You are saying God actually spoke.”"
+    ]
+  },
+  "conversationTips": [
+    "If someone rejects the final conclusion, find the first link in the chain they actually dispute instead of restarting the entire course.",
+    "Do not make canon or textual history sound easier than it is. A strong case can admit real disputes and still explain why the conclusion is reasonable.",
+    "Keep revelation and interpretation separate. A truthful message can still be misunderstood by a fallible reader.",
+    "The final claim is not that every Christian argument or interpretation is infallible. It is that the God reached through the cumulative case has given truthful revelation."
+  ]
+},
   {
     "id": 21,
     "cat": "practice",
@@ -4091,50 +4034,50 @@ const step1QuickReference = {
 
 const step2QuickReference = {
   "title": "Step 2 quick reference: Has God spoken?",
-  "intro": "These are the main ideas from Studies 11–20 in a form you can review in about a minute.",
+  "intro": "These are the main moves from Studies 11–20 in a form you can review in about a minute.",
   "points": [
     [
-      "Historical sources",
-      "Use the New Testament first as early historical evidence. You do not have to assume inspiration before asking what the authors wrote and whether their claims fit the evidence."
+      "Historical starting point",
+      "Use the New Testament first as early historical evidence rather than assuming inspiration. General credibility helps, but test the particular claims the case needs."
     ],
     [
       "Jesus’ claims",
-      "Jesus’ words, actions, titles, and authority make his identity a central historical question; the case does not rest on one isolated proof text."
+      "Several historically serious strands—His unique sonship, Son of Man language, actions, and authority—give reason to think Jesus really made extraordinary claims about Himself."
     ],
     [
       "Death and tomb",
-      "Jesus died by Roman crucifixion. There is also a serious, though more debated, historical case that he was buried in a known tomb later found empty."
+      "Jesus was crucified and died. Burial and empty-tomb evidence provide the physical setting for the resurrection question."
     ],
     [
       "Resurrection case",
-      "The resurrection message is very early, appearances were reported to individuals and groups, and the tomb evidence adds a physical part to the case."
+      "Early proclamation, appearance claims, transformed witnesses, Paul and James, and the tomb evidence have to be explained together."
     ],
     [
       "Compare explanations",
-      "Survival, a moved body, visions, and legend can address parts of the evidence. The Christian case is that resurrection explains the whole pattern best once God is a live possibility."
-    ],
-    [
-      "Liar, lunatic, or Lord",
-      "If Jesus made the extraordinary claims examined earlier, calling him merely a good teacher will not do. He was lying, deeply mistaken, or telling the truth. The resurrection bears directly on which."
+      "Test mistake, deception, hallucination, legend, moved-body theories, and resurrection against the same body of evidence."
     ],
     [
       "Vindication",
-      "If God raised the Jesus who made these claims, the resurrection gives strong reason to see God as vindicating Jesus and his authority."
+      "If the perfectly good Creator raised the Jesus whose extraordinary claims had been rejected, the resurrection functions as God’s vindication of Jesus and His authority."
     ],
     [
-      "Trust Jesus",
-      "A divinely vindicated Lord is a trustworthy authority about God and revelation. This is the bridge from the historical case to Scripture."
+      "Old Testament",
+      "Historically, Jesus consistently receives Israel’s Scriptures as God’s authoritative Word. The Protestant Old Testament contains the same Hebrew books, counted and arranged differently."
     ],
     [
-      "Old and New Testaments",
-      "Jesus receives Israel’s Scriptures as authoritative and commissions apostles to teach and witness in his name. The New Testament comes to us through that apostolic foundation."
+      "Apostolic witness",
+      "The earliest evidence shows Jesus’ movement built around authorized apostles who carried His witness. Their authority is delegated from Christ."
     ],
     [
-      "God has spoken",
-      "If Scripture is God’s Word and God is truthful, then what God reveals is true. Careful interpretation is still necessary, but the authority question has been answered."
+      "New Testament",
+      "Apostolic teaching was written and received early. A large core was recognized early, disputed books were examined over time, and textual criticism helps recover the preserved text."
+    ],
+    [
+      "The conclusion",
+      "The case moves from God, to Christ, to Scripture. If these Scriptures are God’s revelation, the character of the perfectly good God gives us reason to trust what He reveals as true."
     ]
   ],
-  "bottom": "The short path is: The short path begins with God’s ability to act, moves to the historical investigation of Jesus, his extraordinary claims and death, and then to the resurrection as the best explanation of what followed. From there, God’s vindication of Jesus gives reason to trust his teaching, receive Scripture, and recognize the apostles he authorized. The conclusion is that God has spoken."
+  "bottom": "The short path is: God exists → miracles are possible → investigate Jesus historically → Jesus made extraordinary claims → resurrection best explains the evidence → God vindicated Jesus → Jesus receives the Old Testament and authorizes apostles → the apostolic witness reaches the New Testament → the truthful God has spoken."
 };
 
 const lessonModules = [
