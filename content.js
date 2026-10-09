@@ -1603,90 +1603,34 @@ const questions = [
   ]
 },
   {
-    "id": 11,
-    "cat": "christianity",
-    "tag": "Jesus",
-    "title": "Can we investigate Jesus historically?",
-    "teaser": "Do we have to prove the Bible is inspired before using it as historical evidence?",
-    "lesson": {
-      "heading": "How historians actually use the New Testament",
-      "body": "A common objection is that using the New Testament to learn about Jesus is circular because the New Testament is part of the Christian Bible. That assumes a document can only be used historically if we first accept all of its religious claims. Historians do not work that way.\n\nAt this stage, we are not saying, “The Bible is inspired, therefore everything in it happened.” We are treating Paul, Mark, Matthew, Luke, John, Acts, and the other early Christian writings as ancient historical sources. A historical source is simply a document or other piece of evidence that gives us information about the past.\n\nThen we can ask the same kinds of questions we would ask of other ancient documents. When was it written? How close was the author or source to the events? Are there multiple sources? Does the account fit what we know from archaeology, geography, culture, and other ancient writers?\n\nThose questions matter because each one can raise or lower our confidence that a source is preserving real history rather than later invention. No single test proves a claim. But if a claim is early, comes through more than one source, fits the known setting, and is corroborated in other ways, we have more reason to trust it. That is why these details matter. They give us reasons to judge whether a historical claim is well supported.\n\nWe also need to separate textual criticism from historical reliability. Textual criticism is the work of comparing manuscripts in order to recover the wording of the original text as closely as possible. The New Testament has a very large manuscript tradition, which gives us a great deal of material to compare. But knowing what an author wrote is not the same as proving that every event the author described happened.\n\nPaul’s letters are especially important because several are widely accepted as authentic and were written within the first Christian generation. Paul also passes on traditions that are earlier than the letters themselves, including the material in 1 Corinthians 15 about Jesus’ death, burial, resurrection, and appearances.\n\nWe can get very close to the earliest Christian claims without first assuming inspiration. That gives us a historical starting point rather than a circular one.",
-      "facts": [
-        "Ancient sources can be historically useful even when their authors have strong beliefs or purposes.",
-        "Textual criticism is about reconstructing the text; it is not a shortcut to proving historical truth.",
-        "The New Testament contains multiple literary sources rather than one single witness.",
-        "Tacitus independently confirms Jesus’ execution under Pontius Pilate and the early presence of Christians; Josephus provides additional limited corroboration.",
-        "The course only needs enough historically grounded material to establish the later arguments, not a prior proof that every Gospel detail is correct."
-      ],
-      "further": [
-        [
-          "Cambridge | Manuscripts and the Making of the New Testament",
-          "https://www.cambridge.org/core/books/abs/cambridge-history-of-ancient-christianity/manuscripts-and-the-making-of-the-new-testament/B7821109539EE202C6EDE185AC48A2C9"
-        ],
-        [
-          "CSNTM | New Testament manuscripts and textual variants",
-          "https://www.csntm.org/csntm-exhibit-guide-2/"
-        ],
-        [
-          "Oxford Academic | The Gospels and ancient biography",
-          "https://academic.oup.com/edited-volume/34334/chapter-abstract/291368485"
-        ],
-        [
-          "Cambridge | John 5:2 and pre-70 dating",
-          "https://www.cambridge.org/core/journals/new-testament-studies/article/pre70-ce-dating-of-the-gospel-of-john-there-is-in-jerusalem-a-pool-which-has-five-porticoes-52/6EB521B72901E535E1BB31A1A1473C94"
-        ],
-        [
-          "Oxford Bibliographies | Pauline Letters",
-          "https://academic.oup.com/reference/62341/reference-article-abstract/554111753"
-        ],
-        [
-          "Tacitus | Annals 15.44",
-          "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html"
-        ],
-        [
-          "Josephus | Antiquities 20",
-          "https://penelope.uchicago.edu/josephus/ant-20.html"
-        ]
-      ]
-    },
-    "why": "We should not assume the Bible is inspired in order to prove Christianity and then use Christianity to prove the Bible is inspired. We can first treat the New Testament documents as historical sources and ask what they can actually tell us about Jesus.",
-    "core": [
-      "We do not need to assume the New Testament is inspired before using its documents as historical sources.",
-      "Textual transmission asks whether we can recover what the authors wrote; historical reliability asks whether what they wrote about the past is true.",
-      "Paul’s undisputed letters are especially early sources and preserve traditions that predate the letters themselves.",
-      "The Gospels are ancient biographical narratives with theological aims; theological purpose does not make historical claims unusable.",
-      "Historians look for factors such as early attestation, multiple or independent sources, embarrassing or costly details, cultural fit, and corroboration.",
-      "Non-Christian sources such as Tacitus and Josephus can corroborate a limited but useful core of the historical setting."
+  "id": 11,
+  "cat": "christianity",
+  "tag": "Jesus",
+  "title": "Can we trust the sources enough to investigate Jesus?",
+  "teaser": "We do not have to prove the whole Bible first. The New Testament writings can be examined as ancient sources, and there are positive reasons to take them seriously.",
+  "lesson": {
+    "heading": "Use the sources without assuming the conclusion",
+    "body": "The last study left us with a historical question: if miracles are possible, what actually happened to Jesus? But most of the detailed information we have about Jesus comes from early Christian writings. Does using those writings make the argument circular?\n\nIt would be circular if we said, “The Bible is inspired, so everything in it is true,” and then used that assumption to prove Christianity. That is not what we need to do. At this stage, Paul’s letters, the Gospels, Acts, and the other early Christian writings can be treated as ancient sources before we decide whether they are inspired Scripture.\n\nA source also does not become historically useless because its author believes what he is writing. Ancient historians regularly work with sources written by people who had loyalties, purposes, enemies, religious beliefs, and political commitments. Those things matter, but they do not settle the question. We still have to ask what the source can actually support.\n\nThat means asking ordinary historical questions about particular claims. How early is the information? How close is the source to the events? Are supposedly separate sources actually independent? Does the account fit what we know about the time and place? Is there outside corroboration? No one question proves a claim, but several lines of support can make a historical conclusion much stronger.\n\nThere are also positive reasons to take the New Testament sources seriously rather than starting by assuming they are unreliable. We do not have one late Christian document. We have multiple first-century writings. Several of Paul’s letters are widely accepted as authentic and were written within the first Christian generation, and Paul sometimes passes on traditions that are earlier than the letters themselves.\n\nLuke-Acts gives us a useful example of why general credibility can matter without having to carry the whole case. Acts contains many details that can be checked against the wider ancient world, including geography, local political titles, travel routes, and maritime details. Getting those kinds of things right does not prove every event Luke reports, but it gives us a reason to take the author seriously as someone trying to describe real history rather than simply inventing a setting.\n\nNon-Christian writers also confirm parts of the basic historical picture. Tacitus refers to Jesus’ execution under Pontius Pilate and the presence of Christians in Rome, while Josephus gives limited corroboration involving Jesus and James. These sources do not tell us nearly as much about Jesus as the Christian writings do, but they show that the Christian sources are not operating in a completely sealed world of their own.\n\nOne other distinction matters. Manuscript evidence helps us ask what an ancient author originally wrote. It does not, by itself, prove that what the author wrote actually happened. Textual preservation and historical truth are different questions.\n\nSo this course is not going to stop here and try to prove that every detail in every Gospel is historically reliable before we can move on. General credibility is useful, but the stronger method is to ask whether the particular claims we need can be historically supported. That is what the next studies will do with Jesus’ claims, His death, the tomb, and the resurrection evidence.",
+    "facts": [
+      "Using a New Testament document as a historical source is not the same thing as assuming that document is inspired.",
+      "A source can have a strong religious or personal viewpoint and still preserve historically useful information.",
+      "The New Testament gives us multiple first-century sources, including early Pauline letters and traditions that predate those letters.",
+      "Luke-Acts contains many checkable details about geography, local titles, travel, and the ancient setting; that supports the author's general credibility without proving every reported event.",
+      "Tacitus and Josephus provide limited external corroboration for parts of the basic historical setting around Jesus and early Christianity.",
+      "Manuscript preservation helps establish what a source said; the historical truth of its claims still has to be argued separately."
     ],
-    "pressure": [
+    "further": [
       [
-        "“Using the New Testament is circular because it is the Bible.”",
-        "Using the Bible can sound circular, but we are not assuming its inspiration at this stage. We are treating the New Testament documents as ancient sources and asking what historical evidence they contain, just as we would with other documents from antiquity."
+        "Reasonable Faith | Establishing the Gospels’ Reliability",
+        "https://www.reasonablefaith.org/writings/question-answer/establishing-the-gospels-reliability/"
       ],
       [
-        "“There are thousands of manuscripts, so the events must be true.”",
-        "The large number of manuscripts helps us know what the documents originally said. It does not automatically prove that the events in the documents happened. Those are two different questions, and the historical claims still need to be evaluated on their own evidence."
-      ]
-    ],
-    "limits": "Do not make manuscript counts or one archaeological find prove the Gospels. The stronger historical case uses early sources, specific claims, and several converging kinds of evidence.",
-    "practice": "A student says, “Paul was a Christian, so his letters are biased and cannot count as historical evidence.” How would you respond?",
-    "model": "Having a viewpoint does not make a historical source useless. Historians regularly use sources written by people with commitments and interests. We still have to ask when it was written, how close it was to the events, what the author could know, and whether other evidence supports the claim. Paul’s Christian commitment matters, but it does not erase his value as an early source.",
-    "sources": [
-      [
-        "Cambridge | Manuscripts and the Making of the New Testament",
-        "https://www.cambridge.org/core/books/abs/cambridge-history-of-ancient-christianity/manuscripts-and-the-making-of-the-new-testament/B7821109539EE202C6EDE185AC48A2C9"
+        "Reasonable Faith | The Evidence for Jesus",
+        "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-goddoes-god-exist1/rediscovering-the-historical-jesus-the-evidence-for-jesus/"
       ],
       [
-        "CSNTM | New Testament manuscripts and textual variants",
-        "https://www.csntm.org/csntm-exhibit-guide-2/"
-      ],
-      [
-        "Oxford Academic | Gospels as ancient biography",
+        "Oxford Academic | The Gospels and ancient biography",
         "https://academic.oup.com/edited-volume/34334/chapter-abstract/291368485"
-      ],
-      [
-        "Cambridge | John 5:2 and pre-70 dating",
-        "https://www.cambridge.org/core/journals/new-testament-studies/article/pre70-ce-dating-of-the-gospel-of-john-there-is-in-jerusalem-a-pool-which-has-five-porticoes-52/6EB521B72901E535E1BB31A1A1473C94"
       ],
       [
         "Oxford Bibliographies | Pauline Letters",
@@ -1700,101 +1644,146 @@ const questions = [
         "Josephus | Antiquities 20",
         "https://penelope.uchicago.edu/josephus/ant-20.html"
       ]
-    ],
-    "evidence": {
-      "claim": "These sources show how the New Testament can be examined historically before inspiration is assumed.",
-      "establishes": "They separate manuscript preservation from historical reliability and then look at date, sources, corroboration, and specific claims.",
-      "caution": "Manuscript abundance helps us recover wording; it does not prove that every narrated event happened.",
-      "resources": [
-        {
-          "type": "Curriculum",
-          "title": "Impact Apologetics | Is the New Testament True? Parts 1–2",
-          "why": "Covers accurate text, early sources, eyewitness details, embarrassing material, external writers, and corroboration.",
-          "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
-        },
-        {
-          "type": "Apologetics",
-          "title": "Reasonable Faith | Establishing the Gospels’ Reliability",
-          "why": "Separates manuscript transmission from historical reliability and lists criteria used for particular claims.",
-          "url": "https://www.reasonablefaith.org/writings/question-answer/establishing-the-gospels-reliability/"
-        },
-        {
-          "type": "Apologetics",
-          "title": "Reasonable Faith | The Evidence for Jesus",
-          "why": "Treats the New Testament as primary historical sources and examines specific facts about Jesus.",
-          "url": "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-goddoes-god-exist1/rediscovering-the-historical-jesus-the-evidence-for-jesus/"
-        },
-        {
-          "type": "Curriculum",
-          "title": "Biola | Introduction to Christian Apologetics",
-          "why": "Ends with historical evidence for the trustworthiness of Scripture after moving from God to Christianity.",
-          "url": "https://learn.biola.edu/courses/introduction-to-christian-apologetics"
-        },
-        {
-          "type": "Teaching",
-          "title": "Ligonier | The Preservation of Scripture",
-          "why": "Explains what manuscript preservation can and cannot establish about the New Testament text.",
-          "url": "https://learn.ligonier.org/devotionals/preservation-scripture"
-        }
-      ]
-    },
-    "terms": [
-      [
-        "Textual variant",
-        "A place where surviving manuscript copies differ in wording, spelling, or word order."
-      ],
-      [
-        "Textual criticism",
-        "The work of comparing manuscript copies to determine the earliest recoverable wording of a text."
-      ],
-      [
-        "Historical source",
-        "A document or piece of evidence used to learn about the past."
-      ],
-      [
-        "Ancient biography",
-        "An ancient form of writing centered on the life and character of a real person."
-      ],
-      [
-        "Corroboration",
-        "Another source supporting part of the same historical picture."
-      ]
-    ],
-    "conclusion": "The New Testament can be investigated as historical evidence before we ever argue that it is inspired Scripture.",
-    "thread": "Now we can ask the historical question. What sources do we actually have for Jesus, and can we use them before assuming the Bible is inspired?",
-    "bigIdea": "The New Testament can be investigated as a collection of ancient historical sources before we decide whether it is inspired.",
-    "checkpoints": [
-      {
-        "after": "core",
-        "question": "Jordan says, “The New Testament is a Christian book, so historians cannot use it.” What distinction should you make?",
-        "answer": "A source can have a theological viewpoint and still be evaluated historically. Inspiration need not be assumed before asking ordinary historical questions about the documents."
-      },
-      {
-        "after": "body",
-        "question": "Why do things like early sources, multiple sources, cultural fit, and corroboration matter when we investigate Jesus?",
-        "answer": "Because they give us reasons to judge whether a claim is likely preserving real history rather than later invention. Several lines of support together can make a historical conclusion much stronger."
-      },
-      {
-        "after": "facts",
-        "question": "Why are Paul’s letters especially useful here?",
-        "answer": "Several are early and widely accepted as authentic, and they preserve traditions that reach even earlier than the letters themselves."
-      }
-    ],
-    "story": {
-      "title": "You were not there",
-      "lines": [
-        "On the next walk, Jordan comes back to the resurrection. “There is still a pretty obvious problem. Neither of us was there.”",
-        "You tell him that is true of almost everything we know about ancient history. We normally rely on testimony, documents, physical evidence, and whatever other sources survive.",
-        "Jordan says, “Sure, but the New Testament writers were Christians. They wanted people to believe this stuff. That has to matter.”",
-        "He folds his arms. “So how do you use Christian documents as evidence without just assuming the Bible is true first?”"
-      ]
-    },
-    "conversationTips": [
-      "At this point in the case, treat the New Testament as historical material before asking the person to accept it as inspired Scripture.",
-      "Manuscript preservation and historical reliability are two different questions. Knowing what a document said does not automatically prove that every event it reports happened.",
-      "Calling a Christian author “biased” is not yet an argument against the source. Commitments matter, but the source still has to be evaluated on its actual historical merits."
     ]
   },
+  "why": "Before we use the Gospel and Pauline material in the next studies, we need to know why those writings can count as historical evidence without assuming Christianity is already true. This lesson gives us that starting point without making the reliability of every Gospel detail one giant premise.",
+  "core": [
+    "We do not have to assume biblical inspiration or prove the general reliability of every Gospel before investigating Jesus historically.",
+    "The New Testament writings can first be treated individually as ancient historical sources.",
+    "Christian commitment does not disqualify a source. We still ask what the source knew, when it was written, where its information came from, and how well its claims are supported.",
+    "Early material, independent support, historical and cultural fit, and corroboration can raise our confidence in a particular claim.",
+    "There are positive reasons to take these sources seriously: early Pauline material, multiple first-century writings, Luke-Acts' accuracy on many checkable details, and limited external corroboration.",
+    "General credibility can strengthen the case, but the next studies still have to establish the specific claims they use.",
+    "That lets us investigate Jesus without reasoning in a circle and without making the whole case depend on defending every detail in every Gospel."
+  ],
+  "pressure": [
+    [
+      "“Using the New Testament to prove Christianity is circular.”",
+      "It would be circular if we assumed the New Testament was inspired in order to prove Christianity. We are not doing that. We can first treat its individual writings as ancient sources and ask what particular historical claims they support."
+    ],
+    [
+      "“The writers were Christians, so they were biased.”",
+      "Their commitments matter, but having a viewpoint does not make a source useless. Historians regularly use interested sources. The question is whether the source was in a position to know, how early it is, where its information came from, and whether other evidence supports the claim."
+    ],
+    [
+      "“Don’t you have to prove the Gospels are reliable before you can use them?”",
+      "Showing that a source is generally credible can help, and there are good reasons to take the New Testament sources seriously. But the argument does not have to stand or fall on proving every Gospel reliable in every detail. We can establish particular facts from particular evidence and let each claim carry only the weight its evidence supports."
+    ],
+    [
+      "“There are thousands of manuscripts, so the Gospel events must be true.”",
+      "Manuscript evidence helps us recover what the documents originally said. It does not automatically prove that the reported events happened. Historical claims still have to be evaluated on their own evidence."
+    ]
+  ],
+  "limits": "This lesson does not prove inspiration, inerrancy, or the historical accuracy of every Gospel detail. It establishes that the New Testament writings are legitimate historical sources and gives positive reasons to take them seriously. The next studies still have to argue for the specific claims they use.",
+  "practice": "A friend says, “Before you can use anything from the Gospels, you first have to prove that all four Gospels are historically reliable.” How would you respond?",
+  "model": "I do not need to prove every detail in all four Gospels before I can ask whether a particular claim is historically well supported. I can treat the Gospels and other New Testament writings as ancient sources without assuming they are inspired, then ask ordinary historical questions about the specific claim. General credibility helps, but each important claim still has to be supported by the evidence for it.",
+  "sources": [
+    [
+      "Reasonable Faith | Establishing the Gospels’ Reliability",
+      "https://www.reasonablefaith.org/writings/question-answer/establishing-the-gospels-reliability/"
+    ],
+    [
+      "Reasonable Faith | The Evidence for Jesus",
+      "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-goddoes-god-exist1/rediscovering-the-historical-jesus-the-evidence-for-jesus/"
+    ]
+  ],
+  "evidence": {
+    "claim": "These sources support using the New Testament historically without assuming inspiration while also giving positive reasons to take its major sources seriously.",
+    "establishes": "Craig explicitly distinguishes proving general Gospel credibility from establishing specific facts without assuming general reliability. His positive reliability case also points to early sources and the checkable accuracy of Luke-Acts. Scholarly and ancient sources provide additional context for Gospel genre, Pauline material, and external corroboration.",
+    "caution": "General credibility is not a shortcut to proving every narrated event. The course still needs to establish the particular claims it uses in the lessons that follow.",
+    "resources": [
+      {
+        "type": "Method",
+        "title": "Reasonable Faith | Establishing the Gospels’ Reliability",
+        "why": "Distinguishes two legitimate approaches: arguing for general Gospel credibility or establishing particular historical facts without first assuming general reliability.",
+        "url": "https://www.reasonablefaith.org/writings/question-answer/establishing-the-gospels-reliability/"
+      },
+      {
+        "type": "Apologetics",
+        "title": "Reasonable Faith | The Evidence for Jesus",
+        "why": "Presents a positive case for taking the Gospel sources seriously and highlights Luke-Acts' accuracy on many checkable details.",
+        "url": "https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-goddoes-god-exist1/rediscovering-the-historical-jesus-the-evidence-for-jesus/"
+      },
+      {
+        "type": "Scholarship",
+        "title": "Oxford Academic | The Gospels and ancient biography",
+        "why": "Places the canonical Gospels within the ancient biographical tradition rather than treating them as a genre of late legend.",
+        "url": "https://academic.oup.com/edited-volume/34334/chapter-abstract/291368485"
+      },
+      {
+        "type": "Scholarship",
+        "title": "Oxford Bibliographies | Pauline Letters",
+        "why": "Provides scholarly orientation to the Pauline letters, including the early letters widely treated as authentic sources for first-generation Christianity.",
+        "url": "https://academic.oup.com/reference/62341/reference-article-abstract/554111753"
+      },
+      {
+        "type": "Primary source",
+        "title": "Tacitus | Annals 15.44",
+        "why": "Provides non-Christian corroboration of Jesus’ execution under Pontius Pilate and the presence of Christians in Rome.",
+        "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html"
+      },
+      {
+        "type": "Primary source",
+        "title": "Josephus | Antiquities 20",
+        "why": "Contains the reference to James, the brother of Jesus who was called Christ, providing limited non-Christian corroboration.",
+        "url": "https://penelope.uchicago.edu/josephus/ant-20.html"
+      }
+    ]
+  },
+  "terms": [
+    [
+      "Historical source",
+      "A document or other piece of evidence used to learn about the past, whether or not the source is neutral."
+    ],
+    [
+      "Corroboration",
+      "Support for a claim or historical setting from another source or kind of evidence."
+    ],
+    [
+      "Independent support",
+      "Evidence that does not simply repeat information taken from the same underlying source."
+    ],
+    [
+      "Textual criticism",
+      "The work of comparing manuscript copies to determine the earliest recoverable wording of a text."
+    ]
+  ],
+  "conclusion": "We can investigate Jesus from the New Testament without assuming inspiration or proving every Gospel detail first, while still recognizing positive reasons to take the sources seriously.",
+  "thread": "Miracles are possible in principle. Now we need historical evidence. The first step is knowing why Christian sources can count as evidence without assuming Christianity is already true.",
+  "bigIdea": "Treat the New Testament first as ancient historical sources. Their general credibility matters, but the case for Jesus should rest on the specific claims the evidence can actually establish.",
+  "checkpoints": [
+    {
+      "after": "core",
+      "question": "Jordan asks, “Do I have to trust all four Gospels before we can use any of them?” What is the answer?",
+      "answer": "No. We can examine each writing as an ancient source and ask whether a particular claim is well supported without first proving every Gospel reliable in every detail."
+    },
+    {
+      "after": "body",
+      "question": "What does Luke-Acts getting many checkable historical details right actually show?",
+      "answer": "It gives us a positive reason to take the author seriously as a careful source. It does not prove every event he reports, so the important claims still have to be evaluated on their own evidence."
+    },
+    {
+      "after": "facts",
+      "question": "Why does a Christian source still count as historical evidence?",
+      "answer": "Because having a viewpoint does not erase whatever access the source had to the events. Its claims can still be tested by date, source relationships, historical fit, corroboration, and other evidence."
+    }
+  ],
+  "story": {
+    "title": "But those are Christian sources",
+    "lines": [
+      "On the next walk, Jordan comes back to the resurrection. “Okay, I understand why you are not ruling a miracle out before looking at the evidence. But where is the evidence actually coming from?”",
+      "You tell him that most of the detailed material about Jesus comes from early Christian writings, including the Gospels and Paul’s letters.",
+      "Jordan raises an eyebrow. “Right. They were Christians. They already believed this stuff.”",
+      "Then he asks, “Before we get to the resurrection, why should those sources count as evidence at all without just assuming the Bible is true?”"
+    ]
+  },
+  "conversationTips": [
+    "At this stage, do not ask someone to accept a passage because “the Bible says so.” Treat the document as an ancient source and explain why the particular claim deserves historical confidence.",
+    "Use general reliability evidence as support, not as one giant premise. Luke getting many checkable details right is worth knowing, but it does not make every later claim automatic.",
+    "If someone challenges one Gospel detail, ask whether that challenge actually affects the specific historical claim being discussed.",
+    "Keep manuscript preservation and historical truth separate. Knowing what a document said and knowing whether the event happened are related but different questions."
+  ]
+},
   {
     "id": 12,
     "cat": "christianity",
