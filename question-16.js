@@ -1,1 +1,131 @@
-questions.push({"id":16,"cat":"christianity","tag":"Resurrection","title":"Does the resurrection vindicate Jesus?","teaser":"If God raised Jesus from the dead, the event is more than survival after death. In context, it is God’s public confirmation of Jesus.","why":"This is the hinge of the second half of the course. We have argued for God, examined Jesus’ claims, and built the resurrection case. Now ask what follows if God really raised this Jesus.","bigIdea":"The resurrection matters because of who was raised. If God raised Jesus, God vindicated the man whose identity and authority had been put in question.","thread":"Part 2 now turns from “Did it happen?” to “What would it mean?”","terms":[["Vindication","Public confirmation that someone who was rejected or condemned was in the right."],["Divine attestation","A sign or act understood as God’s confirmation of a messenger or message."]],"core":["The resurrection is not significant merely because a dead person lived again. Its meaning comes from the identity, claims, execution, and mission of Jesus.","Jesus had made extraordinary claims about his authority and relationship to God.","He was rejected and executed.","If the God established in Part 1 raised Jesus, that act is not neutral toward Jesus’ claims.","The resurrection therefore gives strong reason to see Jesus as divinely vindicated rather than as a blasphemer, fraud, or failed claimant.","This does not mean every Christian doctrine has been separately proven in one step.","It does mean Jesus’ own authority now becomes the central question for what we believe about God and revelation."],"lesson":{"heading":"The resurrection is God’s answer to the question of Jesus","body":"Imagine two people make enormous claims about themselves. One simply repeats the claims. The other makes the claims, is publicly rejected, dies, and then is raised by God. Those are not evidentially the same situation.\n\nThat is why the resurrection cannot be separated from Jesus’ identity. If Jesus had only taught ordinary moral lessons, a resurrection would still be astonishing, but it would not carry the same message. The Christian claim is that the man raised was the man who had spoken with unique authority, called himself the Son and Son of Man, pronounced forgiveness, and made people’s response to him spiritually decisive.\n\nIn that setting, resurrection functions as vindication. The leaders who rejected Jesus treated his claims as false and dangerous. If God raised him, God has not remained neutral in that dispute.\n\nThis is also where the two halves of classical apologetics meet. Part 1 argued that God exists. The bridge showed that divine action is possible. The historical case then argued that resurrection best explains the evidence. If those steps hold, we now have reason to identify the resurrection as an act of the God whose existence was already argued for.\n\nDo not overstate the conclusion. One miracle does not instantly hand us every line of Christian theology. What it does is establish a reason to listen to Jesus with a level of authority no ordinary teacher has.","facts":["The earliest Christian proclamation interprets the resurrection as God’s act, not merely Jesus surviving death.","New Testament preaching repeatedly connects resurrection with Jesus’ status as Messiah, Lord, judge, or Son.","The logic of vindication depends on the resurrection being an act of God, which is why the earlier theistic argument matters.","Vindication establishes Jesus’ authority as the next question; it does not eliminate the need to examine what Jesus actually taught."]},"pressure":[["“A resurrection would only prove that a miracle happened.”","Context matters. If the person raised had made extraordinary claims about God and his own authority, God’s raising him bears directly on those claims."],["“Maybe God raised Jesus but did not approve everything he said.”","That possibility becomes increasingly strained if the resurrection is understood as God’s public act toward a teacher whose mission and identity were central to his message. The next lessons still examine Jesus’ actual teaching rather than skipping that step."],["“This is circular because the Bible says God raised him.”","The historical case has been built by treating the New Testament first as ancient evidence rather than assuming inspiration. The theological conclusion comes after the historical argument, not before it."],["“Resurrection still would not prove the Trinity.”","Correct. The course should not claim it does. The immediate conclusion is Jesus’ divine vindication and authority. Later Christian doctrine involves further biblical and theological reasoning."]],"limits":"Say “the resurrection strongly vindicates Jesus’ identity and authority,” not “the resurrection by itself proves every Christian doctrine.” Keep the conclusion as strong as the argument actually warrants.","practice":"Someone grants, for the sake of argument, that Jesus rose but says, “That still would not make Christianity true.” What would you say next?","model":"I would agree that the resurrection does not separately prove every later doctrine in one jump. But it would matter enormously because of who Jesus was and what he claimed. If God raised a man who claimed unique authority from God, the resurrection is strong divine confirmation of that man. The next step is to ask what Jesus taught with that authority.","thoughts":["Why does the identity of the person raised matter to the meaning of the resurrection?","How does Part 1 connect to the claim that God vindicated Jesus?","What does vindication establish, and what does it not establish?","Why is this lesson the hinge between resurrection evidence and Scripture?"],"conclusion":"Remember this: the resurrection is not merely “a miracle happened.” If God raised Jesus, God vindicated Jesus. That gives us strong reason to trust Jesus’ authority and then ask what he taught about God and revelation.","sources":[["Reasonable Faith | Identifying Jesus","https://www.reasonablefaith.org/media/debates/identifying-jesus-is-he-man-or-both-man-and-god/"]],"evidence":{"claim":"If God raised Jesus, the resurrection functions as divine vindication of Jesus’ identity and authority.","establishes":"In Christian historical argument, the resurrection is interpreted in the setting of Jesus’ prior claims and rejection. That context is what makes the event evidentially relevant to who Jesus was.","caution":"Vindication should not be inflated into a claim that every later Christian doctrine has been independently established by the resurrection alone.","resources":[{"type":"Historical argument","title":"Reasonable Faith | Identifying Jesus","why":"Explicitly develops the resurrection-as-vindication argument in relation to Jesus’ claims.","url":"https://www.reasonablefaith.org/media/debates/identifying-jesus-is-he-man-or-both-man-and-god/"},{"type":"Primary text","title":"Acts 17:30–31; Romans 1:3–4","why":"Examples of early Christian texts connecting resurrection with Jesus’ authority and status.","url":"https://www.biblegateway.com/passage/?search=Acts%2017%3A30-31%3B%20Romans%201%3A3-4&version=ESV"}]}});
+questions.push({
+  "id": 16,
+  "cat": "christianity",
+  "tag": "Authority",
+  "title": "What does the resurrection say about Jesus?",
+  "teaser": "If God raised the Jesus whose claims we have historically examined, the resurrection is not just an unusual event. It is God’s vindication of Jesus and gives His teaching unique authority.",
+  "lesson": {
+    "heading": "From resurrection to the authority of Jesus",
+    "body": "Suppose the historical case from the last several studies succeeds. Jesus really made extraordinary claims, He really died, and God raised Him from the dead. What follows from that?\n\nNot every miracle would automatically make every statement a person ever made true. That is not the argument. The meaning comes from the setting. Jesus had already placed Himself in an extraordinary relationship to God, claimed unusual authority, been rejected, and been executed. If the perfectly good Creator then raises that same Jesus from the dead, God is not acting without context. He is overturning the human verdict against Jesus and vindicating the person whose claims were under dispute.\n\nThe earliest Christian preaching treats the resurrection this way. Romans 1 connects Jesus’ resurrection with His status as Son of God in power. In Acts 2, Peter presents the resurrection as God reversing the verdict of those who crucified Jesus and declaring Him Lord and Christ. Acts 17 connects the resurrection with Jesus’ authority to judge.\n\nThat gives the resurrection a role larger than simply proving that miracles happen. It tells us whose teaching now carries unique weight. If God vindicated Jesus in the context of His claims, then Jesus is not one more ancient teacher offering a private opinion about God.\n\nHistorical work still matters. The resurrection does not mean that every sentence someone later attributes to Jesus becomes authentic automatically. We still have to ask whether a teaching really goes back to Him. We already did that with His self-understanding, and the next studies will do it with the teachings the argument now needs: His view of Israel’s Scriptures and His authorization of the apostles.\n\nOnce we have good reason to think a teaching really came from Jesus, however, His resurrection changes how we receive it. We have reached an authority we did not assume at the beginning of the course.",
+    "facts": [
+      "The resurrection’s apologetic meaning comes from the identity and prior claims of the person raised.",
+      "An isolated miracle would not automatically make every teaching of a person infallible.",
+      "In the historical setting of Jesus’ claims, rejection, and execution, God’s raising Him functions as vindication.",
+      "Romans 1 and Acts connect the resurrection with Jesus’ identity, lordship, and authority.",
+      "Jesus’ vindication gives us a reason to trust teachings that can be historically established as His own.",
+      "The next question is therefore what this vindicated Jesus taught about Scripture and whom He authorized to speak for Him."
+    ],
+    "further": [
+      [
+        "Bible reference | Romans 1:3–4; Acts 2:32–36; Acts 17:30–31",
+        "https://www.biblegateway.com/passage/?search=Romans%201%3A3-4%3B%20Acts%202%3A32-36%3B%20Acts%2017%3A30-31&version=ESV"
+      ],
+      [
+        "Biola | From Belief in Jesus to Belief in the New Testament",
+        "https://www.biola.edu/blogs/good-book-blog/2021/from-belief-in-jesus-to-belief-in-the-new-testament"
+      ],
+      [
+        "Ligonier | The Authority of Jesus",
+        "https://learn.ligonier.org/devotionals/authority-jesus"
+      ]
+    ]
+  },
+  "why": "The resurrection is the hinge between the historical case for Jesus and the authority of His teaching. We need to show why God’s raising Jesus means more than simply that something miraculous happened.",
+  "core": [
+    "The resurrection does not occur in isolation; it comes after Jesus’ extraordinary claims, rejection, and execution.",
+    "If the perfectly good Creator raised Jesus, that act functions as God’s reversal of the verdict against Him.",
+    "The resurrection therefore vindicates Jesus’ identity and authority rather than merely showing that miracles can happen.",
+    "This does not authenticate every saying attributed to Jesus automatically; historical work still has to establish what He actually taught.",
+    "Once a teaching is historically established as Jesus’ own, His divine vindication gives us strong reason to trust it.",
+    "The argument can now move from what happened to Jesus to what Jesus taught about revelation."
+  ],
+  "pressure": [
+    [
+      "“A resurrection would only show that Jesus came back to life.”",
+      "That would be more plausible if the event had no context. But Jesus had already made extraordinary claims about His identity and authority and had been publicly rejected. God raising that same Jesus functions as vindication of the person and the claims that led to the dispute."
+    ],
+    [
+      "“A miracle does not make someone infallible.”",
+      "Correct. The argument is not that any miracle makes any person infallible. It is that the perfectly good God raised Jesus in the context of Jesus’ claims and mission. That gives us reason to receive Jesus as God’s vindicated authority."
+    ],
+    [
+      "“Does this mean every saying in the Gospels is automatically authentic?”",
+      "No. We still ask the historical question of whether a teaching really goes back to Jesus. His resurrection tells us what authority to give that teaching once it is established."
+    ]
+  ],
+  "limits": "The resurrection establishes Jesus as God’s vindicated authority; it does not remove the need to establish historically what Jesus taught. The next studies apply that historical work to the teachings needed for the argument to Scripture.",
+  "practice": "Someone says, “Even if God raised Jesus, that only proves God can do miracles. Why should that make me trust Jesus’ teaching?” How would you answer?",
+  "model": "The resurrection has to be read in its historical setting. Jesus had already made extraordinary claims about His identity and authority, and He was rejected and executed. If the perfectly good God then raised that same Jesus, God is overturning the verdict against Him. That gives us reason to trust Jesus as the person God vindicated, while still doing the historical work of establishing what He actually taught.",
+  "sources": [
+    [
+      "Biola | From Belief in Jesus to Belief in the New Testament",
+      "https://www.biola.edu/blogs/good-book-blog/2021/from-belief-in-jesus-to-belief-in-the-new-testament"
+    ],
+    [
+      "Bible reference | Romans 1:3–4; Acts 2:32–36; Acts 17:30–31",
+      "https://www.biblegateway.com/passage/?search=Romans%201%3A3-4%3B%20Acts%202%3A32-36%3B%20Acts%2017%3A30-31&version=ESV"
+    ]
+  ],
+  "evidence": {
+    "claim": "The resurrection is presented within the earliest Christian proclamation as God’s vindication of Jesus, not as an isolated wonder.",
+    "establishes": "The historical context of Jesus’ claims, rejection, and resurrection explains why the event bears on His authority, while preserving the need to establish His particular teachings historically.",
+    "caution": "Do not turn the argument into “a miracle makes someone infallible.” The force comes from who Jesus claimed to be, the character of the God who raises Him, and the setting in which the resurrection occurs.",
+    "resources": [
+      {
+        "type": "Biola",
+        "title": "Biola | From Belief in Jesus to Belief in the New Testament",
+        "why": "Lays out the move from resurrection to Jesus’ vindicated teaching and then toward Scripture.",
+        "url": "https://www.biola.edu/blogs/good-book-blog/2021/from-belief-in-jesus-to-belief-in-the-new-testament"
+      },
+      {
+        "type": "Bible reference",
+        "title": "Romans 1:3–4; Acts 2:32–36; Acts 17:30–31",
+        "why": "Shows early Christian interpretation of the resurrection as confirmation of Jesus’ identity, lordship, and authority.",
+        "url": "https://www.biblegateway.com/passage/?search=Romans%201%3A3-4%3B%20Acts%202%3A32-36%3B%20Acts%2017%3A30-31&version=ESV"
+      }
+    ]
+  },
+  "terms": [
+    [
+      "Vindication",
+      "Public confirmation that a person or claim should be regarded as right or genuine."
+    ],
+    [
+      "Divine authority",
+      "Authority that comes from God rather than merely from human opinion."
+    ],
+    [
+      "Historical attribution",
+      "The work of asking whether a saying or teaching really goes back to the historical person to whom it is attributed."
+    ]
+  ],
+  "conclusion": "If God raised Jesus in the context of Jesus’ extraordinary claims, the resurrection functions as God’s vindication of Him. We therefore have reason to trust the teachings we have good reason to trace back to Jesus.",
+  "thread": "The resurrection is the best explanation of the evidence. Now ask what that means: what does God’s act of raising Jesus tell us about the authority of the man who was raised?",
+  "bigIdea": "The resurrection is God’s vindication of Jesus. It gives the historically established teaching of Jesus an authority we did not assume at the beginning.",
+  "checkpoints": [
+    {
+      "after": "core",
+      "question": "Why doesn’t the argument simply say, “Jesus did a miracle, so everything He said must be true”?",
+      "answer": "Because the argument depends on the historical setting: Jesus made extraordinary claims, was rejected and executed, and then God raised Him. The resurrection functions as vindication of that person and His authority."
+    },
+    {
+      "after": "body",
+      "question": "What still has to happen before we use one of Jesus’ teachings as part of the argument?",
+      "answer": "We still need good historical reason to think the teaching actually goes back to Jesus. Once that is established, His vindication tells us why the teaching carries unique authority."
+    }
+  ],
+  "story": {
+    "title": "What would the resurrection mean?",
+    "lines": [
+      "Jordan is not trying to explain the resurrection away as quickly now. “I still have questions, but I can see why you think resurrection fits the evidence better than the alternatives. If God really raised Jesus, what would that mean about Him?”",
+      "You tell him that the argument is not that any miracle makes any person automatically right.",
+      "“Then what changes?” he asks.",
+      "You remind him what came before the resurrection: Jesus’ extraordinary claims, His rejection, and His execution. “If God raised that Jesus, the event is not random. God is giving a verdict on the person who was rejected.”"
+    ]
+  },
+  "conversationTips": [
+    "Do not say “the resurrection proves every doctrine at once.” Let the argument move one step at a time.",
+    "Keep the character of God in view. The argument is about the perfectly good Creator vindicating Jesus, not an unknown supernatural force performing a strange event.",
+    "When someone challenges whether Jesus taught a particular thing, return to the historical question first. Then come back to what His vindication means for that teaching."
+  ]
+});
