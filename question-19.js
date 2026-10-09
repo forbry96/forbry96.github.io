@@ -3,135 +3,165 @@ questions.push({
   "cat": "christianity",
   "tag": "Scripture",
   "title": "What about the New Testament?",
-  "teaser": "Jesus did not hand the church a completed 27-book New Testament. He did something more basic first: he chose, commissioned, and promised help to authoritative apostolic witnesses.",
+  "teaser": "If Christ authorized apostles, the final historical question is how their witness became written Scripture, why these twenty-seven books were received, and whether their text has been preserved.",
   "lesson": {
-    "heading": "Move from Christ’s authority to apostolic authority carefully",
-    "body": "The Old Testament step is fairly direct because Jesus repeatedly cites the Scriptures already received in Israel. The New Testament requires one more step. Jesus did not hold up a completed twenty-seven-book collection and name every future book. So the argument should not claim that he did.\n\nInstead, Jesus deliberately chose apostles to be his authorized witnesses. He sent them to teach in his name. In the farewell teaching of John, he promises the Spirit will bring his words to their remembrance and guide them in the truth they still need to receive. After the resurrection, the apostolic mission becomes the authorized public witness to Jesus.\n\nThat gives the early church a standard for recognizing New Testament writings: apostolic origin or close apostolic connection mattered greatly, along with consistency with the apostolic faith and widespread reception in the churches. The church did not create the authority of Jesus’ apostles by voting centuries later. It recognized writings that bore that apostolic authority, though some books were discussed longer than others.\n\nThis means the apologetic should be strong without being careless. We can say that Jesus authorized the apostolic foundation from which the New Testament comes. We should not say Jesus personally named all twenty-seven books during his earthly ministry. The historical recognition of the canon is a real process, and acknowledging that process makes the argument more credible, not less.",
+    "heading": "From apostolic witness to the New Testament we have",
+    "body": "The last lesson established the bridge we needed: Jesus authorized an apostolic witness. But an authorized witness is still not the same thing as a twenty-seven-book New Testament. We now have to follow the evidence one more step.\n\nApostolic teaching began to circulate in writing during the first Christian generation. Paul’s letters are the clearest early example. He expects his letters to be read publicly in the churches and can describe his written instruction as carrying the Lord’s authority. Near the end of the first century, 1 Clement points the Corinthian church back to Paul’s earlier letter to them. That shows apostolic writings being preserved and appealed to across churches very early.\n\nThe same pattern broadens in the second century. Justin Martyr describes Christians gathering on Sunday and reading the “memoirs of the apostles” alongside the prophets. Irenaeus argues from Matthew, Mark, Luke, and John as the church’s four Gospels. This does not mean a complete twenty-seven-book list appeared immediately, but it does mean the central books were functioning authoritatively long before fourth-century councils.\n\nThat distinction matters. There was a large early core—especially the four Gospels and Paul’s letters—while a smaller group of books took longer to receive universal agreement. Christians discussed books such as James, Jude, 2 Peter, 2–3 John, and Revelation in some regions. The disagreement should not be hidden. It shows that the church was asking whether a writing genuinely belonged to the apostolic witness rather than accepting every Christian book that circulated.\n\nThe church’s role was therefore recognition, not creation. Christians looked at apostolic origin or close apostolic connection, consistency with the apostolic faith already received, and widespread use among the churches. Those questions were not a magic formula, but they help explain why some books were received broadly while other useful or popular Christian writings were not received as Scripture.\n\nThe Council of Nicaea did not choose the New Testament canon. The complete twenty-seven-book list appears clearly in the fourth century, but most of those books had already functioned as Scripture for generations. The later agreement settled the boundaries of a collection whose core was much older.\n\nOne final question remains: even if these are the right writings, do we still have what their authors wrote? This is where textual criticism belongs. The surviving manuscripts contain real variants because they were copied by hand. But having many manuscript witnesses gives scholars material to compare rather than leaving us with one late copy and no way to check it. Textual criticism works through those differences to recover the earliest attainable wording of the text. Some readings remain disputed, but the existence of variants does not mean the New Testament text has been lost.\n\nSo the argument does not depend on pretending that the canon dropped from heaven as a finished table of contents or that every manuscript copy is identical. The historical picture is stronger than that: Christ authorized apostles; apostolic teaching was written and circulated early; a large core was received very early; disputed books were examined over time; and the text has been preserved through a manuscript tradition that can be critically compared.",
     "facts": [
-      "Jesus chose apostles and sent them as authorized witnesses and teachers.",
-      "John 14:26 promises the Spirit will remind the apostles of Jesus’ teaching.",
-      "John 16:12–15 promises further guidance into truth in the immediate apostolic setting.",
-      "The early church gave special weight to apostolic origin or connection when recognizing New Testament books.",
-      "Recognition of the twenty-seven-book canon developed over time, with a strong core received early and some books discussed longer."
+      "Paul’s letters were written, circulated, and read publicly within the first Christian generation.",
+      "1 Clement, Justin Martyr, and Irenaeus show apostolic writings functioning authoritatively well before fourth-century councils.",
+      "A large core of the New Testament was recognized early, while a smaller group of books was disputed longer in some regions.",
+      "The church’s historical role is best described as recognizing writings tied to the apostolic witness rather than creating their authority by vote.",
+      "The Council of Nicaea did not choose the New Testament canon.",
+      "The first surviving clear list of all twenty-seven books is later than the early core, which is why a complete list should not be confused with the beginning of the canon.",
+      "Textual variants are real, but the manuscript tradition gives scholars evidence to compare in recovering the earliest attainable text."
     ],
     "further": [
       [
-        "Ligonier | The Authority of the Apostles",
-        "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-authority-of-the-apostles"
+        "Michael J. Kruger | An Essential Key to Understanding the Development of the NT Canon",
+        "https://michaeljkruger.com/an-essential-key-to-understanding-the-development-of-the-nt-canon/"
       ],
       [
-        "Ligonier | The New Testament Canon",
-        "https://learn.ligonier.org/devotionals/new-testament-canon"
+        "Michael J. Kruger | Early Christians and the Core NT Canon",
+        "https://michaeljkruger.com/10-misconceptions-about-the-nt-canon-5-early-christians-disagreed-widely-over-the-books-which-made-it-into-the-canon/"
       ],
       [
-        "The Gospel Coalition | Introduction to the New Testament",
-        "https://www.thegospelcoalition.org/essay/introduction-to-the-new-testament/"
+        "CSNTM | What Is a Textual Variant?",
+        "https://new.csntm.org/2023/03/29/ask-the-prof-what-is-a-textual-variant/"
       ],
       [
-        "Bible reference | John 14:25–26; 16:12–15",
-        "https://www.biblegateway.com/passage/?search=John%2014%3A25-26%3B%20John%2016%3A12-15&version=ESV"
+        "Primary source | 1 Clement 47",
+        "https://en.wikisource.org/wiki/1_Clement_(Hoole_translation)#CHAPTER_47"
+      ],
+      [
+        "Primary source | Justin Martyr, First Apology 67",
+        "https://ccel.org/ccel/justin_martyr/first_apology/anf01.viii.ii.lxvii.html"
+      ],
+      [
+        "Primary source | Irenaeus, Against Heresies 3.11",
+        "https://ccel.org/ccel/irenaeus/against_heresies_iii/anf01.ix.iv.xii.html"
       ]
     ]
   },
-  "why": "This lesson prevents the argument from making an easy but inaccurate leap. Jesus’ authority reaches the New Testament through the apostles he authorized and the writings the church recognized as apostolic.",
+  "why": "The argument to Scripture is incomplete if it stops at apostolic authority. We still need to know how apostolic teaching reaches particular writings, why those writings were received as the New Testament, and whether their text has been preserved well enough for us to know what they say.",
   "core": [
-    "Jesus did not personally present a completed New Testament canon during his earthly ministry.",
-    "He did choose and authorize apostles to bear witness and teach in his name.",
-    "He promised the Spirit’s help in remembering his teaching and guiding the apostolic witness.",
-    "Apostolic origin or close apostolic connection became a central mark in the church’s recognition of New Testament books.",
-    "The canon was recognized through a historical process; acknowledging that process is more accurate than pretending the list appeared all at once.",
-    "The Christian claim is therefore that the New Testament carries the authorized apostolic witness of Christ, not that Jesus verbally named every future book."
+    "Apostolic teaching began to circulate in written form during the first Christian generation.",
+    "Early Christian sources show the Gospels and Pauline letters being read, cited, and treated as authoritative well before later councils.",
+    "The historical evidence points to an early core canon rather than a fourth-century invention of the New Testament from scratch.",
+    "Some smaller books were disputed longer, and that disagreement should be acknowledged rather than hidden.",
+    "The church recognized writings connected to the apostolic witness; it did not create their authority merely by voting.",
+    "Nicaea did not select the New Testament canon.",
+    "Textual criticism addresses a different question from canon: whether we can recover the wording of the writings that were received.",
+    "The manuscript tradition contains variants but also supplies the comparative evidence scholars use to recover the earliest attainable text."
   ],
   "pressure": [
     [
-      "“Jesus never said, ‘These twenty-seven books are the New Testament.’”",
-      "Correct. The argument should not claim that. Jesus authorized apostles, promised them the Spirit’s help, and commissioned their teaching. The canon question then asks which writings carry that apostolic witness."
+      "“The church picked the books hundreds of years later.”",
+      "That picture ignores how early the central books were already functioning in Christian worship, teaching, and argument. Later agreement settled the boundaries of a collection whose core—the four Gospels, Paul, and other books—had been received much earlier."
     ],
     [
-      "“The church chose the Bible centuries later.”",
-      "The church did have to recognize and discuss the books, and some were debated longer than others. But a substantial core was received early, and apostolicity was a major criterion. Recognition is not the same thing as inventing the authority from nothing."
+      "“If some books were disputed, the canon is arbitrary.”",
+      "Disagreement over a smaller group does not mean Christians had no idea what belonged. It shows that they did not accept every Christian writing automatically. The disputed books were examined precisely because apostolic connection and reception mattered."
     ],
     [
-      "“Why trust Paul if he was not one of the Twelve?”",
-      "Paul’s apostleship has its own historical and theological case: he claimed an appearance of the risen Jesus, was known to the Jerusalem leaders, and his mission was recognized rather than carried on in isolation. This lesson does not need to pretend every apostolic question is simple."
+      "“Nicaea chose the Bible.”",
+      "The Council of Nicaea did not decide the New Testament canon. The canon developed through earlier use and recognition, with complete lists reflecting a process already underway for generations."
     ],
     [
-      "“Does John 16 promise every Christian will be infallible?”",
-      "No. The immediate setting is Jesus speaking to the apostles who had been with him. Christians can learn from the passage, but the promise about remembering Jesus’ words has a special relevance to the apostolic witnesses."
+      "“There are textual variants, so we cannot know what the New Testament originally said.”",
+      "Variants exist because manuscripts were copied by hand. But the many surviving witnesses give scholars material to compare. Textual criticism is the process of using that evidence to recover the earliest attainable wording rather than assuming every copy is identical."
     ]
   ],
-  "limits": "This lesson gives the bridge from Jesus to apostolic Scripture. It is not a full course on canon history, authorship of every New Testament book, or every disputed canonical question.",
-  "practice": "Someone says, “Jesus never told us which 27 books belong in the New Testament, so your argument fails.” How would you respond accurately?",
-  "model": "I agree that Jesus did not hand the disciples a finished table of contents. The argument is more careful than that. Jesus chose apostles, commissioned them to teach in his name, and promised the Spirit would help them remember and understand his teaching. The early church then recognized writings connected to that apostolic witness. So the New Testament step is about Christ-authorized apostles and the historical recognition of their writings.",
+  "limits": "This lesson gives the shape of the historical case for the twenty-seven-book New Testament and its preservation. A full defense of the authorship and canonicity of every disputed book would require much more space, so the deeper sources are provided for readers who want to examine individual books.",
+  "practice": "A coworker says, “The church chose the New Testament centuries after Jesus, and the copies all disagree anyway. How can that possibly be God’s Word?” How would you separate the canon question from the textual-preservation question and answer both?",
+  "model": "I would separate the issues. The canon question is which writings belong to the apostolic witness. A large core of the New Testament was already being used as authoritative very early, while a smaller group was examined longer before broad agreement. The text question is whether we still know what those writings said. Hand-copied manuscripts have variants, but having many witnesses lets scholars compare them and recover the earliest attainable wording. Neither issue is solved by pretending the history is perfectly simple.",
   "sources": [
     [
-      "Ligonier | The Authority of the Apostles",
-      "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-authority-of-the-apostles"
+      "Michael J. Kruger | An Essential Key to Understanding the Development of the NT Canon",
+      "https://michaeljkruger.com/an-essential-key-to-understanding-the-development-of-the-nt-canon/"
     ],
     [
-      "Ligonier | The New Testament Canon",
-      "https://learn.ligonier.org/devotionals/new-testament-canon"
+      "CSNTM | What Is a Textual Variant?",
+      "https://new.csntm.org/2023/03/29/ask-the-prof-what-is-a-textual-variant/"
     ]
   ],
   "evidence": {
-    "claim": "Jesus authorized apostles to teach and bear witness in his name, and apostolicity became central to the church’s recognition of New Testament Scripture.",
-    "establishes": "The sources support the special authority of the apostles, Jesus’ promises concerning their witness, and the historical role of apostolic origin and reception in canon recognition.",
-    "caution": "Jesus did not directly name a completed 27-book New Testament. The exact canon was recognized through a historical process, and some books were debated longer than others.",
+    "claim": "The historical evidence shows an early apostolic core, a real but limited process of dispute and recognition, and a manuscript tradition that can be critically compared.",
+    "establishes": "The New Testament was not created from scratch by a late council, and the existence of textual variants is compatible with substantial recovery of the earliest text.",
+    "caution": "Do not claim there was universal agreement on all twenty-seven books from the beginning or that every manuscript is identical. The stronger case explains the actual history.",
     "resources": [
       {
-        "type": "Reformed theology",
-        "title": "Ligonier | The Authority of the Apostles",
-        "why": "Explains delegated apostolic authority as authority received from Christ.",
-        "url": "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-authority-of-the-apostles"
+        "type": "Canon scholarship",
+        "title": "Michael J. Kruger | An Essential Key to Understanding the Development of the NT Canon",
+        "why": "Explains the early recognized core, the smaller disputed group, and why the fourth-century evidence should not be treated as the beginning of the canon.",
+        "url": "https://michaeljkruger.com/an-essential-key-to-understanding-the-development-of-the-nt-canon/"
       },
       {
-        "type": "Primary Christian source",
-        "title": "John 14:25–26",
-        "why": "Jesus promises the Spirit will bring his teaching to the apostles’ remembrance.",
-        "url": "https://www.biblegateway.com/passage/?search=John%2014%3A25-26&version=ESV"
+        "type": "Canon scholarship",
+        "title": "Michael J. Kruger | Early Christians and the Core NT Canon",
+        "why": "Shows that early disagreement was concentrated around a smaller number of books rather than the whole New Testament.",
+        "url": "https://michaeljkruger.com/10-misconceptions-about-the-nt-canon-5-early-christians-disagreed-widely-over-the-books-which-made-it-into-the-canon/"
       },
       {
-        "type": "Primary Christian source",
-        "title": "John 16:12–15",
-        "why": "Promises further guidance in the immediate apostolic setting.",
-        "url": "https://www.biblegateway.com/passage/?search=John%2016%3A12-15&version=ESV"
+        "type": "Textual criticism",
+        "title": "CSNTM | What Is a Textual Variant?",
+        "why": "Explains what textual variants are and how manuscript comparison is used in New Testament textual criticism.",
+        "url": "https://new.csntm.org/2023/03/29/ask-the-prof-what-is-a-textual-variant/"
       },
       {
-        "type": "Canon history",
-        "title": "Ligonier | The New Testament Canon",
-        "why": "Summarizes early consensus, debated books, and the role of apostolicity in recognizing the canon.",
-        "url": "https://learn.ligonier.org/devotionals/new-testament-canon"
-      },
-      {
-        "type": "New Testament introduction",
-        "title": "The Gospel Coalition | Introduction to the New Testament",
-        "why": "Explains apostolicity, orthodoxy, and widespread church use in canon recognition.",
-        "url": "https://www.thegospelcoalition.org/essay/introduction-to-the-new-testament/"
+        "type": "Primary sources",
+        "title": "1 Clement 47; Justin Martyr, First Apology 67; Irenaeus, Against Heresies 3.11",
+        "why": "Provide early examples of Pauline letters and apostolic Gospel writings being remembered, read, and treated authoritatively.",
+        "url": "https://en.wikisource.org/wiki/1_Clement_(Hoole_translation)#CHAPTER_47"
       }
     ]
   },
-  "thoughts": [
-    "Why is it inaccurate to say Jesus personally named all 27 New Testament books?",
-    "What authority did Jesus give the apostles?",
-    "Why do John 14 and 16 have a special apostolic setting?",
-    "What role did apostolicity play in recognizing the New Testament canon?",
-    "Why is recognition different from creating authority?"
-  ],
   "terms": [
     [
-      "Apostle",
-      "An authorized messenger of Christ, especially the foundational witnesses commissioned by the risen Jesus."
+      "Canon recognition",
+      "The historical recognition of writings received as carrying apostolic and divine authority rather than the church creating that authority."
+    ],
+    [
+      "Textual variant",
+      "A place where surviving manuscript copies differ in wording, spelling, word order, or another textual detail."
+    ],
+    [
+      "Textual criticism",
+      "The comparison of manuscript evidence to determine the earliest attainable wording of a text."
     ],
     [
       "Apostolicity",
-      "Connection to the apostles and their authorized teaching."
-    ],
-    [
-      "Canon recognition",
-      "The historical process by which the church identified the writings it received as Scripture."
+      "A writing’s connection to the apostles and the authoritative witness Christ entrusted to them."
     ]
   ],
-  "conclusion": "Remember this: Jesus did not hand over a finished New Testament table of contents. He authorized apostles, and the church received the New Testament as the written apostolic witness tied to that authority.",
-  "thread": "Study 18 showed how Jesus receives the Old Testament. Study 19 now completes the other side of the bridge by asking how Jesus’ authority reaches the apostolic witness that becomes the New Testament.",
-  "bigIdea": "Jesus’ authority reaches the New Testament through the apostles he commissioned and the writings received as their authoritative witness."
+  "conclusion": "The New Testament rests on the apostolic witness Christ authorized, was recognized through a real historical process rather than invented by a late council, and has been preserved through a manuscript tradition we can critically examine.",
+  "thread": "Jesus authorized apostles to carry His witness. Now we have to complete the bridge: how did that apostolic witness become the New Testament, and how do we know we still have its text?",
+  "bigIdea": "The New Testament’s authority does not begin with a church council. It comes through Christ’s apostles; the church historically recognized their writings, and the manuscript tradition preserves the text for us to examine.",
+  "checkpoints": [
+    {
+      "after": "core",
+      "question": "Why doesn’t the fact that some books were disputed prove that the whole New Testament was uncertain?",
+      "answer": "Because a large core was already recognized early. The longer debates concerned a smaller number of books at the edges of the collection."
+    },
+    {
+      "after": "body",
+      "question": "What is the difference between a canon question and a textual question?",
+      "answer": "The canon question asks which writings belong to Scripture. The textual question asks what those writings originally said. They are related but different historical problems."
+    }
+  ],
+  "story": {
+    "title": "Why these books?",
+    "lines": [
+      "Jordan is willing to grant the apostolic step, but he is not finished. “Authorized apostles are one thing. A twenty-seven-book New Testament is another.”",
+      "You agree.",
+      "“So who picked the books?” he asks. “And if the manuscripts have differences, how do you even know what those books originally said?”",
+      "You tell him those are two different questions—canon and text—and both deserve an actual historical answer."
+    ]
+  },
+  "conversationTips": [
+    "Do not answer canon objections with “the Bible says these books belong in the Bible.” Use the historical evidence for apostolic connection and early reception.",
+    "Admit the disputed books. The history is more convincing when you explain why a smaller group took longer rather than pretending there was instant universal agreement.",
+    "Keep canon and textual criticism separate. One asks which books; the other asks what the text says.",
+    "Avoid manuscript-number arguments that imply quantity alone proves truth. Manuscripts help recover wording, not prove the events narrated."
+  ]
 });
