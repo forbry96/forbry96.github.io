@@ -3,120 +3,125 @@ questions.push({
   "cat": "christianity",
   "tag": "Conclusion",
   "title": "So, has God spoken?",
-  "teaser": "Put the whole second step together: the God argued for in Part 1 acts in history, vindicates Jesus, and gives us reason to receive Scripture as his Word.",
+  "teaser": "Put the whole case together: from the Creator, to the risen Christ, to the Old and New Testament Scriptures, and finally to why God’s Word can be trusted as true.",
   "lesson": {
-    "heading": "Follow the chain all the way to Scripture",
-    "body": "The goal of classical apologetics is not to collect unrelated arguments. It is to build a connected case. Part 1 asked whether reality gives us good reason to believe in a necessary, intelligent, moral Creator. Study 10 then asked whether such a God could act in history.\n\nFrom there, the course did not begin by saying, ‘The Bible is inspired because the Bible says so.’ It treated the New Testament as historical evidence, asked what Jesus claimed, established his death and the tomb evidence, and argued that resurrection best explains the early proclamation and appearance reports.\n\nIf God raised Jesus, the resurrection vindicates Jesus. If Jesus is divinely vindicated, his teaching about God and revelation deserves trust. Jesus receives the Old Testament as authoritative Scripture and commissions apostles to bear authoritative witness in his name. The New Testament is received through that apostolic foundation.\n\nThe final inference is simple but important: if Scripture is God’s Word, and God is truthful, then what Scripture teaches is true. That does not mean every reader interprets every passage correctly, and it does not make every difficult question disappear. It means the Christian has a reasoned path from the existence of God to confidence in God’s written revelation.\n\nThis is the destination of the course: not merely ‘God probably exists’ and not merely ‘something strange happened to Jesus,’ but the conclusion that the God who exists has spoken in Christ and through Scripture.",
+    "heading": "The whole argument in one chain",
+    "body": "We can now put the second half of the course together without skipping any of the major links.\n\nStep 1 gave us a cumulative case for a rational, personal, perfectly good Creator. Because God exists, miracles cannot be ruled out simply because nature could not produce them. That opened the historical question rather than answering it in advance.\n\nWe then treated the New Testament writings first as ancient sources rather than assuming they were inspired. We found positive reasons to take those sources seriously and then asked what particular claims the evidence could establish. There is good historical reason to think Jesus made extraordinary claims about His identity and authority, that He was crucified and died, and that the resurrection best explains the early proclamation, appearance claims, transformed witnesses, and tomb evidence taken together.\n\nThe resurrection is the hinge. God did not raise an unknown person in a vacuum. He raised the Jesus whose claims had been publicly disputed and who had been executed. In that setting, the resurrection functions as God’s vindication of Jesus. The perfectly good Creator is confirming the authority of the person who was rejected.\n\nThat authority then leads us to revelation. We have historical reason to think Jesus consistently received Israel’s Scriptures as God’s authoritative Word. The Hebrew Scriptures He received correspond in content to the books of the Protestant Old Testament, though arranged and counted differently.\n\nJesus also established an authorized apostolic witness. The earliest Christian evidence already knows the Twelve and recognized apostles, and apostolic teaching was written, circulated, and received very early. The New Testament canon was not invented at Nicaea. A large core was functioning authoritatively long before later councils, while a smaller group of books was examined longer before broad agreement. The surviving manuscript tradition also gives us the evidence needed to recover the text rather than leaving us dependent on one late copy.\n\nThat is how the argument reaches Scripture rather than beginning with it. We did not say, “The Bible is God’s Word, therefore Christianity is true,” and then use Christianity to prove the Bible. We moved from reasons for God, to the historical case for Jesus, to the authority of the risen Jesus, to the Scriptures He received and the apostolic witness He authorized.\n\nThere is one more step before the conclusion about truth follows. The God argued for earlier is perfectly good. A perfectly good God is not deceptive. If these Scriptures are genuinely His revelation, then what God communicates through them is trustworthy and true.\n\nThat does not make every reader or translation infallible. We still have to interpret Scripture carefully, pay attention to genre and context, and distinguish what a text actually teaches from what someone may wrongly read into it. Nor does inspiration mean every manuscript copy has been transmitted without a single variant. The claim is about God’s truthful revelation given through human authors and faithfully available to us through the preserved text.\n\nSo the course ends somewhere stronger than “some kind of God probably exists.” The cumulative case gives us good reason to believe that the Creator has acted in Jesus Christ and has spoken through the Old and New Testament Scriptures.",
     "facts": [
-      "The course deliberately distinguishes historical use of the New Testament from later acceptance of its divine authority.",
-      "The resurrection is the hinge because it links the historical Jesus with divine vindication.",
-      "Jesus’ authority is then used to ground confidence in the Old Testament and the apostolic witness.",
-      "The New Testament canon step is mediated through apostolic authority and historical recognition, not a claim that Jesus named all 27 books directly.",
-      "If God is truthful and Scripture is God’s Word, then Scripture is truthful in what it teaches even though human interpretations can still be mistaken."
+      "The course does not assume biblical inspiration in order to establish the resurrection.",
+      "The historical case first establishes the authority of the risen Jesus, then asks what He taught and whom He authorized.",
+      "The view of Scripture we have good reason to trace to Jesus leads to Israel’s Scriptures, while His authorization of apostles provides the bridge to the New Testament.",
+      "Canon and textual preservation are separate historical questions, and both matter when identifying the Scripture Christians possess today.",
+      "The final move from authoritative revelation to truth depends on God’s perfectly good and non-deceptive character.",
+      "Scriptural truthfulness does not make every interpretation, translation, or manuscript copy infallible.",
+      "Genre and authorial meaning matter when asking what Scripture actually affirms."
     ],
     "further": [
       [
-        "Ligonier | The Purpose of Miracles",
-        "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-purpose-of-miracles"
+        "Biola | From Belief in Jesus to Belief in the New Testament",
+        "https://www.biola.edu/blogs/good-book-blog/2021/from-belief-in-jesus-to-belief-in-the-new-testament"
       ],
       [
-        "The Gospel Coalition | Jesus’s View of the Old Testament",
-        "https://www.thegospelcoalition.org/essay/jesuss-view-old-testament/"
+        "The Gospel Coalition | The Biblical Canon",
+        "https://www.thegospelcoalition.org/essay/the-biblical-canon/"
       ],
       [
-        "Ligonier | The Authority of the Apostles",
-        "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-authority-of-the-apostles"
+        "Michael J. Kruger | An Essential Key to Understanding the Development of the NT Canon",
+        "https://michaeljkruger.com/an-essential-key-to-understanding-the-development-of-the-nt-canon/"
       ],
       [
-        "Ligonier | The New Testament Canon",
-        "https://learn.ligonier.org/devotionals/new-testament-canon"
+        "Ligonier | The Authority and Inspiration of the Scriptures",
+        "https://learn.ligonier.org/articles/the-authority-and-inspiration-of-the-scriptures"
+      ],
+      [
+        "CSNTM | The Center for the Study of New Testament Manuscripts",
+        "https://www.csntm.org/"
       ]
     ]
   },
-  "why": "This final core study makes the argument visible as one connected path and states the claims at their proper strength instead of leaving the reader to make hidden leaps.",
+  "why": "This final lesson should not merely repeat the topics we covered. It should show that the conclusion about Scripture actually follows from the chain the course has built and make clear where God’s truthfulness enters the argument.",
   "core": [
-    "There is good reason to believe a Creator exists.",
-    "If God exists, miracles are possible and must be judged by evidence rather than ruled out in advance.",
-    "The New Testament can be investigated historically before inspiration is assumed.",
-    "The sources present Jesus making extraordinary claims, and the resurrection case gives strong reason to think God raised him.",
-    "The resurrection therefore vindicates Jesus and gives strong reason to trust his divine authority.",
-    "Jesus receives the Old Testament as God’s authoritative Scripture and authorizes apostles to teach and witness in his name.",
-    "The New Testament is received through that apostolic foundation and the historical recognition of apostolic writings.",
-    "Because God is truthful, God’s Word is true. The remaining task is careful interpretation, not deciding whether God can lie."
+    "Natural theology gives us reasons for a rational, personal, perfectly good Creator.",
+    "The historical case for Jesus is built from sources before biblical inspiration is assumed.",
+    "The resurrection functions as God’s vindication of the Jesus whose claims and authority had been historically established.",
+    "The authority of Jesus gives us reason to receive the Old Testament He received and the apostolic witness He authorized.",
+    "Historical canon evidence identifies the New Testament as the written apostolic witness recognized by the church rather than created by it.",
+    "Textual criticism gives us access to the wording of those writings through the surviving manuscript tradition.",
+    "If Scripture is genuinely God’s revelation and God is perfectly good and truthful, then what Scripture affirms is true.",
+    "Human interpretation remains fallible, so careful reading, context, and genre still matter."
   ],
   "pressure": [
     [
-      "“This still ends with the Bible. Isn’t that circular?”",
-      "A circular argument would assume biblical inspiration as the premise that proves biblical inspiration. This course did not do that. It began with natural theology and then used New Testament documents historically before arguing to Jesus’ authority and only then to Scripture."
+      "“This is still circular because all your historical evidence comes from the Bible.”",
+      "Using documents that are now in the Bible as ordinary historical sources is not the same as assuming they have divine authority. The authority conclusion comes later, after the historical case reaches the risen Jesus and then follows His teaching and apostolic commission."
     ],
     [
-      "“Does this prove every disputed doctrine?”",
-      "No. It gives a reasoned basis for receiving Scripture as the authoritative source for doctrine. Particular doctrines still require careful interpretation of what Scripture teaches."
+      "“You never proved every sentence in the Bible historically.”",
+      "We do not need to. Historical investigation establishes the authority through which Scripture is received as revelation. Once a truthful God is identified as the one speaking, the truthfulness of His revelation rests on His character rather than on independently re-proving every statement in Scripture."
     ],
     [
-      "“What if I disagree with one link in the chain?”",
-      "Then that is exactly where the conversation should focus. A cumulative argument is useful because the point of disagreement can be identified rather than hidden."
+      "“What about disputed canon books?”",
+      "The course does not hide them. A large core of the New Testament was recognized early, while a smaller group was examined longer. The canon conclusion rests on the historical process of apostolic connection, reception, and recognition rather than pretending every book had identical evidence from day one."
     ],
     [
-      "“Are you claiming there are no hard textual or canon questions?”",
-      "No. Textual criticism and canon history involve real questions. The claim is that those questions can be studied within a strong historical and theological case rather than used as a reason to dismiss Scripture without examination."
+      "“What about contradictions or textual variants?”",
+      "A textual variant is a difference among manuscript copies, not automatically a contradiction in what the original authors taught. Textual criticism asks what the earliest text said; interpretation then asks what that text means. Difficult passages should be examined individually rather than used to erase the entire argument in advance."
     ]
   ],
-  "limits": "This course gives a cumulative apologetic, not mathematical certainty. It does not solve every interpretive, canonical, scientific, or theological question. Its claim is that the full chain gives rational grounds for Christian confidence in God’s revelation.",
-  "practice": "Give the entire Part 2 argument in about a minute, from miracles to Scripture.",
-  "model": "If the God argued for in Part 1 exists, miracles are possible. The New Testament can then be examined as early historical evidence rather than assumed to be inspired. Those sources present Jesus making extraordinary claims, dying by crucifixion, and being proclaimed alive very early. I think resurrection best explains the appearances and tomb evidence. If God raised Jesus, God vindicated him. That gives me reason to trust Jesus’ authority. Jesus receives the Old Testament as God’s Word and authorizes apostles whose witness stands behind the New Testament. So I have a reasoned path to receiving Scripture as God’s Word, and because God is truthful, what God reveals is true.",
+  "limits": "This course gives an introductory cumulative case for receiving the Protestant Old and New Testament Scriptures as God’s truthful Word. It does not replace detailed work on every canon dispute, textual variant, difficult passage, genre question, or theological doctrine.",
+  "practice": "Someone says, “I can follow your argument to Jesus, but I still do not see how that gets you all the way to saying the Bible is God’s true Word.” Explain the chain without simply saying, “because the Bible says so.”",
+  "model": "I would start where the course started. There are good reasons to believe in a perfectly good Creator. If God exists, miracles are possible, so we can investigate Jesus historically. The New Testament documents can first be used as historical sources without assuming inspiration. The evidence gives us reason to believe Jesus made extraordinary claims and that God raised Him from the dead. That vindicates Jesus’ authority. Historically, Jesus receives Israel’s Scriptures as God’s Word and authorizes apostles to carry His witness. Their teaching was written, received, and recognized in the New Testament. If those Scriptures are genuinely God’s revelation, then the character of a perfectly good God gives us reason to trust what He reveals as true.",
   "sources": [
     [
-      "Ligonier | The Purpose of Miracles",
-      "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-purpose-of-miracles"
+      "Biola | From Belief in Jesus to Belief in the New Testament",
+      "https://www.biola.edu/blogs/good-book-blog/2021/from-belief-in-jesus-to-belief-in-the-new-testament"
     ],
     [
-      "The Gospel Coalition | Jesus’s View of the Old Testament",
-      "https://www.thegospelcoalition.org/essay/jesuss-view-old-testament/"
+      "The Gospel Coalition | The Biblical Canon",
+      "https://www.thegospelcoalition.org/essay/the-biblical-canon/"
     ],
     [
-      "Ligonier | The Authority of the Apostles",
-      "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-authority-of-the-apostles"
+      "Ligonier | The Authority and Inspiration of the Scriptures",
+      "https://learn.ligonier.org/articles/the-authority-and-inspiration-of-the-scriptures"
     ]
   ],
   "evidence": {
-    "claim": "The classical apologetic can move non-circularly from natural theology, through the historical Jesus and resurrection, to Christ’s authority and then to Scripture.",
-    "establishes": "The sources and previous studies supply the individual links: miracles as authentication, resurrection as vindication, Jesus’ view of the Old Testament, apostolic authority, and canon recognition.",
-    "caution": "This is a cumulative argument. Its conclusion is only as strong as the combined links, and receiving Scripture as true does not make every interpreter automatically correct.",
+    "claim": "These sources support the final bridge from the historical case for Jesus to the authority, canon, preservation, and truthfulness of Scripture.",
+    "establishes": "The larger argument can move non-circularly from theism to Christ and then to Scripture, while canon and textual preservation are treated as real historical questions rather than assumed.",
+    "caution": "This is a cumulative apologetic case, not a claim that every subsidiary historical or textual question has been settled in one lesson.",
     "resources": [
       {
-        "type": "Classical apologetics",
-        "title": "Ligonier | The Purpose of Miracles",
-        "why": "Shows how miracles function as authentication after God’s existence is established.",
-        "url": "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-purpose-of-miracles"
+        "type": "Method",
+        "title": "Biola | From Belief in Jesus to Belief in the New Testament",
+        "why": "Provides a clear version of the historical move from resurrection to Jesus’ authority and then toward Scripture.",
+        "url": "https://www.biola.edu/blogs/good-book-blog/2021/from-belief-in-jesus-to-belief-in-the-new-testament"
       },
       {
-        "type": "Biblical studies",
-        "title": "The Gospel Coalition | Jesus’s View of the Old Testament",
-        "why": "Supports the claim that Jesus treats Israel’s Scriptures as divine and authoritative.",
-        "url": "https://www.thegospelcoalition.org/essay/jesuss-view-old-testament/"
+        "type": "Canon overview",
+        "title": "The Gospel Coalition | The Biblical Canon",
+        "why": "Surveys historical evidence for both Old and New Testament canon recognition.",
+        "url": "https://www.thegospelcoalition.org/essay/the-biblical-canon/"
       },
       {
-        "type": "Reformed theology",
-        "title": "Ligonier | The Authority of the Apostles",
-        "why": "Explains Christ’s delegated authority to the apostles.",
-        "url": "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul/the-authority-of-the-apostles"
+        "type": "Canon scholarship",
+        "title": "Michael J. Kruger | An Essential Key to Understanding the Development of the NT Canon",
+        "why": "Explains the early core and later disputed books without treating the canon as a fourth-century invention.",
+        "url": "https://michaeljkruger.com/an-essential-key-to-understanding-the-development-of-the-nt-canon/"
       },
       {
-        "type": "Canon history",
-        "title": "Ligonier | The New Testament Canon",
-        "why": "Summarizes the historical recognition of the apostolic New Testament writings.",
-        "url": "https://learn.ligonier.org/devotionals/new-testament-canon"
+        "type": "Teaching",
+        "title": "Ligonier | The Authority and Inspiration of the Scriptures",
+        "why": "Connects Christ, apostolic authority, inspiration, and the truthfulness of God’s Word.",
+        "url": "https://learn.ligonier.org/articles/the-authority-and-inspiration-of-the-scriptures"
+      },
+      {
+        "type": "Textual criticism",
+        "title": "CSNTM | Center for the Study of New Testament Manuscripts",
+        "why": "Provides manuscript resources and explains the scholarly work of preserving and studying the New Testament text.",
+        "url": "https://www.csntm.org/"
       }
     ]
   },
-  "thoughts": [
-    "Where does the argument stop assuming and start inferring?",
-    "Why is the resurrection the hinge between history and authority?",
-    "How does Jesus’ authority lead separately to the Old Testament and New Testament?",
-    "Why does the truth of Scripture not guarantee that every interpretation is right?",
-    "Which link in the whole chain would you most want to practice explaining?"
-  ],
   "terms": [
     [
       "Revelation",
@@ -124,14 +129,49 @@ questions.push({
     ],
     [
       "Divine inspiration",
-      "God’s work by which Scripture is given as his authoritative Word through human authors."
+      "God’s work in giving Scripture through human authors as His authoritative Word."
     ],
     [
-      "Cumulative argument",
-      "A connected case whose strength comes from several supported steps working together."
+      "Inerrancy",
+      "The claim that Scripture, rightly understood according to what its authors affirm, does not teach falsehood."
+    ],
+    [
+      "Canon",
+      "The recognized collection of writings received as Scripture."
+    ],
+    [
+      "Textual criticism",
+      "The comparison of manuscript evidence to recover the earliest attainable wording of a text."
     ]
   ],
-  "conclusion": "Remember the path: God exists → miracles are possible → Jesus can be investigated historically → Jesus made extraordinary claims → Jesus died and the resurrection best explains what followed → God vindicated Jesus → Jesus’ teaching is authoritative → Jesus receives the Old Testament and authorizes the apostles → Scripture is God’s Word → the truthful God speaks truth.",
-  "thread": "This is the end of the core path. Part 1 asked whether God exists. Part 2 asked whether that God has spoken. The course’s answer is yes: decisively in Christ, and through the Scriptures Christ receives and authorizes.",
-  "bigIdea": "The destination of classical apologetics is not merely “God exists,” but “the God who exists has spoken.”"
+  "conclusion": "The cumulative case gives us good reason to believe that the Creator has acted in Jesus Christ and has spoken through the Old and New Testament Scriptures. Because the God who speaks is perfectly good and truthful, His Word can be trusted as true.",
+  "thread": "We have moved from the Creator to the risen Christ, from Christ to the Scriptures He received and the apostles He authorized, and from those witnesses to the Bible. Now put the chain together and ask whether it reaches its intended conclusion.",
+  "bigIdea": "The course does not begin by assuming the Bible is God’s Word. It arrives at Scripture through the risen Christ and concludes that the truthful God has spoken.",
+  "checkpoints": [
+    {
+      "after": "core",
+      "question": "What keeps the final argument from being “the Bible is true because the Bible says it is true”?",
+      "answer": "The resurrection and Jesus’ authority are argued historically before inspiration is assumed. Scripture’s authority is reached through the vindicated Jesus and the apostolic witness He authorized."
+    },
+    {
+      "after": "body",
+      "question": "Why does God’s character matter once Scripture has been identified as His revelation?",
+      "answer": "Because the Creator argued for earlier is perfectly good rather than deceptive. If God truly speaks through Scripture, His character gives us reason to trust what He communicates as true."
+    }
+  ],
+  "story": {
+    "title": "The Bible on the shelf",
+    "lines": [
+      "The walk ends at Jordan’s house. A Bible is sitting on a shelf near the door, and he takes it down.",
+      "“I see the route now,” he says. “You did not start with this book and tell me I had to accept it first.”",
+      "He thinks through it out loud: the case for God, miracles, the historical sources, Jesus’ claims, His death and resurrection, Jesus’ authority, the Old Testament, the apostles, and then the New Testament.",
+      "He looks down at the Bible again. “So if all of those links hold, you are saying this is not just a record of people looking for God. You are saying God actually spoke.”"
+    ]
+  },
+  "conversationTips": [
+    "If someone rejects the final conclusion, find the first link in the chain they actually dispute instead of restarting the entire course.",
+    "Do not make canon or textual history sound easier than it is. A strong case can admit real disputes and still explain why the conclusion is reasonable.",
+    "Keep revelation and interpretation separate. A truthful message can still be misunderstood by a fallible reader.",
+    "The final claim is not that every Christian argument or interpretation is infallible. It is that the God reached through the cumulative case has given truthful revelation."
+  ]
 });
