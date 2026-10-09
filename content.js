@@ -5222,7 +5222,7 @@ const tests = {
         "Jesus authorized apostles; their witness was foundational, and writings tied to that witness were recognized by the church."
       ],
       "a": 3,
-      "exp": "The chain runs from Christ to his authorized apostles and their witness, with the church historically recognizing rather than creating that authority."
+      "exp": "The chain runs from Christ to His authorized apostles and their witness. The church then recognizes writings tied to that apostolic witness rather than creating their authority."
     },
     {
       "q": "Someone says, “Of course we observe a life-permitting universe. If it were not life-permitting, we would not be here to observe it.” What question remains?",
@@ -5284,11 +5284,11 @@ const tests = {
       "opts": [
         "Natural theology proves the full Christian doctrine of God, after which the historical case mainly confirms what is already known.",
         "The resurrection by itself establishes the authority, interpretation, and exact boundaries of the entire Christian Bible.",
-        "The case for God, Jesus’ vindication, and his teaching about revelation build toward the conclusion that God has spoken.",
+        "The case for God, Jesus’ vindication, and the Scriptures Jesus received and the apostles He authorized build toward the conclusion that God has spoken.",
         "Once Christianity explains more facts than naturalism, every remaining theological question can be treated as settled."
       ],
       "a": 2,
-      "exp": "The course builds step by step: reasons for God, a historical case for Jesus and the resurrection, Jesus’ authority, and then his teaching about revelation."
+      "exp": "The course builds step by step: reasons for God, the historical case for Jesus and the resurrection, Jesus’ authority, then the Old Testament He received and the apostolic witness behind the New Testament."
     },
     {
       "q": "Which kind of evidence would most strengthen a design inference rather than merely point to something complicated?",
@@ -5332,7 +5332,7 @@ const tests = {
         "That textual variants are irrelevant because divine authority removes the need for textual criticism."
       ],
       "a": 1,
-      "exp": "Jesus’ repeated posture supports the divine authority of Scripture. It does not by itself settle every later canon, textual, or interpretive question."
+      "exp": "Jesus’ repeated posture supports the divine authority of the Scriptures He received. The exact canon question is related but still has to be handled historically."
     },
     {
       "q": "A neuroscientist gives a complete physical account of what happened in someone’s brain while that person formed a belief. What additional question does the argument from reason raise?",
@@ -5584,21 +5584,21 @@ const tests = {
         "God was confirming Jesus in a remarkable way, so Jesus' claims and teaching deserve serious trust.",
         "It would mainly confirm that Jesus correctly expected something extraordinary after his death, without adding much to his broader authority.",
         "It would show that God acted through Jesus, but would not give us much reason to trust Jesus' teaching about God.",
-        "It would establish the authority of later Christian writings directly, before asking what Jesus taught about his apostles or Scripture."
+        "God was vindicating Jesus in the setting of His extraordinary claims, giving strong reason to trust Jesus’ authority."
       ],
       "a": 0,
-      "exp": "In the setting of Jesus' claims, resurrection would function as a powerful confirmation of Jesus himself. The argument still has further steps before reaching the authority of later writings."
+      "exp": "The resurrection does not make every reported saying automatically authentic. In the setting of Jesus’ claims, however, it functions as God’s vindication of Jesus and His authority."
     },
     {
       "q": "Someone says, “You are using the Bible to prove the Bible. Isn't that circular?” What is the course's answer?",
       "opts": [
-        "The argument avoids the problem once some New Testament details are confirmed by non-Christian sources.",
+        "Start by examining the documents historically, build the case for the risen Jesus, and then ask what that vindicated Jesus taught and whom He authorized.",
         "Start by examining the documents historically, build the case for Jesus, and then ask what the trustworthy Jesus taught about Scripture.",
         "Use only non-Christian sources until the resurrection is established, and then bring the New Testament into the argument.",
         "Several biblical books can confirm one another, so using them together is enough to avoid circular reasoning."
       ],
       "a": 1,
-      "exp": "The key distinction is between first using the documents as historical sources without assuming inspiration and later arguing for their authority from Jesus."
+      "exp": "The documents are first used historically without assuming inspiration. The authority question comes later through the risen Jesus, His view of Scripture, and the apostles He authorized."
     },
     {
       "q": "Jesus repeatedly treats Israel's Scriptures as God's word and appeals to them as final authority. What does that most directly tell us?",
@@ -5615,23 +5615,23 @@ const tests = {
       "q": "A friend asks, “Did Jesus personally hand the church a list of the 27 New Testament books?” What is the better explanation?",
       "opts": [
         "Jesus appointed and authorized apostles, and writings tied to their witness came to be received by the early churches as authoritative.",
-        "Jesus passed his authority to the church as an institution, so later church decisions are what made the selected books authoritative.",
+        "Jesus authorized apostles, and writings tied to their witness were received and recognized over time rather than made authoritative by a later church vote.",
         "The strongest basis for the canon is simply which books became most widely used by Christians, even without a clear connection to apostolic witness.",
         "All first-generation Christian writings began with roughly equal authority until the church gradually narrowed the list."
       ],
       "a": 0,
-      "exp": "The course's argument runs from Christ to his authorized apostolic witness, with the early church recognizing writings tied to that witness rather than creating their authority."
+      "exp": "The course moves from Christ to His authorized apostles, then to the writings tied to that witness. A large core was recognized early, while a smaller group of books was examined longer."
     },
     {
       "q": "Suppose you have good reason to believe that Scripture really is God's word. Why would that give you reason to trust what it teaches?",
       "opts": [
         "Because once a text is recognized as revelation, its most obvious reading should normally be accepted without much concern for competing interpretations.",
         "Because God's truthfulness guarantees that sincere readers will reach the correct interpretation on the important questions.",
-        "Because a truthful God can be trusted in what he reveals, even though readers still need to interpret it carefully.",
+        "Because a perfectly good God is not deceptive, so what He genuinely reveals can be trusted as true even though readers still have to interpret it carefully.",
         "Because Scripture's authority ultimately rests on how well its teachings fit the Christian beliefs we already hold."
       ],
       "a": 2,
-      "exp": "Confidence in Scripture rests on the truthfulness of the God who speaks. That does not make readers infallible, so interpretation still requires care."
+      "exp": "Confidence in Scripture rests on the character of the God who speaks. A truthful revelation does not make readers, translations, or individual manuscript copies infallible."
     }
   ]
 };
