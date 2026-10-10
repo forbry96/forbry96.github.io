@@ -92,3 +92,8 @@ h1{font-size:clamp(2.15rem,6vw,4.1rem);line-height:1.04;margin:10px 0 18px}
 .conversation-tips ul{margin:0;padding-left:1.2rem}
 .conversation-tips li{line-height:1.65}
 .conversation-tips li+li{margin-top:.7rem}
+/* Guiding question on each shareable lesson page */
+.study-hero .where-fit{margin-top:24px}
+.study-hero .where-fit span{display:block;font-size:10px;letter-spacing:.09em;text-transform:uppercase;color:var(--accent);font-weight:800;margin-bottom:5px}
+.study-hero .where-fit strong{display:block;font-family:Georgia,"Times New Roman",serif;font-size:20px;font-weight:500;line-height:1.3}
+.study-hero .where-fit p{font-size:13.5px;line-height:1.55;color:var(--muted);margin:6px 0 0}

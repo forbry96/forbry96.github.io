@@ -228,17 +228,30 @@ function renderQuestions(){
   const stage = category.value;
   const grid = document.querySelector('#questionGrid');
 
+  const renderCard = (q, module) => {
+    const done = isComplete(q.id);
+    return `<article id="question-${q.id}" class="question-card${done?' completed':''}" data-open="${q.id}" tabindex="0" role="button" aria-label="Open study: ${esc(q.title)}">
+      <div class="question-card-top"><span class="question-tag">Study ${String(q.id).padStart(2,'0')} · ${esc(module.shortLabel)} · ${esc(q.tag)}</span>${done?'<span class="complete-badge">✓ Complete</span>':''}</div>
+      <h3>${esc(q.title)}</h3><p>${esc(q.teaser)}</p><div class="card-foot with-direct-link"><span>Open study</span><a class="card-direct-link" href="${esc(studyDirectPath(q.id))}" target="_blank" rel="noopener noreferrer" aria-label="Open shareable lesson page in a new tab: ${esc(q.title)}">Share this lesson</a></div></article>`;
+  };
   const modules = lessonModules.filter(m => stage === 'all' || m.key === stage);
   const html = modules.map(module => {
-    const items = module.studyIds.map(byId).filter(Boolean).filter(q => studySearchText(q).includes(term));
+    const groups = module.groups || [];
+    const matches = q => studySearchText(q).includes(term) ||
+      groups.some(g => (g.studyIds || []).includes(q.id) && (g.title + ' ' + (g.description || '')).toLowerCase().includes(term));
+    const items = module.studyIds.map(byId).filter(Boolean).filter(matches);
     if(!items.length) return '';
-    const cards = items.map(q => {
-      const done = isComplete(q.id);
-      return `<article id="question-${q.id}" class="question-card${done?' completed':''}" data-open="${q.id}" tabindex="0" role="button" aria-label="Open study: ${esc(q.title)}">
-        <div class="question-card-top"><span class="question-tag">Study ${String(q.id).padStart(2,'0')} · ${esc(module.shortLabel)} · ${esc(q.tag)}</span>${done?'<span class="complete-badge">✓ Complete</span>':''}</div>
-        <h3>${esc(q.title)}</h3><p>${esc(q.teaser)}</p><div class="card-foot with-direct-link"><span>Open study</span><a class="card-direct-link" href="${esc(studyDirectPath(q.id))}" target="_blank" rel="noopener noreferrer" aria-label="Open shareable lesson page in a new tab: ${esc(q.title)}">Share this lesson</a></div></article>`;
-    }).join('');
-    const groupGuide = module.groups?.length ? `<div class="module-subgroups">${module.groups.map(g=>`<span>${esc(g.title || g.label)}</span>`).join('')}</div>` : '';
+    const sectionContent = groups.length ? groups.map((group, i) => {
+      const groupItems = items.filter(q => group.studyIds.includes(q.id));
+      if(!groupItems.length) return '';
+      const headingId = 'subquestion-' + module.key + '-' + (i + 1);
+      const range = 'Studies ' + group.studyIds[0] + '–' + group.studyIds[group.studyIds.length - 1];
+      return `<section class="study-subgroup" aria-labelledby="${headingId}">
+        <div class="study-subgroup-head"><div class="study-subgroup-meta">Question ${i + 1} of ${groups.length} · ${range}</div>
+        <h4 id="${headingId}">${esc(group.title)}</h4><p>${esc(group.description || '')}</p></div>
+        <div class="question-grid">${groupItems.map(q => renderCard(q, module)).join('')}</div>
+      </section>`;
+    }).join('') : `<div class="question-grid">${items.map(q => renderCard(q, module)).join('')}</div>`;
     const first = items[0];
     const moduleDone = module.studyIds.filter(isComplete).length;
     const progressLabel = `${moduleDone}/${module.studyIds.length} complete`;
@@ -250,7 +263,7 @@ function renderQuestions(){
       </article>` : '';
     return `<section class="learning-module ${module.core?'core-module':'bonus-module'}" data-module="${esc(module.key)}">
       <div class="learning-module-head"><div><span class="module-label">${esc(module.label)}</span><h3>${esc(module.title)}</h3><p>${esc(module.description)}</p></div><div class="module-actions"><span class="module-count">${progressLabel}</span><button class="module-start" type="button" data-open="${first.id}">${module.key==='foundation'?'Start here':'Start this section'}</button></div></div>
-      ${groupGuide}<div class="question-grid">${cards}</div>${quickReference}
+      ${sectionContent}${quickReference}
     </section>`;
   }).join('');
   grid.innerHTML = html || '<p>No questions matched that search.</p>';
@@ -506,8 +519,9 @@ function openQuestion(id){
   const q = byId(id); if(!q) return;
   const done = isComplete(q.id);
   const module = moduleForStudy(q.id);
+  const subgroup = module?.groups?.find(g => (g.studyIds || []).includes(q.id));
   const bigIdea = q.bigIdea || memorableBigIdeas[q.id] || q.evidence?.claim || q.lesson?.heading || q.teaser;
-  let html = `<p class="detail-kicker">${esc(module?.label || q.tag)} · Study ${String(q.id).padStart(2,'0')}</p><h2 id="modalTitle">${esc(q.title)}</h2><p class="wide-copy">${esc(q.teaser)}</p><div class="where-fit"><span>Where this fits</span><strong>${esc(module?.title || q.tag)}</strong><p>${esc(module?.description || '')}</p></div>`;
+  let html = `<p class="detail-kicker">${esc(module?.label || q.tag)} · Study ${String(q.id).padStart(2,'0')}</p><h2 id="modalTitle">${esc(q.title)}</h2><p class="wide-copy">${esc(q.teaser)}</p><div class="where-fit"><span>${esc(module?.label || 'Course')} · Where this fits</span><strong>${esc(subgroup?.title || module?.title || q.tag)}</strong><p>${esc(subgroup?.description || module?.description || '')}</p></div>`;
   if(q.thread) html += `<div class="thread-note"><span>THE THREAD</span><p>${esc(q.thread)}</p></div>`;
   if(q.story?.lines?.length){
     html += `<section class="jordan-story"><div class="jordan-story-label">A WALK WITH JORDAN</div><h3>${esc(q.story.title || 'The conversation continues')}</h3><div class="jordan-story-copy">${q.story.lines.map(line=>`<p>${esc(line)}</p>`).join('')}</div></section>`;

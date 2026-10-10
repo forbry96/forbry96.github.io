@@ -35,6 +35,7 @@
     const q=byId(id);
     if(!q){ root.innerHTML="<p>This study could not be loaded. <a href='/#questions'>Return to the course.</a></p>"; return; }
     const mod=moduleFor(id)||{};
+    const subgroup=(mod.groups||[]).find(g=>(g.studyIds||[]).includes(id));
     const order=(typeof lessonModules!=="undefined"?lessonModules:[]).flatMap(m=>m.studyIds||[]);
     const pos=order.indexOf(id), prev=pos>0?byId(order[pos-1]):null, next=pos>=0&&pos<order.length-1?byId(order[pos+1]):null;
     const full="/?study="+id+"#questions";
@@ -45,7 +46,7 @@
       <p class="lede">${esc(q.teaser)}</p>
       <div class="study-actions"><a class="study-button primary" href="${full}">Return to full course and continue progress</a><a class="study-button" href="/#questions">Browse all lessons</a></div>
       <p class="progress-note"><strong>You are viewing a shareable lesson page.</strong> Return to the full course to have this study count toward your progress and mark it complete there.</p>
-      <div class="where-fit"><strong>Where this fits</strong>${esc(mod.title||q.tag)}</div>
+      <div class="where-fit"><span>${esc(mod.label||'Course')} · Where this fits</span><strong>${esc(subgroup?.title||mod.title||q.tag)}</strong><p>${esc(subgroup?.description||mod.description||'')}</p></div>
     </header>`;
     if(q.thread) html+=`<section class="study-section"><div class="eyebrow">THE THREAD</div><p>${esc(q.thread)}</p></section>`;
     if(q.story&&q.story.lines&&q.story.lines.length){

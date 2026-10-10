@@ -4236,8 +4236,8 @@ const lessonModules = [
     "key": "foundation",
     "label": "Before the two steps",
     "shortLabel": "Foundation",
-    "title": "Learn how to reason, know, and weigh evidence",
-    "description": "These two studies give you the basic tools used throughout classical apologetics. They prepare the ground; they are not a third apologetic step.",
+    "title": "How do we know what is true?",
+    "description": "Begin with the basics: how arguments work and how evidence helps us decide what to believe.",
     "studyIds": [
       1,
       2
@@ -4262,14 +4262,16 @@ const lessonModules = [
     "core": true,
     "groups": [
       {
-        "title": "Existence and beginning",
+        "title": "Why does anything exist?",
+        "description": "Begin with dependent things, the universe's beginning, and what would explain them.",
         "studyIds": [
           3,
           4
         ]
       },
       {
-        "title": "Design and order",
+        "title": "Does nature point to a Designer?",
+        "description": "Consider how the universe and living things are ordered, and whether intelligence best explains them.",
         "studyIds": [
           5,
           6,
@@ -4277,7 +4279,8 @@ const lessonModules = [
         ]
       },
       {
-        "title": "Morality and reason",
+        "title": "What do morality and reason tell us about God?",
+        "description": "Move from the physical world to right and wrong and our ability to recognize truth.",
         "studyIds": [
           8,
           9
@@ -4289,8 +4292,8 @@ const lessonModules = [
     "key": "bridge",
     "label": "The bridge",
     "shortLabel": "Bridge",
-    "title": "If God exists, miracles are possible in principle",
-    "description": "With theism established as a serious conclusion, divine action can be considered rather than ruled out before the historical evidence is heard.",
+    "title": "Can God act in the world?",
+    "description": "If a Creator exists, could He act beyond what nature ordinarily does? This prepares us to investigate Jesus' resurrection.",
     "studyIds": [
       10
     ],
@@ -4317,7 +4320,8 @@ const lessonModules = [
     "core": true,
     "groups": [
       {
-        "title": "Historical starting point",
+        "title": "What can we know about Jesus?",
+        "description": "Examine the historical sources, Jesus' own claims, His death, and the tomb.",
         "studyIds": [
           11,
           12,
@@ -4325,7 +4329,8 @@ const lessonModules = [
         ]
       },
       {
-        "title": "Resurrection and vindication",
+        "title": "Did Jesus rise, and what would that establish?",
+        "description": "Compare the resurrection evidence with other explanations, then ask what it tells us about Jesus.",
         "studyIds": [
           14,
           15,
@@ -4333,7 +4338,8 @@ const lessonModules = [
         ]
       },
       {
-        "title": "From Christ to Scripture",
+        "title": "How do we get from Jesus to the Bible?",
+        "description": "Follow Jesus' teaching about Scripture through the apostles, the New Testament, and the final conclusion.",
         "studyIds": [
           17,
           18,
