@@ -6,7 +6,7 @@ questions.push({
   "teaser": "If God raised the Jesus whose claims we have historically examined, the resurrection is not just an unusual event. It is God’s vindication of Jesus and gives His teaching unique authority.",
   "lesson": {
     "heading": "From resurrection to the authority of Jesus",
-    "body": "Suppose the historical case from the last several studies succeeds. Jesus really made extraordinary claims, He really died, and God raised Him from the dead. What follows from that?\n\nNot every miracle would automatically make every statement a person ever made true. That is not the argument. The meaning comes from the setting. Jesus had already placed Himself in an extraordinary relationship to God, claimed unusual authority, been rejected, and been executed. If the perfectly good Creator then raises that same Jesus from the dead, God is not acting without context. He is overturning the human verdict against Jesus and vindicating the person whose claims were under dispute.\n\nThe earliest Christian preaching treats the resurrection this way. Romans 1 connects Jesus’ resurrection with His status as Son of God in power. In Acts 2, Peter presents the resurrection as God reversing the verdict of those who crucified Jesus and declaring Him Lord and Christ. Acts 17 connects the resurrection with Jesus’ authority to judge.\n\nThat gives the resurrection a role larger than simply proving that miracles happen. It tells us whose teaching now carries unique weight. If God vindicated Jesus in the context of His claims, then Jesus is not one more ancient teacher offering a private opinion about God.\n\nHistorical work still matters. The resurrection does not mean that every sentence someone later attributes to Jesus becomes authentic automatically. We still have to ask whether a teaching really goes back to Him. We already did that with His self-understanding, and the next studies will do it with the teachings the argument now needs: His view of Israel’s Scriptures and His authorization of the apostles.\n\nOnce we have good reason to think a teaching really came from Jesus, however, His resurrection changes how we receive it. We have reached an authority we did not assume at the beginning of the course.",
+    "body": "Suppose the historical case from the last several studies succeeds. Jesus really made extraordinary claims, He really died, and God raised Him from the dead. What follows from that?\n\nNot every miracle would automatically make every statement a person ever made true. That is not the argument. The meaning comes from the setting. Jesus had already claimed unusual authority, been rejected, and been executed. If the perfectly good Creator raises that same Jesus, He is overturning the verdict against Him. The resurrection would be God's confirmation of the person whose claims had been disputed.\n\nA God who intends to make Himself known would have reason to confirm the messenger who truly speaks for Him. The resurrection is not being treated as a random miracle. It comes at the end of Jesus' public ministry, in the setting of what He said about God and Himself. We cannot prove in advance exactly what God would choose to do, but this setting gives us a reason to connect the event to Jesus' authority.\n\nThe earliest Christian preaching treats the resurrection this way. Romans 1 connects Jesus’ resurrection with His status as Son of God in power. In Acts 2, Peter presents the resurrection as God reversing the verdict of those who crucified Jesus and declaring Him Lord and Christ. Acts 17 connects the resurrection with Jesus’ authority to judge.\n\nThat gives the resurrection a role larger than simply proving that miracles happen. It tells us whose teaching now carries unique weight. If God vindicated Jesus in the context of His claims, then Jesus is not one more ancient teacher offering a private opinion about God.\n\nHistorical work still matters. The resurrection does not mean that every sentence someone later attributes to Jesus becomes authentic automatically. We still have to ask whether a teaching really goes back to Him. We already did that with His self-understanding, and the next studies will do it with the teachings the argument now needs: His view of Israel’s Scriptures and His authorization of the apostles.\n\nOnce we have good reason to think a teaching really came from Jesus, however, His resurrection changes how we receive it. We have reached an authority we did not assume at the beginning of the course.",
     "facts": [
       "The resurrection’s apologetic meaning comes from the identity and prior claims of the person raised.",
       "An isolated miracle would not automatically make every teaching of a person infallible.",
@@ -27,6 +27,14 @@ questions.push({
       [
         "Ligonier | The Authority of Jesus",
         "https://learn.ligonier.org/devotionals/authority-jesus"
+      ],
+      [
+        "Richard Swinburne | The Resurrection of God Incarnate",
+        "https://academic.oup.com/book/9496"
+      ],
+      [
+        "Richard Otte | Review of Swinburne",
+        "https://ndpr.nd.edu/reviews/the-resurrection-of-god-incarnate/"
       ]
     ]
   },
@@ -42,7 +50,7 @@ questions.push({
   "pressure": [
     [
       "“A resurrection would only show that Jesus came back to life.”",
-      "That would be more plausible if the event had no context. But Jesus had already made extraordinary claims about His identity and authority and had been publicly rejected. God raising that same Jesus functions as vindication of the person and the claims that led to the dispute."
+      "If Jesus had made no unusual claims, the significance of a resurrection would be less clear. But God raising Jesus after His ministry and execution would vindicate the man whose authority had been publicly challenged."
     ],
     [
       "“A miracle does not make someone infallible.”",
@@ -82,6 +90,18 @@ questions.push({
         "title": "Romans 1:3–4; Acts 2:32–36; Acts 17:30–31",
         "why": "Shows early Christian interpretation of the resurrection as confirmation of Jesus’ identity, lordship, and authority.",
         "url": "https://www.biblegateway.com/passage/?search=Romans%201%3A3-4%3B%20Acts%202%3A32-36%3B%20Acts%2017%3A30-31&version=ESV"
+      },
+      {
+        "title": "Richard Swinburne | The Resurrection of God Incarnate",
+        "url": "https://academic.oup.com/book/9496",
+        "type": "Philosophy of religion",
+        "why": "Argues that Jesus' life and claims provide context for expecting a divine confirmation."
+      },
+      {
+        "title": "Richard Otte | Review of Swinburne",
+        "url": "https://ndpr.nd.edu/reviews/the-resurrection-of-god-incarnate/",
+        "type": "Critical review",
+        "why": "Questions the numerical assumptions used to estimate the probability of divine vindication."
       }
     ]
   },
@@ -111,16 +131,17 @@ questions.push({
     {
       "after": "body",
       "question": "What still has to happen before we use one of Jesus’ teachings as part of the argument?",
-      "answer": "We still need good historical reason to think the teaching actually goes back to Jesus. Once that is established, His vindication tells us why the teaching carries unique authority."
+      "answer": "We need good historical reason to think the teaching came from Jesus. His vindication gives us a reason to trust what He taught, not to accept every later saying attributed to Him."
     }
   ],
   "story": {
     "title": "What would the resurrection mean?",
     "lines": [
-      "Jordan is not trying to explain the resurrection away as quickly now. “I still have questions, but I can see why you think resurrection fits the evidence better than the alternatives. If God really raised Jesus, what would that mean about Him?”",
-      "You tell him that the argument is not that any miracle makes any person automatically right.",
-      "“Then what changes?” he asks.",
-      "You remind him what came before the resurrection: Jesus’ extraordinary claims, His rejection, and His execution. “If God raised that Jesus, the event is not random. God is giving a verdict on the person who was rejected.”"
+      "Jordan returns to the question while you are walking. “Say God really raised Jesus. Why would that make what He taught about God true?”",
+      "You remind him of Jesus' claims and the fact that He was rejected and executed.",
+      "“So you're saying the resurrection would be God's answer to the people who rejected Him?”",
+      "“Right. But we still need to make sure the teachings we're relying on actually came from Jesus.”",
+      "Jordan thinks about that. “Okay. Then show me what He taught and how we know.”"
     ]
   },
   "conversationTips": [

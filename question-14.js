@@ -6,13 +6,16 @@ questions.push({
   "teaser": "Put the early proclamation, reported appearances, empty tomb, and competing explanations together and ask what best explains the whole pattern.",
   "lesson": {
     "heading": "The evidence and the explanatory comparison",
-    "body": "The first thing to make clear is that the argument is not, “The Bible says Jesus rose, therefore Jesus rose.” We have already separated the historical use of the New Testament from the later question of inspiration. Here we are asking what explanation best accounts for the historical evidence.\n\nOne of the most important pieces is the tradition Paul records in 1 Corinthians 15. Paul says he is passing on something he had received: that Christ died, was buried, was raised, and appeared to Cephas, the Twelve, more than five hundred people, James, all the apostles, and finally Paul. The wording is widely understood to contain traditional material that predates the letter itself, which puts the resurrection proclamation very early.\n\nThe appearance claims also are not limited to one person or one source. They involve individuals and groups, committed followers and people who were not already followers in the same way. James, Jesus’ brother, becomes a leader in the Jerusalem church, and Paul changes from persecuting Christians to becoming a missionary after an experience he understood as an appearance of the risen Jesus.\n\nAdditionally, the empty tomb gives the case a physical component, and the earliest Christians specifically proclaimed bodily resurrection. They were not only saying that Jesus lived on in their memories or that His soul survived death.\n\nNow we have to compare explanations. Hallucination theories may explain some individual experiences, but they do not naturally explain the entire set of evidence. Conspiracy theories have to explain the sincere conviction of the witnesses and the cost many of them accepted. A moved-body theory may address the tomb but not the appearances or the origin of the resurrection proclamation.\n\nGiven this, the resurrection gives the strongest explanation of the whole body of evidence once the existence of God and the possibility of miracles are already on the table. The alternatives should be compared against that same evidence rather than given a pass merely because they avoid a supernatural conclusion.",
+    "body": "The first thing to make clear is that the argument is not, “The Bible says Jesus rose, therefore Jesus rose.” We have already separated the historical use of the New Testament from the later question of inspiration. Here we are asking what explanation best accounts for the historical evidence.\n\nOne of the most important pieces is the tradition Paul records in 1 Corinthians 15. Paul says he is passing on something he had received: that Christ died, was buried, was raised, and appeared to Cephas, the Twelve, more than five hundred people, James, all the apostles, and finally Paul. The wording contains traditional material older than Paul's letter, which places the central claim within the first Christian generation. Paul also says in Galatians 1 that he spent time with Peter and met James in Jerusalem. We therefore have an early author who personally knew two people named in the appearance tradition, even though we do not have their own detailed written accounts.\n\nThe appearance reports concern individuals and groups. Paul names more than five hundred people in one report, although that is one early claim, not five hundred separately preserved testimonies. James, Jesus' brother, later became a leader in Jerusalem. Paul went from persecuting Christians to preaching their message after an experience he understood as an encounter with the risen Jesus. We have less direct evidence about James' earlier outlook than we do about Paul's opposition.\n\nThe earliest Christians specifically proclaimed bodily resurrection. As John Granger Cook argues, Paul's language would have meant that Jesus' body was no longer in the grave. That clarifies what the first Christians believed, though it does not independently prove the Gospel account of the empty-tomb discovery.\n\nNow compare the alternatives. People sometimes report vivid experiences of loved ones who have died. That makes sincere visionary experiences worth considering, and it would be a mistake simply to dismiss the idea. But the explanation still has work to do. Paul was not a grieving follower of Jesus. There are reports of group encounters, an early claim of bodily resurrection, and the empty-tomb tradition. The research on bereavement experiences does not, by itself, explain that combination.\n\nDeliberate invention has a different problem: it must account for the convictions of people who accepted real costs for proclaiming the resurrection. Sincerity does not prove someone is right, but it is evidence against knowingly making the whole thing up. Moving a body, if the tomb was empty, might explain the missing body; it would not by itself explain the appearance reports.\n\nGiven this, the resurrection gives the strongest explanation of the whole body of evidence once the existence of God and the possibility of miracles are already on the table. The alternatives should be compared against that same evidence rather than given a pass merely because they avoid a supernatural conclusion.",
     "facts": [
       "The 1 Corinthians 15 tradition is one of the earliest pieces of resurrection evidence and names specific witnesses.",
       "Appearance traditions include both individuals and groups and are found in more than one source stream.",
       "James and Paul are important because neither fits the simple category of an already committed disciple expecting resurrection.",
       "A good explanation should account for the widest body of evidence with reasonable explanatory power and without ad hoc additions.",
-      "The historical facts and the inference to resurrection are distinct steps: historians may agree on data while disagreeing about whether a miracle is the best explanation."
+      "The historical facts and the inference to resurrection are distinct steps: historians may agree on data while disagreeing about whether a miracle is the best explanation.",
+      "Paul reports meeting Peter and James (Galatians 1), two figures named in the early appearance tradition.",
+      "The report of more than five hundred people is early testimony but not five hundred independently surviving accounts.",
+      "Research documents experiences of deceased loved ones; applying them to Paul, group appearances, bodily proclamation and the tomb requires further historical argument."
     ],
     "further": [
       [
@@ -30,6 +33,18 @@ questions.push({
       [
         "Stanford Encyclopedia of Philosophy | Abduction",
         "https://plato.stanford.edu/entries/abduction/"
+      ],
+      [
+        "James Ware | The Pre-Pauline Formula in 1 Corinthians 15",
+        "https://www.cambridge.org/core/journals/new-testament-studies/article/resurrection-of-jesus-in-the-prepauline-formula-of-1-cor-1535/B98A7CB0EDE64897CAFEE83263BE6289"
+      ],
+      [
+        "Bereavement experiences | Interdisciplinary review",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7707065/"
+      ],
+      [
+        "Andrew Loke | A Response to Dale Allison",
+        "https://scholars.hkbu.edu.hk/en/publications/the-resurrection-of-jesus-an-engagement-with-dale-allison-a-revie/"
       ]
     ]
   },
@@ -40,21 +55,22 @@ questions.push({
     "Individuals and groups reported appearances, including Peter, the Twelve, James, and Paul; the Gospel traditions add further appearance accounts.",
     "The empty tomb forms an independent physical strand of the case.",
     "The disciples’ sudden and sincere resurrection proclamation, together with the conversions of James and Paul, also requires explanation.",
-    "The final step is explanatory comparison: which hypothesis best explains the whole set of evidence?"
+    "The final step is explanatory comparison: which hypothesis best explains the whole set of evidence?",
+    "An explanation based on sincere experiences must account for the full pattern, not simply identify a possible cause of one report."
   ],
   "pressure": [
     [
       "“People have grief visions.”",
-      "Grief visions are real, and they may explain some individual experiences. The difficulty is that the resurrection case includes different kinds of appearance claims, group reports, Paul and James, the empty tomb, and a specifically bodily resurrection proclamation. Grief experiences do not explain the whole set as well."
+      "People can have vivid experiences of someone who has died, so the idea deserves attention. But that does not automatically explain Paul, the reported group appearances, the early bodily-resurrection claim, and the tomb if it was empty. We have to assess the complete explanation, not just whether an individual experience is possible."
     ],
     [
       "“Legends can grow quickly.”",
-      "Legends can develop quickly, but the resurrection claim is already present in very early Pauline tradition. Given this, a legend explanation has to account for why the central resurrection proclamation appears so close to the beginning of the Christian movement rather than only showing up much later."
+      "Details could have developed as the accounts were passed on. But Paul's early tradition already includes Jesus' death, burial, resurrection, and appearances to named people. A later-legend explanation still has to explain why the central proclamation began so early."
     ]
   ],
   "limits": "The case draws on early proclamation, appearance claims, the transformed convictions of witnesses, and the tomb evidence together. Compare the alternatives against the same collection of facts.",
-  "practice": "A coworker says, “The disciples invented the resurrection because they needed to keep their movement alive after Jesus died.” How would you test that explanation against the whole case?",
-  "model": "What does the conspiracy theory actually explain? It has to account for the early resurrection proclamation, the appearance claims, Paul and James, the tomb evidence, and the disciples acting as though they genuinely believed they had seen the risen Jesus. Suffering for a belief does not make the belief true, but it does make deliberate invention harder to explain.",
+  "practice": "A friend says, “Maybe the disciples really believed they saw Jesus. People sometimes have experiences like that after someone dies.” How would you compare that explanation with the resurrection?",
+  "model": "I would agree that people sometimes have those experiences and can sincerely believe something that is mistaken. But that is only one part of the case. We also have Paul's change from persecutor to missionary, the early claim of bodily resurrection, group appearance reports, and the tomb tradition. Which explanation accounts for all of these better? That's the question I would want to work through.",
   "sources": [
     [
       "Reasonable Faith | The Resurrection of Jesus",
@@ -67,8 +83,8 @@ questions.push({
   ],
   "evidence": {
     "claim": "These sources build the resurrection case from several lines of evidence and compare competing explanations.",
-    "establishes": "They emphasize early proclamation, appearance claims, Paul and James, transformed belief, and tomb evidence rather than one supposed knockdown fact.",
-    "caution": "The evidence is historically discussable even though the resurrection conclusion remains contested, especially because historians differ on whether supernatural explanations are admissible.",
+    "establishes": "Paul records an early appearance tradition and reports knowing Peter and James. Cook clarifies the bodily nature of the earliest resurrection language; psychological research establishes the reality of bereavement experiences but not a complete explanation of early Christianity.",
+    "caution": "Paul's report of more than five hundred people is not five hundred independently documented witnesses. The tomb evidence is disputed, and psychological or resurrection explanations should be evaluated against the same historical material.",
     "resources": [
       {
         "type": "Apologetics",
@@ -99,6 +115,30 @@ questions.push({
         "title": "Ligonier | For Sure: The Evidence for the Resurrection",
         "why": "Examines historical evidence offered for the resurrection of Jesus.",
         "url": "https://learn.ligonier.org/series/alive-how-the-resurrection-of-christ-changes-everything/for-sure-the-evidence-for-the-resurrection"
+      },
+      {
+        "title": "James Ware | The Pre-Pauline Formula in 1 Corinthians 15",
+        "url": "https://www.cambridge.org/core/journals/new-testament-studies/article/resurrection-of-jesus-in-the-prepauline-formula-of-1-cor-1535/B98A7CB0EDE64897CAFEE83263BE6289",
+        "type": "Peer-reviewed research",
+        "why": "Examines how the early confession describes Jesus' resurrection."
+      },
+      {
+        "title": "John Granger Cook | Resurrection and the Question of an Empty Tomb",
+        "url": "https://www.cambridge.org/core/journals/new-testament-studies/article/resurrection-in-paganism-and-the-question-of-an-empty-tomb-in-1-corinthians-15/EF4DE640BE9104A454C7847ECF899313",
+        "type": "Peer-reviewed research",
+        "why": "Clarifies what bodily resurrection meant in Paul's world."
+      },
+      {
+        "title": "Bereavement experiences | Interdisciplinary review",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7707065/",
+        "type": "Research review",
+        "why": "Provides a careful account of reported experiences of deceased loved ones."
+      },
+      {
+        "title": "Andrew Loke | A Response to Dale Allison",
+        "url": "https://scholars.hkbu.edu.hk/en/publications/the-resurrection-of-jesus-an-engagement-with-dale-allison-a-revie/",
+        "type": "Peer-reviewed critical review",
+        "why": "Challenges some proposed psychological explanations and their use in resurrection debates."
       }
     ]
   },
@@ -131,8 +171,8 @@ questions.push({
     },
     {
       "after": "body",
-      "question": "Why are James and Paul useful pieces of evidence?",
-      "answer": "Both underwent striking changes connected to experiences they understood as appearances of the risen Jesus, and neither is easily explained as an expectant follower seeing what he already wanted to see."
+      "question": "Why is Paul's contact with Peter and James historically useful?",
+      "answer": "Paul says he met Peter and James, who are named in the early appearance tradition. His testimony is connected to leading people from the earliest movement, although he does not give us their detailed firsthand accounts."
     },
     {
       "after": "facts",
@@ -143,10 +183,11 @@ questions.push({
   "story": {
     "title": "Put all the evidence on the table",
     "lines": [
-      "You and Jordan stop for coffee halfway through the walk. Once you sit down, he says, “All right. What is the best evidence that Jesus actually rose?”",
-      "You tell him the case does not really rest on one knockout fact. There are several pieces that have to be considered together.",
-      "Jordan starts throwing out alternatives. “Maybe people had visions. Maybe somebody moved the body. Maybe the story changed as it spread. I am not saying I know, but those all sound possible.”",
-      "He takes a sip of coffee. “So if there is no one fact that settles it, how do you decide which explanation is actually best?”"
+      "You and Jordan stop for coffee. “All right,” he says, “what's the strongest evidence Jesus actually rose?”",
+      "You tell him about Paul's early account, his contact with Peter and James, and the reports of other appearances.",
+      "Jordan thinks for a moment. “A story made up centuries later doesn't seem to fit. But couldn't they have honestly believed they saw Him?”",
+      "“Sure, somebody could be sincere and mistaken,” you say. “We still need to see how well that explains what happened.”",
+      "Jordan nods. “So the question is whether a mistaken experience explains all of it better than a real resurrection.”"
     ]
   },
   "conversationTips": [
