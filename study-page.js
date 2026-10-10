@@ -16,8 +16,8 @@
     7:"does-the-information-and-machinery-of-life-point-to-design",8:"if-right-and-wrong-are-real-what-makes-them-real",
     9:"why-can-we-trust-reason",10:"if-god-exists-are-miracles-possible",11:"can-we-investigate-jesus-historically",
     12:"who-did-jesus-claim-to-be",13:"did-jesus-really-die-and-was-the-tomb-empty",14:"did-jesus-rise-from-the-dead",
-    15:"liar-lunatic-or-lord",16:"what-does-the-resurrection-say-about-jesus",17:"if-jesus-is-lord-can-we-trust-what-he-teaches",
-    18:"how-did-jesus-treat-the-old-testament",19:"what-about-the-new-testament",20:"so-has-god-spoken",
+    15:"liar-lunatic-or-lord",16:"what-does-the-resurrection-say-about-jesus",17:"how-did-jesus-treat-the-old-testament",
+    18:"did-jesus-authorize-apostles-to-speak-for-him",19:"what-about-the-new-testament",20:"so-has-god-spoken",
     21:"where-should-i-begin-in-a-real-apologetics-conversation",22:"if-god-is-good-and-powerful-why-is-there-so-much-evil-and-suffering",
     23:"how-should-a-christian-think-about-creation-evolution-and-worldview"
   };
