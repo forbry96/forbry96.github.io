@@ -1,135 +1,198 @@
 questions.push({
   "id": 23,
-  "cat": "practice",
-  "tag": "Conversation",
-  "title": "Where should I begin in a real apologetics conversation?",
-  "teaser": "You do not need a speech. Listen well, find the real question, and answer one thing at a time.",
+  "cat": "origins",
+  "tag": "Origins",
+  "title": "How should a Christian think about creation, evolution, and worldview?",
+  "teaser": "Observed biological change is real. The bigger question is whether that evidence proves universal common ancestry and whether unguided mechanisms can explain the information and machinery of life.",
+  "why": "The word evolution is used for several very different claims, and Christians can get into trouble when all of them are treated as though they were the same thing. We can acknowledge observed change and natural selection without granting universal common ancestry, the sufficiency of unguided mechanisms, or philosophical naturalism. Those are separate claims and they need separate evidence.",
+  "limits": "Keep three claims distinct: observed biological change, the historical case for universal common ancestry, and the claim that unguided mechanisms are sufficient to explain all biological complexity.",
+  "terms": [
+    [
+      "Natural selection",
+      "A real, observable process in which heritable traits become more or less common because some organisms leave more offspring than others."
+    ],
+    [
+      "Universal common ancestry",
+      "The historical claim that all present life ultimately descends from a common ancestral population."
+    ],
+    [
+      "Darwinian mechanism",
+      "The claim that unguided processes such as mutation and natural selection are sufficient to produce the major innovations and diversity of life."
+    ],
+    [
+      "Abiogenesis",
+      "The separate origin-of-life question of how the first living or self-replicating system arose from nonliving chemistry."
+    ],
+    [
+      "Methodological naturalism",
+      "A rule that restricts ordinary scientific explanations to natural causes; it is not the same claim as philosophical naturalism."
+    ],
+    [
+      "Common design",
+      "The creationist explanation that shared biological structures and genetic patterns can reflect reuse by the same Designer rather than ancestry alone."
+    ],
+    [
+      "Irreducible complexity",
+      "A system whose basic function depends on several interacting parts working together, raising the question of how the functioning system arose step by step."
+    ]
+  ],
+  "core": [
+    "The word evolution can mean simple change over time, natural selection and adaptation, universal common ancestry, or the claim that unguided mechanisms can explain all biological complexity. Those are not the same claim.",
+    "Natural selection, mutation, adaptation, and even speciation can be observed without proving universal common ancestry.",
+    "Universal common ancestry is a historical inference from present evidence, not an observation of the entire history of life.",
+    "Similar anatomy and DNA are commonly used as evidence for common ancestry, but creationists argue that common design can also explain shared architecture.",
+    "Evidence for common ancestry is not automatically evidence that mutation and natural selection are sufficient to build new biological information and integrated molecular systems.",
+    "Biological information and irreducibly complex molecular machinery give a positive design argument because intelligence is a known cause of information-rich instructions and coordinated machines.",
+    "Abiogenesis is a separate problem because natural selection cannot operate until a reproducing, heritable system already exists.",
+    "Methodological naturalism can be useful as a scientific method, but it cannot logically establish philosophical naturalism or rule out a Creator.",
+    "The earlier case for God matters: if there are independent reasons to believe a Creator exists, intelligent causation cannot simply be excluded before the biological evidence is interpreted."
+  ],
   "lesson": {
-    "heading": "Talk with the person, not at them",
-    "body": "You can know every argument in this course and still have a bad conversation if you answer a question the other person was not asking. Good apologetics begins by listening.\n\nA simple rhythm is enough: listen, clarify, ask why, find the first real disagreement, answer one point, and then let the other person respond. You are not trying to unload everything you know. You are trying to understand what stands between this person and the truth.\n\nThe course gives you a map. If the question is whether God exists, go back to the arguments in Step 1. If the objection is that miracles are impossible, use Study 10. If the question is about Jesus or the resurrection, use Step 2. If the issue is suffering or origins, use the bonus studies.\n\nAnd if you do not know, say so. “I am not sure, but I want to look into that” is a better answer than bluffing. The goal is faithful, truthful witness, not winning every exchange.",
+    "heading": "Separate what we observe from what is being inferred",
+    "body": "When someone says, “Evolution is a fact,” the first thing to ask is what they mean by evolution. If they mean that populations change over time, mutations happen, natural selection happens, organisms adapt, and new species can arise, then you do not need to argue with that. Those things are observed.\n\nThe problem comes when those observations are treated as though they automatically prove a much larger claim, that all life descended from a universal common ancestor and that unguided natural processes are sufficient to build every major biological innovation along the way. That conclusion is not the same thing as the observations.\n\nUniversal common ancestry is a historical claim about what happened in the past. Scientists look at fossils, anatomy, genetics, biogeography, and other evidence that exists now and use it to reconstruct that history. Those are real pieces of evidence. Some genetic patterns also make a more specific case than shared body plans. For example, ancient viral sequences found at corresponding places in primate genomes are used to reconstruct inherited relationships. A common-design account needs to explain those particular patterns, not only why organisms share useful structures.\n\nOne way to look at the similarities is common design. If the same engineer makes several machines, you would expect repeated parts and repeated solutions. In the same way, similar body plans, biochemical systems, and genetic structures can also fit the idea of a common Designer. Similarity is real evidence that needs to be explained, but similarity by itself does not tell us which explanation is correct.\n\nSo similarity is real evidence, but it does not interpret itself. Common ancestry and common design can both be proposed to explain shared structures. But the fact that both are possible does not mean they predict every genetic pattern equally well. We need to compare the detailed evidence.\n\nThere is another distinction that matters just as much. Common ancestry and the Darwinian mechanism are not the same claim. Even if someone granted common ancestry for the sake of argument, they would still have to show that mutation, natural selection, and other unguided mechanisms are actually capable of producing the biological information and tightly integrated systems that need to be explained.\n\nThat distinction is important because ancestry and mechanism answer different questions. A proposed family tree does not by itself show that mutation and natural selection can build the information and integrated systems that tree would require.\n\nThis is where biological information and irreducible complexity matter. DNA is chemistry, but the order of the bases matters. The sequence is used in a system that stores, reads, copies, regulates, and translates functionally significant information. Cells also contain molecular machines whose basic function depends on multiple coordinated parts. The design question is simple: what kind of cause do we already know can produce information-rich instructions and integrated machinery? Intelligence can.\n\nThis is why those features matter to the design argument. Intelligence is already a known cause of information-rich instructions and coordinated machines. So when we find those same kinds of features in living systems, design is a positive explanation to consider, not just a label for what we do not know.\n\nThat is different from saying, “We do not know how evolution did it, therefore God.” The argument is not supposed to be based only on what we do not know. It points to positive features that intelligence is already known to produce. At the same time, proposed evolutionary pathways still have to explain how the necessary parts, regulation, assembly, and selectable function arose step by step.\n\nThe origin of life is another separate problem. Natural selection only begins once there is already a reproducing system with heritable differences. It cannot explain the first system before reproduction and inheritance exist. So abiogenesis cannot simply be folded into natural selection as though the same mechanism explains both questions.\n\nWorldview matters here too. Science normally looks for natural mechanisms, and that is useful. But that method cannot be turned into the conclusion that only natural causes exist. If God or intelligence is ruled out before the evidence is considered, then of course every pattern will be interpreted only in terms of natural causes.\n\nThe earlier lessons in this course matter for that reason. We have already given independent reasons for believing the universe has a Creator. If that case is good, then design is already a real option before we ever get to biology. We should interpret the biological evidence within the worldview that best explains reality as a whole.\n\nThe Christian does not need to deny real biological change. The issue is whether observed change proves universal common ancestry and whether unguided mechanisms are sufficient to explain biological information, molecular machinery, and the origin of life. I do not think they are.",
     "facts": [
-      "Listening first helps you answer the real objection instead of the one you expected to hear.",
-      "A good question can reveal what a person means and what reasons they are relying on.",
-      "One clear answer is usually easier to discuss than five arguments at once.",
-      "Saying “I do not know” can build trust when it is honest.",
-      "Christian apologetics should be joined with gentleness and respect, not treated as a contest."
+      "Natural selection and biological variation are observable and are accepted by major creationist ministries.",
+      "Observed adaptation or speciation does not by itself establish universal common ancestry.",
+      "Homology and genetic similarity are commonly interpreted as evidence for common ancestry, while creationist resources argue that common design is a competing explanation.",
+      "Common descent and the sufficiency of Darwinian mechanisms are separate questions; even intelligent-design advocates who allow common descent make this distinction.",
+      "Irreducible complexity asks whether a functioning system requiring several coordinated parts can be built through a viable step-by-step pathway.",
+      "Natural selection presupposes reproduction and inheritance, so the origin of the first life is a separate problem.",
+      "Methodological naturalism is a scientific rule of method; philosophical naturalism is a worldview claim and does not follow automatically from the method."
     ],
     "further": [
       [
-        "1 Peter 3:15–16",
-        "https://www.biblegateway.com/passage/?search=1%20Peter%203%3A15-16&version=ESV"
+        "Stand to Reason | Does Evolution Square with Christianity?",
+        "https://www.str.org/w/does-evolution-square-with-christianity-"
       ],
       [
-        "Acts 17",
-        "https://www.biblegateway.com/passage/?search=Acts%2017&version=ESV"
+        "Stand to Reason | Common Descent or Common Design?",
+        "https://www.str.org/w/common-descent-or-common-design"
       ],
       [
-        "Oxford Centre for Christian Apologetics | Resources",
-        "https://theocca.org/resources/"
+        "Answers in Genesis | Understanding Natural Selection",
+        "https://answersingenesis.org/natural-selection/understanding-natural-selection/"
+      ],
+      [
+        "Answers in Genesis | Common Design Means Common Ancestry?",
+        "https://answersingenesis.org/theory-of-evolution/evidence/common-design-means-common-ancestry/"
+      ],
+      [
+        "Discovery Institute | Intelligent Design and the Origin of Biological Information",
+        "https://www.discovery.org/a/17571/"
+      ],
+      [
+        "Discovery Institute | Irreducible Complexity",
+        "https://www.discovery.org/t/irreducible-complexity/"
+      ],
+      [
+        "Creation Ministries | Common Design and Common Ancestry",
+        "https://creation.com/en/articles/refuting-evolution-2-chapter-6-argument-common-design-points-to-common-ancestry"
+      ],
+      [
+        "Johnson and Coffin | Ancient Retroviruses and Primate Relationships",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC17875/"
       ]
     ]
   },
-  "why": "Apologetics is meant to be used with real people. The aim is not to perform arguments but to understand the question, give a truthful answer, and point clearly to Christ.",
-  "core": [
-    "Listen before answering. Make sure you understand what the person actually means.",
-    "Ask one or two simple questions: “What do you mean?” and “What makes you think that?”",
-    "Find the first important disagreement. Do not chase every side issue at once.",
-    "Give one clear answer, then stop and let the other person respond.",
-    "If you do not know, say so and check it later. Accuracy matters more than looking impressive."
-  ],
   "pressure": [
     [
-      "“Shouldn’t I give them all the evidence while I have the chance?”",
-      "Usually no. Too much at once can sound like a speech and makes it hard to know what the person actually disagrees with. Give the best answer to the question in front of you, then see where the conversation goes."
+      "“Natural selection and speciation have been observed, so evolution is proven.”",
+      "Natural selection and biological change are observed. The question is what those observations prove. Showing that populations change or that new species can arise does not by itself show that all life came from one universal ancestor or that unguided mechanisms can build every major biological innovation."
     ],
     [
-      "“What if they keep changing the subject?”",
-      "Bring the conversation back gently: “That is another good question. Can we finish this one first?” You do not have to answer five objections at once."
+      "“Genetic similarity proves common ancestry.”",
+      "Genetic similarity is exactly the kind of evidence used for common ancestry, but the conclusion still has to be argued. A common Designer would also be expected to reuse successful structures, systems, and genetic architecture. Similarity is evidence that needs an explanation; it is not the same thing as the explanation itself."
     ],
     [
-      "“What if I do not know the answer?”",
-      "Say so. You can say, “I have not looked into that enough to answer well.” Then check it. Bluffing can damage trust far more than admitting a limit."
+      "“Scientists have proposed evolutionary pathways for complex systems, so irreducible complexity is dead.”",
+      "Proposing a pathway is not the same thing as demonstrating that the pathway can produce the system. The question is whether each step is viable, selectable, and capable of producing the parts, regulation, assembly, and final coordinated function that actually need to be explained."
     ],
     [
-      "“What if the person is hostile?”",
-      "Stay calm and decide whether a real conversation is still possible. Gentleness does not mean letting someone abuse you, and apologetics does not require endless argument."
-    ],
-    [
-      "“Which argument should I use first?”",
-      "Start where their actual objection is. If they doubt God, use Step 1. If they reject miracles, use Study 10. If they ask about Jesus, use Step 2. If they bring up evil or evolution, use the relevant bonus study."
-    ],
-    [
-      "“How do I know when to stop?”",
-      "If the conversation is repeating, turning hostile, or the person is no longer listening, it is fine to end graciously. You can leave a question to think about and keep the relationship open."
+      "“Evolution makes a Creator unnecessary.”",
+      "Even if someone granted common ancestry, that would not explain why the universe exists, why it is life-permitting, how the first life arose, where biological information ultimately comes from, why reason can know truth, or why objective morality exists. A biological theory cannot do the work of an entire worldview."
     ]
   ],
-  "limits": "No conversation method guarantees persuasion. People are not projects. Your job is to speak truthfully, listen carefully, and treat the other person with dignity.",
-  "practice": "Someone says, “Christianity is obviously false because science has disproved God.” What is a good first response?",
-  "model": "I would not begin with a science lecture. I would ask, “What scientific finding do you think disproves God?” Then I would listen. If they give an example, I can ask, “How does that finding lead to the conclusion that God does not exist?” Now I know what argument I actually need to answer. Then I can respond to one point instead of guessing at ten different objections.",
-  "sources": [
-    [
-      "Bible reference | 1 Peter 3:15–16",
-      "https://www.biblegateway.com/passage/?search=1%20Peter%203%3A15-16&version=ESV"
-    ],
-    [
-      "Bible reference | Acts 17",
-      "https://www.biblegateway.com/passage/?search=Acts%2017&version=ESV"
-    ],
-    [
-      "OCCA | Foundational Apologetics",
-      "https://theocca.org/foundational-apologetics/"
-    ]
-  ],
+  "practice": "A biology student says, “We observe natural selection, species change, and genetic similarities, so we know all life came from a common ancestor through unguided evolution. There is no need for design.” How would you separate the claims and respond?",
+  "model": "We can agree with the part we actually observe: populations change, natural selection happens, and organisms can adapt. Then I'd separate that from universal common ancestry and from the claim that unguided mechanisms can build all biological complexity. Genetic similarities can be interpreted as common descent, but a creationist can also ask whether common design explains shared architecture. Then I would move to the harder causal questions: where the first life came from, where functional biological information came from, and whether mutation and selection can actually build tightly integrated molecular systems. Those are not answered simply by saying that natural selection exists.",
   "evidence": {
-    "claim": "Clear apologetics conversations usually begin by understanding what the other person means and why they believe it, then answering the first real point of disagreement.",
-    "establishes": "Christian apologetics training commonly emphasizes listening, questions, clarity, and gentleness. The pattern in this lesson is a simple conversation guide built from those ordinary skills rather than a branded script.",
-    "caution": "This is a practical tool, not a formula. Some people need evidence, some need time, some are mainly hurting, and some are not interested in a real conversation.",
+    "claim": "These resources separate observed biological change from universal common ancestry and from the claim that unguided mechanisms can explain all biological complexity.",
+    "establishes": "Stand to Reason makes the distinction between ordinary change and universal common descent. Answers in Genesis and Creation Ministries accept real variation and natural selection while challenging the move to universal ancestry. Discovery Institute focuses on the separate question of whether unguided processes can explain biological information and irreducibly complex systems.",
+    "caution": "Common ancestry and unguided mechanisms are distinct claims. Shared ancient viral insertion patterns provide positive evidence for common ancestry; a common-design alternative must account for such details, not simply cite shared structures.",
     "resources": [
       {
-        "type": "Primary Christian source",
-        "title": "1 Peter 3:15–16",
-        "why": "Joins giving reasons for Christian hope with gentleness, respect, and good conduct.",
-        "url": "https://www.biblegateway.com/passage/?search=1%20Peter%203%3A15-16&version=ESV"
+        "type": "Apologetics",
+        "title": "Stand to Reason | Does Evolution Square with Christianity?",
+        "why": "Separates change over time from universal common ancestry and Darwinian mechanisms, which is the basic distinction this lesson teaches.",
+        "url": "https://www.str.org/w/does-evolution-square-with-christianity-"
       },
       {
-        "type": "Primary Christian source",
-        "title": "Acts 17",
-        "why": "Shows Paul reasoning with people from their own setting while still clearly proclaiming God and the resurrection.",
-        "url": "https://www.biblegateway.com/passage/?search=Acts%2017&version=ESV"
+        "type": "Apologetics",
+        "title": "Stand to Reason | Common Descent or Common Design?",
+        "why": "Presents common design as an alternative explanation for biological similarities and homologies.",
+        "url": "https://www.str.org/w/common-descent-or-common-design"
       },
       {
-        "type": "Training resource",
-        "title": "OCCA | Foundational Apologetics",
-        "why": "Beginner-oriented training for answering difficult questions in real conversations.",
-        "url": "https://theocca.org/foundational-apologetics/"
+        "type": "Creationist",
+        "title": "Answers in Genesis | Understanding Natural Selection",
+        "why": "Affirms natural selection as observable while arguing that it does not establish universal evolutionary claims.",
+        "url": "https://answersingenesis.org/natural-selection/understanding-natural-selection/"
+      },
+      {
+        "type": "Creationist",
+        "title": "Answers in Genesis | Common Design Means Common Ancestry?",
+        "why": "Challenges the claim that shared biological structures uniquely establish universal common ancestry.",
+        "url": "https://answersingenesis.org/theory-of-evolution/evidence/common-design-means-common-ancestry/"
+      },
+      {
+        "type": "Intelligent design",
+        "title": "Discovery Institute | Intelligent Design and the Origin of Biological Information",
+        "why": "Separates evidence for common ancestry from evidence that mutation and natural selection can generate biological information.",
+        "url": "https://www.discovery.org/a/17571/"
+      },
+      {
+        "type": "Intelligent design",
+        "title": "Discovery Institute | Irreducible Complexity",
+        "why": "Collects the positive design argument from molecular systems whose basic function depends on coordinated parts.",
+        "url": "https://www.discovery.org/t/irreducible-complexity/"
+      },
+      {
+        "type": "Creationist",
+        "title": "Creation Ministries | Common Design and Common Ancestry",
+        "why": "Develops the common-design response to homology and genetic similarity.",
+        "url": "https://creation.com/en/articles/refuting-evolution-2-chapter-6-argument-common-design-points-to-common-ancestry"
+      },
+      {
+        "title": "Johnson and Coffin | Ancient Retroviruses and Primate Relationships",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC17875/",
+        "type": "Primary scientific research",
+        "why": "Uses shared endogenous retroviral sequences to reconstruct primate relationships."
       }
     ]
   },
-  "thoughts": [
-    "Why is “What do you mean?” often a better first response than an argument?",
-    "What should you do when several objections are raised at once?",
-    "Why can admitting “I do not know” strengthen rather than weaken a conversation?",
-    "How can the course map help you decide which argument to use?"
+  "conclusion": "Observed biological change is real, but it does not establish universal common ancestry or show that unguided mechanisms can explain the information, machinery, and origin of life.",
+  "thread": "The design lessons raised questions about the origin of life. This bonus study looks at how observed biological changes, claims about common ancestry, and our worldview fit into that discussion.",
+  "bigIdea": "Observed change and natural selection are real. Universal common ancestry and the sufficiency of unguided mechanisms are larger claims, and biological information, molecular machinery, common design, and origin-of-life evidence keep intelligent creation firmly in the discussion.",
+  "checkpoints": [
+    {
+      "after": "core",
+      "question": "Someone says, “Evolution has been observed.” What should you ask first?",
+      "answer": "What they mean by evolution: observed change and natural selection, universal common ancestry, or the claim that unguided mechanisms can explain all biological complexity."
+    },
+    {
+      "after": "body",
+      "question": "Why does observing natural selection not settle universal common ancestry?",
+      "answer": "Natural selection shows that populations can change. Universal common ancestry is a much larger historical inference about the ancestry of all life."
+    },
+    {
+      "after": "facts",
+      "question": "What is the common-design response to biological similarity?",
+      "answer": "Shared structures and genetic patterns can be explained as reuse by the same Designer rather than being treated as uniquely diagnostic of common ancestry."
+    }
   ],
-  "terms": [
-    [
-      "Clarifying question",
-      "A question that checks what someone means before you answer."
-    ],
-    [
-      "Point of disagreement",
-      "The first important claim where your reasoning and the other person’s reasoning separate."
-    ],
-    [
-      "Burden of proof",
-      "The responsibility to give reasons for a claim."
-    ],
-    [
-      "Apologetics",
-      "Giving reasons for Christian hope and answering objections."
-    ]
-  ],
-  "conclusion": "Remember this: listen, ask what they mean and why they believe it, answer one real issue, and keep the conversation human. You do not have to say everything at once.",
-  "thread": "The course ends where apologetics is actually used: in ordinary conversations. The arguments are tools; the goal is to use them truthfully, clearly, and with gentleness.",
-  "bigIdea": "Good apologetics starts with understanding the person and the real disagreement before choosing an argument."
+  "conversationTips": [
+    "A person with serious biology training may know details you do not. Let them have that expertise, ask them to explain the evidence, and be careful not to claim more than you understand.",
+    "Let a weak example die. If an irreducible-complexity argument fails in a particular case, that means the example was weak; it does not mean Christianity has been disproved.",
+    "Even granting common ancestry or a particular evolutionary pathway for the sake of argument would not establish philosophical naturalism or show that no Creator exists.",
+    "Bring the discussion back to the larger case when needed. Christianity does not stand or fall on one biology argument; the case also involves the universe, fine-tuning, morality, reason, miracles, and the historical case for Jesus."
+  ]
 });

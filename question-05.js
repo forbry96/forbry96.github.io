@@ -1,1 +1,154 @@
-questions.push({"id":5,"cat":"god","tag":"God","title":"Does design point to a Designer?","teaser":"Nature is full of parts working together to do something. Does that kind of design point to a mind, or can unguided processes explain it just as well?","lesson":{"heading":"When parts work together for a purpose","body":"Imagine finding a watch on a trail. You would not think it was designed just because it is complicated. You would notice that its parts are fitted together to do something: keep time.\n\nNow think about the eye. The cornea bends light, the iris controls how much light enters, the lens focuses it, the retina detects it, and the optic nerve carries signals to the brain. Different parts do different jobs, but they all work together for sight.\n\nThat is the design question: when many parts work together for a clear function, what kind of cause best explains it?","facts":["Design is about parts working together for a purpose, not just about something being complicated.","The eye is an easy example: several different parts work together so that we can see.","We know from everyday experience that minds can arrange parts and tools to reach a goal.","Natural selection is observable: inherited traits can become more or less common in a population. But seeing that happen is not the same as proving that mutation and selection can build every major biological structure or explain the whole history of life."],"further":[["Stanford Encyclopedia of Philosophy | Teleological Arguments","https://plato.stanford.edu/entries/teleological-arguments/"],["Internet Encyclopedia of Philosophy | Design Arguments","https://iep.utm.edu/design-arguments-for-existence-of-god/"],["Stanford Encyclopedia of Philosophy | Teleological Notions in Biology","https://plato.stanford.edu/entries/teleology-biology/"]]},"why":"This study does not deny that populations change. It asks a bigger question: are those observed changes enough to explain systems whose parts work together for a clear purpose, or does mind fit that kind of organization better?","core":["We often recognize design when parts are arranged to accomplish something. A watch, a sentence, or a machine points us to a mind because the parts are ordered toward a result.","Nature has the same kind of pattern. In the eye, different parts do different jobs, but together they make sight possible.","A mind can do something important here: it can picture a goal and arrange parts to reach it. So design is not just saying, \"We do not know, therefore God.\" It is asking whether a cause we already know can produce purposeful arrangements fits the evidence well.","So the real question is simple: which explanation fits the pattern better?"],"pressure":[["“Doesn’t natural selection explain the eye?”","Natural selection can sort inherited differences in a reproducing population. The bigger Darwinian claim is that mutation, selection, and other unguided processes can build major new biological structures over long periods of time. That is the part being challenged here. Natural selection cannot see the future or work toward a finished organ. So the question is whether a clear, useful step-by-step path has actually been shown, or whether a mind better explains parts that end up working together for one purpose."],["“Why say mind fits better?”","Because minds are the kind of cause we know can aim at a result and arrange many parts to get there. When an engineer builds a camera, the pieces are chosen because of the job they need to do together. When we see many parts working together for one function in nature, it is reasonable to ask whether mind is the better explanation."],["“Could physical laws do it instead?”","Physical processes can produce patterns without aiming at anything. Crystals form through chemistry, for example, but their parts are not working together to see, hear, fly, or do some other job. Study 5 is about that difference: a pattern is not the same thing as a system built around a function."],["“So does this disprove evolution?”","No. Study 5 makes a smaller point: purposeful organization gives us a real reason to consider design. Study 7 will look directly at the bigger claim that Darwinian mechanisms can explain major biological innovation and common descent."]],"limits":"The eye by itself does not settle every question about origins. What it does give us is a clear example of parts working together for a function. We can observe selection changing traits in populations. Whether Darwinian mechanisms can build major integrated systems is a much larger claim, and Study 7 will deal with that directly.","practice":"Someone says, ‘Natural selection explains apparent design, so there is no reason to bring God into it.’ How would you answer without denying what natural selection actually does?","model":"I would separate what we can actually observe from the bigger claim. We can watch selection change which inherited traits become more common in a population. What still needs to be shown is that mutation, selection, and other unguided processes can build major coordinated systems step by step. Selection cannot plan ahead. A mind can. So when many parts work together for one function, design is not just filling a gap. It is an explanation based on a kind of cause we already know can arrange things toward a goal.","sources":[["Stanford Encyclopedia of Philosophy | Teleological Arguments","https://plato.stanford.edu/entries/teleological-arguments/"],["Internet Encyclopedia of Philosophy | Design Arguments","https://iep.utm.edu/design-arguments-for-existence-of-god/"],["Stanford Encyclopedia of Philosophy | Teleological Notions in Biology","https://plato.stanford.edu/entries/teleology-biology/"]],"evidence":{"claim":"The evidence is straightforward: different parts work together to do a clear job. The eye is an easy example, and we already know that minds can build systems like that.","establishes":"This gives us a real reason to consider design. A mind can see a goal and arrange parts to reach it. Natural selection cannot plan ahead; it can only favor traits that help in the present. So if someone says mutation and selection can build a major coordinated system, that claim needs a workable step-by-step path. Study 5 asks which explanation fits purposeful organization better: a mind or a process with no foresight.","caution":"This does not deny variation, inheritance, selection, or adaptation. It simply separates those observations from the much larger claim that Darwinian mechanisms can explain major biological innovation and universal common ancestry. Study 5 does not settle that whole debate. It shows why design deserves to be considered as a real explanation.","resources":[{"type":"Scholarship","title":"Stanford Encyclopedia of Philosophy | Teleological Arguments","why":"Explains design arguments as inferences from structure, function, purpose, and interconnectedness, and discusses natural selection as the major competing biological explanation.","url":"https://plato.stanford.edu/entries/teleological-arguments/"},{"type":"Reference","title":"Internet Encyclopedia of Philosophy | Design Arguments","why":"Shows how Paley's argument turns on parts fitted to a purpose and why Darwinian natural selection became the central rival explanation.","url":"https://iep.utm.edu/design-arguments-for-existence-of-god/"},{"type":"Scholarship","title":"Stanford Encyclopedia of Philosophy | Teleological Notions in Biology","why":"Explains how biology uses functional language and how evolutionary theory accounts for function without literal foresight.","url":"https://plato.stanford.edu/entries/teleology-biology/"}]},"thoughts":["What feature of a watch matters more to the design argument than mere complexity?","How does the eye illustrate parts working together toward a function?","What can we actually observe natural selection doing, and what bigger claim still needs to be shown?","What can a mind do that a physical law or natural selection cannot do?"],"remember":"Selection can sort inherited variation, but it cannot plan ahead. When many parts work together for one job, ask whether unguided processes have shown a workable path or whether mind fits the pattern better.","conclusion":"Studies 3 and 4 pointed toward a cause beyond the physical universe. Study 5 adds another clue: living systems contain parts that work together for a purpose. Selection can change populations, but that does not by itself show that unguided processes can build major integrated systems. Minds, however, are known to arrange parts toward a goal. That makes purposeful organization real evidence for a theistic universe in which mind is basic to reality, not a late accident.","thread":"The case is narrowing. We have asked why anything exists and why the universe began. Now we ask whether the world itself makes more sense if mind comes first rather than appearing only at the end."});
+questions.push({
+  "id": 5,
+  "cat": "god",
+  "tag": "God",
+  "title": "Does design point to a Designer?",
+  "teaser": "Nature is full of parts working together to do something. Does that kind of design point to a mind, or can unguided processes explain it just as well?",
+  "lesson": {
+    "heading": "From order and purpose to intelligence",
+    "body": "Think about the watch Jordan found. You would recognize that somebody made it, and you would have a reason: its parts are arranged to tell time. William Paley used this same illustration in Natural Theology (1802). His point was that the arrangement of the parts gives us a reason to recognize design. The real test is whether we find anything similar in nature.\n\nComplexity alone isn't enough. A pile of rocks can have all sorts of shapes and patterns, and snowflakes form detailed patterns through natural processes. We are looking for something more specific: parts working together to accomplish a particular task.\n\nConsider the human eye. The cornea and lens focus light on the retina, which turns it into signals your brain uses to see. Or think about your heart and lungs. Your lungs bring oxygen into your blood, your heart pumps that blood around your body, and the blood carries carbon dioxide back to the lungs. These parts do different jobs, but they work together to keep you alive.\n\nWe find order outside living things, too. Gravity governs the motion of the planets, and energy from the sun drives processes on Earth, including the water cycle. Water evaporates, forms clouds, and returns as rain. We can explain how these things happen through natural laws. We can also ask why the universe has consistent laws and conditions that make them possible.\n\nMinds are known to arrange things with a purpose in mind; unguided natural processes have no intentions of their own. A system performing a useful function is not automatically proof that someone planned it. Natural selection, for example, can produce useful adaptations without intending an outcome. We need to ask whether intelligence really explains the features in question better than the proposed natural processes. We are not moving from “this is complicated” to “God did it.” We are asking what kind of cause is known to arrange parts toward a goal. When the evidence really is parts working together for a purpose, a mind is a positive explanation for what we see. I think that makes design the better explanation here.\n\nNatural processes can produce order, and natural selection can account for changes in living things. Those explanations matter. We still need to ask whether they explain the particular features we're looking at. Even a good explanation of how something works may leave a further question about why the universe has the laws and conditions that allow it to work. I believe those working systems give us good reason to see design in nature, especially alongside the earlier arguments for a Creator.\n\nThe next two lessons look more closely at the conditions that make life possible and the information and machinery inside living cells.",
+    "facts": [
+      "Classical teleological arguments reason from order or purposive arrangement to mind.",
+      "An argument from design should identify features that are relevant to design, not merely point to something complicated.",
+      "The eye's parts coordinate to produce vision, and the heart, lungs, and circulation work together to move oxygen through the body.",
+      "Gravity and the water cycle are examples of order operating through known natural processes; identifying those processes does not settle the philosophical question of an ultimate Designer.",
+      "Inference to design is strongest when intelligence is independently known to produce the kind of pattern in question.",
+      "Natural explanations should be evaluated rather than ignored; the design inference is a causal comparison."
+    ],
+    "further": [
+      [
+        "William Paley | Natural Theology (1802)",
+        "https://openlibrary.org/books/OL24649732M/Natural_theology"
+      ],
+      [
+        "Ligonier | The Teleological Argument",
+        "https://learn.ligonier.org/podcasts/simply-put/the-teleological-argument"
+      ],
+      [
+        "Stand to Reason | Answering the New Atheists, Part 1",
+        "https://www.str.org/w/answering-the-new-atheists-part-1"
+      ],
+      [
+        "National Eye Institute | How the Eyes Work",
+        "https://www.nei.nih.gov/learn-about-eye-health/healthy-vision/how-eyes-work"
+      ],
+      [
+        "NIH | How the Heart Works",
+        "https://www.nhlbi.nih.gov/health/heart"
+      ],
+      [
+        "NASA | The Water Cycle",
+        "https://science.nasa.gov/earth/earth-observatory/the-water-cycle/"
+      ]
+    ]
+  },
+  "why": "The watch helps us see why the arrangement of parts can point to intelligence. Now we need to look at actual examples in nature and ask whether design explains them better than unguided processes.",
+  "core": [
+    "A watch is not called designed just because it has parts. Its parts are arranged so it can tell time.",
+    "The eye and the circulatory system give us examples of different parts working together in nature.",
+    "We know from experience that minds can arrange things toward a purpose. So intelligence deserves to be considered.",
+    "Natural processes also produce order, so we need to ask what each explanation can actually account for.",
+    "The next two studies look more closely at fine-tuning and biological information.",
+    "Function is not the same thing as intention; showing a working system requires further argument before concluding that a mind produced it."
+  ],
+  "pressure": [
+    [
+      "“Natural selection explains design.”",
+      "Natural selection can explain some changes in living things. The question is what it can explain in the particular case we are discussing. If I want to argue for design, I still need to point to the feature in question and explain why I think intelligence accounts for it better."
+    ],
+    [
+      "“This is just an argument from ignorance.”",
+      "If the argument were only “we do not know how this happened, therefore God,” it would be weak. The design argument is different. It points to positive features that minds are known to produce and asks whether intelligent causation explains those features better than the alternatives."
+    ]
+  ],
+  "limits": "The eye, circulation, and the water cycle give us actual examples of order to consider. The next two studies examine more specific evidence from the universe's physical conditions and from living cells.",
+  "practice": "Someone says, “Snowflakes form intricate patterns without a designer, so organized patterns never count as evidence of intelligence.” How would you distinguish mere complexity from the kind of organization used in a design inference?",
+  "model": "When I see parts working together to do something, I have a reason to consider design. Complexity alone isn't enough. Snowflakes are a good example of that. I'd look at the particular system and ask which explanation fits the evidence best.",
+  "sources": [
+    [
+      "William Paley | Natural Theology (1802)",
+      "https://openlibrary.org/books/OL24649732M/Natural_theology"
+    ],
+    [
+      "Ligonier | The Teleological Argument",
+      "https://learn.ligonier.org/podcasts/simply-put/the-teleological-argument"
+    ],
+    [
+      "Stand to Reason | Answering the New Atheists, Part 1",
+      "https://www.str.org/w/answering-the-new-atheists-part-1"
+    ]
+  ],
+  "evidence": {
+    "claim": "These sources explain the design inference and document examples of coordinated systems in nature, including vision, circulation, and the water cycle.",
+    "establishes": "The scientific sources explain how the systems discussed in this study work. Paley and the Christian apologetics sources examine why ordered, purposeful arrangements can point to intelligence.",
+    "caution": "Natural processes can generate order, so a design argument has to consider what those processes can explain before drawing a conclusion.",
+    "resources": [
+      {
+        "type": "Original source",
+        "title": "William Paley | Natural Theology (1802)",
+        "why": "The original watch illustration used in this lesson. This is an older, public-domain source, not original to this course.",
+        "url": "https://openlibrary.org/books/OL24649732M/Natural_theology"
+      },
+      {
+        "type": "Teaching",
+        "title": "Ligonier | The Teleological Argument",
+        "why": "Uses Paley’s watch and the coordinated function of nature to explain the classic design inference.",
+        "url": "https://learn.ligonier.org/podcasts/simply-put/the-teleological-argument"
+      },
+      {
+        "type": "Apologetics",
+        "title": "Stand to Reason | Answering the New Atheists",
+        "why": "Compares design in physics and biology with accidental naturalistic explanations.",
+        "url": "https://www.str.org/w/answering-the-new-atheists-part-1"
+      },
+      {
+        "type": "Biology",
+        "title": "National Eye Institute | How the Eyes Work",
+        "why": "Describes the work of the cornea, lens, retina, and optic nerve in vision.",
+        "url": "https://www.nei.nih.gov/learn-about-eye-health/healthy-vision/how-eyes-work"
+      },
+      {
+        "type": "Physiology",
+        "title": "NIH | How the Heart Works",
+        "why": "Explains circulation and how the heart and lungs move oxygen through the body.",
+        "url": "https://www.nhlbi.nih.gov/health/heart"
+      },
+      {
+        "type": "Earth science",
+        "title": "NASA | The Water Cycle",
+        "why": "Documents how solar energy drives evaporation and the movement of water through Earth's systems.",
+        "url": "https://science.nasa.gov/earth/earth-observatory/the-water-cycle/"
+      }
+    ]
+  },
+  "remember": "Do not stop at “this looks designed.” Point to the particular feature you are talking about, consider how natural processes might explain it, and ask whether design makes better sense of the evidence.",
+  "conclusion": "The way parts work together in nature gives us good reason to consider a Designer, especially alongside the earlier evidence for a Creator.",
+  "thread": "So far we have asked why the universe exists and whether it began. Now look at the way it is put together.",
+  "bigIdea": "When different parts work together for a purpose, we have reason to consider whether intelligence is behind them. The question is whether design explains the evidence better than unguided processes alone.",
+  "checkpoints": [
+    {
+      "after": "core",
+      "question": "Jordan says, “Nature is not literally a watch, so the watch example proves nothing.” Does that end the design argument?",
+      "answer": "No. The watch helps explain why we sometimes recognize the work of a mind. It does not prove anything about nature on its own. We still have to examine what we actually find in nature and compare explanations."
+    },
+    {
+      "after": "body",
+      "question": "Why is this not simply a “God of the gaps” argument?",
+      "answer": "Because it does not infer design merely from ignorance. It compares known types of causes and asks which best explains the pattern."
+    }
+  ],
+  "story": {
+    "title": "The watch beside the path",
+    "lines": [
+      "On another walk through the park, Jordan spots a watch half-hidden in the grass. He picks it up, looks around, and says, “Somebody definitely dropped this.”",
+      "You ask why he immediately assumed somebody was involved. He turns it over in his hand. “Because somebody made it. The parts are there for a reason.”",
+      "Then he looks at you and laughs. “I know where you are going with this. But we already know people make watches. We have never watched somebody make a universe.”",
+      "He slips the watch into his pocket to turn it in at the park office. “So what would make you think that something in nature was designed, rather than just complicated?”"
+    ]
+  },
+  "conversationTips": [
+    "Keep the conversation on the actual feature that needs an explanation. “It looks designed” is too vague to carry much weight by itself.",
+    "The conversation goes better when you compare causes instead of trading impressions. What is the feature, and what kind of cause is known to produce something like it?",
+    "Let a weak design example go if it turns out to be weak. Losing one example is not the same thing as showing that design is never a reasonable explanation."
+  ]
+});

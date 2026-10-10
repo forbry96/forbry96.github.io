@@ -6,7 +6,7 @@ questions.push({
   "teaser": "If Christ authorized apostles, the final historical question is how their witness became written Scripture, why these twenty-seven books were received, and whether their text has been preserved.",
   "lesson": {
     "heading": "From apostolic witness to the New Testament we have",
-    "body": "The last lesson established the bridge we needed: Jesus authorized an apostolic witness. But an authorized witness is still not the same thing as a twenty-seven-book New Testament. We now have to follow the evidence one more step.\n\nApostolic teaching began to circulate in writing during the first Christian generation. Paul’s letters are the clearest early example. He expects his letters to be read publicly in the churches and can describe his written instruction as carrying the Lord’s authority. Near the end of the first century, 1 Clement points the Corinthian church back to Paul’s earlier letter to them. That shows apostolic writings being preserved and appealed to across churches very early.\n\nThe same pattern broadens in the second century. Justin Martyr describes Christians gathering on Sunday and reading the “memoirs of the apostles” alongside the prophets. Irenaeus argues from Matthew, Mark, Luke, and John as the church’s four Gospels. This does not mean a complete twenty-seven-book list appeared immediately, but it does mean the central books were functioning authoritatively long before fourth-century councils.\n\nThat distinction matters. There was a large early core—especially the four Gospels and Paul’s letters—while a smaller group of books took longer to receive universal agreement. Christians discussed books such as James, Jude, 2 Peter, 2–3 John, and Revelation in some regions. The disagreement should not be hidden. It shows that the church was asking whether a writing genuinely belonged to the apostolic witness rather than accepting every Christian book that circulated.\n\nThe church’s role was therefore recognition, not creation. Christians looked at apostolic origin or close apostolic connection, consistency with the apostolic faith already received, and widespread use among the churches. Those questions were not a magic formula, but they help explain why some books were received broadly while other useful or popular Christian writings were not received as Scripture.\n\nThe Council of Nicaea did not choose the New Testament canon. The complete twenty-seven-book list appears clearly in the fourth century, but most of those books had already functioned as Scripture for generations. The later agreement settled the boundaries of a collection whose core was much older.\n\nOne final question remains: even if these are the right writings, do we still have what their authors wrote? This is where textual criticism belongs. The surviving manuscripts contain real variants because they were copied by hand. But having many manuscript witnesses gives scholars material to compare rather than leaving us with one late copy and no way to check it. Textual criticism works through those differences to recover the earliest attainable wording of the text. Some readings remain disputed, but the existence of variants does not mean the New Testament text has been lost.\n\nSo the argument does not depend on pretending that the canon dropped from heaven as a finished table of contents or that every manuscript copy is identical. The historical picture is stronger than that: Christ authorized apostles; apostolic teaching was written and circulated early; a large core was received very early; disputed books were examined over time; and the text has been preserved through a manuscript tradition that can be critically compared.",
+    "body": "The last lesson established the bridge we needed: Jesus authorized an apostolic witness. But an authorized witness is still not the same thing as a twenty-seven-book New Testament. We now have to follow the evidence one more step.\n\nApostolic teaching began to circulate in writing during the first Christian generation. Paul’s letters are the clearest early example. He expects his letters to be read publicly in the churches and can describe his written instruction as carrying the Lord’s authority. Near the end of the first century, 1 Clement points the Corinthian church back to Paul’s earlier letter to them. That shows apostolic writings being preserved and appealed to across churches very early.\n\nThe same pattern broadens in the second century. Justin Martyr describes Christians gathering on Sunday and reading the “memoirs of the apostles” alongside the prophets. Irenaeus argues from Matthew, Mark, Luke, and John as the church’s four Gospels. This does not mean a complete twenty-seven-book list appeared immediately, but it does mean the central books were functioning authoritatively long before fourth-century councils.\n\nThat distinction matters. There was a large early core—especially the four Gospels and Paul’s letters—while a smaller group of books took longer to receive universal agreement. Christians discussed books such as James, Jude, 2 Peter, 2–3 John, and Revelation in some regions. The disagreement should not be hidden. It shows that the church was asking whether a writing genuinely belonged to the apostolic witness rather than accepting every Christian book that circulated.\n\nThe church's role was therefore recognition, not creation. Christians asked whether a book came from an apostle or someone close to the apostolic witness, whether its teaching agreed with what the churches had received, and whether it had been used broadly over time. Mark was traditionally connected with Peter, and Luke with Paul. Those connections help explain why their Gospels were received, but the historical evidence still needs examination. Hebrews shows why the process was not always simple. The book does not identify its author, and early Christians disagreed about who wrote it.\n\nThe Council of Nicaea did not choose the New Testament canon. In the early fourth century, Eusebius distinguished widely received books from disputed books, including James, Jude, 2 Peter, and 2 and 3 John. He also recorded disagreement over Revelation. In AD 367, Athanasius listed all twenty-seven New Testament books. These are useful records of how the churches recognized the collection, not proof that a later list made the books inspired. The strongest case is the early apostolic core, together with careful examination of the disputed writings.\n\nOne final question remains: even if these are the right writings, do we still have what their authors wrote? This is where textual criticism belongs. The surviving manuscripts contain real variants because they were copied by hand. But having many manuscript witnesses gives scholars material to compare rather than leaving us with one late copy and no way to check it. Textual criticism works through those differences to recover the earliest attainable wording of the text. Some readings remain disputed, but the existence of variants does not mean the New Testament text has been lost.\n\nSo the argument does not depend on pretending that the canon dropped from heaven as a finished table of contents or that every manuscript copy is identical. The historical picture is stronger than that: Christ authorized apostles; apostolic teaching was written and circulated early; a large core was received very early; disputed books were examined over time; and the text has been preserved through a manuscript tradition that can be critically compared.",
     "facts": [
       "Paul’s letters were written, circulated, and read publicly within the first Christian generation.",
       "1 Clement, Justin Martyr, and Irenaeus show apostolic writings functioning authoritatively well before fourth-century councils.",
@@ -40,6 +40,14 @@ questions.push({
       [
         "Primary source | Irenaeus, Against Heresies 3.11",
         "https://ccel.org/ccel/irenaeus/against_heresies_iii/anf01.ix.iv.xii.html"
+      ],
+      [
+        "Eusebius | Church History 3.25",
+        "https://www.newadvent.org/fathers/250103.htm"
+      ],
+      [
+        "Athanasius | Festal Letter 39 (AD 367)",
+        "https://www.newadvent.org/fathers/2806039.htm"
       ]
     ]
   },
@@ -52,7 +60,8 @@ questions.push({
     "The church recognized writings connected to the apostolic witness; it did not create their authority merely by voting.",
     "Nicaea did not select the New Testament canon.",
     "Textual criticism addresses a different question from canon: whether we can recover the wording of the writings that were received.",
-    "The manuscript tradition contains variants but also supplies the comparative evidence scholars use to recover the earliest attainable text."
+    "The manuscript tradition contains variants but also supplies the comparative evidence scholars use to recover the earliest attainable text.",
+    "Eusebius documents early distinctions between accepted and disputed books, and Athanasius provides the complete twenty-seven-book list in AD 367."
   ],
   "pressure": [
     [
@@ -88,7 +97,7 @@ questions.push({
   "evidence": {
     "claim": "The historical evidence shows an early apostolic core, a real but limited process of dispute and recognition, and a manuscript tradition that can be critically compared.",
     "establishes": "The New Testament was not created from scratch by a late council, and the existence of textual variants is compatible with substantial recovery of the earliest text.",
-    "caution": "Do not claim there was universal agreement on all twenty-seven books from the beginning or that every manuscript is identical. The stronger case explains the actual history.",
+    "caution": "Canon recognition is not identical to divine authorization. Individual disputed books need evidence of their connection to apostolic witness, not merely a later list.",
     "resources": [
       {
         "type": "Canon scholarship",
@@ -113,6 +122,18 @@ questions.push({
         "title": "1 Clement 47; Justin Martyr, First Apology 67; Irenaeus, Against Heresies 3.11",
         "why": "Provide early examples of Pauline letters and apostolic Gospel writings being remembered, read, and treated authoritatively.",
         "url": "https://en.wikisource.org/wiki/1_Clement_(Hoole_translation)#CHAPTER_47"
+      },
+      {
+        "title": "Eusebius | Church History 3.25",
+        "url": "https://www.newadvent.org/fathers/250103.htm",
+        "type": "Primary source",
+        "why": "Identifies accepted and disputed New Testament writings."
+      },
+      {
+        "title": "Athanasius | Festal Letter 39 (AD 367)",
+        "url": "https://www.newadvent.org/fathers/2806039.htm",
+        "type": "Primary source",
+        "why": "Lists all twenty-seven New Testament books, documenting the later recognized collection."
       }
     ]
   },
