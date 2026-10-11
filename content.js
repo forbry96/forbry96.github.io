@@ -3884,16 +3884,16 @@ const jordanResolutions = {
     ]
   },
   "10": {
-  "title": "Possible does not mean proven",
-  "lines": [
-    "You agree that the cemetery shows exactly what we expect from nature: dead people stay dead. But that does not tell us what the Creator could do if He acted.",
-    "Jordan nods. “So science is telling me what happens naturally. It is not telling me that God could never raise someone.”",
-    "“Right.” You explain why Hume's challenge is still worth hearing. A miracle claim should not be believed just because someone reports it. Testimony can be wrong, and the evidence has to support the conclusion.",
-    "Jordan thinks for a moment. “So I should not believe the resurrection just because God exists, but I also should not rule it out just because dead people normally stay dead.”",
-    "“Exactly.”",
-    "He glances back at the cemetery. “Then the next question is whether there is actually enough evidence that Jesus rose.”"
-  ]
-},
+    "title": "Possible does not mean proven",
+    "lines": [
+      "You agree that the cemetery shows exactly what we expect from nature: dead people stay dead. But that does not tell us what the Creator could do if He acted.",
+      "Jordan nods. “So science is telling me what happens naturally. It is not telling me that God could never raise someone.”",
+      "“Right.” You explain why Hume's challenge is still worth hearing. A miracle claim should not be believed just because someone reports it. Testimony can be wrong, and the evidence has to support the conclusion.",
+      "Jordan thinks for a moment. “So I should not believe the resurrection just because God exists, but I also should not rule it out just because dead people normally stay dead.”",
+      "“Exactly.”",
+      "He glances back at the cemetery. “Then the next question is whether there is actually enough evidence that Jesus rose.”"
+    ]
+  },
   "11": {
     "title": "Christian sources can still be historical sources",
     "lines": [
@@ -3948,29 +3948,30 @@ const jordanResolutions = {
     ]
   },
   "17": {
-    "title": "Vindication changes how Jesus’ teaching is received",
+    "title": "Jesus treated Scripture as God’s Word",
     "lines": [
-      "You agree that the resurrection does not remove the need to ask what Jesus actually taught.",
-      "But once a teaching is reasonably established as His, the resurrection changes its weight. It is no longer just one ancient religious opinion among many.",
-      "Jordan says, “Then I see the step. History still has to tell me what Jesus taught, but if God vindicated Him, I cannot treat that teaching like just another person's opinion.”",
-      "He thinks for a moment. “So what did Jesus actually say about Scripture?”"
+      "You show Jordan how Jesus uses Scripture. When tempted, He answers, “It is written.” He describes words from Genesis as what the Creator said, and He calls the Scriptures the “word of God.”",
+      "These examples come from different settings, and together they give good historical reason to think Jesus really received Israel’s Scriptures as authoritative. If God raised Jesus, His view of Scripture matters.",
+      "Jordan nods. “Then it is not enough for me to say I respect Jesus but reject the Old Testament as just another religious book.”",
+      "He thinks for a moment. “But Jesus did not hand His followers a New Testament. How do we get from Him to those books?”"
     ]
   },
   "18": {
-    "title": "Jesus receives Scripture as God's Word",
+    "title": "Jesus left authorized witnesses",
     "lines": [
-      "You show Jordan how Jesus appeals to Scripture: He responds to temptation with “It is written,” treats Genesis as the Creator speaking, and says that Scripture cannot be broken.",
-      "That pattern matters. Jesus receives Israel's Scriptures as authoritative, and He treats their words as God's Word rather than merely quoting them as respected religious literature.",
-      "Jordan nods. “Then if I am taking Jesus seriously, I cannot just brush off the Old Testament as ordinary religious writing. That follows.”",
-      "He looks at you. “But Jesus never handed His followers a twenty-seven-book New Testament. How do you get there?”"
+      "You explain that Jesus chose the Twelve and sent them out to speak and act in His name. The Gospels describe that commission, and Paul's early letters show the Twelve and other recognized apostles were already part of the earliest movement.",
+      "That does not mean every person who later claimed apostolic authority had it. The claim we can defend is that Jesus established authorized witnesses whose teaching was meant to carry His message.",
+      "Jordan nods. “So there is a link between Jesus and the people who carried His teaching. That makes more sense than saying the church invented their authority later.”",
+      "Then he asks, “How do we know which writings really came from those witnesses?”"
     ]
   },
   "19": {
     "title": "Christ’s authority reaches the New Testament through His apostles",
     "lines": [
       "You tell Jordan that the authority comes before the later councils. Jesus commissions apostles as authorized witnesses and teachers, so their authority is received from Christ.",
-      "The church then has to recognize which writings genuinely belong to that apostolic witness. The fact that some books required more discussion does not mean a council created their authority.",
-      "Jordan nods. “That makes more sense than the idea that a council just invented the Bible. The claim is that the authority starts with Christ and His apostles, and the church recognizes the writings that carry it.”",
+      "The first churches read and passed along writings connected with that apostolic witness. The main books were widely accepted early, while some books took longer to be recognized. Later councils did not create their authority.",
+      "You also explain that surviving copies contain differences, but comparing those manuscripts helps us recover the text instead of making us depend on one copy.",
+      "Jordan nods. “So the church had to recognize which books carried the apostolic witness, and the manuscript evidence lets us check what those books said.”",
       "He turns toward home. “So now we have gone from a Creator all the way to Scripture.”"
     ]
   },
