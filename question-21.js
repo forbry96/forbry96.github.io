@@ -1,144 +1,148 @@
 questions.push({
   "id": 21,
-  "cat": "evil",
-  "tag": "Problem of Evil",
-  "title": "If God is good and powerful, why is there so much evil and suffering?",
-  "teaser": "Suffering can be an argument against God, but it can also be a cry of pain. Christians should know the difference.",
+  "cat": "practice",
+  "tag": "Conversation",
+  "title": "Where should I begin in a real apologetics conversation?",
+  "teaser": "You do not need a speech. Listen well, find the real question, and answer one thing at a time.",
   "lesson": {
-    "heading": "Start by hearing the question behind the question",
-    "body": "When someone asks, “Why would God allow this?” they may be asking a philosophical question, or they may simply be hurting. Those are not the same conversation. At a funeral or hospital bed, a quick argument can sound cold even if the argument is true.\n\nAs an argument, the problem of evil comes in two main forms. The first says God and evil cannot both exist. But that only works if a good and powerful God could never have a good reason for allowing any suffering. If God could have such reasons, the strict contradiction disappears.\n\nThe harder question is why there is so much suffering, including suffering that looks pointless to us. Christians can point to real human freedom, a stable world with regular cause and effect, the possibility of courage and compassion, and the simple fact that our view is limited. None of those lets us explain every tragedy.\n\nChristianity also gives a larger answer. It says evil is truly evil, the world is not as it should be, God entered suffering in Christ, death was defeated in the resurrection, evil will be judged, and suffering will not have the last word.",
+    "heading": "A simple conversation pattern: clarify, reasons, respond",
+    "body": "If someone tells you, “Science disproves God,” you could immediately start giving every argument you know. That would not be very helpful. The statement is too broad, and you still do not know what the person actually means.\n\nStart by asking what the person actually means. “What do you mean by that?” is often enough. Then you might ask, “How did you come to that conclusion?” That puts the burden of proof back where it belongs, meaning the person making the claim has to give some reason for believing it.\n\nGreg Koukl’s “Columbo” approach is helpful here because it keeps the conversation from turning into a speech. Ask what the person means, ask what reasons they have, and then, if needed, ask whether they have considered a problem with their view.\n\nOnce you know the real point of disagreement, you can choose the part of the case that actually addresses it. If the person thinks the universe needs no explanation, then contingency or Kalam may be useful. If the issue is morality, you can talk about the moral argument. If they already believe in God but think resurrection is impossible, then you do not need to start all the way back at the beginning.\n\nTrying to answer everything at once creates its own problem: the other person cannot respond to any one argument, and you may end up answering questions they were not even asking.\n\nGood apologetics should feel like a real conversation. Listen, clarify, answer one issue, and be willing to say, “I do not know, but I will look into it.” The goal is to give a reason for the hope we have and point people toward Christ, not to make them feel like they lost an argument.",
     "facts": [
-      "The logical problem asks whether God and evil can exist together at all.",
-      "The evidential problem asks whether the amount and kinds of suffering make God less likely.",
-      "Free will helps explain some human wrongdoing, but it does not explain every disease, disaster, or tragedy.",
-      "Not knowing why God allowed one event is different from proving that no good reason could exist.",
-      "Christianity does not call evil good. It promises judgment, resurrection, and final restoration."
+      "Questions are often more useful than immediate speeches because they reveal what the person actually believes and why.",
+      "The earliest disputed premise is usually the best place to begin.",
+      "A good answer should be short enough that the other person can respond.",
+      "Gentleness and respect are part of Christian apologetic practice, not optional presentation techniques.",
+      "It is legitimate to say, “I do not know; I want to look that up,” rather than bluff."
     ],
     "further": [
       [
-        "Stanford Encyclopedia of Philosophy | The Problem of Evil",
-        "https://plato.stanford.edu/entries/evil/"
+        "1 Peter 3:15–16",
+        "https://www.biblegateway.com/passage/?search=1%20Peter%203%3A15-16&version=ESV"
       ],
       [
-        "Internet Encyclopedia of Philosophy | Logical Problem of Evil",
-        "https://iep.utm.edu/evil-log/"
+        "Acts 17",
+        "https://www.biblegateway.com/passage/?search=Acts%2017&version=ESV"
       ],
       [
-        "Romans 8:18–25",
-        "https://www.biblegateway.com/passage/?search=Romans%208%3A18-25&version=ESV"
-      ],
-      [
-        "Revelation 21:1–5",
-        "https://www.biblegateway.com/passage/?search=Revelation%2021%3A1-5&version=ESV"
+        "Oxford Centre for Christian Apologetics | Resources",
+        "https://theocca.org/resources/"
       ]
     ]
   },
-  "why": "The problem of evil is one of the deepest objections to belief in God. It deserves a real answer, but hurting people also deserve compassion rather than a debate speech.",
+  "why": "Knowing arguments is not enough if you do not know how to use them in a real conversation. The first job is to understand what the other person actually means and why they believe it before you decide which argument to give.",
   "core": [
-    "Evil is not a simple logical disproof of God unless we already know that God could have no good reason for allowing it.",
-    "The amount and severity of suffering still raise a serious question, and Christians should not pretend every case has an easy explanation.",
-    "Calling something truly evil also assumes that good and evil are more than personal taste. That connects this objection back to the moral argument, even though it does not make the suffering itself less painful.",
-    "Christianity’s final answer is larger than a defense: God enters suffering in Christ, defeats death, judges evil, and promises to restore what is broken."
+    "Start by understanding the person’s actual claim before choosing an argument.",
+    "Two simple questions do a great deal of work: “What do you mean by that?” and “How did you come to that conclusion?”",
+    "Find the earliest real disagreement in the cumulative case rather than unloading every argument you know.",
+    "Ask questions to clarify and expose reasoning, not to trap or embarrass the other person.",
+    "Answer one issue at a time in ordinary language and be willing to say when you do not know.",
+    "Apologetics serves evangelism and discipleship; winning a verbal contest is not the goal."
   ],
   "pressure": [
     [
-      "“If God is good and all-powerful, suffering should not exist.”",
-      "That would follow only if a good God could never have a good reason to allow suffering for a time. We may not know God’s reason in a particular case, but our not seeing one is not the same as proving there could be none."
+      "“Asking questions sounds manipulative.”",
+      "Questions can absolutely become manipulative if you are only using them as traps. That is not the goal. Ask because you genuinely want to understand what the person believes, and be willing to answer questions about your own position too."
     ],
     [
-      "“Free will does not explain cancer, earthquakes, or children suffering.”",
-      "Agreed. Free will mainly helps with evil caused by people. Natural suffering is a different question. Christians also point to a stable world with regular natural processes, our limited knowledge, and the biblical teaching that creation itself is broken and awaiting restoration. None of that gives us permission to guess why one person suffered."
-    ],
-    [
-      "“Saying God has reasons we cannot see is just an escape.”",
-      "It could become an escape if that were the only thing Christians ever said. But limited human knowledge is still relevant. We often know that a person may have reasons we cannot see. The question is whether the positive case for God gives us reason to trust that God can have good purposes even when we do not know them."
-    ],
-    [
-      "“The existence of terrible evil is evidence against God.”",
-      "It can be presented that way, and it should be taken seriously. But it has to be weighed with the positive evidence for God already covered in the course. Christianity also has to explain why we recognize some things as really evil, not merely unpleasant or unpopular."
-    ],
-    [
-      "“Why would a loving God not stop every evil act?”",
-      "Stopping every harmful choice immediately would mean a very different kind of world and a very different kind of human freedom. Christianity says God permits evil for a time, limits it, can bring good through it, and will finally judge it. That is not the same as saying evil itself is good."
+      "“I need to have an answer for everything.”",
+      "You do not need an answer for everything, and pretending that you do usually makes things worse. If you do not know, say that clearly and look into it rather than giving a weak answer just because you feel pressured to respond immediately."
     ]
   ],
-  "limits": "Do not tell a grieving person that you know exactly why God allowed their tragedy. In personal suffering, listening, prayer, presence, and practical help may come before philosophical argument.",
-  "practice": "A friend who has just suffered a terrible loss says, “If God loved us, why would he let this happen?” What should you say first?",
-  "model": "I would not start with a list of reasons. I would listen and say something like, “I do not know why God allowed this particular thing, and I am not going to pretend I do.” If they want to keep talking, I can explain that Christianity does not call suffering good. It says God entered our suffering in Christ, death will be defeated, evil will be judged, and this broken world is not the end of the story.",
+  "limits": "A tactic is not a script. Use questions to understand and clarify, not to score points or avoid ever giving your own reasons.",
+  "practice": "At a family dinner, someone says, “Religion causes too much harm, so Christianity is false.” What would you ask first, and how would you decide where to go next?",
+  "model": "Before answering, I'd ask what the person means by saying religion causes harm and how that shows Christianity is false. Then I'd listen. They may be talking about hypocrisy, church history, the problem of evil, or something else entirely. Once I know the actual objection, I can answer that instead of giving a speech that has nothing to do with their concern.",
   "sources": [
     [
-      "Stanford Encyclopedia of Philosophy | The Problem of Evil",
-      "https://plato.stanford.edu/entries/evil/"
+      "Bible reference | 1 Peter 3:15–16",
+      "https://www.biblegateway.com/passage/?search=1%20Peter%203%3A15-16&version=ESV"
     ],
     [
-      "Internet Encyclopedia of Philosophy | Logical Problem of Evil",
-      "https://iep.utm.edu/evil-log/"
+      "Bible reference | Acts 17",
+      "https://www.biblegateway.com/passage/?search=Acts%2017&version=ESV"
     ],
     [
-      "Bible reference | Romans 8:18–25",
-      "https://www.biblegateway.com/passage/?search=Romans%208%3A18-25&version=ESV"
-    ],
-    [
-      "Bible reference | Revelation 21:1–5",
-      "https://www.biblegateway.com/passage/?search=Revelation%2021%3A1-5&version=ESV"
+      "OCCA | Foundational Apologetics",
+      "https://theocca.org/foundational-apologetics/"
     ]
   ],
   "evidence": {
-    "claim": "The existence of suffering raises a serious challenge, but it is not a simple logical contradiction of a good and powerful God.",
-    "establishes": "Philosophers distinguish between the claim that God and evil are logically incompatible and the broader claim that the amount of suffering counts as evidence against God. The first requires showing that God could have no good reason for allowing suffering. The second remains a real debate and must be weighed with the rest of the case for and against God.",
-    "caution": "A philosophical answer does not tell us why God allowed a particular tragedy. The Christian claims about the fall, the cross, resurrection, judgment, and restoration are theological claims that give the suffering question a larger setting.",
+    "claim": "These sources emphasize listening, clarification, burden of proof, and asking good questions in real conversations.",
+    "establishes": "Stand to Reason’s Tactics material is especially clear about asking what a person means and how they reached a conclusion before answering.",
+    "caution": "Questions become manipulative if they are only traps. The Christian still has to listen honestly and give reasons for his own view.",
     "resources": [
       {
-        "type": "Scholarship",
-        "title": "Stanford Encyclopedia of Philosophy | The Problem of Evil",
-        "why": "Explains the logical and evidential forms of the problem and the major responses.",
-        "url": "https://plato.stanford.edu/entries/evil/"
+        "type": "Curriculum",
+        "title": "Stand to Reason | Tactics Video Study",
+        "why": "A multi-session curriculum on Columbo questions, burden of proof, objections, and productive disagreement.",
+        "url": "https://store.str.org/purchase/tactics-video-study-updated-and-expanded"
       },
       {
-        "type": "Scholarship",
-        "title": "Internet Encyclopedia of Philosophy | Logical Problem of Evil",
-        "why": "A readable overview of the alleged contradiction between God and evil.",
-        "url": "https://iep.utm.edu/evil-log/"
+        "type": "Apologetics",
+        "title": "Stand to Reason | The Columbo Tactic",
+        "why": "Introduces the core questions: What do you mean? How did you come to that conclusion?",
+        "url": "https://www.str.org/w/the-columbo-tactic"
       },
       {
-        "type": "Primary Christian source",
-        "title": "Romans 8:18–25",
-        "why": "Describes creation as groaning now while waiting for future restoration.",
-        "url": "https://www.biblegateway.com/passage/?search=Romans%208%3A18-25&version=ESV"
+        "type": "Apologetics",
+        "title": "Stand to Reason | Meaningful Conversations",
+        "why": "Applies questioning and listening to real apologetics conversations.",
+        "url": "https://www.str.org/w/thoughts-from-greg-and-amy-on-having-meaningful-spiritual-conversations"
       },
       {
-        "type": "Primary Christian source",
-        "title": "Revelation 21:1–5",
-        "why": "Describes the Christian hope of the end of death, mourning, and pain.",
-        "url": "https://www.biblegateway.com/passage/?search=Revelation%2021%3A1-5&version=ESV"
+        "type": "Curriculum",
+        "title": "Impact Apologetics | Quick Shots and Q&A",
+        "why": "Offers concise responses to common objections and examples of question-driven conversations.",
+        "url": "https://impactapologetics.com/why-i-still-dont-have-enough-faith-to-be-an-atheist-video-series-updated-expanded/"
+      },
+      {
+        "type": "Curriculum",
+        "title": "Biola | Small Group Introduction to Christian Apologetics",
+        "why": "Provides material for discussing Christian arguments and practicing responses in a small group.",
+        "url": "https://learn.biola.edu/courses/small-group-curriculum-introduction-to-christian-apologetics"
       }
     ]
   },
-  "thoughts": [
-    "What is the difference between saying God and evil cannot coexist and saying suffering makes God less likely?",
-    "Why does free will explain only part of the problem?",
-    "Why is “I cannot see a reason” weaker than “there can be no reason”?",
-    "How should your response change when the person asking is grieving rather than debating?"
-  ],
   "terms": [
     [
-      "Logical problem of evil",
-      "The claim that God and evil cannot both exist."
+      "Clarifying question",
+      "A question that checks what someone means before you answer."
     ],
     [
-      "Evidential problem of evil",
-      "The claim that the amount or kinds of suffering count as evidence against God."
+      "Point of disagreement",
+      "The first important claim where your reasoning and the other person’s reasoning separate."
     ],
     [
-      "Moral evil",
-      "Evil caused by human choices, such as murder, abuse, or cruelty."
+      "Burden of proof",
+      "The responsibility to give reasons for a claim."
     ],
     [
-      "Natural suffering",
-      "Suffering from things such as disease, disasters, and other natural events."
+      "Apologetics",
+      "Giving reasons for Christian hope and answering objections."
     ]
   ],
-  "conclusion": "Remember this: evil is a serious question, not a simple disproof of God. Christianity says evil is real, God entered our suffering, death was defeated, and evil will not have the final word.",
-  "thread": "The main course built a positive case for God and the resurrection. This bonus study asks whether the reality of suffering overturns that case, and how a Christian should answer without losing sight of the person who is hurting.",
-  "bigIdea": "Suffering is both an argument to think through and a wound to care for. Christianity answers it with reasons, but ultimately with the cross, resurrection, judgment, and restoration."
+  "conclusion": "Good apologetics starts by finding the real point of disagreement and answering that issue clearly.",
+  "thread": "The core case for Christianity is complete. How do we use what we have learned when someone asks a question or raises an objection?",
+  "bigIdea": "Good apologetics conversations begin with listening and questions. Find the real claim, discover the person’s reasons, and answer one issue at a time.",
+  "checkpoints": [
+    {
+      "after": "core",
+      "question": "Someone tells you Christianity is obviously false. What should you do before choosing an argument?",
+      "answer": "Clarify what the person actually means and ask why they believe it. The real disagreement determines which argument is relevant."
+    },
+    {
+      "after": "body",
+      "question": "Why should you find the earliest real disagreement before choosing an argument?",
+      "answer": "Because answering a later point will not help if the person rejects an earlier premise the later argument depends on."
+    },
+    {
+      "after": "facts",
+      "question": "What is the goal of apologetics in conversation?",
+      "answer": "To make the truth clearer and point to Christ with gentleness and respect, not merely to win an argument."
+    }
+  ],
+  "conversationTips": [
+    "Questions usually work better than a speech at the beginning. Find out what the person means and why they believe it before deciding which argument to give.",
+    "When six objections arrive at once, pick the first important one and stay there. Otherwise neither person knows what has actually been answered.",
+    "Saying “I do not know” is sometimes the strongest answer available. It is better to check the issue and come back than to bluff."
+  ]
 });
