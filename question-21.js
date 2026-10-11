@@ -5,14 +5,15 @@ questions.push({
   "title": "Where should I begin in a real apologetics conversation?",
   "teaser": "You do not need a speech. Listen well, find the real question, and answer one thing at a time.",
   "lesson": {
-    "heading": "A simple conversation pattern: clarify, reasons, respond",
-    "body": "If someone tells you, “Science disproves God,” you could immediately start giving every argument you know. That would not be very helpful. The statement is too broad, and you still do not know what the person actually means.\n\nStart by asking what the person actually means. “What do you mean by that?” is often enough. Then you might ask, “How did you come to that conclusion?” That puts the burden of proof back where it belongs, meaning the person making the claim has to give some reason for believing it.\n\nGreg Koukl’s “Columbo” approach is helpful here because it keeps the conversation from turning into a speech. Ask what the person means, ask what reasons they have, and then, if needed, ask whether they have considered a problem with their view.\n\nOnce you know the real point of disagreement, you can choose the part of the case that actually addresses it. If the person thinks the universe needs no explanation, then contingency or Kalam may be useful. If the issue is morality, you can talk about the moral argument. If they already believe in God but think resurrection is impossible, then you do not need to start all the way back at the beginning.\n\nTrying to answer everything at once creates its own problem: the other person cannot respond to any one argument, and you may end up answering questions they were not even asking.\n\nGood apologetics should feel like a real conversation. Listen, clarify, answer one issue, and be willing to say, “I do not know, but I will look into it.” The goal is to give a reason for the hope we have and point people toward Christ, not to make them feel like they lost an argument.",
+    "heading": "Listen, find the question, and use the evidence",
+    "body": "Finishing a course and using it in a conversation are two different things. You do not need to recite all twenty studies when someone asks you a question. The six larger questions on the course page are there to help you find your place in the argument.\n\nSuppose someone says, “Science disproves God.” Before talking about the Big Bang or DNA, ask what they mean. Are they saying the universe needs no Creator? That evolution explains life without God? Or that science has ruled out miracles? Those are different objections, and they need different answers. Two questions can help: “What do you mean by that?” and “How did you come to that conclusion?”\n\nGreg Koukl calls this kind of questioning the “Columbo” approach. It is useful because it gives you a chance to understand the person before you try to answer. Questions should not be traps. If you ask someone to explain their reasons, be prepared to explain yours too.\n\nOnce you know the objection, use the course map. Step 1 asks why anything exists, whether nature points to design, and what morality and reason tell us about God. Study 10 connects that case to the possibility of miracles. Step 2 asks what we can know about Jesus, whether He rose and what that would establish, and how His authority leads us to Scripture.\n\nYou do not have to start with Study 3 every time. Someone who already believes God exists but doubts the resurrection may need Studies 13–16. Someone who accepts the resurrection but questions the Bible may be asking about Studies 17–20. If they reject an earlier part of the argument, though, you will need to address that before leaning on a conclusion that depends on it.\n\nWhen you find the relevant study, start with its main idea and evidence. Ask yourself which premise the evidence supports and whether the conclusion really follows. The “Think about it” question can help you check your understanding. Then try explaining the answer in your own words before comparing it with the model response. The references are there when you need to look more closely at a claim. You can also share an individual lesson if someone wants to read it for themselves.\n\nIn conversation, give one reason at a time and let the other person respond. If someone raises several objections, you can ask which one they want to discuss first. And if the question is outside what the course covers, there is nothing wrong with saying you need to look into it. You do not have to force every conversation into one of the six sections.\n\nThe goal is to understand what the person is asking, give a reason for what you believe, and point them toward Christ. We should be prepared to answer, but we should also speak with the gentleness and respect Scripture calls for.",
     "facts": [
-      "Questions are often more useful than immediate speeches because they reveal what the person actually believes and why.",
-      "The earliest disputed premise is usually the best place to begin.",
-      "A good answer should be short enough that the other person can respond.",
-      "Gentleness and respect are part of Christian apologetic practice, not optional presentation techniques.",
-      "It is legitimate to say, “I do not know; I want to look that up,” rather than bluff."
+      "Find out what the person means before choosing an argument.",
+      "The six guiding questions help identify which part of the case addresses an objection.",
+      "A later conclusion cannot do its work if an earlier premise it depends on is rejected.",
+      "Use the main idea, evidence, comprehension check, and practice response to prepare an answer in your own words.",
+      "The references and shareable lesson pages help you check claims and continue a conversation.",
+      "Listen carefully, answer one issue at a time, and be honest when you do not know."
     ],
     "further": [
       [
@@ -29,28 +30,29 @@ questions.push({
       ]
     ]
   },
-  "why": "Knowing arguments is not enough if you do not know how to use them in a real conversation. The first job is to understand what the other person actually means and why they believe it before you decide which argument to give.",
+  "why": "The course now shows how the studies fit under six larger questions. That gives you a way to find the right argument when someone raises an objection, without turning the conversation into a lecture.",
   "core": [
-    "Start by understanding the person’s actual claim before choosing an argument.",
-    "Two simple questions do a great deal of work: “What do you mean by that?” and “How did you come to that conclusion?”",
-    "Find the earliest real disagreement in the cumulative case rather than unloading every argument you know.",
-    "Ask questions to clarify and expose reasoning, not to trap or embarrass the other person.",
-    "Answer one issue at a time in ordinary language and be willing to say when you do not know.",
-    "Apologetics serves evangelism and discipleship; winning a verbal contest is not the goal."
+    "First ask what the person actually means and why they believe it.",
+    "Use the six guiding questions to find where their objection fits in Step 1, the miracles bridge, or Step 2.",
+    "Start at the point where you actually disagree. Do not assume someone accepts an earlier premise that your answer depends on.",
+    "Use a study's evidence to explain its main conclusion in ordinary language, then let the person respond.",
+    "Use the comprehension question, practice response, references, and shareable pages to prepare and follow up.",
+    "If an objection falls outside the course, acknowledge that rather than forcing it into the argument.",
+    "The goal is to speak truthfully and respectfully about Christ, not to win a verbal contest."
   ],
   "pressure": [
     [
-      "“Asking questions sounds manipulative.”",
-      "Questions can absolutely become manipulative if you are only using them as traps. That is not the goal. Ask because you genuinely want to understand what the person believes, and be willing to answer questions about your own position too."
+      "“Do I have to memorize all twenty studies before talking to someone?”",
+      "No. Learn the main path and use the guiding questions to find the study you need. You can return to the evidence or share a lesson when someone wants to examine it more closely."
     ],
     [
-      "“I need to have an answer for everything.”",
-      "You do not need an answer for everything, and pretending that you do usually makes things worse. If you do not know, say that clearly and look into it rather than giving a weak answer just because you feel pressured to respond immediately."
+      "“Isn't asking questions just a way to trap people?”",
+      "It can become that if you are not listening. Ask because you want to understand, and be ready to give reasons for your own beliefs. A conversation should work both ways."
     ]
   ],
-  "limits": "A tactic is not a script. Use questions to understand and clarify, not to score points or avoid ever giving your own reasons.",
-  "practice": "At a family dinner, someone says, “Religion causes too much harm, so Christianity is false.” What would you ask first, and how would you decide where to go next?",
-  "model": "Before answering, I'd ask what the person means by saying religion causes harm and how that shows Christianity is false. Then I'd listen. They may be talking about hypocrisy, church history, the problem of evil, or something else entirely. Once I know the actual objection, I can answer that instead of giving a speech that has nothing to do with their concern.",
+  "limits": "The course map is a guide, not a script. Do not force an objection into a study it does not address or assume your conversation partner accepts premises they have questioned.",
+  "practice": "Someone says, “I believe there is a God, but I do not see why that means the Bible is His Word.” What would you ask first, where would you go in the course, and how would you begin explaining the connection?",
+  "model": "I would ask what part they find difficult. Do they doubt Jesus rose from the dead, that He had authority to speak for God, or that the Bible contains the writings He received and authorized? If they already accept the resurrection, I would begin with the last group of Step 2, Studies 17–20. I would explain how the argument moves from Jesus' authority to His view of Scripture and His apostles. If they don't accept an earlier part of the case, we would start there instead. I would rather work through one part with them than give a speech about the entire course.",
   "sources": [
     [
       "Bible reference | 1 Peter 3:15–16",
@@ -120,29 +122,29 @@ questions.push({
       "Giving reasons for Christian hope and answering objections."
     ]
   ],
-  "conclusion": "Good apologetics starts by finding the real point of disagreement and answering that issue clearly.",
-  "thread": "The core case for Christianity is complete. How do we use what we have learned when someone asks a question or raises an objection?",
-  "bigIdea": "Good apologetics conversations begin with listening and questions. Find the real claim, discover the person’s reasons, and answer one issue at a time.",
+  "conclusion": "Use the course as a guide to the argument: find the question, examine the evidence for that part, and explain it in a real conversation.",
+  "thread": "We have followed the case from God to Jesus and then to Scripture. Now we can use that path when someone has a question, without expecting every conversation to follow the whole course.",
+  "bigIdea": "Listen first, find the question being asked, and use the relevant study to explain one part of the case clearly.",
   "checkpoints": [
     {
       "after": "core",
-      "question": "Someone tells you Christianity is obviously false. What should you do before choosing an argument?",
-      "answer": "Clarify what the person actually means and ask why they believe it. The real disagreement determines which argument is relevant."
+      "question": "Someone says science has disproved God. What should you find out before choosing a study?",
+      "answer": "Ask what they mean and why they believe it. They might be questioning the universe's origin, biological design, or whether miracles are possible. Those belong to different parts of the course."
     },
     {
       "after": "body",
-      "question": "Why should you find the earliest real disagreement before choosing an argument?",
-      "answer": "Because answering a later point will not help if the person rejects an earlier premise the later argument depends on."
+      "question": "A friend believes God exists but doubts that Jesus rose. Where would you begin, and why?",
+      "answer": "Start with the resurrection section of Step 2, especially Studies 13–16. There is no need to repeat the whole case for God if the friend already accepts it. If an earlier premise becomes disputed, address it then."
     },
     {
       "after": "facts",
-      "question": "What is the goal of apologetics in conversation?",
-      "answer": "To make the truth clearer and point to Christ with gentleness and respect, not merely to win an argument."
+      "question": "What should you do if an objection is outside what this course teaches?",
+      "answer": "Listen, say when you do not know, and look into the question. The six sections help you navigate the course, but not every objection belongs to one of them."
     }
   ],
   "conversationTips": [
-    "Questions usually work better than a speech at the beginning. Find out what the person means and why they believe it before deciding which argument to give.",
-    "When six objections arrive at once, pick the first important one and stay there. Otherwise neither person knows what has actually been answered.",
-    "Saying “I do not know” is sometimes the strongest answer available. It is better to check the issue and come back than to bluff."
+    "Begin with “What do you mean?” and “How did you come to that conclusion?” before choosing an argument.",
+    "If someone already accepts part of the case, begin where they have questions. Do not make them listen to every earlier study.",
+    "Use one piece of evidence at a time. If you need to check something, use the references and return to the conversation."
   ]
 });
