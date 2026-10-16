@@ -16,7 +16,8 @@ const defaultState = () => ({
   practiced: [],
   pre: null,
   post: null,
-  step1Checkpoint: null
+  step1Checkpoint: null,
+  step2Checkpoint: null
 });
 
 function normalizeState(raw){
@@ -59,9 +60,11 @@ function normalizeState(raw){
       base[type] = {score:Number(r.score), total:Number(r.total), date:String(r.date || '')};
     }
   }
-  const step1 = raw.step1Checkpoint;
-  if(step1 && Number.isFinite(Number(step1.score)) && Number.isFinite(Number(step1.total))){
-    base.step1Checkpoint = {score:Number(step1.score), total:Number(step1.total), date:String(step1.date || '')};
+  for(const key of ['step1Checkpoint','step2Checkpoint']){
+    const r = raw[key];
+    if(r && Number.isFinite(Number(r.score)) && Number.isFinite(Number(r.total))){
+      base[key] = {score:Number(r.score), total:Number(r.total), date:String(r.date || '')};
+    }
   }
   return base;
 }
@@ -103,6 +106,8 @@ function renderProgress(){
   document.querySelector('#postScore').textContent = scoreLabel(progressState.post);
   const step1Score = document.querySelector('#step1Score');
   if(step1Score) step1Score.textContent = scoreLabel(progressState.step1Checkpoint);
+  const step2Score = document.querySelector('#step2Score');
+  if(step2Score) step2Score.textContent = scoreLabel(progressState.step2Checkpoint);
   document.querySelector('#practiceScore').textContent = `${progressState.practiced.length} topic${progressState.practiced.length===1?'':'s'}`;
   document.querySelector('#startPreTest').textContent = progressState.pre ? 'Retake the pre-test' : 'Take the pre-test';
   ['heroPreTest','methodPreTest'].forEach(id => {
@@ -256,10 +261,10 @@ function renderQuestions(){
     const moduleDone = module.studyIds.filter(isComplete).length;
     const progressLabel = `${moduleDone}/${module.studyIds.length} complete`;
     const quickReference = !term && (module.key === 'step1' || module.key === 'step2') ? `<article class="question-card quick-reference-card" data-open-quick="${module.key}" tabindex="0" role="button" aria-label="Open ${module.key === 'step1' ? 'Step 1' : 'Step 2'} quick reference">
-        <div class="question-card-top"><span class="question-tag">${module.key === 'step1' ? 'CHECKPOINT · NOT A LESSON' : 'QUICK REFERENCE · NOT A LESSON'}</span></div>
-        <h3>${module.key === 'step1' ? 'Step 1 Review + Checkpoint' : 'Step 2 in one minute: Has God spoken?'}</h3>
-        <p>${module.key === 'step1' ? 'See how Studies 3–9 fit together, check your understanding, and try one cumulative conversation challenge.' : 'A short review of Studies 11–20 for quick reference before a conversation or after finishing the section.'}</p>
-        <div class="card-foot">${module.key === 'step1' ? 'Open review + checkpoint' : 'Open quick reference'}</div>
+        <div class="question-card-top"><span class="question-tag">${'REVIEW + CHECKPOINT · NOT A LESSON'}</span></div>
+        <h3>${module.key === 'step1' ? 'Step 1 Review + Checkpoint' : 'Step 2 Review + Checkpoint'}</h3>
+        <p>${module.key === 'step1' ? 'See how Studies 3–9 fit together, check your understanding, and try one cumulative conversation challenge.' : 'Review how Studies 11–20 fit together, test your understanding, and explain the case in your own words.'}</p>
+        <div class="card-foot">${'Open review + checkpoint'}</div>
       </article>` : '';
     return `<section class="learning-module ${module.core?'core-module':'bonus-module'}" data-module="${esc(module.key)}">
       <div class="learning-module-head"><div><span class="module-label">${esc(module.label)}</span><h3>${esc(module.title)}</h3><p>${esc(module.description)}</p></div><div class="module-actions"><span class="module-count">${progressLabel}</span><button class="module-start" type="button" data-open="${first.id}">${module.key==='foundation'?'Start here':'Start this section'}</button></div></div>
@@ -694,10 +699,95 @@ function openStep1QuickReference(options={}){
   };
 }
 
-function openStep2QuickReference(){
+
+function step2ChallengeHtml(r){
+  const c = r.challenge;
+  return `<section class="step-check-section step-challenge">
+    <span class="step-check-kicker">CONVERSATION PRACTICE</span>
+    <h3>${esc(c.title)}</h3><p>${esc(c.intro)}</p>
+    <blockquote>${esc(c.prompt)}</blockquote>
+    <label class="step-check-text-label" for="step2ChallengeInput">What would you say?</label>
+    <textarea id="step2ChallengeInput" class="step-check-textarea" placeholder="Explain it in your own words."></textarea>
+    <button class="button secondary" type="button" id="step2ChallengeModel">Show a possible response</button>
+    <div id="step2ChallengeModelHolder"></div>
+    <div id="step2PushbackHolder"></div>
+  </section>
+  <section class="step-check-section step-handoff">
+    <span class="step-check-kicker">KEEP PRACTICING</span>
+    <h3>Use the case in a real conversation</h3>
+    <p>Go back to any study you need. You can also use the Practice Lab to work through questions without following the course from the beginning every time.</p>
+    <button class="button primary" id="step2PracticeLab" type="button">Open the Practice Lab</button>
+  </section>`;
+}
+
+function wireStep2Challenge(r){
+  const btn = document.querySelector('#step2ChallengeModel');
+  if(btn) btn.onclick = () => {
+    const answer = document.querySelector('#step2ChallengeInput')?.value.trim();
+    document.querySelector('#step2ChallengeModelHolder').innerHTML = `<div class="step-check-model"><span>ONE POSSIBLE RESPONSE</span><p>${esc(r.challenge.model)}</p>${answer?'':'<small>Try answering before checking the model if you can.</small>'}</div>`;
+    document.querySelector('#step2PushbackHolder').innerHTML = `<div class="step-check-pushback"><span>ONE MORE PUSHBACK</span><blockquote>${esc(r.challenge.pushback)}</blockquote><label class="step-check-text-label" for="step2PushbackInput">What would you say?</label><textarea id="step2PushbackInput" class="step-check-textarea" placeholder="Give a short, direct answer."></textarea><button class="button secondary" id="step2PushbackModel" type="button">Show a possible response</button><div id="step2PushbackModelHolder"></div></div>`;
+    document.querySelector('#step2PushbackModel').onclick = () => {
+      const answer2 = document.querySelector('#step2PushbackInput')?.value.trim();
+      document.querySelector('#step2PushbackModelHolder').innerHTML = `<div class="step-check-model"><span>ONE POSSIBLE RESPONSE</span><p>${esc(r.challenge.pushbackModel)}</p>${answer2?'':'<small>Try your own answer before comparing it.</small>'}</div>`;
+    };
+  };
+  document.querySelector('#step2PracticeLab')?.addEventListener('click',()=>{
+    closeModal();
+    document.querySelector('#tools')?.scrollIntoView({behavior:'smooth',block:'start'});
+  });
+}
+
+function openStep2QuickReference(options={}){
   const r = step2QuickReference;
-  const html = `<span class="question-tag">QUICK REFERENCE · NOT A LESSON</span><h2 id="modalTitle">${esc(r.title)}</h2><p class="modal-intro">${esc(r.intro)}</p><div class="quick-reference-list">${r.points.map(([title,body])=>`<article><strong>${esc(title)}</strong><p>${esc(body)}</p></article>`).join('')}</div><div class="remember-box"><span>THE SHORT VERSION</span><p>${esc(r.bottom)}</p></div><p class="microcopy">This page is for review only. It does not count toward course progress.</p>`;
-  showModal(html);
+  const prior = progressState.step2Checkpoint;
+  const sections = r.sections.map((section,index)=>`<section class="step-check-section">
+    <div class="step-check-section-head"><span class="step-check-number">${index+1}</span><div><span class="step-check-kicker">${esc(section.studies)}</span><h3>${esc(section.title)}</h3></div></div>
+    <div class="step-check-review-grid">${section.items.map(item=>`<article><h4>${esc(item.title)}</h4><p>${esc(item.body)}</p><div class="step-check-adds"><span>WHAT IT ADDS</span><p>${esc(item.adds)}</p></div></article>`).join('')}</div>
+    <div class="step-check-takeaway"><strong>Put it together:</strong> ${esc(section.takeaway)}</div>
+  </section>`).join('');
+  const quiz = r.questions.map((item,i)=>{
+    const opts = shufflePracticeChoices(item.opts.map((opt,j)=>({opt,j})));
+    return `<fieldset class="test-question step-check-question"><legend><span>QUESTION ${i+1}</span>${esc(item.q)}</legend>${opts.map(c=>`<label><input type="radio" name="step2-check-${i}" value="${c.j}"><span>${esc(c.opt)}</span></label>`).join('')}</fieldset>`;
+  }).join('');
+  const html = `<button class="lesson-back" id="step2ReviewBack" type="button">Back to course</button>
+    <span class="question-tag">REVIEW + CHECKPOINT · NOT A LESSON</span>
+    <h2 id="modalTitle">${esc(r.title)}</h2><p class="modal-intro">${esc(r.intro)}</p><p class="step-check-note">${esc(r.note)}</p>
+    ${prior?`<p class="step-check-prior"><strong>Last checkpoint:</strong> ${prior.score}/${prior.total}</p>`:''}
+    <div class="step-check-review">${sections}</div>
+    <section class="step-check-synthesis"><span class="step-check-kicker">THE WHOLE ARGUMENT</span><h3>${esc(r.synthesisTitle)}</h3><p>${esc(r.synthesis)}</p></section>
+    <section class="step-check-section" id="step2QuizSection"><span class="step-check-kicker">6-QUESTION CHECKPOINT</span><h3>${esc(r.checkpointTitle)}</h3><p>${esc(r.checkpointIntro)}</p>
+      <form id="step2CheckpointForm" class="test-form">${quiz}<button class="button primary" type="submit">Score my checkpoint</button></form>
+      <div id="step2CheckpointResults"></div>
+    </section>
+    <div id="step2ChallengeHolder">${prior?step2ChallengeHtml(r):`<section class="step-check-section step-challenge-preview"><span class="step-check-kicker">CONVERSATION PRACTICE</span><h3>${esc(r.challenge.title)}</h3><p>After the checkpoint, answer a cumulative objection, compare your answer with a model, and handle a follow-up.</p></section>`}</div>`;
+  showModal(html,'lesson');
+  document.querySelector('#step2ReviewBack').onclick=closeModal;
+  if(prior) wireStep2Challenge(r);
+  if(options.scrollToQuiz) requestAnimationFrame(()=>document.querySelector('#step2QuizSection')?.scrollIntoView({block:'start'}));
+  document.querySelector('#step2CheckpointForm').onsubmit=e=>{
+    e.preventDefault();
+    let score=0;
+    const missed=[];
+    const review=r.questions.map((item,i)=>{
+      const picked=document.querySelector(`input[name="step2-check-${i}"]:checked`);
+      const selected=picked?Number(picked.value):null;
+      const correct=selected===item.a;
+      if(correct) score++; else missed.push(item);
+      return `<div class="test-review ${correct?'right':'wrong'}"><strong>${correct?'✓':'×'} ${esc(item.q)}</strong><p>${selected===null?'No answer selected.':'Your answer: '+esc(item.opts[selected])}</p><p><strong>Best answer:</strong> ${esc(item.opts[item.a])}</p><p class="test-explanation">${esc(item.exp)}</p></div>`;
+    }).join('');
+    progressState.step2Checkpoint={score,total:r.questions.length,date:new Date().toISOString()};
+    saveState();
+    const band=r.scoreBands.find(b=>score>=b.min)||r.scoreBands.at(-1);
+    const reviewLinks=[];
+    missed.forEach(item=>{if(!reviewLinks.some(x=>x.label===item.reviewLabel))reviewLinks.push({label:item.reviewLabel,ids:item.reviewStudyIds});});
+    const links=reviewLinks.length?`<div class="step-check-review-links"><span>WORTH ANOTHER LOOK</span>${reviewLinks.map(x=>`<div><strong>${esc(x.label)}</strong>${x.ids.map(id=>`<button type="button" data-review-study="${id}">Study ${id}</button>`).join(' ')}</div>`).join('')}</div>`:'';
+    document.querySelector('#step2CheckpointResults').innerHTML=`<div class="step-check-result"><span class="step-check-kicker">YOUR CHECKPOINT</span><h3>${score}/${r.questions.length} correct</h3><strong>${esc(band.title)}</strong><p>${esc(band.body)}</p><button id="retakeStep2Checkpoint" class="button secondary" type="button">Retake checkpoint</button></div>${links}<details class="test-review-wrap"><summary>Review answers</summary>${review}</details>`;
+    document.querySelector('#retakeStep2Checkpoint').onclick=()=>openStep2QuickReference({scrollToQuiz:true});
+    document.querySelectorAll('[data-review-study]').forEach(btn=>btn.onclick=()=>{closeModal();openQuestion(Number(btn.dataset.reviewStudy));});
+    document.querySelector('#step2ChallengeHolder').innerHTML=step2ChallengeHtml(r);
+    wireStep2Challenge(r);
+    document.querySelector('#step2CheckpointResults').scrollIntoView({behavior:'smooth',block:'start'});
+  };
 }
 
 let lastFocusedBeforeModal = null;
