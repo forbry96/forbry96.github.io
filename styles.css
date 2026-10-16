@@ -875,3 +875,71 @@ input,select{padding:11px 12px}
   .study-subgroup+.study-subgroup{padding-top:21px}
   .study-subgroup-head{padding-left:13px}
 }
+
+
+/* October 2026: make the two main steps unmistakable and let their smaller questions support them. */
+.learning-module[data-module="step1"],
+.learning-module[data-module="step2"]{
+  margin:34px 0 52px;
+  padding:0 22px 26px;
+  border:1px solid var(--line);
+  background:#fffdfa;
+}
+.learning-module[data-module="step1"] .learning-module-head,
+.learning-module[data-module="step2"] .learning-module-head{
+  margin:-1px -23px 25px;
+  padding:28px 30px;
+  border-left:6px solid var(--accent2);
+  background:var(--dark);
+  color:var(--white);
+  align-items:center;
+}
+.learning-module[data-module="step1"] .learning-module-head h3,
+.learning-module[data-module="step2"] .learning-module-head h3{
+  font-size:clamp(30px,3.6vw,40px);
+  font-weight:600;
+  letter-spacing:-.035em;
+  line-height:1.12;
+}
+.learning-module[data-module="step1"] .learning-module-head p,
+.learning-module[data-module="step2"] .learning-module-head p{
+  color:#e5e2db;
+  max-width:70ch;
+}
+.learning-module[data-module="step1"] .module-label,
+.learning-module[data-module="step2"] .module-label{
+  color:#f1bd8d;
+  font-size:12px;
+  letter-spacing:.12em;
+  margin-bottom:12px;
+}
+.learning-module[data-module="step1"] .module-count,
+.learning-module[data-module="step2"] .module-count{color:#e5e2db}
+.learning-module[data-module="step1"] .module-start,
+.learning-module[data-module="step2"] .module-start{color:#f4d4b5;text-decoration-color:#f4d4b5}
+.learning-module[data-module="step1"] .module-start:hover,
+.learning-module[data-module="step2"] .module-start:hover{color:#fff}
+.study-subgroup{margin:18px 0 33px}
+.study-subgroup+.study-subgroup{padding-top:21px;border-top:1px solid #e8e0d3}
+.study-subgroup-head{border-left:0;padding:0;margin:0 0 15px}
+.study-subgroup-meta{font-size:10px;letter-spacing:.08em;color:var(--muted);margin-bottom:5px}
+.study-subgroup-head h4{
+  font-family:var(--sans);
+  font-size:clamp(17px,2vw,19px);
+  font-weight:750;
+  letter-spacing:-.015em;
+  line-height:1.32;
+  margin:0 0 4px;
+  color:var(--ink);
+}
+.study-subgroup-head p{font-size:13px;line-height:1.5;max-width:78ch}
+@media(max-width:680px){
+  .learning-module[data-module="step1"],.learning-module[data-module="step2"]{padding:0 15px 20px;margin:28px 0 38px}
+  .learning-module[data-module="step1"] .learning-module-head,
+  .learning-module[data-module="step2"] .learning-module-head{margin:-1px -16px 23px;padding:22px 18px;display:block}
+  .learning-module[data-module="step1"] .learning-module-head h3,
+  .learning-module[data-module="step2"] .learning-module-head h3{font-size:30px}
+  .study-subgroup{margin:15px 0 25px}
+  .study-subgroup+.study-subgroup{padding-top:18px}
+  .study-subgroup-head{padding:0}
+}
