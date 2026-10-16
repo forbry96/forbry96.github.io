@@ -943,3 +943,8 @@ input,select{padding:11px 12px}
   .study-subgroup+.study-subgroup{padding-top:18px}
   .study-subgroup-head{padding:0}
 }
+
+/* Five progress measures after adding the Step 2 checkpoint. */
+.progress-stats{grid-template-columns:repeat(5,minmax(0,1fr))}
+@media(max-width:950px){.progress-stats{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:580px){.progress-stats{grid-template-columns:repeat(2,minmax(0,1fr))}}
