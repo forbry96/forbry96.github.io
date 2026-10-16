@@ -260,7 +260,7 @@ function renderQuestions(){
     const first = items[0];
     const moduleDone = module.studyIds.filter(isComplete).length;
     const progressLabel = `${moduleDone}/${module.studyIds.length} complete`;
-    const quickReference = !term && (module.key === 'step1' || module.key === 'step2') ? `<article class="question-card quick-reference-card" data-open-quick="${module.key}" tabindex="0" role="button" aria-label="Open ${module.key === 'step1' ? 'Step 1' : 'Step 2'} quick reference">
+    const quickReference = !term && (module.key === 'step1' || module.key === 'step2') ? `<article class="question-card quick-reference-card" data-open-quick="${module.key}" tabindex="0" role="button" aria-label="Open ${module.key === 'step1' ? 'Step 1' : 'Step 2'} review and checkpoint">
         <div class="question-card-top"><span class="question-tag">${'REVIEW + CHECKPOINT · NOT A LESSON'}</span></div>
         <h3>${module.key === 'step1' ? 'Step 1 Review + Checkpoint' : 'Step 2 Review + Checkpoint'}</h3>
         <p>${module.key === 'step1' ? 'See how Studies 3–9 fit together, check your understanding, and try one cumulative conversation challenge.' : 'Review how Studies 11–20 fit together, test your understanding, and explain the case in your own words.'}</p>
