@@ -3271,7 +3271,7 @@ const questions =[
       {
         "after": "body",
         "question": "Why does God’s character matter once Scripture has been identified as His revelation?",
-        "answer": "It depends on God's good and truthful character. If these writings genuinely communicate what God revealed, He would not be deceiving us through them. We still have to establish that these are the writings He authorized."
+        "answer": "Because a good and truthful God would not deceive us. If these writings genuinely communicate what He revealed, we have reason to trust what they teach. We still have to establish which writings He authorized and interpret them carefully."
       }
     ],
     "story": {
@@ -3431,7 +3431,7 @@ const questions =[
       {
         "after": "facts",
         "question": "What should you do if an objection is outside what this course teaches?",
-        "answer": "Listen, say when you do not know, and look into the question. The six sections help you navigate the course, but not every objection belongs to one of them."
+        "answer": "Listen, say when you do not know, and look into the question. The six main questions can help you find where to start, but not every objection will fit neatly into one of them."
       }
     ],
     "conversationTips": [
@@ -4468,7 +4468,7 @@ const lessonModules = [
     "key": "step2",
     "label": "Step 2 · Christian evidences",
     "shortLabel": "Step 2",
-    "title": "Has God spoken in Jesus Christ?",
+    "title": "Has God revealed Himself in Jesus Christ?",
     "description": "Move from historically usable sources to Jesus’ claims, death and resurrection, then follow His vindication through the Old Testament, the apostles, the New Testament canon, and Scripture’s truthfulness.",
     "studyIds": [
       11,
