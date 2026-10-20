@@ -5903,23 +5903,23 @@ const tests = {
     {
       "q": "Suppose you have good reason to believe that God raised Jesus from the dead after Jesus made extraordinary claims about himself. What would that give you reason to think?",
       "opts": [
-        "God was confirming Jesus in a remarkable way, so Jesus' claims and teaching deserve serious trust.",
+        "The resurrection could show something extraordinary happened, but it would not give us reason to take Jesus' claims seriously.",
         "It would mainly confirm that Jesus correctly expected something extraordinary after his death, without adding much to his broader authority.",
         "It would show that God acted through Jesus, but would not give us much reason to trust Jesus' teaching about God.",
         "God was vindicating Jesus in the setting of His extraordinary claims, giving strong reason to trust Jesus’ authority."
       ],
-      "a": 0,
+      "a": 3,
       "exp": "The resurrection does not make every reported saying automatically authentic. In the setting of Jesus’ claims, however, it functions as God’s vindication of Jesus and His authority."
     },
     {
       "q": "Someone says, “You are using the Bible to prove the Bible. Isn't that circular?” What is the course's answer?",
       "opts": [
         "Start by examining the documents historically, build the case for the risen Jesus, and then ask what that vindicated Jesus taught and whom He authorized.",
-        "Start by examining the documents historically, build the case for Jesus, and then ask what the trustworthy Jesus taught about Scripture.",
+        "First assume the New Testament is God's word, then use its claims about Jesus to show why it is God's word.",
         "Use only non-Christian sources until the resurrection is established, and then bring the New Testament into the argument.",
         "Several biblical books can confirm one another, so using them together is enough to avoid circular reasoning."
       ],
-      "a": 1,
+      "a": 0,
       "exp": "The documents are first used historically without assuming inspiration. The authority question comes later through the risen Jesus, His view of Scripture, and the apostles He authorized."
     },
     {
@@ -5936,12 +5936,12 @@ const tests = {
     {
       "q": "A friend asks, “Did Jesus personally hand the church a list of the 27 New Testament books?” What is the better explanation?",
       "opts": [
-        "Jesus appointed and authorized apostles, and writings tied to their witness came to be received by the early churches as authoritative.",
+        "Jesus authorized apostles, so every writing later attributed to an apostle must automatically belong in the New Testament.",
         "Jesus authorized apostles, and writings tied to their witness were received and recognized over time rather than made authoritative by a later church vote.",
         "The strongest basis for the canon is simply which books became most widely used by Christians, even without a clear connection to apostolic witness.",
         "All first-generation Christian writings began with roughly equal authority until the church gradually narrowed the list."
       ],
-      "a": 0,
+      "a": 1,
       "exp": "The course moves from Christ to His authorized apostles, then to the writings tied to that witness. A large core was recognized early, while a smaller group of books was examined longer."
     },
     {
