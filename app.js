@@ -781,6 +781,7 @@ function openStep2QuickReference(options={}){
     const reviewLinks=[];
     missed.forEach(item=>{if(!reviewLinks.some(x=>x.label===item.reviewLabel))reviewLinks.push({label:item.reviewLabel,ids:item.reviewStudyIds});});
     const links=reviewLinks.length?`<div class="step-check-review-links"><span>WORTH ANOTHER LOOK</span>${reviewLinks.map(x=>`<div><strong>${esc(x.label)}</strong>${x.ids.map(id=>`<button type="button" data-review-study="${id}">Study ${id}</button>`).join(' ')}</div>`).join('')}</div>`:'';
+    document.querySelector('#step2CheckpointForm').remove();
     document.querySelector('#step2CheckpointResults').innerHTML=`<div class="step-check-result"><span class="step-check-kicker">YOUR CHECKPOINT</span><h3>${score}/${r.questions.length} correct</h3><strong>${esc(band.title)}</strong><p>${esc(band.body)}</p><button id="retakeStep2Checkpoint" class="button secondary" type="button">Retake checkpoint</button></div>${links}<details class="test-review-wrap"><summary>Review answers</summary>${review}</details>`;
     document.querySelector('#retakeStep2Checkpoint').onclick=()=>openStep2QuickReference({scrollToQuiz:true});
     document.querySelectorAll('[data-review-study]').forEach(btn=>btn.onclick=()=>{closeModal();openQuestion(Number(btn.dataset.reviewStudy));});
