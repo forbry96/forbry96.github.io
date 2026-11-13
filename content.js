@@ -5514,7 +5514,7 @@ const sourceItems = [
 const tests = {
   "pre": [
     {
-      "q": "Which development would most seriously weaken an inference to the resurrection, even if several commonly discussed facts remained accepted?",
+      "q": "Which finding would most seriously weaken the argument that Jesus' resurrection is the best explanation of the historical evidence?",
       "opts": [
         "A disagreement among sources about a secondary detail that does not change the central claims.",
         "A natural explanation that fits one piece of evidence well but leaves the other major facts unexplained.",
@@ -5536,15 +5536,15 @@ const tests = {
       "exp": "Validity concerns whether the conclusion follows from the premises. Soundness requires validity plus true premises, so a weakly supported premise leaves soundness unestablished."
     },
     {
-      "q": "Which sequence best states the course’s argument from Jesus’ authority to the New Testament without making the church the source of that authority?",
+      "q": "Which statement best explains the relationship between Jesus’ authority, the apostles, and the authority of the New Testament?",
       "opts": [
-        "Jesus founded the church, the church later selected useful books, and those books became authoritative through that selection.",
-        "Jesus taught with authority, later Christians preserved his memory, and widespread use eventually made certain writings canonical.",
-        "Jesus promised the Spirit, therefore every early Christian writing produced under church oversight should be treated as inspired.",
-        "Jesus authorized apostles; their witness was foundational, and writings tied to that witness were recognized by the church."
+        "Jesus established the church, which later conferred divine authority on the writings it selected.",
+        "The apostles’ writings became authoritative primarily through their widespread acceptance among early Christians.",
+        "Jesus promised the Holy Spirit, establishing the authority of all early Christian writings produced under church oversight.",
+        "Jesus authorized the apostles, whose authoritative witness provides the foundation for the New Testament recognized by the church."
       ],
       "a": 3,
-      "exp": "The chain runs from Christ to His authorized apostles and their witness. The church then recognizes writings tied to that apostolic witness rather than creating their authority."
+      "exp": "Christ authorized His apostles to bear authoritative witness. The church recognizes the divine authority of the writings grounded in that witness; it does not confer that authority on them."
     },
     {
       "q": "Someone says, “Of course we observe a life-permitting universe. If it were not life-permitting, we would not be here to observe it.” What question remains?",
@@ -5580,15 +5580,15 @@ const tests = {
       "exp": "Contingency is about dependence rather than age. Even an eternal universe could still be contingent rather than necessary or self-explanatory."
     },
     {
-      "q": "Suppose the resurrection is historically established. Which conclusion is the next step in the course without claiming more than the evidence gives?",
+      "q": "If the evidence supports the conclusion that God raised Jesus from the dead, what would this establish most directly concerning Jesus' authority?",
       "opts": [
-        "The complete Protestant canon follows immediately because a resurrection confirms every later Christian text.",
-        "All disputed teachings attributed to Jesus become historically certain because God would not allow any reporting error.",
-        "Every later Christian doctrine can now be accepted without further argument because Jesus has been vindicated.",
-        "God has vindicated Jesus, giving strong reason to take Jesus’ claimed authority and teaching seriously."
+        "That every statement attributed to Jesus in an ancient source is historically authentic.",
+        "That the early church's interpretation of Jesus' teaching is necessarily correct in every respect.",
+        "That Jesus was a genuine prophet, but the resurrection provides no further evidence concerning his identity.",
+        "That God vindicated Jesus, providing strong grounds for taking His claims and teaching seriously."
       ],
       "a": 3,
-      "exp": "The immediate inference is divine vindication of Jesus. The argument then asks what the vindicated Jesus taught, including his view of Scripture."
+      "exp": "If God raised Jesus, the resurrection provides divine vindication of His person and claims. Further historical and theological reasoning is needed to establish precisely what Jesus taught and what follows from His authority."
     },
     {
       "q": "Suppose an evolutionary account explains why human beings developed strong feelings of moral obligation. What question would the moral argument still raise?",
@@ -5602,15 +5602,15 @@ const tests = {
       "exp": "An account of why we have moral feelings is not yet an account of whether objective moral duties really exist or what makes them binding."
     },
     {
-      "q": "Which statement best captures what the core course is trying to establish by the end?",
+      "q": "In 1 Corinthians 15:3–8, Paul records a summary of Jesus' death, burial, resurrection, and appearances that he says he previously received. What is the primary historical significance of this passage?",
       "opts": [
-        "Natural theology proves the full Christian doctrine of God, after which the historical case mainly confirms what is already known.",
-        "The resurrection by itself establishes the authority, interpretation, and exact boundaries of the entire Christian Bible.",
-        "The case for God, Jesus’ vindication, and the Scriptures Jesus received and the apostles He authorized build toward the conclusion that God has spoken.",
-        "Once Christianity explains more facts than naturalism, every remaining theological question can be treated as settled."
+        "It establishes that Paul personally witnessed each of the events described in the summary.",
+        "It demonstrates that the resurrection accounts in the four Gospels originated independently of one another.",
+        "It provides evidence that the central resurrection proclamation circulated early in the Christian movement.",
+        "It establishes that the earliest Christians possessed a complete written account of Jesus' ministry."
       ],
       "a": 2,
-      "exp": "The course builds step by step: reasons for God, the historical case for Jesus and the resurrection, Jesus’ authority, then the Old Testament He received and the apostolic witness behind the New Testament."
+      "exp": "Paul's description of receiving and passing on this tradition indicates that the central resurrection proclamation predates his letter to the Corinthians. It is evidence of early Christian belief, not by itself proof of every event it describes."
     },
     {
       "q": "Which kind of evidence would most strengthen a design inference rather than merely point to something complicated?",
@@ -5679,15 +5679,15 @@ const tests = {
       "exp": "A beginning is only one premise. The Kalam also needs the causal premise that whatever begins to exist has a cause before a cause of the universe follows."
     },
     {
-      "q": "A Christian first uses New Testament documents as historical sources and later argues that those writings belong to God’s authoritative revelation. Is that necessarily circular?",
+      "q": "A Christian uses the Gospels as historical sources to investigate Jesus' resurrection and later argues for the divine authority of Scripture. Under what circumstances would this approach avoid circular reasoning?",
       "opts": [
-        "No. If inspiration is not assumed at the historical stage and is argued for later from Jesus’ authority.",
-        "Yes. Any use of a biblical document to support Christianity assumes the conclusion because the document is now part of the Bible.",
-        "No. It cannot be circular because historical documents are neutral and never reflect the beliefs of the people who wrote them.",
-        "Yes. The only noncircular route would require proving inspiration without using any evidence contained in the New Testament."
+        "The historical case is evaluated without assuming inspiration, and divine authority is defended through subsequent arguments.",
+        "The historical case assumes inspiration provisionally and uses the resurrection to confirm that initial assumption.",
+        "The historical case relies exclusively on Gospel passages that contain no explicit theological claims.",
+        "The historical case establishes the sincerity of the Gospel authors and treats their sincerity as evidence of inspiration."
       ],
       "a": 0,
-      "exp": "The same document can first be evaluated as historical evidence without assuming inspiration. Inspiration is a later conclusion in the cumulative argument."
+      "exp": "Using a document as historical evidence does not require assuming it is divinely inspired. A subsequent argument for inspiration can avoid circularity if it does not depend on assuming inspiration in the first place."
     },
     {
       "q": "A molecular system loses its present function when any one of several core parts is removed. What does that observation establish most directly?",
@@ -5712,26 +5712,26 @@ const tests = {
       "exp": "Legend is mainly a challenge to the historical premise. The trilemma asks what follows if Jesus substantially made the extraordinary claims attributed to him."
     },
     {
-      "q": "A skeptic gives a resurrection claim a probability of zero before looking at any historical evidence because dead people normally stay dead. What issue should come first?",
+      "q": "A skeptic argues that because dead people ordinarily remain dead, the probability of a resurrection must be zero. What is the central problem with this reasoning?",
       "opts": [
-        "Whether there are independent reasons to believe God exists and could act in the world.",
-        "Whether ancient people understood that death is normally permanent without modern medicine.",
-        "Whether resurrection reports should receive more weight than ordinary historical testimony.",
-        "Whether natural laws describe what happens regularly or prescribe what God is allowed to do."
+        "The ordinary course of nature does not establish that divine intervention is impossible.",
+        "Historical testimony should be assigned a higher probability than conclusions based on natural regularities.",
+        "The probability of a resurrection cannot be evaluated until every proposed natural explanation has been eliminated.",
+        "A sufficiently unusual event should be assigned the same initial probability as an ordinary event."
       ],
       "a": 0,
-      "exp": "If there are independent reasons to believe God exists, divine action cannot simply be assigned a probability of zero before the historical evidence is considered."
+      "exp": "The regular course of nature tells us what normally happens, not that divine intervention is impossible. If God can act in the world, a resurrection cannot be ruled out solely on the basis of ordinary natural regularities; its historical evidence still needs evaluation."
     },
     {
-      "q": "An explanation accounts for the empty tomb but does little with the reported appearances or the early resurrection proclamation. What is the main weakness?",
+      "q": "The Roman historian Tacitus reports that Christ was executed under Pontius Pilate during the reign of Tiberius. What does this contribute to the historical case for Christianity?",
       "opts": [
-        "It explains only part of the evidence, so it has not yet matched the scope of the cumulative case.",
-        "It is necessarily false because any natural explanation of resurrection evidence is methodologically biased.",
-        "It fails unless it can prove exactly what every disciple privately believed after Jesus’ death.",
-        "It cannot be historical because explanations of ancient events must account for every surviving detail."
+        "It provides non-Christian corroboration of Jesus' execution.",
+        "It establishes that Tacitus personally examined the official records of Jesus' trial.",
+        "It independently confirms the circumstances surrounding Jesus' burial.",
+        "It establishes that Roman authorities investigated the disciples' resurrection claims."
       ],
       "a": 0,
-      "exp": "A good historical explanation should account for the relevant body of evidence, not merely one fact within it."
+      "exp": "Tacitus, writing in Annals 15.44 in the early second century, provides non-Christian corroboration of Christ's execution under Pontius Pilate. His report does not establish his precise sources or independently confirm Jesus' burial or resurrection."
     }
   ],
   "post": [
